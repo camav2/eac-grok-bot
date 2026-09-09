@@ -1,0 +1,60 @@
+{
+  "taskC_labeled": 2,
+  "y2025_labeled": 1246,
+  "y2024_labeled": 1098,
+  "y2023_labeled": 819,
+  "this_run_labeled": 1007,
+  "this_run_by_year": {
+    "y2025": 429,
+    "y2024": 380,
+    "y2023": 198
+  },
+  "this_run_inbox_archived": 111,
+  "total_labeled": 3165,
+  "errors": [
+    "classifier rejects then OK on retry: 19321244a6eb97f7, 1989054b6bd5a145, 198836ddd3a16a58, 1985a01908f85d7c, 1985528f00f5673f, 1985009f5f0fcd4d, 1984f2afeca3250a",
+    "transient Unavailable then OK: 198d1b1fd8cde89a",
+    "OAuth refresh race then OK: 192e467f5e3aef48, 192e46711e06f2e7, 192e466227e85c68, 192e465386388504, 192e4644bb66017e, 192e463639a5e09a"
+  ],
+  "archiveBin": "Label_7245181107248167094",
+  "nextPageTokens": {
+    "y2025": "15258829213443818513",
+    "y2024": "11791254354211139458",
+    "y2023": "17548633612743574010"
+  },
+  "queries": {
+    "y2025": "after:2024/12/31 before:2026/01/01 -label:Label_7245181107248167094",
+    "y2024": "after:2023/12/31 before:2025/01/01 -label:Label_7245181107248167094",
+    "y2023": "after:2022/12/31 before:2024/01/01 -label:Label_7245181107248167094"
+  },
+  "note": "Stopped at 1007 this run (1000+ target). Resume: 2025 next after full p17; 2024/2023 at p17 START (not yet fetched this stop). Prefer already-archived label-only; inbox only clear noise (circle/noreply/docs comments/drive-shares/receipts). Never bookings/TidyCal, Michelle@red-zebra, Label_4, protected human IDs. Gmail -label search lags; sticky leftovers expected \u2014 skip already Archive-Bin.",
+  "protected_inbox_ids": [
+    "19fc86609874c53f",
+    "19fd501ed83a01a9",
+    "1a019547ba05ba06",
+    "1a06a44345616242",
+    "1a068b917ae36cfc",
+    "19f163b0d6e1e9a7",
+    "19fdce650dc58ae1",
+    "19f1abbcbd269449",
+    "19f50bb5b13f8cda",
+    "1a055b4ee632ad17",
+    "19f164d0f7c762a2",
+    "1a080335143db3e6"
+  ],
+  "protected_senders_subjects": [
+    "from:tidycal.com",
+    "subject:New booking",
+    "Michelle@red-zebra.com.au",
+    "Label_4 Ops/Action"
+  ],
+  "taskC_status": "done for obvious noise (TidyCal+Circle); remaining 2026 inbox is human/ops \u2014 left alone; bookings never Archive-Bin",
+  "years_complete": {
+    "y2025": false,
+    "y2024": false,
+    "y2023": false,
+    "reason": "stopped at 1000+ this run; more unlabeled pages remain (tokens valid). 2023 pages remain inbox-human skip-heavy."
+  },
+  "status": "stopped at 1007 this run (1000+ target met); years not yet complete",
+  "updated_at": "2026-09-08 21:52 AEST"
+}

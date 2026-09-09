@@ -1,0 +1,54 @@
+# Secrets & credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+**/credentials*
+**/secrets*
+**/*token*
+**/*secret*
+id_rsa
+id_ed25519
+.ssh/
+.aws/
+.gnupg/
+
+# Browser / session data
+**/browser-profile*/
+**/chrome-profile*/
+**/chromium*/
+**/.config/google-chrome/
+**/Cookies
+**/Login Data
+
+# Agent runtime DBs
+*.db
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
+
+# Large media / dumps
+*.m4a
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+
+# Virtualenvs / caches
+whisper-venv/
+**/venv/
+**/.venv/
+**/node_modules/
+**/__pycache__/
+*.pyc
+.cache/

@@ -1,0 +1,1112 @@
+{
+  "records": [
+    {
+      "id": "reciYYGa6OYmpPQWT",
+      "createdTime": "2026-09-07T11:10:59.000Z",
+      "cellValuesByFieldId": {
+        "fld0FAe7aCySutCsC": {
+          "id": "seljeEBu3FSIk0UIz",
+          "name": "Email",
+          "color": "blueBright"
+        },
+        "fld9gAl9Jdca4AKvG": {
+          "id": "selfxMjaXRzfyh8Ps",
+          "name": "Not started",
+          "color": "grayLight2"
+        },
+        "fld9h4vy0wBTXVU3k": "Build the Intake 5 email calendar in the Email base",
+        "fldHhvsKsL5ns7V6n": {
+          "id": "selCFkZ7W6J5S48p0",
+          "name": "Phase 0 - Dark",
+          "color": "grayLight1"
+        },
+        "fldeJ2dvxJVkE3dpX": "Follow How to Plan and Schedule EAC Email Campaigns (https://app.notion.com/p/291c0b642372801cbe5fcbcf3be9b3af): create a Campaign 'Intake 5 Launch Sept-Nov 2026' with sub-campaigns for Early Access, Holiday, Open House Invites, Open House Show-up, Cart Close, Renewals. Duplicate the Intake 4 records named in each Asset's 'Intake 4 equivalent' field. Set draft due ~10 days before send, review +3, schedule +2. Paste each Brevo link back. Send times: invites 6:25am, reminders 6am, per the SOP.",
+        "fldew9oJHVLloTycX": true,
+        "fldgyzezVsmxXNKXo": -2,
+        "fldjwZuNt7pDZU300": "Mon 7 Sep 2026",
+        "fldrPJuRtoPBCM1i1": "2026-09-07T00:00:00.000Z",
+        "fldt0hgFXWDKp5150": {
+          "id": "selbAb6LLOGgZNy7B",
+          "name": "Rysa",
+          "color": "grayLight2"
+        },
+        "flduEAJIV9wjlvxzV": "The Email base (https://airtable.com/appStbmUPRgiTF9qw) is the single point of truth for every email - copy, subject, send time, Brevo link. This base only says which email, when, and why. The 28 emails in the Assets table need rows there, with send dates matching the Target dates here."
+      }
+    },
+    {
+      "id": "recwYD5APIIbdAEY7",
+      "createdTime": "2026-09-07T11:10:59.000Z",
+      "cellValuesByFieldId": {
+        "fld0FAe7aCySutCsC": {
+          "id": "seljeEBu3FSIk0UIz",
+          "name": "Email",
+          "color": "blueBright"
+        },
+        "fld9gAl9Jdca4AKvG": {
+          "id": "selfxMjaXRzfyh8Ps",
+          "name": "Not started",
+          "color": "grayLight2"
+        },
+        "fld9h4vy0wBTXVU3k": "Update Brevo segments and lists for Intake 5",
+        "fldHhvsKsL5ns7V6n": {
+          "id": "selCFkZ7W6J5S48p0",
+          "name": "Phase 0 - Dark",
+          "color": "grayLight1"
+        },
+        "fldeJ2dvxJVkE3dpX": "In Brevo: segment 6 'Open House Registration by Event Date' > 29 Oct 2026; 'Open House by Event Date [Everyone] / [Paid Members Only] / [Mentors Only] / Excludes Mentors + Paid' > same; 'Promotion List Excludes Open House Registrations' > check it still resolves. Create lists 'Intake 5 Applicants', 'Intake 5 Accepted', 'Intake 5 Declined', 'Intake 5 Early Access'. Check 'EOI NOT ALREADY CUSTOMERS' still excludes current members. The Lists table in the Email base has notes on each.",
+        "fldew9oJHVLloTycX": true,
+        "fldgyzezVsmxXNKXo": -1,
+        "fldjwZuNt7pDZU300": "Tue 8 Sep 2026",
+        "fldrPJuRtoPBCM1i1": "2026-09-08T00:00:00.000Z",
+        "fldt0hgFXWDKp5150": {
+          "id": "selbAb6LLOGgZNy7B",
+          "name": "Rysa",
+          "color": "grayLight2"
+        },
+        "flduEAJIV9wjlvxzV": "The 'Open House by Event Date' segments in Brevo only work once the event date is set to 29 Oct. The promo list needs an exclusion for registrants and applicants so people don't get invited to something they've already done."
+      }
+    },
+    {
+      "id": "reciRfXUtNXxjT1vc",
+      "createdTime": "2026-09-07T11:14:48.000Z",
+      "cellValuesByFieldId": {
+        "fld0FAe7aCySutCsC": {
+          "id": "selTladkuDm9pcX6Q",
+          "name": "LinkedIn organic",
+          "color": "cyanBright"
+        },
+        "fld9gAl9Jdca4AKvG": {
+          "id": "selfxMjaXRzfyh8Ps",
+          "name": "Not started",
+          "color": "grayLight2"
+        },
+        "fld9h4vy0wBTXVU3k": "Build the Intake 5 social calendar in the Social Media Calendar base",
+        "fldHhvsKsL5ns7V6n": {
+          "id": "selCFkZ7W6J5S48p0",
+          "name": "Phase 0 - Dark",
+          "color": "grayLight1"
+        },
+        "fldeJ2dvxJVkE3dpX": "Create one row per post for series S01-S06 (see Assets), each with Date to post, Channels (EA LinkedIn / KI LinkedIn / IG / FB) and Status = IDEAS. Duplicate the Intake 4 rows named in each Asset's 'Intake 4 equivalent' and swap dates: early access 10/15/18 Sept; feature series every second weekday 22 Sept - 9 Oct; OH lead-up daily 17-29 Oct; close trio 6-8 Nov; wins 1-2 a week throughout. Kelly's pillar posts (rung 1-4) go on KI LinkedIn. Rysa owns images; Cam owns copy.",
+        "fldew9oJHVLloTycX": true,
+        "fldgyzezVsmxXNKXo": 0,
+        "fldjwZuNt7pDZU300": "Wed 9 Sep 2026",
+        "fldrPJuRtoPBCM1i1": "2026-09-09T00:00:00.000Z",
+        "fldt0hgFXWDKp5150": {
+          "id": "selbAb6LLOGgZNy7B",
+          "name": "Rysa",
+          "color": "grayLight2"
+        },
+        "flduEAJIV9wjlvxzV": "The Social Media Calendar (https://airtable.com/appWJ2eQQOQfYZcX6/tblFwbcXyUHHVo9mK) is the single point of truth for every EA-page and Kelly-page post - copy, image, date, status. This base only says which series, when, and why. The Intake 4 launch ran ~45 posts across four series; all of them are in that table by name."
+      }
+    },
+    {
+      "id": "rec5elqmYAVT8p6jd",
+      "createdTime": "2026-09-07T11:10:59.000Z",
+      "cellValuesByFieldId": {
+        "fld0FAe7aCySutCsC": {
+          "id": "seljeEBu3FSIk0UIz",
+          "name": "Email",
+          "color": "blueBright"
+        },
+        "fld9gAl9Jdca4AKvG": {
+          "id": "selfxMjaXRzfyh8Ps",
+          "name": "Not started",
+          "color": "grayLight2"
+        },
+        "fld9h4vy0wBTXVU3k": "APPLICATIONS OPEN - send E01, E02, E25",
+        "fldHhvsKsL5ns7V6n": {
+          "id": "selCFkZ7W6J5S48p0",
+          "name": "Phase 0 - Dark",
+          "color": "grayLight1"
+        },
+        "fldeJ2dvxJVkE3dpX": "6:25am AEST. E01 to Expert Author Promotion + EOI not already customers. E02 to Members - Alumni. E25 to current members (legacy and current as separate sends, per the Email base). QA against the Pre-Launch Checklist (https://app.notion.com/p/10b57f8a7d524fdbb5cadcf7f434fd4f): every link, every date, AEST/AEDT, sign-off. Watch replies at hello@ - use Email 1 Reply Handling (https://app.notion.com/p/35ac0b64237281fb9db6e9ec37cfe1cc) for anything that isn't an application.",
+        "fldew9oJHVLloTycX": true,
+        "fldgyzezVsmxXNKXo": 0,
+        "fldjwZuNt7pDZU300": "Thu 10 Sep 2026",
+        "fldrPJuRtoPBCM1i1": "2026-09-10T00:00:00.000Z",
+        "fldt0hgFXWDKp5150": {
+          "id": "selbAb6LLOGgZNy7B",
+          "name": "Rysa",
+          "color": "grayLight2"
+        },
+        "flduEAJIV9wjlvxzV": "Milestone. Three sends, three audiences, one morning: the promo list (apply + early access), alumni (refer someone), current members (renew). Selling starts here."
+      }
+    },
+    {
+      "id": "recUtFWN6gc6N2Sgt",
+      "createdTime": "2026-09-07T11:14:48.000Z",
+      "cellValuesByFieldId": {
+        "fld0FAe7aCySutCsC": {
+          "id": "selTladkuDm9pcX6Q",
+          "name": "LinkedIn organic",
+          "color": "cyanBright"
+        },
+        "fld9gAl9Jdca4AKvG": {
+          "id": "selfxMjaXRzfyh8Ps",
+          "name": "Not started",
+          "color": "grayLight2"
+        },
+        "fld9h4vy0wBTXVU3k": "Early-access social series live (S01)",
+        "fldHhvsKsL5ns7V6n": {
+          "id": "selCFkZ7W6J5S48p0",
+          "name": "Phase 0 - Dark",
+          "color": "grayLight1"
+        },
+        "fldeJ2dvxJVkE3dpX": "Thu 10: applications open. Tue 15: member story. Fri 18: early access closes tonight. Status in the Social Media Calendar goes IDEAS > READY TO POST > POSTED. Cam approves copy the day before.",
+        "fldgyzezVsmxXNKXo": 0,
+        "fldjwZuNt7pDZU300": "Thu 10 Sep 2026",
+        "fldrPJuRtoPBCM1i1": "2026-09-10T00:00:00.000Z",
+        "fldt0hgFXWDKp5150": {
+          "id": "selbAb6LLOGgZNy7B",
+          "name": "Rysa",
+          "color": "grayLight2"
+        },
+        "flduEAJIV9wjlvxzV": "Three EA-page posts across the early-access window. Same morning as E01."
+      }
+    },
+    {
+      "id": "reclaV2yydnJ0e3Q7",
+      "createdTime": "2026-09-07T11:10:59.000Z",
+      "cellValuesByFieldId": {
+        "fld0FAe7aCySutCsC": {
+          "id": "seljeEBu3FSIk0UIz",
+          "name": "Email",
+          "color": "blueBright"
+        },
+        "fld9gAl9Jdca4AKvG": {
+          "id": "selfxMjaXRzfyh8Ps",
+          "name": "Not started",
+          "color": "grayLight2"
+        },
+        "fld9h4vy0wBTXVU3k": "Send E03 - early access proof story",
+        "fldHhvsKsL5ns7V6n": {
+          "id": "selCFkZ7W6J5S48p0",
+          "name": "Phase 0 - Dark",
+          "color": "grayLight1"
+        },
+        "fldeJ2dvxJVkE3dpX": "Promo list excluding applicants. Copy and Brevo link in the Email base.",
+        "fldgyzezVsmxXNKXo": -3,
+        "fldjwZuNt7pDZU300": "Tue 15 Sep 2026",
+        "fldrPJuRtoPBCM1i1": "2026-09-15T00:00:00.000Z",
+        "fldt0hgFXWDKp5150": {
+          "id": "selbAb6LLOGgZNy7B",
+          "name": "Rysa",
+          "color": "grayLight2"
+        },
+        "flduEAJIV9wjlvxzV": "Tuesday before the Friday deadline. One member story, one reminder."
+      }
+    },
+    {
+      "id": "rectFkz963WijJ7Jz",
+      "createdTime": "2026-09-07T11:10:59.000Z",
+      "cellValuesByFieldId": {
+        "fld0FAe7aCySutCsC": {
+          "id": "seljeEBu3FSIk0UIz",
+          "name": "Email",
+          "color": "blueBright"
+        },
+        "fld9gAl9Jdca4AKvG": {
+          "id": "selfxMjaXRzfyh8Ps",
+          "name": "Not started",
+          "color": "grayLight2"
+        },
+        "fld9h4vy0wBTXVU3k": "Send E04 - early access 48 hours",
+        "fldHhvsKsL5ns7V6n": {
+          "id": "selCFkZ7W6J5S48p0",
+          "name": "Phase 0 - Dark",
+          "color": "grayLight1"
+        },
+        "fldeJ2dvxJVkE3dpX": "Promo list excluding applicants. 6am.",
+        "fldgyzezVsmxXNKXo": -2,
+        "fldjwZuNt7pDZU300": "Wed 16 Sep 2026",
+        "fldrPJuRtoPBCM1i1": "2026-09-16T00:00:00.000Z",
+        "fldt0hgFXWDKp5150": {
+          "id": "selbAb6LLOGgZNy7B",
+          "name": "Rysa",
+          "color": "grayLight2"
+        },
+        "flduEAJIV9wjlvxzV": "Wednesday. Short."
+      }
+    },
+    {
+      "id": "recry6JvpTsvO0AGX",
+      "createdTime": "2026-09-07T11:10:59.000Z",
+      "cellValuesByFieldId": {
+        "fld0FAe7aCySutCsC": {
+          "id": "seljeEBu3FSIk0UIz",
+          "name": "Email",
+          "color": "blueBright"
+        },
+        "fld9gAl9Jdca4AKvG": {
+          "id": "selfxMjaXRzfyh8Ps",
+          "name": "Not started",
+          "color": "grayLight2"
+        },
+        "fld9h4vy0wBTXVU3k": "EARLY ACCESS CLOSES - send E05",
+        "fldHhvsKsL5ns7V6n": {
+          "id": "selCFkZ7W6J5S48p0",
+          "name": "Phase 0 - Dark",
+          "color": "grayLight1"
+        },
+        "fldeJ2dvxJVkE3dpX": "6am. Three lines. Then record in Metrics how many applied and paid under early access - it's the first conversion number the EAC has ever had.",
+        "fldew9oJHVLloTycX": true,
+        "fldgyzezVsmxXNKXo": 0,
+        "fldjwZuNt7pDZU300": "Fri 18 Sep 2026",
+        "fldrPJuRtoPBCM1i1": "2026-09-18T00:00:00.000Z",
+        "fldt0hgFXWDKp5150": {
+          "id": "selbAb6LLOGgZNy7B",
+          "name": "Rysa",
+          "color": "grayLight2"
+        },
+        "flduEAJIV9wjlvxzV": "Milestone. Final hours email in the morning. The offer ends at midnight and the page changes tomorrow."
+      }
+    },
+    {
+      "id": "rect1drSKPBSKoF62",
+      "createdTime": "2026-09-07T11:14:48.000Z",
+      "cellValuesByFieldId": {
+        "fld0FAe7aCySutCsC": {
+          "id": "selTladkuDm9pcX6Q",
+          "name": "LinkedIn organic",
+          "color": "cyanBright"
+        },
+        "fld9gAl9Jdca4AKvG": {
+          "id": "selfxMjaXRzfyh8Ps",
+          "name": "Not started",
+          "color": "grayLight2"
+        },
+        "fld9h4vy0wBTXVU3k": "Feature series live on the EA page (S02)",
+        "fldHhvsKsL5ns7V6n": {
+          "id": "selt9780oLdbTHuL5",
+          "name": "Phase A - Top up",
+          "color": "yellowLight1"
+        },
+        "fldeJ2dvxJVkE3dpX": "Runs from the Social Media Calendar. Wins posts (S05) interleave on the off days.",
+        "fldgyzezVsmxXNKXo": 3,
+        "fldjwZuNt7pDZU300": "Tue 22 Sep 2026",
+        "fldrPJuRtoPBCM1i1": "2026-09-22T00:00:00.000Z",
+        "fldt0hgFXWDKp5150": {
+          "id": "selbAb6LLOGgZNy7B",
+          "name": "Rysa",
+          "color": "grayLight2"
+        },
+        "flduEAJIV9wjlvxzV": "Every second weekday to 9 Oct. Keeps the page alive through the holidays with what's actually in Intake 5, so the Open House lead-up in Phase B lands on a warm page."
+      }
+    },
+    {
+      "id": "rec6mZGGk03VouwMu",
+      "createdTime": "2026-09-07T11:10:59.000Z",
+      "cellValuesByFieldId": {
+        "fld0FAe7aCySutCsC": {
+          "id": "seljeEBu3FSIk0UIz",
+          "name": "Email",
+          "color": "blueBright"
+        },
+        "fld9gAl9Jdca4AKvG": {
+          "id": "selfxMjaXRzfyh8Ps",
+          "name": "Not started",
+          "color": "grayLight2"
+        },
+        "fld9h4vy0wBTXVU3k": "Send E06 - holiday value email 1",
+        "fldHhvsKsL5ns7V6n": {
+          "id": "selt9780oLdbTHuL5",
+          "name": "Phase A - Top up",
+          "color": "yellowLight1"
+        },
+        "fldeJ2dvxJVkE3dpX": "Promo list. 6:25am. Intake 4's 'Who were you a year ago?' went out from Kelly's LinkedIn the same week - pair them.",
+        "fldgyzezVsmxXNKXo": 7,
+        "fldjwZuNt7pDZU300": "Fri 25 Sep 2026",
+        "fldrPJuRtoPBCM1i1": "2026-09-25T00:00:00.000Z",
+        "fldt0hgFXWDKp5150": {
+          "id": "selbAb6LLOGgZNy7B",
+          "name": "Rysa",
+          "color": "grayLight2"
+        },
+        "flduEAJIV9wjlvxzV": "The list is on holiday. One idea, no pressure, soft link."
+      }
+    },
+    {
+      "id": "recdLDfq22eD6U4FS",
+      "createdTime": "2026-09-07T11:10:59.000Z",
+      "cellValuesByFieldId": {
+        "fld0FAe7aCySutCsC": {
+          "id": "seljeEBu3FSIk0UIz",
+          "name": "Email",
+          "color": "blueBright"
+        },
+        "fld9gAl9Jdca4AKvG": {
+          "id": "selfxMjaXRzfyh8Ps",
+          "name": "Not started",
+          "color": "grayLight2"
+        },
+        "fld9h4vy0wBTXVU3k": "Send E07 - holiday value email 2",
+        "fldHhvsKsL5ns7V6n": {
+          "id": "selt9780oLdbTHuL5",
+          "name": "Phase A - Top up",
+          "color": "yellowLight1"
+        },
+        "fldeJ2dvxJVkE3dpX": "Promo list. 6:25am.",
+        "fldgyzezVsmxXNKXo": -10,
+        "fldjwZuNt7pDZU300": "Fri 2 Oct 2026",
+        "fldrPJuRtoPBCM1i1": "2026-10-02T00:00:00.000Z",
+        "fldt0hgFXWDKp5150": {
+          "id": "selbAb6LLOGgZNy7B",
+          "name": "Rysa",
+          "color": "grayLight2"
+        },
+        "flduEAJIV9wjlvxzV": "Alison Jones's free proposal challenge ended 25 Sept. This is the week her finishers have a proposal and nowhere to take it."
+      }
+    },
+    {
+      "id": "rec7u8AId3q09QqjR",
+      "createdTime": "2026-09-07T11:10:59.000Z",
+      "cellValuesByFieldId": {
+        "fld0FAe7aCySutCsC": {
+          "id": "seljeEBu3FSIk0UIz",
+          "name": "Email",
+          "color": "blueBright"
+        },
+        "fld9gAl9Jdca4AKvG": {
+          "id": "selfxMjaXRzfyh8Ps",
+          "name": "Not started",
+          "color": "grayLight2"
+        },
+        "fld9h4vy0wBTXVU3k": "Draft and review the Open House email series (E08-E19)",
+        "fldHhvsKsL5ns7V6n": {
+          "id": "selt9780oLdbTHuL5",
+          "name": "Phase A - Top up",
+          "color": "yellowLight1"
+        },
+        "fldeJ2dvxJVkE3dpX": "Follow How to setup emails for EAC Events (https://app.notion.com/p/28ec0b64237280ce9415c83e8dac3096): duplicate each Intake 4 'Open House July 2025' record in the Email base, rename '- Oct 2026', update dates (Thu 29 Oct, 10am + 7pm AEDT, 'Wednesday 28 October' in any US line), guest name if confirmed, URLs, Brevo link back to Airtable. File in Brevo folder 'Open House - Oct 2026'. Cam reviews. Do not schedule yet.",
+        "fldew9oJHVLloTycX": true,
+        "fldgyzezVsmxXNKXo": -7,
+        "fldjwZuNt7pDZU300": "Mon 5 Oct 2026",
+        "fldrPJuRtoPBCM1i1": "2026-10-05T00:00:00.000Z",
+        "fldt0hgFXWDKp5150": {
+          "id": "selbAb6LLOGgZNy7B",
+          "name": "Rysa",
+          "color": "grayLight2"
+        },
+        "flduEAJIV9wjlvxzV": "Twelve emails: six invites, four show-ups, two wrap-ups. All exist from Intake 4 - this is a duplicate-and-update job, not a writing job. Draft due ~10 days before the first send (13 Oct)."
+      }
+    },
+    {
+      "id": "recux8WJbERYOuBfm",
+      "createdTime": "2026-09-07T11:10:59.000Z",
+      "cellValuesByFieldId": {
+        "fld0FAe7aCySutCsC": {
+          "id": "seljeEBu3FSIk0UIz",
+          "name": "Email",
+          "color": "blueBright"
+        },
+        "fld9gAl9Jdca4AKvG": {
+          "id": "selfxMjaXRzfyh8Ps",
+          "name": "Not started",
+          "color": "grayLight2"
+        },
+        "fld9h4vy0wBTXVU3k": "Schedule the Open House email series in Brevo",
+        "fldHhvsKsL5ns7V6n": {
+          "id": "selt9780oLdbTHuL5",
+          "name": "Phase A - Top up",
+          "color": "yellowLight1"
+        },
+        "fldeJ2dvxJVkE3dpX": "Schedule E08-E13 to the promo segment excluding registrants; E14-E17 to the registrant segments per session (5 days, 24h, 2h, 10 min per the SOP); E18 to SHOW and E19 to NO-SHOW for the same evening. Update the Email base status to Scheduled with the Brevo links.",
+        "fldew9oJHVLloTycX": true,
+        "fldgyzezVsmxXNKXo": -3,
+        "fldjwZuNt7pDZU300": "Fri 9 Oct 2026",
+        "fldrPJuRtoPBCM1i1": "2026-10-09T00:00:00.000Z",
+        "fldt0hgFXWDKp5150": {
+          "id": "selbAb6LLOGgZNy7B",
+          "name": "Rysa",
+          "color": "grayLight2"
+        },
+        "flduEAJIV9wjlvxzV": "After review. Everything scheduled before the states come back Monday so the week is about the relay and the ads, not email admin."
+      }
+    },
+    {
+      "id": "recBoWXvnLVBQyM5d",
+      "createdTime": "2026-09-07T11:10:59.000Z",
+      "cellValuesByFieldId": {
+        "fld0FAe7aCySutCsC": {
+          "id": "seljeEBu3FSIk0UIz",
+          "name": "Email",
+          "color": "blueBright"
+        },
+        "fld9gAl9Jdca4AKvG": {
+          "id": "selfxMjaXRzfyh8Ps",
+          "name": "Not started",
+          "color": "grayLight2"
+        },
+        "fld9h4vy0wBTXVU3k": "Send E08 - we're back + Open House invite",
+        "fldHhvsKsL5ns7V6n": {
+          "id": "selpdVYMQPdMnTRTg",
+          "name": "Phase B - Push",
+          "color": "orangeLight1"
+        },
+        "fldeJ2dvxJVkE3dpX": "Scheduled. Check it went, check registrations in Brevo segment 6 by lunchtime, note the number in Friday's Metrics row.",
+        "fldew9oJHVLloTycX": true,
+        "fldgyzezVsmxXNKXo": 1,
+        "fldjwZuNt7pDZU300": "Tue 13 Oct 2026",
+        "fldrPJuRtoPBCM1i1": "2026-10-13T00:00:00.000Z",
+        "fldt0hgFXWDKp5150": {
+          "id": "selbAb6LLOGgZNy7B",
+          "name": "Rysa",
+          "color": "grayLight2"
+        },
+        "flduEAJIV9wjlvxzV": "Tuesday after the first day back. The first real send in three weeks - registrations should jump here."
+      }
+    },
+    {
+      "id": "rec2vodAvLoHjBwac",
+      "createdTime": "2026-09-07T11:14:48.000Z",
+      "cellValuesByFieldId": {
+        "fld0FAe7aCySutCsC": {
+          "id": "selTladkuDm9pcX6Q",
+          "name": "LinkedIn organic",
+          "color": "cyanBright"
+        },
+        "fld9gAl9Jdca4AKvG": {
+          "id": "selfxMjaXRzfyh8Ps",
+          "name": "Not started",
+          "color": "grayLight2"
+        },
+        "fld9h4vy0wBTXVU3k": "Open House lead-up series live on the EA page (S03)",
+        "fldHhvsKsL5ns7V6n": {
+          "id": "selpdVYMQPdMnTRTg",
+          "name": "Phase B - Push",
+          "color": "orangeLight1"
+        },
+        "fldeJ2dvxJVkE3dpX": "Runs from the Social Media Calendar. 'Meet the guest' post slots in at OH-8 if confirmed. Rysa posts; Cam owns first comments and threads.",
+        "fldew9oJHVLloTycX": true,
+        "fldgyzezVsmxXNKXo": -12,
+        "fldjwZuNt7pDZU300": "Sat 17 Oct 2026",
+        "fldrPJuRtoPBCM1i1": "2026-10-17T00:00:00.000Z",
+        "fldt0hgFXWDKp5150": {
+          "id": "selbAb6LLOGgZNy7B",
+          "name": "Rysa",
+          "color": "grayLight2"
+        },
+        "flduEAJIV9wjlvxzV": "Daily to the day. The exact Intake 4 sequence, which ran from OH-12. Every post that carries a time also carries 'Wednesday 28 October' for the 10am session."
+      }
+    },
+    {
+      "id": "recZ4371pcDEA4fg5",
+      "createdTime": "2026-09-07T11:10:59.000Z",
+      "cellValuesByFieldId": {
+        "fld0FAe7aCySutCsC": {
+          "id": "seljeEBu3FSIk0UIz",
+          "name": "Email",
+          "color": "blueBright"
+        },
+        "fld9gAl9Jdca4AKvG": {
+          "id": "selfxMjaXRzfyh8Ps",
+          "name": "Not started",
+          "color": "grayLight2"
+        },
+        "fld9h4vy0wBTXVU3k": "Send E09 - Open House invite 2 (member story)",
+        "fldHhvsKsL5ns7V6n": {
+          "id": "selpdVYMQPdMnTRTg",
+          "name": "Phase B - Push",
+          "color": "orangeLight1"
+        },
+        "fldeJ2dvxJVkE3dpX": "Scheduled. Promo excluding registrants.",
+        "fldgyzezVsmxXNKXo": -9,
+        "fldjwZuNt7pDZU300": "Tue 20 Oct 2026",
+        "fldrPJuRtoPBCM1i1": "2026-10-20T00:00:00.000Z",
+        "fldt0hgFXWDKp5150": {
+          "id": "selbAb6LLOGgZNy7B",
+          "name": "Rysa",
+          "color": "grayLight2"
+        },
+        "flduEAJIV9wjlvxzV": "Intake 4 sent this at OH-9. Same offset."
+      }
+    },
+    {
+      "id": "rec6svf654N7wiVYl",
+      "createdTime": "2026-09-07T11:10:59.000Z",
+      "cellValuesByFieldId": {
+        "fld0FAe7aCySutCsC": {
+          "id": "seljeEBu3FSIk0UIz",
+          "name": "Email",
+          "color": "blueBright"
+        },
+        "fld9gAl9Jdca4AKvG": {
+          "id": "selfxMjaXRzfyh8Ps",
+          "name": "Not started",
+          "color": "grayLight2"
+        },
+        "fld9h4vy0wBTXVU3k": "Draft and schedule the close series (E20-E24, E26)",
+        "fldHhvsKsL5ns7V6n": {
+          "id": "selpdVYMQPdMnTRTg",
+          "name": "Phase B - Push",
+          "color": "orangeLight1"
+        },
+        "fldeJ2dvxJVkE3dpX": "Duplicate the Intake 4 'Cart Open' records named in each Asset. Include the price (decided by now), the payment-plan line if one exists, and the sale holding line in the FAQ if it's come up on calls. Cam reviews. Schedule all six.",
+        "fldew9oJHVLloTycX": true,
+        "fldgyzezVsmxXNKXo": -8,
+        "fldjwZuNt7pDZU300": "Wed 21 Oct 2026",
+        "fldrPJuRtoPBCM1i1": "2026-10-21T00:00:00.000Z",
+        "fldt0hgFXWDKp5150": {
+          "id": "selbAb6LLOGgZNy7B",
+          "name": "Rysa",
+          "color": "grayLight2"
+        },
+        "flduEAJIV9wjlvxzV": "Intake 4 ran seventeen cart-open emails over four weeks. Intake 5 has ten days with a dead zone in the middle, so it's five: value breakdown (Fri 30 Oct), FAQ (Sun 1 Nov), dark, final call (Fri 6 Nov), last hours (Sun 8 Nov), closing (Mon 9 Nov). Plus the renewal reminder E26."
+      }
+    },
+    {
+      "id": "rec0cW2lOPdhfZ8gM",
+      "createdTime": "2026-09-07T11:10:59.000Z",
+      "cellValuesByFieldId": {
+        "fld0FAe7aCySutCsC": {
+          "id": "seljeEBu3FSIk0UIz",
+          "name": "Email",
+          "color": "blueBright"
+        },
+        "fld9gAl9Jdca4AKvG": {
+          "id": "selfxMjaXRzfyh8Ps",
+          "name": "Not started",
+          "color": "grayLight2"
+        },
+        "fld9h4vy0wBTXVU3k": "Send E10 - Open House invite 3 (why write a book)",
+        "fldHhvsKsL5ns7V6n": {
+          "id": "selpdVYMQPdMnTRTg",
+          "name": "Phase B - Push",
+          "color": "orangeLight1"
+        },
+        "fldeJ2dvxJVkE3dpX": "Scheduled. Promo excluding registrants.",
+        "fldgyzezVsmxXNKXo": -7,
+        "fldjwZuNt7pDZU300": "Thu 22 Oct 2026",
+        "fldrPJuRtoPBCM1i1": "2026-10-22T00:00:00.000Z",
+        "fldt0hgFXWDKp5150": {
+          "id": "selbAb6LLOGgZNy7B",
+          "name": "Rysa",
+          "color": "grayLight2"
+        },
+        "flduEAJIV9wjlvxzV": "OH-7, as Intake 4."
+      }
+    },
+    {
+      "id": "recI3IiHL9h8zic9e",
+      "createdTime": "2026-09-07T11:10:59.000Z",
+      "cellValuesByFieldId": {
+        "fld0FAe7aCySutCsC": {
+          "id": "seljeEBu3FSIk0UIz",
+          "name": "Email",
+          "color": "blueBright"
+        },
+        "fld9gAl9Jdca4AKvG": {
+          "id": "selfxMjaXRzfyh8Ps",
+          "name": "Not started",
+          "color": "grayLight2"
+        },
+        "fld9h4vy0wBTXVU3k": "Send E11 - Open House invite 4 (objections)",
+        "fldHhvsKsL5ns7V6n": {
+          "id": "selpdVYMQPdMnTRTg",
+          "name": "Phase B - Push",
+          "color": "orangeLight1"
+        },
+        "fldeJ2dvxJVkE3dpX": "Scheduled. Promo excluding registrants.",
+        "fldgyzezVsmxXNKXo": -6,
+        "fldjwZuNt7pDZU300": "Fri 23 Oct 2026",
+        "fldrPJuRtoPBCM1i1": "2026-10-23T00:00:00.000Z",
+        "fldt0hgFXWDKp5150": {
+          "id": "selbAb6LLOGgZNy7B",
+          "name": "Rysa",
+          "color": "grayLight2"
+        },
+        "flduEAJIV9wjlvxzV": "Friday before. Intake 4 sent it on a Saturday; Friday reads better for a business list."
+      }
+    },
+    {
+      "id": "recuAhtJMY9JwVdqQ",
+      "createdTime": "2026-09-07T11:16:23.000Z",
+      "cellValuesByFieldId": {
+        "fld0FAe7aCySutCsC": {
+          "id": "selhDwRhutM8EycoP",
+          "name": "Open House",
+          "color": "greenBright"
+        },
+        "fld9gAl9Jdca4AKvG": {
+          "id": "selfxMjaXRzfyh8Ps",
+          "name": "Not started",
+          "color": "grayLight2"
+        },
+        "fld9h4vy0wBTXVU3k": "Verify Brevo segments and the show-up series before the week starts",
+        "fldHhvsKsL5ns7V6n": {
+          "id": "selpdVYMQPdMnTRTg",
+          "name": "Phase B - Push",
+          "color": "orangeLight1"
+        },
+        "fldeJ2dvxJVkE3dpX": "Count Brevo segment 6 vs Zoom registrants for each session. Open E14-E17 in Brevo and check dates, times, links, per-session Zoom links. Send a test of each to yourself.",
+        "fldew9oJHVLloTycX": true,
+        "fldgyzezVsmxXNKXo": -6,
+        "fldjwZuNt7pDZU300": "Fri 23 Oct 2026",
+        "fldrPJuRtoPBCM1i1": "2026-10-23T00:00:00.000Z",
+        "fldt0hgFXWDKp5150": {
+          "id": "selbAb6LLOGgZNy7B",
+          "name": "Rysa",
+          "color": "grayLight2"
+        },
+        "flduEAJIV9wjlvxzV": "Friday before. The show-up series only works if the 'Open House by Event Date' segments resolve to the right people and the Zoom > Brevo zap has kept up."
+      }
+    },
+    {
+      "id": "recU0R6rfsdmmf7k1",
+      "createdTime": "2026-09-07T11:10:59.000Z",
+      "cellValuesByFieldId": {
+        "fld0FAe7aCySutCsC": {
+          "id": "seljeEBu3FSIk0UIz",
+          "name": "Email",
+          "color": "blueBright"
+        },
+        "fld9gAl9Jdca4AKvG": {
+          "id": "selfxMjaXRzfyh8Ps",
+          "name": "Not started",
+          "color": "grayLight2"
+        },
+        "fld9h4vy0wBTXVU3k": "Send E14 - show-up 1 to registrants",
+        "fldHhvsKsL5ns7V6n": {
+          "id": "selpdVYMQPdMnTRTg",
+          "name": "Phase B - Push",
+          "color": "orangeLight1"
+        },
+        "fldeJ2dvxJVkE3dpX": "Scheduled to the registrant segments. Check the segment count matches Zoom registrations - if not, the Zap has dropped people.",
+        "fldgyzezVsmxXNKXo": -2,
+        "fldjwZuNt7pDZU300": "Tue 27 Oct 2026",
+        "fldrPJuRtoPBCM1i1": "2026-10-27T00:00:00.000Z",
+        "fldt0hgFXWDKp5150": {
+          "id": "selbAb6LLOGgZNy7B",
+          "name": "Rysa",
+          "color": "grayLight2"
+        },
+        "flduEAJIV9wjlvxzV": "Registrants only. 'Can't wait to meet you.' Add-to-calendar, which session."
+      }
+    },
+    {
+      "id": "recHh0ZuKmKENjFoB",
+      "createdTime": "2026-09-07T11:10:59.000Z",
+      "cellValuesByFieldId": {
+        "fld0FAe7aCySutCsC": {
+          "id": "seljeEBu3FSIk0UIz",
+          "name": "Email",
+          "color": "blueBright"
+        },
+        "fld9gAl9Jdca4AKvG": {
+          "id": "selfxMjaXRzfyh8Ps",
+          "name": "Not started",
+          "color": "grayLight2"
+        },
+        "fld9h4vy0wBTXVU3k": "Send E12 (last chance) + E15 (show-up -24h)",
+        "fldHhvsKsL5ns7V6n": {
+          "id": "selpdVYMQPdMnTRTg",
+          "name": "Phase B - Push",
+          "color": "orangeLight1"
+        },
+        "fldeJ2dvxJVkE3dpX": "Scheduled. E12 promo excluding registrants; E15 per-session registrant segments.",
+        "fldgyzezVsmxXNKXo": -1,
+        "fldjwZuNt7pDZU300": "Wed 28 Oct 2026",
+        "fldrPJuRtoPBCM1i1": "2026-10-28T00:00:00.000Z",
+        "fldt0hgFXWDKp5150": {
+          "id": "selbAb6LLOGgZNy7B",
+          "name": "Rysa",
+          "color": "grayLight2"
+        },
+        "flduEAJIV9wjlvxzV": "Day before. Two audiences: not-yet-registered (E12) and registered (E15). US registrants for the 10am session get theirs Tuesday evening their time - that's Wednesday morning AEDT, so it's the same send."
+      }
+    },
+    {
+      "id": "recDbV7xxF9ZYWeHq",
+      "createdTime": "2026-09-07T11:10:59.000Z",
+      "cellValuesByFieldId": {
+        "fld0FAe7aCySutCsC": {
+          "id": "seljeEBu3FSIk0UIz",
+          "name": "Email",
+          "color": "blueBright"
+        },
+        "fld9gAl9Jdca4AKvG": {
+          "id": "selfxMjaXRzfyh8Ps",
+          "name": "Not started",
+          "color": "grayLight2"
+        },
+        "fld9h4vy0wBTXVU3k": "OPEN HOUSE DAY emails - E13, E16, E17",
+        "fldHhvsKsL5ns7V6n": {
+          "id": "selpdVYMQPdMnTRTg",
+          "name": "Phase B - Push",
+          "color": "orangeLight1"
+        },
+        "fldeJ2dvxJVkE3dpX": "10am session: E16 at 8am AEDT, E17 at 9:50am. 7pm session: E13 at 6:25am, E16 at 5pm, E17 at 6:50pm. Zoom link in the first line of E17.",
+        "fldew9oJHVLloTycX": true,
+        "fldgyzezVsmxXNKXo": 0,
+        "fldjwZuNt7pDZU300": "Thu 29 Oct 2026",
+        "fldrPJuRtoPBCM1i1": "2026-10-29T00:00:00.000Z",
+        "fldt0hgFXWDKp5150": {
+          "id": "selbAb6LLOGgZNy7B",
+          "name": "Rysa",
+          "color": "grayLight2"
+        },
+        "flduEAJIV9wjlvxzV": "Same-day reminder to the list (E13, morning), -2h and -10m to registrants per session (E16, E17). All scheduled; nobody should be sending by hand on the day."
+      }
+    },
+    {
+      "id": "recJC3HUMkDOwOEgR",
+      "createdTime": "2026-09-07T11:10:59.000Z",
+      "cellValuesByFieldId": {
+        "fld0FAe7aCySutCsC": {
+          "id": "seljeEBu3FSIk0UIz",
+          "name": "Email",
+          "color": "blueBright"
+        },
+        "fld9gAl9Jdca4AKvG": {
+          "id": "selfxMjaXRzfyh8Ps",
+          "name": "Not started",
+          "color": "grayLight2"
+        },
+        "fld9h4vy0wBTXVU3k": "Send E20 (one week left) + E26 (renewal reminder)",
+        "fldHhvsKsL5ns7V6n": {
+          "id": "selDI53BNpoY6zQ0I",
+          "name": "Phase C - Close",
+          "color": "redLight1"
+        },
+        "fldeJ2dvxJVkE3dpX": "Scheduled. E20 to promo excluding applicants; E26 to current members not renewed.",
+        "fldew9oJHVLloTycX": true,
+        "fldgyzezVsmxXNKXo": -9,
+        "fldjwZuNt7pDZU300": "Fri 30 Oct 2026",
+        "fldrPJuRtoPBCM1i1": "2026-10-30T00:00:00.000Z",
+        "fldt0hgFXWDKp5150": {
+          "id": "selbAb6LLOGgZNy7B",
+          "name": "Rysa",
+          "color": "grayLight2"
+        },
+        "flduEAJIV9wjlvxzV": "Friday 30 Oct - the last full working day before the dead zone. Deadline urgency has to land here, not next week."
+      }
+    },
+    {
+      "id": "recnEnTdHGN46UwzE",
+      "createdTime": "2026-09-07T11:10:59.000Z",
+      "cellValuesByFieldId": {
+        "fld0FAe7aCySutCsC": {
+          "id": "seljeEBu3FSIk0UIz",
+          "name": "Email",
+          "color": "blueBright"
+        },
+        "fld9gAl9Jdca4AKvG": {
+          "id": "selfxMjaXRzfyh8Ps",
+          "name": "Not started",
+          "color": "grayLight2"
+        },
+        "fld9h4vy0wBTXVU3k": "Send E18 (attended) + E19 (no-show replay)",
+        "fldHhvsKsL5ns7V6n": {
+          "id": "selDI53BNpoY6zQ0I",
+          "name": "Phase C - Close",
+          "color": "redLight1"
+        },
+        "fldeJ2dvxJVkE3dpX": "Needs the SHOW / NO-SHOW split from the attendance export (Open House workstream) and the replay link. Send by 10am AEDT.",
+        "fldew9oJHVLloTycX": true,
+        "fldgyzezVsmxXNKXo": 1,
+        "fldjwZuNt7pDZU300": "Fri 30 Oct 2026",
+        "fldrPJuRtoPBCM1i1": "2026-10-30T00:00:00.000Z",
+        "fldt0hgFXWDKp5150": {
+          "id": "selbAb6LLOGgZNy7B",
+          "name": "Rysa",
+          "color": "grayLight2"
+        },
+        "flduEAJIV9wjlvxzV": "The morning after. Highest-intent list in the campaign gets the replay and one instruction: apply before Sunday 8 Nov."
+      }
+    },
+    {
+      "id": "recabkSM3J0FOxI3x",
+      "createdTime": "2026-09-07T11:14:48.000Z",
+      "cellValuesByFieldId": {
+        "fld0FAe7aCySutCsC": {
+          "id": "selTladkuDm9pcX6Q",
+          "name": "LinkedIn organic",
+          "color": "cyanBright"
+        },
+        "fld9gAl9Jdca4AKvG": {
+          "id": "selfxMjaXRzfyh8Ps",
+          "name": "Not started",
+          "color": "grayLight2"
+        },
+        "fld9h4vy0wBTXVU3k": "One-week-left post + close trio on the EA page (S04)",
+        "fldHhvsKsL5ns7V6n": {
+          "id": "selDI53BNpoY6zQ0I",
+          "name": "Phase C - Close",
+          "color": "redLight1"
+        },
+        "fldeJ2dvxJVkE3dpX": "Four posts from the Social Media Calendar. Nothing goes out Mon 2 - Thu 5 Nov.",
+        "fldgyzezVsmxXNKXo": -9,
+        "fldjwZuNt7pDZU300": "Fri 30 Oct 2026",
+        "fldrPJuRtoPBCM1i1": "2026-10-30T00:00:00.000Z",
+        "fldt0hgFXWDKp5150": {
+          "id": "selbAb6LLOGgZNy7B",
+          "name": "Rysa",
+          "color": "grayLight2"
+        },
+        "flduEAJIV9wjlvxzV": "Fri 30 Oct 'one week left', then nothing 2-5 Nov, then 48h / 24h / closes today on 6-8 Nov."
+      }
+    },
+    {
+      "id": "rec5nLmfugTjvdlXY",
+      "createdTime": "2026-09-07T11:10:59.000Z",
+      "cellValuesByFieldId": {
+        "fld0FAe7aCySutCsC": {
+          "id": "seljeEBu3FSIk0UIz",
+          "name": "Email",
+          "color": "blueBright"
+        },
+        "fld9gAl9Jdca4AKvG": {
+          "id": "selfxMjaXRzfyh8Ps",
+          "name": "Not started",
+          "color": "grayLight2"
+        },
+        "fld9h4vy0wBTXVU3k": "Send E21 - all your questions answered",
+        "fldHhvsKsL5ns7V6n": {
+          "id": "selDI53BNpoY6zQ0I",
+          "name": "Phase C - Close",
+          "color": "redLight1"
+        },
+        "fldeJ2dvxJVkE3dpX": "Scheduled. Promo excluding applicants.",
+        "fldgyzezVsmxXNKXo": -7,
+        "fldjwZuNt7pDZU300": "Sun 1 Nov 2026",
+        "fldrPJuRtoPBCM1i1": "2026-11-01T00:00:00.000Z",
+        "fldt0hgFXWDKp5150": {
+          "id": "selbAb6LLOGgZNy7B",
+          "name": "Rysa",
+          "color": "grayLight2"
+        },
+        "flduEAJIV9wjlvxzV": "Sunday 1 Nov. Last send before going dark Mon-Thu."
+      }
+    },
+    {
+      "id": "rec2KKeuTErErfO2x",
+      "createdTime": "2026-09-07T11:10:59.000Z",
+      "cellValuesByFieldId": {
+        "fld0FAe7aCySutCsC": {
+          "id": "seljeEBu3FSIk0UIz",
+          "name": "Email",
+          "color": "blueBright"
+        },
+        "fld9gAl9Jdca4AKvG": {
+          "id": "selfxMjaXRzfyh8Ps",
+          "name": "Not started",
+          "color": "grayLight2"
+        },
+        "fld9h4vy0wBTXVU3k": "Send E22 - final call, 48 hours",
+        "fldHhvsKsL5ns7V6n": {
+          "id": "selDI53BNpoY6zQ0I",
+          "name": "Phase C - Close",
+          "color": "redLight1"
+        },
+        "fldeJ2dvxJVkE3dpX": "Scheduled. Promo excluding applicants. Check the call calendar has room for Mon-Wed before this goes - if it's already full, soften the urgency to 'apply now, calls run until Wednesday'.",
+        "fldew9oJHVLloTycX": true,
+        "fldgyzezVsmxXNKXo": -2,
+        "fldjwZuNt7pDZU300": "Fri 6 Nov 2026",
+        "fldrPJuRtoPBCM1i1": "2026-11-06T00:00:00.000Z",
+        "fldt0hgFXWDKp5150": {
+          "id": "selbAb6LLOGgZNy7B",
+          "name": "Rysa",
+          "color": "grayLight2"
+        },
+        "flduEAJIV9wjlvxzV": "Friday 6 Nov. First send after the dead zone. Finance / on-the-fence angle."
+      }
+    },
+    {
+      "id": "recew8sknKocmIjg1",
+      "createdTime": "2026-09-07T11:10:59.000Z",
+      "cellValuesByFieldId": {
+        "fld0FAe7aCySutCsC": {
+          "id": "seljeEBu3FSIk0UIz",
+          "name": "Email",
+          "color": "blueBright"
+        },
+        "fld9gAl9Jdca4AKvG": {
+          "id": "selfxMjaXRzfyh8Ps",
+          "name": "Not started",
+          "color": "grayLight2"
+        },
+        "fld9h4vy0wBTXVU3k": "APPLICATIONS CLOSE - send E23",
+        "fldHhvsKsL5ns7V6n": {
+          "id": "selDI53BNpoY6zQ0I",
+          "name": "Phase C - Close",
+          "color": "redLight1"
+        },
+        "fldeJ2dvxJVkE3dpX": "Scheduled for 8am. Form closes at midnight AEDT - Cam turns it off Monday morning, not Sunday night, so nobody mid-form gets cut off.",
+        "fldew9oJHVLloTycX": true,
+        "fldgyzezVsmxXNKXo": 0,
+        "fldjwZuNt7pDZU300": "Sun 8 Nov 2026",
+        "fldrPJuRtoPBCM1i1": "2026-11-08T00:00:00.000Z",
+        "fldt0hgFXWDKp5150": {
+          "id": "selbAb6LLOGgZNy7B",
+          "name": "Rysa",
+          "color": "grayLight2"
+        },
+        "flduEAJIV9wjlvxzV": "Milestone. Sunday 8 Nov. Three lines, closes tonight."
+      }
+    },
+    {
+      "id": "recukGEnQsXBH3IIX",
+      "createdTime": "2026-09-07T11:10:59.000Z",
+      "cellValuesByFieldId": {
+        "fld0FAe7aCySutCsC": {
+          "id": "seljeEBu3FSIk0UIz",
+          "name": "Email",
+          "color": "blueBright"
+        },
+        "fld9gAl9Jdca4AKvG": {
+          "id": "selfxMjaXRzfyh8Ps",
+          "name": "Not started",
+          "color": "grayLight2"
+        },
+        "fld9h4vy0wBTXVU3k": "Send E24 - closing email",
+        "fldHhvsKsL5ns7V6n": {
+          "id": "seliPwUogPyJZi1ZU",
+          "name": "Post-close",
+          "color": "greenLight1"
+        },
+        "fldeJ2dvxJVkE3dpX": "Scheduled. Promo list. Link to the EOI form, not the closed application.",
+        "fldgyzezVsmxXNKXo": 1,
+        "fldjwZuNt7pDZU300": "Mon 9 Nov 2026",
+        "fldrPJuRtoPBCM1i1": "2026-11-09T00:00:00.000Z",
+        "fldt0hgFXWDKp5150": {
+          "id": "selbAb6LLOGgZNy7B",
+          "name": "Rysa",
+          "color": "grayLight2"
+        },
+        "flduEAJIV9wjlvxzV": "Monday. Applications closed; what happens now; EOI for next time."
+      }
+    },
+    {
+      "id": "recPb9P9CZcjl8zkQ",
+      "createdTime": "2026-09-07T11:10:59.000Z",
+      "cellValuesByFieldId": {
+        "fld0FAe7aCySutCsC": {
+          "id": "seljeEBu3FSIk0UIz",
+          "name": "Email",
+          "color": "blueBright"
+        },
+        "fld9gAl9Jdca4AKvG": {
+          "id": "selfxMjaXRzfyh8Ps",
+          "name": "Not started",
+          "color": "grayLight2"
+        },
+        "fld9h4vy0wBTXVU3k": "Send E27 - welcome, what happens Friday",
+        "fldHhvsKsL5ns7V6n": {
+          "id": "seliPwUogPyJZi1ZU",
+          "name": "Post-close",
+          "color": "greenLight1"
+        },
+        "fldeJ2dvxJVkE3dpX": "To the 'Intake 5 Paid' list. Per the Welcome Session SOP (https://app.notion.com/p/265a1cb4f07f49b392604f486a89cfa0) new members get this automatically; renewers RSVP via the Circle event.",
+        "fldew9oJHVLloTycX": true,
+        "fldgyzezVsmxXNKXo": -3,
+        "fldjwZuNt7pDZU300": "Tue 10 Nov 2026",
+        "fldrPJuRtoPBCM1i1": "2026-11-10T00:00:00.000Z",
+        "fldt0hgFXWDKp5150": {
+          "id": "selbAb6LLOGgZNy7B",
+          "name": "Rysa",
+          "color": "grayLight2"
+        },
+        "flduEAJIV9wjlvxzV": "Tuesday. Everyone paid gets the Zoom link, Circle login and what to bring. Re-sent Thursday to anyone who pays late."
+      }
+    },
+    {
+      "id": "rec8QtwuGtxHe1qQp",
+      "createdTime": "2026-09-07T11:14:48.000Z",
+      "cellValuesByFieldId": {
+        "fld0FAe7aCySutCsC": {
+          "id": "selTladkuDm9pcX6Q",
+          "name": "LinkedIn organic",
+          "color": "cyanBright"
+        },
+        "fld9gAl9Jdca4AKvG": {
+          "id": "selfxMjaXRzfyh8Ps",
+          "name": "Not started",
+          "color": "grayLight2"
+        },
+        "fld9h4vy0wBTXVU3k": "Welcome new members post (S06)",
+        "fldHhvsKsL5ns7V6n": {
+          "id": "seliPwUogPyJZi1ZU",
+          "name": "Post-close",
+          "color": "greenLight1"
+        },
+        "fldeJ2dvxJVkE3dpX": "Post in the afternoon after the session with a screenshot (permission asked in the session).",
+        "fldgyzezVsmxXNKXo": 0,
+        "fldjwZuNt7pDZU300": "Fri 13 Nov 2026",
+        "fldrPJuRtoPBCM1i1": "2026-11-13T00:00:00.000Z",
+        "fldt0hgFXWDKp5150": {
+          "id": "selbAb6LLOGgZNy7B",
+          "name": "Rysa",
+          "color": "grayLight2"
+        },
+        "flduEAJIV9wjlvxzV": "Kick-off day. Closes the loop publicly; the Welcome Session SOP says pull images from the session for LinkedIn/IG."
+      }
+    },
+    {
+      "id": "recN7uLN1PyVeRS24",
+      "createdTime": "2026-09-07T11:10:59.000Z",
+      "cellValuesByFieldId": {
+        "fld0FAe7aCySutCsC": {
+          "id": "seljeEBu3FSIk0UIz",
+          "name": "Email",
+          "color": "blueBright"
+        },
+        "fld9gAl9Jdca4AKvG": {
+          "id": "selfxMjaXRzfyh8Ps",
+          "name": "Not started",
+          "color": "grayLight2"
+        },
+        "fld9h4vy0wBTXVU3k": "Send E28 - not this time, stay in touch",
+        "fldHhvsKsL5ns7V6n": {
+          "id": "seliPwUogPyJZi1ZU",
+          "name": "Post-close",
+          "color": "greenLight1"
+        },
+        "fldeJ2dvxJVkE3dpX": "Pull the list from the applications base. Add them to the EOI list in Brevo. Warm, no hard sell, next intake date if known.",
+        "fldgyzezVsmxXNKXo": 3,
+        "fldjwZuNt7pDZU300": "Mon 16 Nov 2026",
+        "fldrPJuRtoPBCM1i1": "2026-11-16T00:00:00.000Z",
+        "fldt0hgFXWDKp5150": {
+          "id": "selbAb6LLOGgZNy7B",
+          "name": "Rysa",
+          "color": "grayLight2"
+        },
+        "flduEAJIV9wjlvxzV": "Monday after kick off. Accepted-not-paid and too-late applicants. The first names on the Intake 6 EOI list."
+      }
+    },
+    {
+      "id": "rec8iWMh2W6yU2a4b",
+      "createdTime": "2026-09-07T11:14:48.000Z",
+      "cellValuesByFieldId": {
+        "fld0FAe7aCySutCsC": {
+          "id": "seleA055wxCoCHqIZ",
+          "name": "Handover & reuse",
+          "color": "grayLight1"
+        },
+        "fld9gAl9Jdca4AKvG": {
+          "id": "selfxMjaXRzfyh8Ps",
+          "name": "Not started",
+          "color": "grayLight2"
+        },
+        "fld9h4vy0wBTXVU3k": "Promote the Intake 5 emails and posts to templates in their bases",
+        "fldHhvsKsL5ns7V6n": {
+          "id": "seliPwUogPyJZi1ZU",
+          "name": "Post-close",
+          "color": "greenLight1"
+        },
+        "fldeJ2dvxJVkE3dpX": "In the Email base: mark the Intake 5 campaign as the reference set; archive drafts that never sent. In the Social Media Calendar: set final statuses. In this base: update each Asset's 'Intake 4 equivalent' field to the Intake 5 record name.",
+        "fldgyzezVsmxXNKXo": 7,
+        "fldjwZuNt7pDZU300": "Fri 20 Nov 2026",
+        "fldrPJuRtoPBCM1i1": "2026-11-20T00:00:00.000Z",
+        "fldt0hgFXWDKp5150": {
+          "id": "selbAb6LLOGgZNy7B",
+          "name": "Rysa",
+          "color": "grayLight2"
+        },
+        "flduEAJIV9wjlvxzV": "Next time the 'Intake 4 equivalent' column should say Intake 5. The working copies are the new templates."
+      }
+    }
+  ],
+  "metadata": {
+    "totalRecordCount": 34
+  }
+}
