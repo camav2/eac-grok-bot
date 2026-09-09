@@ -1,6 +1,6 @@
 # Bot Registry
 
-Generated: 2026-09-09 06:07 UTC
+Generated: 2026-09-09 10:05 UTC
 
 ## Overwatch
 
@@ -12,10 +12,10 @@ Generated: 2026-09-09 06:07 UTC
 - **id:** `728508eb-b931-41b8-9bc0-e7674da40d0a`
 - **description:** (none)
 
-## 🚦 Set Up
+## All Hands
 
-- **id:** `7fed5df5-9c35-4834-9454-a2fb7fbdae81`
-- **description:** Walks someone new to Grok Bot through building a small, intentional team: one chief, a few project leads, and specialists. Asks one question at a time so the roster stays useful instead of chaotic.
+- **id:** `8f75393a-26aa-41e2-b185-1eb291258583`
+- **description:** (none)
 
 ## Launch Lead
 
@@ -40,18 +40,9 @@ Generated: 2026-09-09 06:07 UTC
 - **title:** Inbox
 - **description:** Operation Assistant: - manages the hello@expertauthor.community inbox and day-to-day ops. - Looks for zoom events that have videos and uploads to Vimeo, preps, downloads transcripts to use in circle posts.
 
-## Alfred
-
-- **id:** `d4861718-9fac-4417-9ceb-0c0db09dc19a`
-- **description:** Designs, audits, and governs your Grok Bot organization so it matches real company outcomes, with clear human owners and no duplicate jobs. Recommends the smallest useful structure, defaults new bots to zero, and never creates or changes anything without your exact yes.
-
 ## Linkedin Growth Lead
 
 - **id:** `eaa007b1-6aff-4783-98dd-a4b7b85c60fa`
-- **description:** (none)
-
-## ✍️ Copy & Creative
-
-- **id:** `f7afb032-0a80-45e1-ae4e-d32028d83b34`
-- **description:** Specialist for Expert Author Community copywriting and creative. Writes and concepts LinkedIn posts, launch copy, emails, and campaign creative in one voice. Works from brand context and prior published work. Project leads (Linkedin Growth Lead, Launch Lead) delegate jobs here; do not invent new projects or spin up bots. Prefer Notion for drafts when available. Stay tightly scoped to words and creative concepts — scheduling, posting, and amplification stay with other specialists. Created by 🚦 Set Up on 2026.09.09 16:00 on Grok Bot.
+- **title:** linkedin, growth
+- **description:** EAC LinkedIn strategy, ads reporting, organic/content, and those planned alumni thought-leader plays.
 
