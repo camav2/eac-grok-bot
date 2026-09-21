@@ -1,7 +1,7 @@
 # Org Review
 
-- **timestamp:** 2026-09-09 06:03 UTC
-- **bot count:** 10
+- **timestamp:** 2026-09-20 22:56 UTC
+- **bot count:** 8
 
 ## Bots
 
@@ -15,10 +15,10 @@
 - **id:** `728508eb-b931-41b8-9bc0-e7674da40d0a`
 - **description:** (none)
 
-## 🚦 Set Up
+## All Hands
 
-- **id:** `7fed5df5-9c35-4834-9454-a2fb7fbdae81`
-- **description:** Walks someone new to Grok Bot through building a small, intentional team: one chief, a few project leads, and specialists. Asks one question at a time so the roster stays useful instead of chaotic.
+- **id:** `8f75393a-26aa-41e2-b185-1eb291258583`
+- **description:** (none)
 
 ## Launch Lead
 
@@ -43,55 +43,47 @@
 - **title:** Inbox
 - **description:** Operation Assistant: - manages the hello@expertauthor.community inbox and day-to-day ops. - Looks for zoom events that have videos and uploads to Vimeo, preps, downloads transcripts to use in circle posts.
 
-## Alfred
-
-- **id:** `d4861718-9fac-4417-9ceb-0c0db09dc19a`
-- **description:** Designs, audits, and governs your Grok Bot organization so it matches real company outcomes, with clear human owners and no duplicate jobs. Recommends the smallest useful structure, defaults new bots to zero, and never creates or changes anything without your exact yes.
-
 ## Linkedin Growth Lead
 
 - **id:** `eaa007b1-6aff-4783-98dd-a4b7b85c60fa`
-- **description:** (none)
-
-## ✍️ Copy & Creative
-
-- **id:** `f7afb032-0a80-45e1-ae4e-d32028d83b34`
-- **description:** Specialist for Expert Author Community copywriting and creative. Writes and concepts LinkedIn posts, launch copy, emails, and campaign creative in one voice. Works from brand context and prior published work. Project leads (Linkedin Growth Lead, Launch Lead) delegate jobs here; do not invent new projects or spin up bots. Prefer Notion for drafts when available. Stay tightly scoped to words and creative concepts — scheduling, posting, and amplification stay with other specialists. Created by 🚦 Set Up on 2026.09.09 16:00 on Grok Bot.
+- **title:** linkedin, growth
+- **description:** EAC LinkedIn strategy, ads reporting, organic/content, and those planned alumni thought-leader plays.
 
 ## Disk hotspots under /workspace
 
 ```
 397M	/workspace/whisper-venv
 52M	/workspace/michelle-roundtable-sept.m4a
-8.0M	/workspace/agent-tools
+8.9M	/workspace/agent-tools
 2.7M	/workspace/watchlist_batches
-1016K	/workspace/gmail-archive-bin
+1012K	/workspace/gmail-archive-bin
 748K	/workspace/eac_posts.json
 228K	/workspace/transcripts
 204K	/workspace/gmail-clear
 96K	/workspace/eac_share_stats.json
 48K	/workspace/overwatch
-12K	/workspace/shared
 12K	/workspace/eac_top_posts_summary.json
 8.0K	/workspace/eac-alumni-thought-leader-engagement-plan.md
 4.0K	/workspace/vimeo_upload_meta.json
+4.0K	/workspace/inbox-filter-page2.txt
+4.0K	/workspace/inbox-circle-ids.json
+4.0K	/workspace/gmail-inbox-review-token.txt
 4.0K	/workspace/batch6_ids.txt
 4.0K	/workspace/batch5_ids.txt
 4.0K	/workspace/batch3_ids.txt
 4.0K	/workspace/batch13_ids.txt
-4.0K	/workspace/README.md
 ```
 
 ## shared/temp and shared/archive
 
-- `/workspace/shared/temp`: exists, size≈4.0K, entries=0
-- `/workspace/shared/archive`: exists, size≈4.0K, entries=0
+- `/workspace/shared/temp`: MISSING
+- `/workspace/shared/archive`: MISSING
 
 ## Backup health
 
 - git repo: yes
-- origin: NONE
-- last commit: (none yet)
+- origin: https://github.com/camav2/eac-grok-bot.git
+- last commit: 11e2f0e 2026-09-20 22:12:15 +0000 overwatch backup: 2026-09-20 22:12 UTC
 
 ## Convention notes (/workspace root)
 
@@ -109,9 +101,11 @@ Likely bot/project dirs vs clutter at /workspace root:
 - **eac_top_posts_summary.json** — file clutter / large artifact at root (prefer shared/temp or bot folder)
 - **gmail-archive-bin/** — tooling/clutter or job scratch (consider relocating under a bot folder or shared/temp)
 - **gmail-clear/** — tooling/clutter or job scratch (consider relocating under a bot folder or shared/temp)
+- **gmail-inbox-review-token.txt** — root file (review)
+- **inbox-circle-ids.json** — file clutter / large artifact at root (prefer shared/temp or bot folder)
+- **inbox-filter-page2.txt** — root file (review)
 - **michelle-roundtable-sept.m4a** — file clutter / large artifact at root (prefer shared/temp or bot folder)
 - **overwatch/** — control-plane / shared (convention OK)
-- **shared/** — control-plane / shared (convention OK)
 - **transcripts/** — tooling/clutter or job scratch (consider relocating under a bot folder or shared/temp)
 - **vimeo_upload_meta.json** — file clutter / large artifact at root (prefer shared/temp or bot folder)
 - **watchlist_batches/** — tooling/clutter or job scratch (consider relocating under a bot folder or shared/temp)
@@ -119,7 +113,7 @@ Likely bot/project dirs vs clutter at /workspace root:
 
 ## Recommendations
 
-1. Add a git `origin` remote for /workspace and authenticate `gh`/`git push` so Overwatch backups can land off-box.
-2. Registry has 2 bot(s) with empty/placeholder name or description — name them or archive unused agent folders to reduce roster clutter.
-3. `whisper-venv/` is a disk hotspot at root; keep it gitignored and consider documenting which bot owns it, or relocate under that bot's folder.
+1. Registry has 2 bot(s) with empty/placeholder name or description — name them or archive unused agent folders to reduce roster clutter.
+2. `whisper-venv/` is a disk hotspot at root; keep it gitignored and consider documenting which bot owns it, or relocate under that bot's folder.
+3. Re-run org-review weekly once backup remote/auth is healthy to catch convention drift and disk growth.
 
