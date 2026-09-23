@@ -1,0 +1,571 @@
+- generic [ref=f9e2]:
+  - heading "0 notifications" [level=2] [ref=f9e3]
+  - generic [ref=f9e4]:
+    - generic:
+      - generic "Skip navigation menu":
+        - button "Close jump menu" [ref=f9e6] [cursor=pointer]
+    - generic [ref=f9e9]:
+      - banner [ref=f9e11]:
+        - generic [ref=f9e14]:
+          - button [ref=f9e15] [cursor=pointer]
+          - generic [ref=f9e17]:
+            - status [ref=f9e18]
+            - search [ref=f9e19]:
+              - textbox "I'm looking for…" [ref=f9e23]
+          - generic [ref=f9e25]:
+            - navigation [ref=f9e29]:
+              - list [ref=f9e30]:
+                - listitem [ref=f9e31]:
+                  - button "Home, 1 new notification" [ref=f9e32] [cursor=pointer]:
+                    - generic [ref=f9e36]: Home
+                - listitem [ref=f9e38]:
+                  - link "My Network, 26 new notifications" [ref=f9e39] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork
+                    - generic [ref=f9e40]: "26"
+                    - generic [ref=f9e44]: My Network
+                - listitem [ref=f9e46]:
+                  - link "Jobs, 0 new notifications" [ref=f9e47] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/
+                    - generic [ref=f9e51]: Jobs
+                - listitem [ref=f9e53]:
+                  - link "Messaging, 2 new notifications" [ref=f9e54] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/messaging/
+                    - generic [ref=f9e55]: "2"
+                    - generic [ref=f9e59]: Messaging
+                - listitem [ref=f9e61]:
+                  - link "Notifications, 16 new notifications" [ref=f9e62] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/notifications/
+                    - generic [ref=f9e63]: "16"
+                    - generic [ref=f9e67]: Notifications
+                - listitem [ref=f9e69]:
+                  - button "Me" [ref=f9e70] [cursor=pointer]:
+                    - figure [aria-hidden] [ref=f9e72]
+            - navigation [ref=f9e78]:
+              - list [ref=f9e79]:
+                - listitem [ref=f9e80]:
+                  - button "For Business" [ref=f9e81] [cursor=pointer]
+                - listitem [ref=f9e88]:
+                  - link "Advertise, 3 new notifications" [ref=f9e89] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/campaignmanager/accounts/
+                    - generic [ref=f9e90]: "3"
+                    - generic [ref=f9e93]: Advertise
+      - main [ref=f9e97]:
+        - generic [ref=f9e99]:
+          - complementary "Sidebar" [ref=f9e100]:
+            - generic [ref=f9e103]:
+              - generic [ref=f9e107]:
+                - link [ref=f9e108] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/kelly-irving/
+                  - generic [ref=f9e109]:
+                    - generic [ref=f9e110]:
+                      - figure [aria-hidden] [ref=f9e111]
+                      - paragraph [ref=f9e113]: Premium
+                    - figure [ref=f9e116]
+                - generic [ref=f9e117]:
+                  - link [ref=f9e118] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic "Kelly Irving, Book coach and editor for changemakers and trailblazers / Publishing gymnast, Anglesea, Victoria, Premium profile" [ref=f9e119]:
+                      - paragraph [ref=f9e122]: Kelly Irving
+                      - paragraph [ref=f9e125]: Book coach and editor for changemakers and trailblazers / Publishing gymnast
+                      - paragraph [ref=f9e126]: Anglesea, Victoria
+                  - link [ref=f9e127] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic [ref=f9e128]:
+                      - figure [aria-hidden] [ref=f9e129]
+                      - paragraph [ref=f9e130]: Expert Author Community
+              - generic [ref=f9e132]:
+                - menu [ref=f9e133]:
+                  - link [ref=f9e135] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/me/profile-views/
+                    - generic "Profile viewers 297" [ref=f9e136]:
+                      - paragraph [ref=f9e138]: Profile viewers
+                      - paragraph [ref=f9e139]: "297"
+                  - link [ref=f9e141] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/analytics/creator/content/
+                    - generic "Post impressions 1,282" [ref=f9e142]:
+                      - paragraph [ref=f9e144]: Post impressions
+                      - paragraph [ref=f9e145]: 1,282
+                - menu [ref=f9e146]:
+                  - link [ref=f9e148] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/premium/my-premium/
+                    - paragraph [ref=f9e151]: Your Premium features
+          - region "Primary content" [ref=f9e152]:
+            - generic [ref=f9e158]:
+              - listitem [ref=f9e163]:
+                - generic [ref=f9e165]:
+                  - heading "Feed post" [level=2]
+                  - generic [ref=f9e167]:
+                    - link [ref=f9e168] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/dr-kat-page-2366514/
+                      - figure [ref=f9e169]
+                    - generic [ref=f9e171]:
+                      - link [ref=f9e174] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/dr-kat-page-2366514/
+                        - generic "Dr Kat Page Premium Profile 1st" [ref=f9e176]:
+                          - paragraph [ref=f9e179]: Dr Kat Page
+                          - paragraph [ref=f9e181]:
+                            - generic [ref=f9e182]: • 1st
+                      - paragraph [ref=f9e186]: Organisational Psychologist | Author of Good Work | Helping Leaders Build Workplaces Where People Thrive | Speaker
+                      - link [ref=f9e190] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Famzn%2Eto%2F3RlznZT&urlhash=EG2n&mt=kk7LV_EtnmbUk0iPu0-Tmlv7nv0F-Iysfu5f1TY7vP6YlgWBEvXCsMwXUE2SNPTyxy0X8DFuFlgQ9hx7QagJhuL6QWTBliilww7csoc&isSdui=true
+                        - paragraph [ref=f9e191]: Visit my store
+                      - paragraph [ref=f9e193]: 3w
+                      - link "Dr Kat Page Premium Profile 1st":
+                        - /url: https://www.linkedin.com/in/dr-kat-page-2366514/
+                    - button "Open control menu for post by Dr Kat Page" [ref=f9e194] [cursor=pointer]
+                  - paragraph [ref=f9e197]:
+                    - generic [ref=f9e198]:
+                      - text: Still very much buzzing after an incredible evening last night for the Sydney launch of Good Work with my wonderful
+                      - 'link "View company: ByMany" [ref=f9e200] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/company/—bymany/
+                        - strong [ref=f9e201]: ByMany
+                      - text: colleagues
+                      - link "View Kenneth Roberts’ profile" [ref=f9e203] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/kenneth-roberts-03780123/
+                        - strong [ref=f9e204]: Kenneth Roberts
+                      - link "View Gemma Cooke’s profile" [ref=f9e206] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/gemma-cooke-82862489/
+                        - strong [ref=f9e207]: Gemma Cooke
+                      - text: and
+                      - link "View Rearn Norman’s profile" [ref=f9e209] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/rearnnorman/
+                        - strong [ref=f9e210]: Rearn Norman
+                      - text: .The vibe was incredible - to be surrounded by likeminded people in a true display of community was the best. And to sell out every copy the book store had in stock was an added bonus!
+                      - 'link "View company: Berkelouw Books" [ref=f9e212] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/company/berkelouw-books/
+                        - strong [ref=f9e213]: Berkelouw Books
+                      - text: in Paddington was a gorgeous venue that had us conversing amongst the classics - including the Golden Ass 😆
+                      - 'link "View company: ByMany" [ref=f9e215] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/company/—bymany/
+                        - strong [ref=f9e216]: ByMany
+                      - 'link "View company: Wiley" [ref=f9e218] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/company/john-wiley-and-sons/
+                        - strong [ref=f9e219]: Wiley
+                      - link "View Sean Carroll’s profile" [ref=f9e221] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/sean-carroll-322a8b23/
+                        - strong [ref=f9e222]: Sean Carroll
+                      - link "View Greg Sutherland’s profile" [ref=f9e224] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/greg-sutherland-7779b671/
+                        - strong [ref=f9e225]: Greg Sutherland
+                      - link "View Colin Pidd’s profile" [ref=f9e227] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/colin-pidd-280434b/
+                        - strong [ref=f9e228]: Colin Pidd
+                      - link "View Anton Zelcer’s profile" [ref=f9e230] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/antonzelcer/
+                        - strong [ref=f9e231]: Anton Zelcer
+                      - link "View Karen Hamilton’s profile" [ref=f9e233] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/karenhamiltonconsulting/
+                        - strong [ref=f9e234]: Karen Hamilton
+                      - link "View Marin Cameron’s profile" [ref=f9e236] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/marin-cameron-aabaa9368/
+                        - strong [ref=f9e237]: Marin Cameron
+                      - link "View Sacha Keenan’s profile" [ref=f9e239] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/sacha-keenan-75575394/
+                        - strong [ref=f9e240]: Sacha Keenan
+                      - link "View Marli Rendell’s profile" [ref=f9e242] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/marli-rendell/
+                        - strong [ref=f9e243]: Marli Rendell
+                      - 'link "View hashtag: #goodwork" [ref=f9e245] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23goodwork&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=f9e246]: "#goodwork"
+                      - 'link "View hashtag: #booklaunch" [ref=f9e248] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23booklaunch&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=f9e249]: "#booklaunch"
+                      - link "View Kelly Irving’s profile" [ref=f9e251] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/kelly-irving/
+                        - strong [ref=f9e252]: Kelly Irving
+                  - generic [ref=f9e255]:
+                    - link [ref=f9e256] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - img "View image" [ref=f9e257]
+                    - generic [ref=f9e258]:
+                      - link [ref=f9e260] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/
+                        - img "View image" [ref=f9e261]
+                      - link [ref=f9e263] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/
+                        - img "View image" [ref=f9e264]
+                      - generic [ref=f9e265]:
+                        - link [ref=f9e266] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/
+                          - img "View image" [ref=f9e267]
+                        - link [ref=f9e268] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/
+                          - generic "2 more images" [ref=f9e269]:
+                            - paragraph [ref=f9e270]: "+2"
+                  - generic [ref=f9e271]:
+                    - link [ref=f9e272] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "Switch to different account" [ref=f9e273]:
+                        - figure [aria-hidden] [ref=f9e274]
+                    - generic [ref=f9e276]:
+                      - 'button "Reaction button state: no reaction" [ref=f9e279] [cursor=pointer]':
+                        - generic [ref=f9e280]: "136"
+                      - button "Open reactions menu"
+                    - button "Comment" [ref=f9e285] [cursor=pointer]:
+                      - generic [ref=f9e286]: "15"
+                    - button "Repost" [ref=f9e291] [cursor=pointer]:
+                      - generic [ref=f9e292]: "1"
+                    - link "Send" [ref=f9e297] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                    - link [ref=f9e300] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "136 reactions" [ref=f9e301]
+                - generic [ref=f9e310]:
+                  - status [ref=f9e313]
+                  - generic [ref=f9e314]:
+                    - button "Show Emoji Picker" [ref=f9e315] [cursor=pointer]
+                    - button "Open GIF picker" [ref=f9e320] [cursor=pointer]
+                    - button "Share photo" [ref=f9e323] [cursor=pointer]
+              - generic [ref=f9e326]:
+                - link:
+                  - /url: https://www.linkedin.com/
+                - generic [ref=f9e327]:
+                  - link:
+                    - /url: https://www.linkedin.com/
+                  - generic [ref=f9e328]:
+                    - link:
+                      - /url: https://www.linkedin.com/
+                    - link [ref=f9e329] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/hayden-fricke/
+                      - generic "Hayden Fricke reacted with Like" [ref=f9e330]:
+                        - figure [aria-hidden] [ref=f9e331]
+                    - link [ref=f9e333] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/dr-kat-page-2366514/
+                      - generic "Dr Kat Page reacted with Like" [ref=f9e334]:
+                        - figure [aria-hidden] [ref=f9e335]
+                    - link [ref=f9e337] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/ellazhangsyd/
+                      - generic "Ella Zhang reacted with Like" [ref=f9e338]:
+                        - figure [aria-hidden] [ref=f9e339]
+                    - link [ref=f9e341] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/sallyconsulting/
+                      - generic "Sally Clarke reacted with Love" [ref=f9e342]:
+                        - figure [aria-hidden] [ref=f9e343]
+                    - link [ref=f9e345] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/gagan-mudhar/
+                      - generic "Gagan Mudhar reacted with Love" [ref=f9e346]:
+                        - figure [aria-hidden] [ref=f9e347]
+                    - link [ref=f9e349] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/antonzelcer/
+                      - generic "Anton Zelcer reacted with Like" [ref=f9e350]:
+                        - figure [aria-hidden] [ref=f9e351]
+                    - link [ref=f9e353] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/nikkilangman1/
+                      - generic "Nikki Torres Langman reacted with Like" [ref=f9e354]:
+                        - figure [aria-hidden] [ref=f9e355]
+                    - link [ref=f9e357] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/donna-hutchison/
+                      - generic "Donna Hutchison reacted with Like" [ref=f9e358]:
+                        - figure [aria-hidden] [ref=f9e359]
+                    - link "View all reactions" [ref=f9e361] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+              - button [ref=f9e366] [cursor=pointer]:
+                - paragraph [ref=f9e370]: Most relevant
+              - generic [ref=f9e376]:
+                - link [ref=f9e378] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/sonia-clarke/
+                  - figure [ref=f9e379]
+                - generic [ref=f9e380]:
+                  - generic [ref=f9e382]:
+                    - link "Sonia Clarke Verified Profile 1st Founder, Clever Manka | Writer, The Collective Code | Facilitator & collaboration designer" [ref=f9e383] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/sonia-clarke/
+                      - generic [ref=f9e384]:
+                        - paragraph [ref=f9e388]:
+                          - generic [ref=f9e389]:
+                            - generic [ref=f9e390]: Sonia Clarke Verified Profile 1st
+                            - generic [aria-hidden] [ref=f9e391]:
+                              - text: Sonia Clarke
+                              - generic [ref=f9e394]: • 1st
+                        - paragraph [ref=f9e396]: Founder, Clever Manka | Writer, The Collective Code | Facilitator & collaboration designer
+                    - paragraph [ref=f9e398]: 3w
+                    - button "View more options for Sonia Clarke’s comment." [ref=f9e399] [cursor=pointer]
+                  - paragraph [ref=f9e405]:
+                    - generic [ref=f9e406]: Congratulations!
+                  - generic [ref=f9e409]:
+                    - generic [ref=f9e410]:
+                      - button "0" [ref=f9e413] [cursor=pointer]:
+                        - generic [ref=f9e414]:
+                          - generic:
+                            - paragraph:
+                              - generic: "0"
+                      - button "Open reactions menu"
+                    - generic [ref=f9e417]:
+                      - button "Reply" [ref=f9e418] [cursor=pointer]
+                      - paragraph [ref=f9e422]:
+                        - generic [ref=f9e423]:
+                          - generic [ref=f9e424]: "1"
+                          - text: "1"
+              - generic [ref=f9e429]:
+                - link [ref=f9e431] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/dr-kat-page-2366514/
+                  - figure [ref=f9e432]
+                - generic [ref=f9e433]:
+                  - generic [ref=f9e435]:
+                    - link [ref=f9e436] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/dr-kat-page-2366514/
+                      - generic [ref=f9e437]:
+                        - generic [ref=f9e438]:
+                          - paragraph [ref=f9e441]: Dr Kat Page
+                          - paragraph [ref=f9e442]: Author
+                        - paragraph [ref=f9e444]: Organisational Psychologist | Author of Good Work | Helping Leaders Build Workplaces Where People Thrive | Speaker
+                    - paragraph [ref=f9e446]: 3w
+                    - button "View more options for Dr Kat Page’s comment." [ref=f9e447] [cursor=pointer]
+                  - paragraph [ref=f9e453]:
+                    - generic [ref=f9e454]:
+                      - link "View Sonia Clarke’s profile" [ref=f9e456] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/sonia-clarke/
+                        - strong [ref=f9e457]: Sonia Clarke
+                      - text: thank you! We are due that catch up too
+                  - generic [ref=f9e459]:
+                    - generic [ref=f9e460]:
+                      - generic [ref=f9e461]:
+                        - button "1 reaction" [ref=f9e464] [cursor=pointer]:
+                          - paragraph [ref=f9e468]:
+                            - generic [ref=f9e469]:
+                              - generic [ref=f9e470]: 1 reaction
+                              - text: "1"
+                        - button "Open reactions menu"
+                      - button "Reply" [ref=f9e472] [cursor=pointer]
+                    - link [ref=f9e475] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+              - generic [ref=f9e481]:
+                - link [ref=f9e483] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/rachael-trotter-09994a22/
+                  - figure [ref=f9e484]
+                - generic [ref=f9e485]:
+                  - generic [ref=f9e487]:
+                    - 'link "Rachael Trotter Premium Profile 2nd Senior Leader, People & Culture: Driving business outcomes through strategic people solutions." [ref=f9e488] [cursor=pointer]':
+                      - /url: https://www.linkedin.com/in/rachael-trotter-09994a22/
+                      - generic [ref=f9e489]:
+                        - paragraph [ref=f9e493]:
+                          - generic [ref=f9e494]:
+                            - generic [ref=f9e495]: Rachael Trotter Premium Profile 2nd
+                            - generic [aria-hidden] [ref=f9e496]:
+                              - text: Rachael Trotter
+                              - generic [ref=f9e499]: • 2nd
+                        - paragraph [ref=f9e501]: "Senior Leader, People & Culture: Driving business outcomes through strategic people solutions."
+                    - paragraph [ref=f9e503]: 3w
+                    - button [ref=f9e505] [cursor=pointer]:
+                      - generic "Follow Rachael Trotter" [ref=f9e506]:
+                        - paragraph [ref=f9e508]: Follow
+                    - button "View more options for Rachael Trotter’s comment." [ref=f9e509] [cursor=pointer]
+                  - paragraph [ref=f9e515]:
+                    - generic [ref=f9e516]: Congratulations on the book and thank you for a great evening at Berkelouw Books. I can't wait to read Good Work!
+                  - generic [ref=f9e518]:
+                    - generic [ref=f9e519]:
+                      - generic [ref=f9e520]:
+                        - button "3 reactions" [ref=f9e523] [cursor=pointer]:
+                          - paragraph [ref=f9e527]:
+                            - generic [ref=f9e528]:
+                              - generic [ref=f9e529]: 3 reactions
+                              - text: "3"
+                        - button "Open reactions menu"
+                      - generic [ref=f9e530]:
+                        - button "Reply" [ref=f9e531] [cursor=pointer]
+                        - paragraph [ref=f9e535]:
+                          - generic [ref=f9e536]:
+                            - generic [ref=f9e537]: "1"
+                            - text: "1"
+                    - link [ref=f9e538] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+              - generic [ref=f9e545]:
+                - link [ref=f9e547] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/dr-kat-page-2366514/
+                  - figure [ref=f9e548]
+                - generic [ref=f9e549]:
+                  - generic [ref=f9e551]:
+                    - link [ref=f9e552] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/dr-kat-page-2366514/
+                      - generic [ref=f9e553]:
+                        - generic [ref=f9e554]:
+                          - paragraph [ref=f9e557]: Dr Kat Page
+                          - paragraph [ref=f9e558]: Author
+                        - paragraph [ref=f9e560]: Organisational Psychologist | Author of Good Work | Helping Leaders Build Workplaces Where People Thrive | Speaker
+                    - paragraph [ref=f9e562]: 3w
+                    - button "View more options for Dr Kat Page’s comment." [ref=f9e563] [cursor=pointer]
+                  - paragraph [ref=f9e569]:
+                    - generic [ref=f9e570]:
+                      - link "View Rachael Trotter’s profile" [ref=f9e572] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/rachael-trotter-09994a22/
+                        - strong [ref=f9e573]: Rachael Trotter
+                      - text: loved hanging out with you! 🥂
+                  - generic [ref=f9e575]:
+                    - generic [ref=f9e576]:
+                      - generic [ref=f9e577]:
+                        - button "1 reaction" [ref=f9e580] [cursor=pointer]:
+                          - paragraph [ref=f9e584]:
+                            - generic [ref=f9e585]:
+                              - generic [ref=f9e586]: 1 reaction
+                              - text: "1"
+                        - button "Open reactions menu"
+                      - button "Reply" [ref=f9e588] [cursor=pointer]
+                    - link [ref=f9e591] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+              - generic [ref=f9e597]:
+                - link [ref=f9e599] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/craiglewis-msft/
+                  - figure [ref=f9e600]
+                - generic [ref=f9e601]:
+                  - generic [ref=f9e603]:
+                    - link "Craig L. Premium Profile 2nd Mindful & Compassionate | AI, Cloud & Cyber Security Leader | Enterprise Security Outcomes & Platform Adoption | Microsoft Security Leadership | Trusted Advisor to CISOs & Executive Leaders" [ref=f9e604] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/craiglewis-msft/
+                      - generic [ref=f9e605]:
+                        - paragraph [ref=f9e609]:
+                          - generic [ref=f9e610]:
+                            - generic [ref=f9e611]: Craig L. Premium Profile 2nd
+                            - generic [aria-hidden] [ref=f9e612]:
+                              - text: Craig L.
+                              - generic [ref=f9e615]: • 2nd
+                        - paragraph [ref=f9e617]: Mindful & Compassionate | AI, Cloud & Cyber Security Leader | Enterprise Security Outcomes & Platform Adoption | Microsoft Security Leadership | Trusted Advisor to CISOs & Executive Leaders
+                    - paragraph [ref=f9e619]: 3w
+                    - button "View more options for Craig L.’s comment." [ref=f9e620] [cursor=pointer]
+                  - paragraph [ref=f9e626]:
+                    - generic [ref=f9e627]:
+                      - text: congratulations on the expansion in SYD... On the subject of expansion, once I finished your book, I gifted to
+                      - link "View Lynn Smyth’s profile" [ref=f9e629] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/lynnsmyth/
+                        - strong [ref=f9e630]: Lynn Smyth
+                      - text: in the Melbourne office. She loved it so much it got dog eared, well read and bought me another copy, so I have a pristine version again! Wonderful! Wishing you every success!
+                  - generic [ref=f9e633]:
+                    - generic [ref=f9e634]:
+                      - button "0" [ref=f9e637] [cursor=pointer]:
+                        - generic [ref=f9e638]:
+                          - generic:
+                            - paragraph:
+                              - generic: "0"
+                      - button "Open reactions menu"
+                    - generic [ref=f9e641]:
+                      - button "Reply" [ref=f9e642] [cursor=pointer]
+                      - paragraph [ref=f9e646]:
+                        - generic [ref=f9e647]:
+                          - generic [ref=f9e648]: "1"
+                          - text: "1"
+              - generic [ref=f9e653]:
+                - link [ref=f9e655] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/dr-kat-page-2366514/
+                  - figure [ref=f9e656]
+                - generic [ref=f9e657]:
+                  - generic [ref=f9e659]:
+                    - link [ref=f9e660] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/dr-kat-page-2366514/
+                      - generic [ref=f9e661]:
+                        - generic [ref=f9e662]:
+                          - paragraph [ref=f9e665]: Dr Kat Page
+                          - paragraph [ref=f9e666]: Author
+                        - paragraph [ref=f9e668]: Organisational Psychologist | Author of Good Work | Helping Leaders Build Workplaces Where People Thrive | Speaker
+                    - paragraph [ref=f9e670]: 3w
+                    - button "View more options for Dr Kat Page’s comment." [ref=f9e671] [cursor=pointer]
+                  - paragraph [ref=f9e677]:
+                    - generic [ref=f9e678]: Craig Lewis thank you so much!
+                  - generic [ref=f9e680]:
+                    - generic [ref=f9e681]:
+                      - generic [ref=f9e682]:
+                        - button "1 reaction" [ref=f9e685] [cursor=pointer]:
+                          - paragraph [ref=f9e689]:
+                            - generic [ref=f9e690]:
+                              - generic [ref=f9e691]: 1 reaction
+                              - text: "1"
+                        - button "Open reactions menu"
+                      - button "Reply" [ref=f9e693] [cursor=pointer]
+                    - link [ref=f9e696] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+              - generic [ref=f9e702]:
+                - link [ref=f9e704] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/robynhawke/
+                  - figure [ref=f9e705]
+                - generic [ref=f9e706]:
+                  - generic [ref=f9e708]:
+                    - link "Robyn Hawke 2nd Award-winning Interior Designer | Workspace Design Expert | Keynote Speaker | Media Commentator I MDIA I Accredited Kitchen & Bathroom Designer" [ref=f9e709] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/robynhawke/
+                      - generic [ref=f9e710]:
+                        - paragraph [ref=f9e714]:
+                          - generic [ref=f9e715]:
+                            - generic [ref=f9e716]: Robyn Hawke 2nd
+                            - generic [aria-hidden] [ref=f9e717]:
+                              - text: Robyn Hawke
+                              - generic [ref=f9e718]: • 2nd
+                        - paragraph [ref=f9e720]: Award-winning Interior Designer | Workspace Design Expert | Keynote Speaker | Media Commentator I MDIA I Accredited Kitchen & Bathroom Designer
+                    - paragraph [ref=f9e722]: 3w
+                    - button [ref=f9e724] [cursor=pointer]:
+                      - generic "Follow Robyn Hawke" [ref=f9e725]:
+                        - paragraph [ref=f9e727]: Follow
+                    - button "View more options for Robyn Hawke’s comment." [ref=f9e728] [cursor=pointer]
+                  - paragraph [ref=f9e734]:
+                    - generic [ref=f9e735]: Thank you for the invite, it was a wonderful evening
+                  - generic [ref=f9e738]:
+                    - generic [ref=f9e739]:
+                      - button "0" [ref=f9e742] [cursor=pointer]:
+                        - generic [ref=f9e743]:
+                          - generic:
+                            - paragraph:
+                              - generic: "0"
+                      - button "Open reactions menu"
+                    - generic [ref=f9e746]:
+                      - button "Reply" [ref=f9e747] [cursor=pointer]
+                      - paragraph [ref=f9e751]:
+                        - generic [ref=f9e752]:
+                          - generic [ref=f9e753]: "1"
+                          - text: "1"
+              - generic [ref=f9e758]:
+                - link [ref=f9e760] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/dr-kat-page-2366514/
+                  - figure [ref=f9e761]
+                - generic [ref=f9e762]:
+                  - generic [ref=f9e764]:
+                    - link [ref=f9e765] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/dr-kat-page-2366514/
+                      - generic [ref=f9e766]:
+                        - generic [ref=f9e767]:
+                          - paragraph [ref=f9e770]: Dr Kat Page
+                          - paragraph [ref=f9e771]: Author
+                        - paragraph [ref=f9e773]: Organisational Psychologist | Author of Good Work | Helping Leaders Build Workplaces Where People Thrive | Speaker
+                    - paragraph [ref=f9e775]: 3w
+                    - button "View more options for Dr Kat Page’s comment." [ref=f9e776] [cursor=pointer]
+                  - paragraph [ref=f9e782]:
+                    - generic [ref=f9e783]:
+                      - link "View Robyn Hawke’s profile" [ref=f9e785] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/robynhawke/
+                        - strong [ref=f9e786]: Robyn Hawke
+                      - text: thanks so much for coming!
+                  - generic [ref=f9e788]:
+                    - generic [ref=f9e789]:
+                      - generic [ref=f9e790]:
+                        - button "1 reaction" [ref=f9e793] [cursor=pointer]:
+                          - paragraph [ref=f9e797]:
+                            - generic [ref=f9e798]:
+                              - generic [ref=f9e799]: 1 reaction
+                              - text: "1"
+                        - button "Open reactions menu"
+                      - button "Reply" [ref=f9e801] [cursor=pointer]
+                    - link [ref=f9e804] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+          - complementary "Aside" [ref=f9e933]:
+            - generic [ref=f9e939]:
+              - generic [ref=f9e940]:
+                - link [ref=f9e941] [cursor=pointer]:
+                  - /url: https://about.linkedin.com/
+                  - paragraph [ref=f9e942]: About
+                - link [ref=f9e943] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/accessibility/
+                  - paragraph [ref=f9e944]: Accessibility
+                - link [ref=f9e945] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin/
+                  - paragraph [ref=f9e946]: Help Center
+                - button [ref=f9e947] [cursor=pointer]:
+                  - paragraph [ref=f9e949]: Privacy & Terms
+                - link [ref=f9e951] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin/answer/62931/
+                  - paragraph [ref=f9e952]: Ad Choices
+                - link [ref=f9e953] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/ad/start/?trk=n_nav_ads_rr
+                  - paragraph [ref=f9e954]: Advertising
+                - button [ref=f9e955] [cursor=pointer]:
+                  - paragraph [ref=f9e957]: Business Services
+                - link [ref=f9e959] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/mobile/
+                  - paragraph [ref=f9e960]: Get the LinkedIn app
+                - link [ref=f9e961] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/
+                  - paragraph [ref=f9e962]: More
+              - paragraph [ref=f9e965]: LinkedIn Corporation © 2026

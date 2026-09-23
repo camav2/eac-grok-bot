@@ -1,0 +1,550 @@
+- generic [ref=f75e2]:
+  - heading "0 notifications" [level=2] [ref=f75e483]
+  - generic [ref=f75e484]:
+    - generic:
+      - generic "Skip navigation menu":
+        - generic [ref=f75e485]:
+          - button "Skip to search" [ref=f75e486] [cursor=pointer]
+          - button "Skip to main content" [ref=f75e489] [cursor=pointer]
+          - button "Skip to sidebar" [ref=f75e492] [cursor=pointer]
+          - button "Skip to primary content" [ref=f75e495] [cursor=pointer]
+          - button "Skip to aside" [ref=f75e498] [cursor=pointer]
+          - button "Close jump menu" [ref=f75e502] [cursor=pointer]
+    - generic [ref=f75e506]:
+      - banner [ref=f75e508]:
+        - generic [ref=f75e511]:
+          - button [ref=f75e512] [cursor=pointer]:
+            - img "LinkedIn" [ref=f75e513]
+          - generic [ref=f75e515]:
+            - status [ref=f75e516]
+            - search [ref=f75e517]:
+              - textbox "I'm looking for…" [ref=f75e522]
+          - generic [ref=f75e524]:
+            - figure [aria-hidden] [ref=f75e1367]
+            - navigation [ref=f75e528]:
+              - list [ref=f75e529]:
+                - listitem [ref=f75e530]:
+                  - button "Home, 1 new notification" [ref=f75e531] [cursor=pointer]:
+                    - generic [ref=f75e536]: Home
+                - listitem [ref=f75e538]:
+                  - link "My Network, 26 new notifications" [ref=f75e539] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork
+                    - generic [ref=f75e540]: "26"
+                    - generic [ref=f75e544]: My Network
+                - listitem [ref=f75e546]:
+                  - link "Jobs, 0 new notifications" [ref=f75e547] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/
+                    - generic [ref=f75e551]: Jobs
+                - listitem [ref=f75e553]:
+                  - link "Messaging, 2 new notifications" [ref=f75e554] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/messaging/
+                    - generic [ref=f75e555]: "2"
+                    - generic [ref=f75e559]: Messaging
+                - listitem [ref=f75e561]:
+                  - link "Notifications, 16 new notifications" [ref=f75e562] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/notifications/
+                    - generic [ref=f75e563]: "16"
+                    - generic [ref=f75e567]: Notifications
+                - listitem [ref=f75e569]:
+                  - button "Me" [ref=f75e570] [cursor=pointer]:
+                    - figure [aria-hidden] [ref=f75e572]
+            - navigation [ref=f75e579]:
+              - list [ref=f75e580]:
+                - listitem [ref=f75e581]:
+                  - button "For Business" [ref=f75e582] [cursor=pointer]
+                - listitem [ref=f75e590]:
+                  - link "Advertise, 3 new notifications" [ref=f75e591] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/campaignmanager/accounts/
+                    - generic [ref=f75e592]: "3"
+                    - generic [ref=f75e597]: Advertise
+      - main [ref=f75e601]:
+        - generic [ref=f75e603]:
+          - complementary "Sidebar" [ref=f75e604]:
+            - generic [ref=f75e607]:
+              - generic [ref=f75e611]:
+                - link [ref=f75e612] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/kelly-irving/
+                  - generic [ref=f75e613]:
+                    - generic [ref=f75e614]:
+                      - figure [aria-hidden] [ref=f75e615]
+                      - paragraph [ref=f75e617]: Premium
+                    - figure [ref=f75e620]:
+                      - img "Kelly Irving" [ref=f75e621]
+                - generic [ref=f75e622]:
+                  - link [ref=f75e623] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic "Kelly Irving, Book coach and editor for changemakers and trailblazers / Publishing gymnast, Anglesea, Victoria, Premium profile" [ref=f75e624]:
+                      - generic [ref=f75e625]:
+                        - paragraph [ref=f75e627]: Kelly Irving
+                        - img "Premium profile" [ref=f75e628]
+                      - paragraph [ref=f75e631]: Book coach and editor for changemakers and trailblazers / Publishing gymnast
+                      - paragraph [ref=f75e632]: Anglesea, Victoria
+                  - link [ref=f75e633] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic [ref=f75e634]:
+                      - figure [aria-hidden] [ref=f75e635]
+                      - paragraph [ref=f75e636]: Expert Author Community
+              - generic [ref=f75e638]:
+                - menu [ref=f75e639]:
+                  - link [ref=f75e641] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/me/profile-views/
+                    - generic "Profile viewers 297" [ref=f75e642]:
+                      - paragraph [ref=f75e644]: Profile viewers
+                      - paragraph [ref=f75e645]: "297"
+                  - link [ref=f75e647] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/analytics/creator/content/
+                    - generic "Post impressions 1,285" [ref=f75e648]:
+                      - paragraph [ref=f75e650]: Post impressions
+                      - paragraph [ref=f75e651]: 1,285
+                - menu [ref=f75e652]:
+                  - link [ref=f75e654] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/premium/my-premium/
+                    - paragraph [ref=f75e659]: Your Premium features
+          - region "Primary content" [ref=f75e660]:
+            - generic [ref=f75e666]:
+              - listitem [ref=f75e670]:
+                - generic [ref=f75e672]:
+                  - heading "Feed post" [level=2]
+                  - generic [ref=f75e674]:
+                    - link [ref=f75e675] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/lisa-taylor-83226195/
+                      - figure [ref=f75e676]:
+                        - img "View Lisa Taylor’s profile" [ref=f75e677]
+                    - generic [ref=f75e679]:
+                      - link [ref=f75e682] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/lisa-taylor-83226195/
+                        - generic "Lisa Taylor Verified Profile 1st" [ref=f75e684]:
+                          - paragraph [ref=f75e687]: Lisa Taylor
+                          - paragraph [ref=f75e689]:
+                            - generic [ref=f75e690]: • 1st
+                      - paragraph [ref=f75e695]: Leadership & Relationships Consultant | Family Therapist | Educator | Keynote Speaker | Author of The Perfect Parent Trap | Helping leaders, teams and families understand the patterns beneath behaviour
+                      - paragraph [ref=f75e697]: 1w
+                      - link "Lisa Taylor Verified Profile 1st":
+                        - /url: https://www.linkedin.com/in/lisa-taylor-83226195/
+                    - button "Open control menu for post by Lisa Taylor" [ref=f75e698] [cursor=pointer]
+                  - paragraph [ref=f75e702]:
+                    - generic [ref=f75e703]:
+                      - text: There is something so special about the intimate conversation we can have about what's really at the heart of our relationships. It was my privilege to spend time with the staff and parent community at Holy Spirit Catholic Primary School and
+                      - link "View Rachel Holdsworth’s profile" [ref=f75e705] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/rachel-holdsworth-b40223274/
+                        - strong [ref=f75e706]: Rachel Holdsworth
+                      - text: .What stayed with me most was the openness in the room, the willingness to reflect not only on children’s behaviour, but on
+                      - strong [ref=f75e707]: what happens within us in relationship with them
+                      - text: ".That takes courage.Because understanding behaviour isn’t simply about asking, “What is this child doing?” It’s also being willing to ask:"
+                      - strong [ref=f75e708]: “Am I responding to the child in front of me, or reacting from the child within me?”
+                      - text: There was such honesty, curiosity and compassion in the conversations we shared.Thank you Rachel and the Holy Spirit team for trusting me with your community, and for creating a culture where staff and families are encouraged to reflect, grow and stay connected through the hard moments.This is where meaningful change begins - in relationship. ❤️
+                  - generic [ref=f75e709]:
+                    - generic [ref=f75e710]:
+                      - link [ref=f75e711] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/rachel-holdsworth-b40223274/
+                        - figure [ref=f75e712]:
+                          - img "View Rachel Holdsworth’s profile" [ref=f75e713]
+                      - generic [ref=f75e715]:
+                        - link [ref=f75e718] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/rachel-holdsworth-b40223274/
+                          - generic "Rachel Holdsworth Premium Profile 1st" [ref=f75e720]:
+                            - paragraph [ref=f75e723]: Rachel Holdsworth
+                            - paragraph [ref=f75e725]:
+                              - generic [ref=f75e726]: • 1st
+                        - paragraph [ref=f75e731]: School Principal @ Melbourne Archdiocese Catholic Schools | Educational Leadership, ACPPA Director, VACPSP Executive Leadership
+                        - paragraph [ref=f75e733]: 1w
+                        - link "Rachel Holdsworth Premium Profile 1st":
+                          - /url: https://www.linkedin.com/in/rachel-holdsworth-b40223274/
+                    - link [ref=f75e734] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:share:7504853264405032960/
+                      - paragraph [ref=f75e735]:
+                        - generic [ref=f75e736]:
+                          - text: We were incredibly grateful to welcome
+                          - link "View Lisa Taylor’s profile" [ref=f75e738]:
+                            - /url: https://www.linkedin.com/in/lisa-taylor-83226195/
+                            - strong [ref=f75e739]: Lisa Taylor
+                          - text: to the Holy Spirit community, working alongside both our staff and students. Her wisdom, warmth and practical insights enriched us all, giving us much to reflect on and inspiring us to continue supporting our children and families with greater connection, compassion and understanding. Thank you, Lisa, for sharing your time, expertise and heart with us.
+                          - button [aria-hidden] [ref=f75e740]:
+                            - generic [ref=f75e741]: … more
+                    - link [ref=f75e744] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/posts/lisa-taylor-83226195_there-is-something-so-special-about-the-intimate-share-7505756457829621764-gzmb/
+                      - figure [ref=f75e745]:
+                        - img "View image" [ref=f75e746]
+                  - generic [ref=f75e747]:
+                    - link [ref=f75e748] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/posts/lisa-taylor-83226195_there-is-something-so-special-about-the-intimate-share-7505756457829621764-gzmb/
+                      - generic "Switch to different account" [ref=f75e749]:
+                        - figure [aria-hidden] [ref=f75e750]
+                    - generic [ref=f75e753]:
+                      - 'button "Reaction button state: Like" [ref=f75e1368] [cursor=pointer]':
+                        - generic [ref=f75e757]: "10"
+                      - button "Open reactions menu":
+                        - generic [ref=f75e766] [cursor=pointer]
+                    - button "Comment" [ref=f75e769] [cursor=pointer]:
+                      - generic [ref=f75e770]: "1"
+                    - button "Repost" [ref=f75e776] [cursor=pointer]
+                    - link "Send" [ref=f75e780] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/posts/lisa-taylor-83226195_there-is-something-so-special-about-the-intimate-share-7505756457829621764-gzmb/
+                    - link [ref=f75e784] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/posts/lisa-taylor-83226195_there-is-something-so-special-about-the-intimate-share-7505756457829621764-gzmb/
+                      - generic "10 reactions" [ref=f75e785]
+                - generic [ref=f75e803]:
+                  - generic [ref=f75e805]:
+                    - status [ref=f75e806]
+                    - textbox "Text editor for creating comment" [ref=f75e809]:
+                      - paragraph [ref=f75e810]: Add a comment...
+                  - generic [ref=f75e811]:
+                    - button "Show Emoji Picker" [ref=f75e812] [cursor=pointer]
+                    - button "Open GIF picker" [ref=f75e818] [cursor=pointer]
+                    - button "Share photo" [ref=f75e822] [cursor=pointer]
+              - link [ref=f75e826] [cursor=pointer]:
+                - /url: https://www.linkedin.com/posts/lisa-taylor-83226195_there-is-something-so-special-about-the-intimate-share-7505756457829621764-gzmb/
+                - generic [ref=f75e828]:
+                  - link [ref=f75e1374]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic "Kelly Irving reacted with Like" [ref=f75e1375]:
+                      - figure [aria-hidden] [ref=f75e1376]
+                  - link [ref=f75e838]:
+                    - /url: https://www.linkedin.com/in/benitabensch/
+                    - generic "Benita Bensch reacted with Love" [ref=f75e839]:
+                      - figure [aria-hidden] [ref=f75e840]
+                  - link [ref=f75e847]:
+                    - /url: https://www.linkedin.com/in/ninawitenden/
+                    - generic "Nina Witenden reacted with Like" [ref=f75e848]:
+                      - figure [aria-hidden] [ref=f75e849]
+                  - link [ref=f75e856]:
+                    - /url: https://www.linkedin.com/in/rachel-holdsworth-b40223274/
+                    - generic "Rachel Holdsworth reacted with Love" [ref=f75e857]:
+                      - figure [aria-hidden] [ref=f75e858]
+                  - link [ref=f75e865]:
+                    - /url: https://www.linkedin.com/in/nicole-o-sullivan/
+                    - generic "Nicole O'Sullivan reacted with Like" [ref=f75e866]:
+                      - figure [aria-hidden] [ref=f75e867]
+                  - link [ref=f75e874]:
+                    - /url: https://www.linkedin.com/in/sarahpatterson23/
+                    - generic "Sarah Patterson reacted with Like" [ref=f75e875]:
+                      - figure [aria-hidden] [ref=f75e876]
+                  - link [ref=f75e883]:
+                    - /url: https://www.linkedin.com/in/sabinaread/
+                    - generic "Sabina Read reacted with Like" [ref=f75e884]:
+                      - figure [aria-hidden] [ref=f75e885]
+                  - link [ref=f75e892]:
+                    - /url: https://www.linkedin.com/in/poornima-peri-9182221a9/
+                    - generic "Poornima Peri reacted with Like" [ref=f75e893]:
+                      - figure [aria-hidden] [ref=f75e894]
+                  - link "View all reactions" [ref=f75e1383]:
+                    - /url: https://www.linkedin.com/posts/lisa-taylor-83226195_there-is-something-so-special-about-the-intimate-share-7505756457829621764-gzmb/
+              - generic [ref=f75e910]:
+                - link [ref=f75e912] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/rachel-holdsworth-b40223274/
+                  - figure [ref=f75e913]:
+                    - img "View Rachel Holdsworth’s profile" [ref=f75e914]
+                - generic [ref=f75e915]:
+                  - generic [ref=f75e917]:
+                    - link "Rachel Holdsworth Premium Profile 1st School Principal @ Melbourne Archdiocese Catholic Schools | Educational Leadership, ACPPA Director, VACPSP Executive Leadership" [ref=f75e918] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/rachel-holdsworth-b40223274/
+                      - generic [ref=f75e919]:
+                        - paragraph [ref=f75e923]:
+                          - generic [ref=f75e924]:
+                            - generic [ref=f75e925]: Rachel Holdsworth Premium Profile 1st
+                            - generic [aria-hidden] [ref=f75e926]:
+                              - text: Rachel Holdsworth
+                              - generic [ref=f75e930]: • 1st
+                        - paragraph [ref=f75e932]: School Principal @ Melbourne Archdiocese Catholic Schools | Educational Leadership, ACPPA Director, VACPSP Executive Leadership
+                    - paragraph [ref=f75e934]: 1d
+                    - button "View more options for Rachel Holdsworth’s comment." [ref=f75e935] [cursor=pointer]
+                  - paragraph [ref=f75e942]:
+                    - generic [ref=f75e943]:
+                      - text: So grateful
+                      - link "View Lisa Taylor’s profile" [ref=f75e945] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/lisa-taylor-83226195/
+                        - strong [ref=f75e946]: Lisa Taylor
+                      - text: 😍
+                  - generic [ref=f75e949]:
+                    - generic [ref=f75e950]:
+                      - 'button "Reaction button state: no reaction 0" [ref=f75e953] [cursor=pointer]':
+                        - generic [ref=f75e954]:
+                          - 'img "Reaction button state: no reaction" [ref=f75e955]'
+                          - generic:
+                            - paragraph:
+                              - generic: "0"
+                      - button "Open reactions menu":
+                        - generic [ref=f75e958] [cursor=pointer]
+                    - button "Reply" [ref=f75e962] [cursor=pointer]
+          - complementary "Aside" [ref=f75e966]:
+            - generic [ref=f75e969]:
+              - iframe [ref=f75e972]:
+                - generic [ref=f77e2]:
+                  - generic: Ad
+                  - img "overflow-web-small" [ref=f77e6] [cursor=pointer]
+                  - link "LinkedIn Ads" [ref=f77e10] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Ftraining.marketing.linkedin.com%2Fpage%2Fcertifications%3Fsrc%3Dli-dynamic%26veh%3DFxOS1xCUSTxDAxAPACxENxPDx202402xMarketingHelpCenterCertificationsxLMSActiveAdvertisersx1194xVisitsxv2a%26mcid%3D7387207749459206144%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGgzY3xne9SV93HlQ5iRliCkUa1jCMq8yPGp1_qfVIgBVYEuDDAYxEY2UYyXqSkM_jklK-XyjtQ2eqzJP2Osy_ruy0-JON_pt-GCprM9oj8zSJgFdQF_x2DQTNt7phLFhR4gVdOKCw9oSdKDDyC-OYhfMlycSkMoXEMl2yk71_5oiZHkoEsNtYWArE9o6fAZ8dRONxwchMSUZOanlIkugaO6WwDxBgYC7OgVipdkgqazUgE1oGD8QKg_bnvCg0KOCtHLy7jwM4aLJhaQNr4E5BkyjP64dyJ17UwhoMOaduk8HC4xM07-YOv9Dg5q4tThhLkveNIFejgCVImLqC5LHBGxBtsoKeZGRnE7LYY9XJa-lR1ujlN3ZBr556VMLsmm0KI2_StjGKmu1NjF1sC0sjWooOIe2bUulPpDMkAPMmUMo9Q74-e6sYoY1xaD4sPUZn-GiiyWip8vI3hBCIMhUJFWHPJpHXSN2DdG5QkM2Cn7ANcTbwWu14dx9rZOVzZ6sjdoADVsDEKT3x8n2_ho1mvrzBbkc2YJnwpBTP45NQwL2-FK28zEiHPu5ZVx_U5qS5tK3WRDu45CrrKwF9YI00LpLg52vChUHexwcYInUDA8bCF04srI7Ry2uPDer1UssFvMVZoMc4JooeH4ltblIkosmyX-dZPhDFAgZQg_q9u_gHJGW24P8xzHtFa2GdHPG7ArUXovGZq9rzfzJsUMDkQkKk2Mfmfx1q3CUHS_WcL_k1ETThABE_sgTyvitBMfDQc4ImyW2247FMwb_4xV-FllaPyC8kgSFKpmx1vR1fqPRB6bSpGM77MUjFFW7F_NVI1b9Yd1G7P1KGzYtmfdAluCKSMPFOt3tudsj45aCHystAqHYa1GEjlhNU-bnLnekzEnUbUn4N0acXt4_OynEigwWnfEkRr3c6W6GFiZikfBylrhg4AkgFwUvoVrIwjQHzQ6lmgmKAbmd5b-o1Oy0CzZ2NtJmH8G5UU6Vjv6E0hCdDHLeWrC9hMdaH63lX_p0UFNl-QDyBrfG661z3kgZZon4r2OzK2JAZBK_1k1EGr0W84IChu97uoh7zz7oFbI9hx9ANGCiGFn_TxFYZiAcRu9OhA5wB4NYUBPJaIumELJ7OnzEu2uemROVi1zYIMDdm9T3ZLO3xHP5GNjnfLkDNwRKftKI_ZcDxsS67bdPkv%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_detail_base%22%2C%22trackingId%22%3A%2291712c8e-d0b3-48de-85af-50c4cfa37bc2%22%7D%2C%22time%22%3A1790155026740%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_detail_base%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                  - generic [ref=f77e11]:
+                    - heading "Kelly, add LinkedIn Ads certifications to your LinkedIn profile" [level=2] [ref=f77e14]
+                    - generic [ref=f77e16]:
+                      - img "Kelly" [ref=f77e17]
+                      - generic [ref=f77e18]:
+                        - link [ref=f77e19] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Ftraining.marketing.linkedin.com%2Fpage%2Fcertifications%3Fsrc%3Dli-dynamic%26veh%3DFxOS1xCUSTxDAxAPACxENxPDx202402xMarketingHelpCenterCertificationsxLMSActiveAdvertisersx1194xVisitsxv2a%26mcid%3D7387207749459206144%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGgzY3xne9SV93HlQ5iRliCkUa1jCMq8yPGp1_qfVIgBVYEuDDAYxEY2UYyXqSkM_jklK-XyjtQ2eqzJP2Osy_ruy0-JON_pt-GCprM9oj8zSJgFdQF_x2DQTNt7phLFhR4gVdOKCw9oSdKDDyC-OYhfMlycSkMoXEMl2yk71_5oiZHkoEsNtYWArE9o6fAZ8dRONxwchMSUZOanlIkugaO6WwDxBgYC7OgVipdkgqazUgE1oGD8QKg_bnvCg0KOCtHLy7jwM4aLJhaQNr4E5BkyjP64dyJ17UwhoMOaduk8HC4xM07-YOv9Dg5q4tThhLkveNIFejgCVImLqC5LHBGxBtsoKeZGRnE7LYY9XJa-lR1ujlN3ZBr556VMLsmm0KI2_StjGKmu1NjF1sC0sjWooOIe2bUulPpDMkAPMmUMo9Q74-e6sYoY1xaD4sPUZn-GiiyWip8vI3hBCIMhUJFWHPJpHXSN2DdG5QkM2Cn7ANcTbwWu14dx9rZOVzZ6sjdoADVsDEKT3x8n2_ho1mvrzBbkc2YJnwpBTP45NQwL2-FK28zEiHPu5ZVx_U5qS5tK3WRDu45CrrKwF9YI00LpLg52vChUHexwcYInUDA8bCF04srI7Ry2uPDer1UssFvMVZoMc4JooeH4ltblIkosmyX-dZPhDFAgZQg_q9u_gHJGW24P8xzHtFa2GdHPG7ArUXovGZq9rzfzJsUMDkQkKk2Mfmfx1q3CUHS_WcL_k1ETThABE_sgTyvitBMfDQc4ImyW2247FMwb_4xV-FllaPyC8kgSFKpmx1vR1fqPRB6bSpGM77MUjFFW7F_NVI1b9Yd1G7P1KGzYtmfdAluCKSMPFOt3tudsj45aCHystAqHYa1GEjlhNU-bnLnekzEnUbUn4N0acXt4_OynEigwWnfEkRr3c6W6GFiZikfBylrhg4AkgFwUvoVrIwjQHzQ6lmgmKAbmd5b-o1Oy0CzZ2NtJmH8G5UU6Vjv6E0hCdDHLeWrC9hMdaH63lX_p0UFNl-QDyBrfG661z3kgZZon4r2OzK2JAZBK_1k1EGr0W84IChu97uoh7zz7oFbI9hx9ANGCiGFn_TxFYZiAcRu9OhA5wB4NYUBPJaIumELJ7OnzEu2uemROVi1zYIMDdm9T3ZLO3xHP5GNjnfLkDNwRKftKI_ZcDxsS67bdPkv%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_detail_base%22%2C%22trackingId%22%3A%2291712c8e-d0b3-48de-85af-50c4cfa37bc2%22%7D%2C%22time%22%3A1790155026740%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_detail_base%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                          - img "LinkedIn Ads" [ref=f77e20]
+                        - tooltip "LinkedIn Ads" [ref=f77e21]
+                    - generic [ref=f77e22]:
+                      - heading "Earn them through our free LinkedIn Ads courses" [level=2] [ref=f77e25]
+                      - link "Get Certified Now" [ref=f77e27] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Ftraining.marketing.linkedin.com%2Fpage%2Fcertifications%3Fsrc%3Dli-dynamic%26veh%3DFxOS1xCUSTxDAxAPACxENxPDx202402xMarketingHelpCenterCertificationsxLMSActiveAdvertisersx1194xVisitsxv2a%26mcid%3D7387207749459206144%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGgzY3xne9SV93HlQ5iRliCkUa1jCMq8yPGp1_qfVIgBVYEuDDAYxEY2UYyXqSkM_jklK-XyjtQ2eqzJP2Osy_ruy0-JON_pt-GCprM9oj8zSJgFdQF_x2DQTNt7phLFhR4gVdOKCw9oSdKDDyC-OYhfMlycSkMoXEMl2yk71_5oiZHkoEsNtYWArE9o6fAZ8dRONxwchMSUZOanlIkugaO6WwDxBgYC7OgVipdkgqazUgE1oGD8QKg_bnvCg0KOCtHLy7jwM4aLJhaQNr4E5BkyjP64dyJ17UwhoMOaduk8HC4xM07-YOv9Dg5q4tThhLkveNIFejgCVImLqC5LHBGxBtsoKeZGRnE7LYY9XJa-lR1ujlN3ZBr556VMLsmm0KI2_StjGKmu1NjF1sC0sjWooOIe2bUulPpDMkAPMmUMo9Q74-e6sYoY1xaD4sPUZn-GiiyWip8vI3hBCIMhUJFWHPJpHXSN2DdG5QkM2Cn7ANcTbwWu14dx9rZOVzZ6sjdoADVsDEKT3x8n2_ho1mvrzBbkc2YJnwpBTP45NQwL2-FK28zEiHPu5ZVx_U5qS5tK3WRDu45CrrKwF9YI00LpLg52vChUHexwcYInUDA8bCF04srI7Ry2uPDer1UssFvMVZoMc4JooeH4ltblIkosmyX-dZPhDFAgZQg_q9u_gHJGW24P8xzHtFa2GdHPG7ArUXovGZq9rzfzJsUMDkQkKk2Mfmfx1q3CUHS_WcL_k1ETThABE_sgTyvitBMfDQc4ImyW2247FMwb_4xV-FllaPyC8kgSFKpmx1vR1fqPRB6bSpGM77MUjFFW7F_NVI1b9Yd1G7P1KGzYtmfdAluCKSMPFOt3tudsj45aCHystAqHYa1GEjlhNU-bnLnekzEnUbUn4N0acXt4_OynEigwWnfEkRr3c6W6GFiZikfBylrhg4AkgFwUvoVrIwjQHzQ6lmgmKAbmd5b-o1Oy0CzZ2NtJmH8G5UU6Vjv6E0hCdDHLeWrC9hMdaH63lX_p0UFNl-QDyBrfG661z3kgZZon4r2OzK2JAZBK_1k1EGr0W84IChu97uoh7zz7oFbI9hx9ANGCiGFn_TxFYZiAcRu9OhA5wB4NYUBPJaIumELJ7OnzEu2uemROVi1zYIMDdm9T3ZLO3xHP5GNjnfLkDNwRKftKI_ZcDxsS67bdPkv%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_detail_base%22%2C%22trackingId%22%3A%2291712c8e-d0b3-48de-85af-50c4cfa37bc2%22%7D%2C%22time%22%3A1790155026740%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_detail_base%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+              - generic [ref=f75e973]:
+                - generic [ref=f75e974]:
+                  - link [ref=f75e975] [cursor=pointer]:
+                    - /url: https://about.linkedin.com/
+                    - paragraph [ref=f75e976]: About
+                  - link [ref=f75e977] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/accessibility/
+                    - paragraph [ref=f75e978]: Accessibility
+                  - link [ref=f75e979] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/help/linkedin/
+                    - paragraph [ref=f75e980]: Help Center
+                  - button [ref=f75e981] [cursor=pointer]:
+                    - paragraph [ref=f75e983]: Privacy & Terms
+                  - link [ref=f75e986] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/help/linkedin/answer/62931/
+                    - paragraph [ref=f75e987]: Ad Choices
+                  - link [ref=f75e988] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/ad/start/?trk=n_nav_ads_rr
+                    - paragraph [ref=f75e989]: Advertising
+                  - button [ref=f75e990] [cursor=pointer]:
+                    - paragraph [ref=f75e992]: Business Services
+                  - link [ref=f75e995] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mobile/
+                    - paragraph [ref=f75e996]: Get the LinkedIn app
+                  - link [ref=f75e997] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/posts/lisa-taylor-83226195_there-is-something-so-special-about-the-intimate-share-7505756457829621764-gzmb/
+                    - paragraph [ref=f75e998]: More
+                - paragraph [ref=f75e1002]: LinkedIn Corporation © 2026
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - complementary:
+            - generic [ref=f75e1090]:
+              - generic [ref=f75e1091]:
+                - generic [ref=f75e1093] [cursor=pointer]:
+                  - img "Kelly Irving" [ref=f75e1095]
+                  - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f75e1096]:
+                    - generic [ref=f75e1097]:
+                      - generic [aria-hidden] [ref=f75e1098]: Messaging
+                      - generic [ref=f75e1099]: You are on the messaging overlay. Press enter to open the list of conversations.
+                  - mark [aria-hidden] [ref=f75e1100]:
+                    - generic [ref=f75e1101]: "2"
+                - generic [ref=f75e1102]:
+                  - button [ref=f75e1104] [cursor=pointer]:
+                    - img "Open messenger dropdown menu" [ref=f75e1105]
+                  - button "Compose message" [ref=f75e1108] [cursor=pointer]
+                  - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f75e1112] [cursor=pointer]
+              - generic [ref=f75e1116]:
+                - heading "Page inboxes" [level=3] [ref=f75e1118]
+                - generic [ref=f75e1119] [cursor=pointer]:
+                  - generic [ref=f75e1120]: Click to see affiliated inboxes
+                  - button "Page inboxes" [ref=f75e1121]
+            - dialog "Messaging" [ref=f75e1124]:
+              - generic [ref=f75e1125]:
+                - generic [ref=f75e1126] [cursor=pointer]:
+                  - generic [ref=f75e1128]:
+                    - img "Pia Federici" [ref=f75e1131]
+                    - heading "Pia Federici" [level=2] [ref=f75e1133]
+                  - button "Close your conversation with Kelly Irving and Pia Federici" [ref=f75e1135]
+                - generic [ref=f75e1140]:
+                  - list [ref=f75e1145]:
+                    - listitem
+                    - listitem [ref=f75e1146]:
+                      - time [ref=f75e1147]: Tuesday
+                      - generic [ref=f75e1148]: Kelly Irving sent the following message at 3:35 PM
+                      - generic [ref=f75e1149]:
+                        - link "View Kelly’s profile Kelly Irving" [ref=f75e1150] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                          - generic [ref=f75e1151]: View Kelly’s profile
+                          - img "Kelly Irving" [ref=f75e1152]
+                        - generic [ref=f75e1153]:
+                          - generic [ref=f75e1154]:
+                            - link "Kelly Irving" [ref=f75e1155] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                            - img "LinkedIn Premium" [ref=f75e1157]
+                          - time [ref=f75e1160]: • 3:35 PM
+                        - generic [ref=f75e1162]:
+                          - paragraph [ref=f75e1164]: Hey Pia I see you followed the Expert Author Community page. Let's connect. Kx
+                          - generic "Sent at 9/22/2026, 3:35 PM" [ref=f75e1165]
+                    - listitem [ref=f75e1168]:
+                      - generic [ref=f75e1169]: Pia Federici sent the following messages at 3:36 PM
+                      - generic [ref=f75e1170]:
+                        - link "View Pia’s profile Pia Federici" [ref=f75e1171] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/ACoAADD-vyQBlwY5ZjQfCdU9a8v7GoKHDgt9m7k
+                          - generic [ref=f75e1172]: View Pia’s profile
+                          - img "Pia Federici" [ref=f75e1173]
+                        - generic [ref=f75e1174]:
+                          - link "Pia Federici" [ref=f75e1176] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/in/ACoAADD-vyQBlwY5ZjQfCdU9a8v7GoKHDgt9m7k
+                          - time [ref=f75e1178]: • 3:36 PM
+                        - paragraph [ref=f75e1182]: Thanks for connecting.
+                    - listitem [ref=f75e1183]
+                    - listitem [ref=f75e1184]:
+                      - generic [ref=f75e1185]:
+                        - button "Scroll quick replies left" [disabled] [ref=f75e1186]
+                        - list [ref=f75e1187]:
+                          - listitem [ref=f75e1188]:
+                            - button "Reply to conversation with “It's my pleasure”" [ref=f75e1189] [cursor=pointer]:
+                              - generic [aria-hidden]: It's my pleasure
+                          - listitem [ref=f75e1191]:
+                            - button "Reply to conversation with “You're welcome”" [ref=f75e1192] [cursor=pointer]:
+                              - generic [aria-hidden]: You're welcome
+                          - listitem [ref=f75e1194]:
+                            - button "Reply to conversation with “👍”" [ref=f75e1195] [cursor=pointer]:
+                              - generic [aria-hidden]: 👍
+                        - button "Scroll quick replies right" [ref=f75e1197] [cursor=pointer]
+                    - listitem
+                  - generic [ref=f75e1201]:
+                    - generic [ref=f75e1202]:
+                      - generic [ref=f75e1204]:
+                        - textbox "Write a message…" [ref=f75e1205]:
+                          - paragraph [ref=f75e1206]
+                        - text: Write a message…
+                      - button "Maximize compose field" [ref=f75e1208] [cursor=pointer]
+                    - generic [ref=f75e1212]:
+                      - generic [ref=f75e1213]:
+                        - button "Attach an image to your conversation with Pia Federici" [ref=f75e1215] [cursor=pointer]
+                        - button "Attach a file to your conversation with Pia Federici" [ref=f75e1220] [cursor=pointer]
+                        - button "Open GIF Keyboard" [ref=f75e1225] [cursor=pointer]
+                        - button "Open Emoji Keyboard" [ref=f75e1231] [cursor=pointer]
+                      - generic [ref=f75e1233]:
+                        - generic [ref=f75e1234]: Press Enter to Send
+                        - button "Open send options" [ref=f75e1238] [cursor=pointer]
+            - dialog "Messaging" [ref=f75e1242]:
+              - generic [ref=f75e1243]:
+                - generic [ref=f75e1244] [cursor=pointer]:
+                  - generic [ref=f75e1246]:
+                    - img "Nidhi Kathuria" [ref=f75e1249]
+                    - heading "Nidhi Kathuria" [level=2] [ref=f75e1251]
+                  - button "Close your conversation with Nidhi Kathuria and Kelly Irving" [ref=f75e1253]
+                - generic [ref=f75e1258]:
+                  - list [ref=f75e1263]:
+                    - listitem
+                    - listitem [ref=f75e1264]:
+                      - time [ref=f75e1265]: Tuesday
+                      - generic [ref=f75e1266]: Kelly Irving sent the following message at 4:09 PM
+                      - generic [ref=f75e1267]:
+                        - link "View Kelly’s profile Kelly Irving" [ref=f75e1268] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                          - generic [ref=f75e1269]: View Kelly’s profile
+                          - img "Kelly Irving" [ref=f75e1270]
+                        - generic [ref=f75e1271]:
+                          - generic [ref=f75e1272]:
+                            - link "Kelly Irving" [ref=f75e1273] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                            - img "LinkedIn Premium" [ref=f75e1275]
+                          - time [ref=f75e1278]: • 4:09 PM
+                        - generic [ref=f75e1280]:
+                          - paragraph [ref=f75e1282]: Hey Nidhi I see you followed the Expert Author Community page. Let's connect. Kx
+                          - generic "Sent at 9/22/2026, 4:09 PM" [ref=f75e1283]
+                    - listitem [ref=f75e1286]:
+                      - generic [ref=f75e1287]: Nidhi Kathuria sent the following messages at 4:10 PM
+                      - generic [ref=f75e1288]:
+                        - link "View Nidhi’s profile Nidhi Kathuria" [ref=f75e1289] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/ACoAAAItH4QB7vfNEmmK2ucAKo5ab9bSIk6nGDM
+                          - generic [ref=f75e1290]: View Nidhi’s profile
+                          - img "Nidhi Kathuria" [ref=f75e1291]
+                        - generic [ref=f75e1292]:
+                          - generic [ref=f75e1293]:
+                            - link "Nidhi Kathuria" [ref=f75e1294] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/ACoAAAItH4QB7vfNEmmK2ucAKo5ab9bSIk6nGDM
+                            - img "LinkedIn Premium" [ref=f75e1296]
+                          - time [ref=f75e1299]: • 4:10 PM
+                        - paragraph [ref=f75e1303]: Hi Kelly, thanks
+                    - listitem [ref=f75e1304]
+                    - listitem [ref=f75e1305]:
+                      - generic [ref=f75e1306]:
+                        - button "Scroll quick replies left" [disabled] [ref=f75e1307]
+                        - list [ref=f75e1308]:
+                          - listitem [ref=f75e1309]:
+                            - button "Reply to conversation with “Hi, Nidhi”" [ref=f75e1310] [cursor=pointer]:
+                              - generic [aria-hidden]: Hi, Nidhi
+                          - listitem [ref=f75e1312]:
+                            - button "Reply to conversation with “Great, thanks”" [ref=f75e1313] [cursor=pointer]:
+                              - generic [aria-hidden]: Great, thanks
+                          - listitem [ref=f75e1315]:
+                            - button "Reply to conversation with “You're welcome, Nidhi”" [ref=f75e1316] [cursor=pointer]:
+                              - generic [aria-hidden]: You're welcome, Nidhi
+                        - button "Scroll quick replies right" [ref=f75e1318] [cursor=pointer]
+                    - listitem
+                  - generic [ref=f75e1322]:
+                    - generic [ref=f75e1323]:
+                      - generic [ref=f75e1325]:
+                        - textbox "Write a message…" [ref=f75e1326]:
+                          - paragraph [ref=f75e1327]
+                        - text: Write a message…
+                      - button "Maximize compose field" [ref=f75e1329] [cursor=pointer]
+                    - generic [ref=f75e1333]:
+                      - generic [ref=f75e1334]:
+                        - button "Attach an image to your conversation with Nidhi Kathuria" [ref=f75e1336] [cursor=pointer]
+                        - button "Attach a file to your conversation with Nidhi Kathuria" [ref=f75e1341] [cursor=pointer]
+                        - button "Open GIF Keyboard" [ref=f75e1346] [cursor=pointer]
+                        - button "Open Emoji Keyboard" [ref=f75e1352] [cursor=pointer]
+                      - generic [ref=f75e1354]:
+                        - generic [ref=f75e1355]: Press Enter to Send
+                        - button "Open send options" [ref=f75e1359] [cursor=pointer]
+          - complementary "AI-powered assistant to get help with your career, jobs etc"
+  - iframe [ref=f75e1003]:
+    - generic [ref=f78e13]:
+      - generic:
+        - region "Toast message":
+          - heading "0 notifications total" [level=2] [ref=f78e15]
+          - alert
+      - region [ref=f78e12]
+      - generic [ref=f78e16]:
+        - generic [ref=f78e18]:
+          - button "Skip to search" [ref=f78e19] [cursor=pointer]
+          - button "Skip to main content" [ref=f78e21] [cursor=pointer]
+          - button "Keyboard shortcuts" [ref=f78e23] [cursor=pointer]
+          - button "Close jump menu" [ref=f78e25] [cursor=pointer]
+        - banner "Global Navigation" [ref=f78e29]:
+          - generic [ref=f78e30]:
+            - link [ref=f78e31] [cursor=pointer]:
+              - /url: https://www.linkedin.com/feed/
+              - img "LinkedIn" [ref=f78e34]
+            - combobox "I’m looking for..." [ref=f78e40]
+            - navigation "Primary Navigation" [ref=f78e41]:
+              - list [ref=f78e42]:
+                - listitem [ref=f78e43]:
+                  - link "new feed updates notifications Home" [ref=f78e44] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/feed/
+                    - generic [ref=f78e45]: new feed updates notifications
+                    - generic "Home" [ref=f78e54]
+                - listitem [ref=f78e55]:
+                  - link "26 new network updates notifications My Network" [ref=f78e56] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork/?
+                    - generic [ref=f78e58]:
+                      - generic [aria-hidden] [ref=f78e59]: "26"
+                      - generic [ref=f78e60]: 26 new network updates notifications
+                    - generic "My Network" [ref=f78e66]
+                - listitem [ref=f78e67]:
+                  - link "Jobs" [ref=f78e68] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/?
+                - listitem [ref=f78e75]:
+                  - link "2 new messages notifications Messaging" [ref=f78e76] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/messaging/?
+                    - generic [ref=f78e78]:
+                      - generic [aria-hidden] [ref=f78e79]: "2"
+                      - generic [ref=f78e80]: 2 new messages notifications
+                    - generic "Messaging" [ref=f78e86]
+                - listitem [ref=f78e87]:
+                  - link "16 new notifications Notifications" [ref=f78e88] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/notifications/?
+                    - generic [ref=f78e90]:
+                      - generic [aria-hidden] [ref=f78e91]: "16"
+                      - generic [ref=f78e92]: 16 new notifications
+                    - generic "Notifications" [ref=f78e98]
+                - listitem [ref=f78e99]:
+                  - button [ref=f78e101] [cursor=pointer]:
+                    - img "Kelly Irving" [ref=f78e102]
+                    - generic [ref=f78e103]: Me
+                - listitem [ref=f78e106]:
+                  - button "For Business" [ref=f78e108] [cursor=pointer]
+                - listitem [ref=f78e117]:
+                  - link "3 new Campaign Manager notifications Advertise" [ref=f78e118] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/campaignmanager/accounts?shouldShowNotificationPanelOnRender=true
+                    - generic [ref=f78e120]:
+                      - generic [aria-hidden] [ref=f78e121]: "3"
+                      - generic [ref=f78e122]: 3 new Campaign Manager notifications
+                    - generic "Advertise" [ref=f78e129]

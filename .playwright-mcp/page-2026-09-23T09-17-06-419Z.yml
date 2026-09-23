@@ -1,0 +1,280 @@
+- generic [ref=f75e2]:
+  - heading "0 notifications" [level=2] [ref=f75e3]
+  - generic [ref=f75e4]:
+    - generic:
+      - generic "Skip navigation menu":
+        - button "Close jump menu" [ref=f75e6] [cursor=pointer]
+    - generic [ref=f75e9]:
+      - banner [ref=f75e11]:
+        - generic [ref=f75e14]:
+          - button [ref=f75e15] [cursor=pointer]
+          - generic [ref=f75e17]:
+            - status [ref=f75e18]
+            - search [ref=f75e19]:
+              - textbox "I'm looking for…" [ref=f75e23]
+          - generic [ref=f75e25]:
+            - navigation [ref=f75e29]:
+              - list [ref=f75e30]:
+                - listitem [ref=f75e31]:
+                  - button "Home, 1 new notification" [ref=f75e32] [cursor=pointer]:
+                    - generic [ref=f75e36]: Home
+                - listitem [ref=f75e38]:
+                  - link "My Network, 26 new notifications" [ref=f75e39] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork
+                    - generic [ref=f75e40]: "26"
+                    - generic [ref=f75e44]: My Network
+                - listitem [ref=f75e46]:
+                  - link "Jobs, 0 new notifications" [ref=f75e47] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/
+                    - generic [ref=f75e51]: Jobs
+                - listitem [ref=f75e53]:
+                  - link "Messaging, 2 new notifications" [ref=f75e54] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/messaging/
+                    - generic [ref=f75e55]: "2"
+                    - generic [ref=f75e59]: Messaging
+                - listitem [ref=f75e61]:
+                  - link "Notifications, 16 new notifications" [ref=f75e62] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/notifications/
+                    - generic [ref=f75e63]: "16"
+                    - generic [ref=f75e67]: Notifications
+                - listitem [ref=f75e69]:
+                  - button "Me" [ref=f75e70] [cursor=pointer]:
+                    - figure [aria-hidden] [ref=f75e72]
+            - navigation [ref=f75e78]:
+              - list [ref=f75e79]:
+                - listitem [ref=f75e80]:
+                  - button "For Business" [ref=f75e81] [cursor=pointer]
+                - listitem [ref=f75e88]:
+                  - link "Advertise, 3 new notifications" [ref=f75e89] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/campaignmanager/accounts/
+                    - generic [ref=f75e90]: "3"
+                    - generic [ref=f75e93]: Advertise
+      - main [ref=f75e97]:
+        - generic [ref=f75e99]:
+          - complementary "Sidebar" [ref=f75e100]:
+            - generic [ref=f75e103]:
+              - generic [ref=f75e107]:
+                - link [ref=f75e108] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/kelly-irving/
+                  - generic [ref=f75e109]:
+                    - generic [ref=f75e110]:
+                      - figure [aria-hidden] [ref=f75e111]
+                      - paragraph [ref=f75e113]: Premium
+                    - figure [ref=f75e116]
+                - generic [ref=f75e117]:
+                  - link [ref=f75e118] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic "Kelly Irving, Book coach and editor for changemakers and trailblazers / Publishing gymnast, Anglesea, Victoria, Premium profile" [ref=f75e119]:
+                      - paragraph [ref=f75e122]: Kelly Irving
+                      - paragraph [ref=f75e125]: Book coach and editor for changemakers and trailblazers / Publishing gymnast
+                      - paragraph [ref=f75e126]: Anglesea, Victoria
+                  - link [ref=f75e127] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic [ref=f75e128]:
+                      - figure [aria-hidden] [ref=f75e129]
+                      - paragraph [ref=f75e130]: Expert Author Community
+              - generic [ref=f75e132]:
+                - menu [ref=f75e133]:
+                  - link [ref=f75e135] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/me/profile-views/
+                    - generic "Profile viewers 297" [ref=f75e136]:
+                      - paragraph [ref=f75e138]: Profile viewers
+                      - paragraph [ref=f75e139]: "297"
+                  - link [ref=f75e141] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/analytics/creator/content/
+                    - generic "Post impressions 1,285" [ref=f75e142]:
+                      - paragraph [ref=f75e144]: Post impressions
+                      - paragraph [ref=f75e145]: 1,285
+                - menu [ref=f75e146]:
+                  - link [ref=f75e148] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/premium/my-premium/
+                    - paragraph [ref=f75e151]: Your Premium features
+          - region "Primary content" [ref=f75e152]:
+            - generic [ref=f75e158]:
+              - listitem [ref=f75e162]:
+                - generic [ref=f75e164]:
+                  - heading "Feed post" [level=2]
+                  - generic [ref=f75e166]:
+                    - link [ref=f75e167] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/lisa-taylor-83226195/
+                      - figure [ref=f75e168]
+                    - generic [ref=f75e170]:
+                      - link [ref=f75e173] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/lisa-taylor-83226195/
+                        - generic "Lisa Taylor Verified Profile 1st" [ref=f75e175]:
+                          - paragraph [ref=f75e178]: Lisa Taylor
+                          - paragraph [ref=f75e180]:
+                            - generic [ref=f75e181]: • 1st
+                      - paragraph [ref=f75e185]: Leadership & Relationships Consultant | Family Therapist | Educator | Keynote Speaker | Author of The Perfect Parent Trap | Helping leaders, teams and families understand the patterns beneath behaviour
+                      - paragraph [ref=f75e187]: 1w
+                      - link "Lisa Taylor Verified Profile 1st":
+                        - /url: https://www.linkedin.com/in/lisa-taylor-83226195/
+                    - button "Open control menu for post by Lisa Taylor" [ref=f75e188] [cursor=pointer]
+                  - paragraph [ref=f75e191]:
+                    - generic [ref=f75e192]:
+                      - text: There is something so special about the intimate conversation we can have about what's really at the heart of our relationships. It was my privilege to spend time with the staff and parent community at Holy Spirit Catholic Primary School and
+                      - link "View Rachel Holdsworth’s profile" [ref=f75e194] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/rachel-holdsworth-b40223274/
+                        - strong [ref=f75e195]: Rachel Holdsworth
+                      - text: .What stayed with me most was the openness in the room, the willingness to reflect not only on children’s behaviour, but on
+                      - strong [ref=f75e196]: what happens within us in relationship with them
+                      - text: ".That takes courage.Because understanding behaviour isn’t simply about asking, “What is this child doing?” It’s also being willing to ask:"
+                      - strong [ref=f75e197]: “Am I responding to the child in front of me, or reacting from the child within me?”
+                      - text: There was such honesty, curiosity and compassion in the conversations we shared.Thank you Rachel and the Holy Spirit team for trusting me with your community, and for creating a culture where staff and families are encouraged to reflect, grow and stay connected through the hard moments.This is where meaningful change begins - in relationship. ❤️
+                  - generic [ref=f75e198]:
+                    - generic [ref=f75e199]:
+                      - link [ref=f75e200] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/rachel-holdsworth-b40223274/
+                        - figure [ref=f75e201]
+                      - generic [ref=f75e203]:
+                        - link [ref=f75e206] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/rachel-holdsworth-b40223274/
+                          - generic "Rachel Holdsworth Premium Profile 1st" [ref=f75e208]:
+                            - paragraph [ref=f75e211]: Rachel Holdsworth
+                            - paragraph [ref=f75e213]:
+                              - generic [ref=f75e214]: • 1st
+                        - paragraph [ref=f75e218]: School Principal @ Melbourne Archdiocese Catholic Schools | Educational Leadership, ACPPA Director, VACPSP Executive Leadership
+                        - paragraph [ref=f75e220]: 1w
+                        - link "Rachel Holdsworth Premium Profile 1st":
+                          - /url: https://www.linkedin.com/in/rachel-holdsworth-b40223274/
+                    - link:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:share:7504853264405032960/
+                    - paragraph [ref=f75e221]:
+                      - link "We were incredibly grateful to welcome" [ref=f75e222] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/feed/update/urn:li:share:7504853264405032960/
+                      - link "View Lisa Taylor’s profile" [ref=f75e224] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/lisa-taylor-83226195/
+                        - strong [ref=f75e225]: Lisa Taylor
+                      - text: to the Holy Spirit community, working alongside both our staff and students. Her wisdom, warmth and practical insights enriched us all, giving us much to reflect on and inspiring us to continue supporting our children and families with greater connection, compassion and understanding. Thank you, Lisa, for sharing your time, expertise and heart with us.
+                    - link [ref=f75e227] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - figure [ref=f75e228]:
+                        - img "View image" [ref=f75e229]
+                  - generic [ref=f75e230]:
+                    - link [ref=f75e231] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "Switch to different account" [ref=f75e232]:
+                        - figure [aria-hidden] [ref=f75e233]
+                    - generic [ref=f75e235]:
+                      - 'button "Reaction button state: Like" [ref=f75e238] [cursor=pointer]':
+                        - generic [ref=f75e239]: "10"
+                      - button "Open reactions menu"
+                    - button "Comment" [ref=f75e244] [cursor=pointer]:
+                      - generic [ref=f75e245]: "1"
+                    - button "Repost" [ref=f75e250] [cursor=pointer]
+                    - link "Send" [ref=f75e253] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                    - link [ref=f75e256] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "10 reactions" [ref=f75e257]
+                - generic [ref=f75e265]:
+                  - status [ref=f75e268]
+                  - generic [ref=f75e269]:
+                    - button "Show Emoji Picker" [ref=f75e270] [cursor=pointer]
+                    - button "Open GIF picker" [ref=f75e275] [cursor=pointer]
+                    - button "Share photo" [ref=f75e278] [cursor=pointer]
+              - link:
+                - /url: https://www.linkedin.com/
+              - generic [ref=f75e281]:
+                - link:
+                  - /url: https://www.linkedin.com/
+                - generic [ref=f75e282]:
+                  - link:
+                    - /url: https://www.linkedin.com/
+                  - link [ref=f75e283] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic "Kelly Irving reacted with Like" [ref=f75e284]:
+                      - figure [aria-hidden] [ref=f75e285]
+                  - link [ref=f75e287] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/benitabensch/
+                    - generic "Benita Bensch reacted with Love" [ref=f75e288]:
+                      - figure [aria-hidden] [ref=f75e289]
+                  - link [ref=f75e291] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/ninawitenden/
+                    - generic "Nina Witenden reacted with Like" [ref=f75e292]:
+                      - figure [aria-hidden] [ref=f75e293]
+                  - link [ref=f75e295] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/rachel-holdsworth-b40223274/
+                    - generic "Rachel Holdsworth reacted with Love" [ref=f75e296]:
+                      - figure [aria-hidden] [ref=f75e297]
+                  - link [ref=f75e299] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/nicole-o-sullivan/
+                    - generic "Nicole O'Sullivan reacted with Like" [ref=f75e300]:
+                      - figure [aria-hidden] [ref=f75e301]
+                  - link [ref=f75e303] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/sarahpatterson23/
+                    - generic "Sarah Patterson reacted with Like" [ref=f75e304]:
+                      - figure [aria-hidden] [ref=f75e305]
+                  - link [ref=f75e307] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/sabinaread/
+                    - generic "Sabina Read reacted with Like" [ref=f75e308]:
+                      - figure [aria-hidden] [ref=f75e309]
+                  - link [ref=f75e311] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/poornima-peri-9182221a9/
+                    - generic "Poornima Peri reacted with Like" [ref=f75e312]:
+                      - figure [aria-hidden] [ref=f75e313]
+                  - link "View all reactions" [ref=f75e315] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/
+              - generic [ref=f75e323]:
+                - link [ref=f75e325] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/rachel-holdsworth-b40223274/
+                  - figure [ref=f75e326]
+                - generic [ref=f75e327]:
+                  - generic [ref=f75e329]:
+                    - link "Rachel Holdsworth Premium Profile 1st School Principal @ Melbourne Archdiocese Catholic Schools | Educational Leadership, ACPPA Director, VACPSP Executive Leadership" [ref=f75e330] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/rachel-holdsworth-b40223274/
+                      - generic [ref=f75e331]:
+                        - paragraph [ref=f75e335]:
+                          - generic [ref=f75e336]:
+                            - generic [ref=f75e337]: Rachel Holdsworth Premium Profile 1st
+                            - generic [aria-hidden] [ref=f75e338]:
+                              - text: Rachel Holdsworth
+                              - generic [ref=f75e341]: • 1st
+                        - paragraph [ref=f75e343]: School Principal @ Melbourne Archdiocese Catholic Schools | Educational Leadership, ACPPA Director, VACPSP Executive Leadership
+                    - paragraph [ref=f75e345]: 1d
+                    - button "View more options for Rachel Holdsworth’s comment." [ref=f75e346] [cursor=pointer]
+                  - paragraph [ref=f75e352]:
+                    - generic [ref=f75e353]:
+                      - text: So grateful
+                      - link "View Lisa Taylor’s profile" [ref=f75e355] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/lisa-taylor-83226195/
+                        - strong [ref=f75e356]: Lisa Taylor
+                      - text: 😍
+                  - generic [ref=f75e359]:
+                    - generic [ref=f75e360]:
+                      - button "0" [ref=f75e363] [cursor=pointer]:
+                        - generic [ref=f75e364]:
+                          - generic:
+                            - paragraph:
+                              - generic: "0"
+                      - button "Open reactions menu"
+                    - button "Reply" [ref=f75e368] [cursor=pointer]
+          - complementary "Aside" [ref=f75e450]:
+            - generic [ref=f75e456]:
+              - generic [ref=f75e457]:
+                - link [ref=f75e458] [cursor=pointer]:
+                  - /url: https://about.linkedin.com/
+                  - paragraph [ref=f75e459]: About
+                - link [ref=f75e460] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/accessibility/
+                  - paragraph [ref=f75e461]: Accessibility
+                - link [ref=f75e462] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin/
+                  - paragraph [ref=f75e463]: Help Center
+                - button [ref=f75e464] [cursor=pointer]:
+                  - paragraph [ref=f75e466]: Privacy & Terms
+                - link [ref=f75e468] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin/answer/62931/
+                  - paragraph [ref=f75e469]: Ad Choices
+                - link [ref=f75e470] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/ad/start/?trk=n_nav_ads_rr
+                  - paragraph [ref=f75e471]: Advertising
+                - button [ref=f75e472] [cursor=pointer]:
+                  - paragraph [ref=f75e474]: Business Services
+                - link [ref=f75e476] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/mobile/
+                  - paragraph [ref=f75e477]: Get the LinkedIn app
+                - link [ref=f75e478] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/
+                  - paragraph [ref=f75e479]: More
+              - paragraph [ref=f75e482]: LinkedIn Corporation © 2026

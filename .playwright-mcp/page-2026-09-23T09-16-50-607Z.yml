@@ -1,0 +1,586 @@
+- generic [ref=f60e2]:
+  - heading "0 notifications" [level=2] [ref=f60e3]
+  - generic [ref=f60e4]:
+    - generic:
+      - generic "Skip navigation menu":
+        - button "Close jump menu" [ref=f60e6] [cursor=pointer]
+    - generic [ref=f60e9]:
+      - banner [ref=f60e11]:
+        - generic [ref=f60e14]:
+          - button [ref=f60e15] [cursor=pointer]
+          - generic [ref=f60e17]:
+            - status [ref=f60e18]
+            - search [ref=f60e19]:
+              - textbox "I'm looking for…" [ref=f60e23]
+          - generic [ref=f60e25]:
+            - navigation [ref=f60e29]:
+              - list [ref=f60e30]:
+                - listitem [ref=f60e31]:
+                  - button "Home, 1 new notification" [ref=f60e32] [cursor=pointer]:
+                    - generic [ref=f60e36]: Home
+                - listitem [ref=f60e38]:
+                  - link "My Network, 26 new notifications" [ref=f60e39] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork
+                    - generic [ref=f60e40]: "26"
+                    - generic [ref=f60e44]: My Network
+                - listitem [ref=f60e46]:
+                  - link "Jobs, 0 new notifications" [ref=f60e47] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/
+                    - generic [ref=f60e51]: Jobs
+                - listitem [ref=f60e53]:
+                  - link "Messaging, 2 new notifications" [ref=f60e54] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/messaging/
+                    - generic [ref=f60e55]: "2"
+                    - generic [ref=f60e59]: Messaging
+                - listitem [ref=f60e61]:
+                  - link "Notifications, 16 new notifications" [ref=f60e62] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/notifications/
+                    - generic [ref=f60e63]: "16"
+                    - generic [ref=f60e67]: Notifications
+                - listitem [ref=f60e69]:
+                  - button "Me" [ref=f60e70] [cursor=pointer]:
+                    - figure [aria-hidden] [ref=f60e72]
+            - navigation [ref=f60e78]:
+              - list [ref=f60e79]:
+                - listitem [ref=f60e80]:
+                  - button "For Business" [ref=f60e81] [cursor=pointer]
+                - listitem [ref=f60e88]:
+                  - link "Advertise, 3 new notifications" [ref=f60e89] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/campaignmanager/accounts/
+                    - generic [ref=f60e90]: "3"
+                    - generic [ref=f60e93]: Advertise
+      - main [ref=f60e97]:
+        - generic [ref=f60e99]:
+          - complementary "Sidebar" [ref=f60e100]:
+            - generic [ref=f60e103]:
+              - generic [ref=f60e107]:
+                - link [ref=f60e108] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/kelly-irving/
+                  - generic [ref=f60e109]:
+                    - generic [ref=f60e110]:
+                      - figure [aria-hidden] [ref=f60e111]
+                      - paragraph [ref=f60e113]: Premium
+                    - figure [ref=f60e116]
+                - generic [ref=f60e117]:
+                  - link [ref=f60e118] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic "Kelly Irving, Book coach and editor for changemakers and trailblazers / Publishing gymnast, Anglesea, Victoria, Premium profile" [ref=f60e119]:
+                      - paragraph [ref=f60e122]: Kelly Irving
+                      - paragraph [ref=f60e125]: Book coach and editor for changemakers and trailblazers / Publishing gymnast
+                      - paragraph [ref=f60e126]: Anglesea, Victoria
+                  - link [ref=f60e127] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic [ref=f60e128]:
+                      - figure [aria-hidden] [ref=f60e129]
+                      - paragraph [ref=f60e130]: Expert Author Community
+              - generic [ref=f60e132]:
+                - menu [ref=f60e133]:
+                  - link [ref=f60e135] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/me/profile-views/
+                    - generic "Profile viewers 297" [ref=f60e136]:
+                      - paragraph [ref=f60e138]: Profile viewers
+                      - paragraph [ref=f60e139]: "297"
+                  - link [ref=f60e141] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/analytics/creator/content/
+                    - generic "Post impressions 1,285" [ref=f60e142]:
+                      - paragraph [ref=f60e144]: Post impressions
+                      - paragraph [ref=f60e145]: 1,285
+                - menu [ref=f60e146]:
+                  - link [ref=f60e148] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/premium/my-premium/
+                    - paragraph [ref=f60e151]: Your Premium features
+          - region "Primary content" [ref=f60e152]:
+            - generic [ref=f60e158]:
+              - listitem [ref=f60e163]:
+                - generic [ref=f60e165]:
+                  - heading "Feed post" [level=2]
+                  - generic [ref=f60e167]:
+                    - link [ref=f60e168] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/janinestratford/
+                      - figure [ref=f60e169]
+                    - generic [ref=f60e171]:
+                      - link [ref=f60e174] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/janinestratford/
+                        - generic "Janine Stratford PCC Premium Profile 1st" [ref=f60e176]:
+                          - paragraph [ref=f60e179]: Janine Stratford PCC
+                          - paragraph [ref=f60e181]:
+                            - generic [ref=f60e182]: • 1st
+                      - paragraph [ref=f60e186]: Speaker, Author,Leadership Coach, Leadership PD for School Leaders, Career Strategist, 2024 Most Influential Educator, Inspiring educators to lead with a clear and aligned purpose for their team and their career success.
+                      - link [ref=f60e190] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fcoachingfocus%2Ecom%2Eau&urlhash=poLV&mt=SHQY1BmUJd6UNUrC6xbCn6MP5U1xotzTkQR1ohI8si7NyCvBzRc0xr2ElMnMU9qWR6l8xmR8jm7AXraB8Z4l7GP1hVOv5UIisen5vmA&isSdui=true
+                        - paragraph [ref=f60e191]: Visit my website
+                      - paragraph [ref=f60e193]: 4mo • Edited
+                      - link "Janine Stratford PCC Premium Profile 1st":
+                        - /url: https://www.linkedin.com/in/janinestratford/
+                    - button "Open control menu for post by Janine Stratford PCC" [ref=f60e194] [cursor=pointer]
+                  - paragraph [ref=f60e197]:
+                    - generic [ref=f60e198]:
+                      - text: Launched! Here is a look inside the Leading For Tomorrow, Today book launch event. The book is out and I can now call myself an author! Thank you to
+                      - 'link "View company: Strathcona Girls Grammar" [ref=f60e200] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/school/strathcona-girls-grammar/
+                        - strong [ref=f60e201]: Strathcona Girls Grammar
+                      - text: for hosting. To
+                      - link "View Lorna Beegan’s profile" [ref=f60e203] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/lorna-beegan-21ced/
+                        - strong [ref=f60e204]: Lorna Beegan
+                      - text: for leading the event and speaking so passionately about the impact of the book. To
+                      - link "View Kara Baxter’s profile" [ref=f60e206] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/kara-baxter-198a85108/
+                        - strong [ref=f60e207]: Kara Baxter
+                      - text: and
+                      - link "View Julie Fielde’s profile" [ref=f60e209] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/julie-fielde-b8843b9/
+                        - strong [ref=f60e210]: Julie Fielde
+                      - text: for bringing the event together so smoothly. To
+                      - 'link "View company: Amba Press" [ref=f60e212] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/company/amba-press/
+                        - strong [ref=f60e213]: Amba Press
+                      - text: and
+                      - link "View Alicia Cohen’s profile" [ref=f60e215] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/alicia-cohen-10110211/
+                        - strong [ref=f60e216]: Alicia Cohen
+                      - text: for publishing the book and backing me as an author. To
+                      - link "View Jessica Farch’s profile" [ref=f60e218] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/jessica-farch/
+                        - strong [ref=f60e219]: Jessica Farch
+                      - text: for selling so many books at the event. To
+                      - link "View Justine Hamilton’s profile" [ref=f60e221] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/justinemhamilton/
+                        - strong [ref=f60e222]: Justine Hamilton
+                      - text: for sharing her thoughts on the book and the fact that she felt it was so good that she read it twice and to
+                      - link "View Sandra Tiepermann’s profile" [ref=f60e224] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/sandratiepermann/
+                        - strong [ref=f60e225]: Sandra Tiepermann
+                      - text: for making the interview experience so easy for me to share my thoughts. The reel has been made by
+                      - link "View Ksenia Belova 📸’s profile" [ref=f60e227] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/kseniabelova/
+                        - strong [ref=f60e228]: Ksenia Belova 📸
+                      - text: Brilliant work! To the
+                      - 'link "View company: Expert Author Community" [ref=f60e230] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/company/expert-author-community/
+                        - strong [ref=f60e231]: Expert Author Community
+                      - text: and
+                      - link "View Kelly Irving’s profile" [ref=f60e233] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/kelly-irving/
+                        - strong [ref=f60e234]: Kelly Irving
+                      - text: for her process and the community of authors that helped me to bring the book to life. And of course, thank you to everyone who attended. You created a mood that was warm and inspirational. You can buy the book here.
+                      - link "Open https://lnkd.in/gR9KFM6p" [ref=f60e236] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2FgR9KFM6p&urlhash=Mbly&mt=ade1YtOY2NNgEMvha517gW0XSCp7hJjDwewhylFXugZuKgCQRoBA8U94X8JrnnmOGR-9F06_EuvcVGkKfvaatEQ9WDC4oN4ShE2No593HLvZz6ETlCOKG063&isSdui=true
+                        - strong [ref=f60e237]: https://lnkd.in/gR9KFM6p
+                      - text: Or for a signed copy, that has to come from me at Coaching Focus.
+                      - link "Open https://lnkd.in/gsvHtSXy" [ref=f60e239] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2FgsvHtSXy&urlhash=n2_9&mt=i8V1ERZK7VHwdai_Su6joxmx_h_r8EK7Os3zw1FRgheLmBGU5xlPdNHuC3CDtHQaFznL0olUys3CO3a2mQ2KiLLz24W-i7Xahzaq39SHQclrvhqbSsRHT3wz&isSdui=true
+                        - strong [ref=f60e240]: https://lnkd.in/gsvHtSXy
+                  - button "Play video" [ref=f60e245] [cursor=pointer]
+                  - generic [ref=f60e248]:
+                    - link [ref=f60e249] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "Switch to different account" [ref=f60e250]:
+                        - figure [aria-hidden] [ref=f60e251]
+                    - generic [ref=f60e253]:
+                      - 'button "Reaction button state: Love" [ref=f60e256] [cursor=pointer]':
+                        - generic [ref=f60e257]: "72"
+                      - button "Open reactions menu"
+                    - button "Comment" [ref=f60e262] [cursor=pointer]:
+                      - generic [ref=f60e263]: "31"
+                    - button "Repost" [ref=f60e268] [cursor=pointer]:
+                      - generic [ref=f60e269]: "4"
+                    - link "Send" [ref=f60e274] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                    - link [ref=f60e277] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "72 reactions" [ref=f60e278]
+                - generic [ref=f60e287]:
+                  - status [ref=f60e290]
+                  - generic [ref=f60e291]:
+                    - button "Show Emoji Picker" [ref=f60e292] [cursor=pointer]
+                    - button "Open GIF picker" [ref=f60e297] [cursor=pointer]
+                    - button "Share photo" [ref=f60e300] [cursor=pointer]
+              - generic [ref=f60e303]:
+                - link:
+                  - /url: https://www.linkedin.com/
+                - generic [ref=f60e304]:
+                  - link:
+                    - /url: https://www.linkedin.com/
+                  - generic [ref=f60e305]:
+                    - link:
+                      - /url: https://www.linkedin.com/
+                    - link [ref=f60e306] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/meg-durham/
+                      - generic "Meg Durham reacted with Celebrate" [ref=f60e307]:
+                        - figure [aria-hidden] [ref=f60e308]
+                    - link [ref=f60e310] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/kelly-irving/
+                      - generic "Kelly Irving reacted with Love" [ref=f60e311]:
+                        - figure [aria-hidden] [ref=f60e312]
+                    - link [ref=f60e314] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/megan-corcoran-a5ab1738/
+                      - generic "Megan Corcoran reacted with Like" [ref=f60e315]:
+                        - figure [aria-hidden] [ref=f60e316]
+                    - link [ref=f60e318] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/christophemenage/
+                      - generic "Christophe Menagé reacted with Like" [ref=f60e319]:
+                        - figure [aria-hidden] [ref=f60e320]
+                    - link [ref=f60e322] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/susan-mclean-b2828a60/
+                      - generic "Susan McLean reacted with Celebrate" [ref=f60e323]:
+                        - figure [aria-hidden] [ref=f60e324]
+                    - link [ref=f60e326] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/adrianodiprato/
+                      - generic "Adriano Di Prato reacted with Like" [ref=f60e327]:
+                        - figure [aria-hidden] [ref=f60e328]
+                    - link [ref=f60e330] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/sophiebretag/
+                      - generic "Sophie Bretag reacted with Like" [ref=f60e331]:
+                        - figure [aria-hidden] [ref=f60e332]
+                    - link [ref=f60e334] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/fionahutton/
+                      - generic "Fiona Hutton reacted with Like" [ref=f60e335]:
+                        - figure [aria-hidden] [ref=f60e336]
+                    - link "View all reactions" [ref=f60e338] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+              - button [ref=f60e343] [cursor=pointer]:
+                - paragraph [ref=f60e347]: Most relevant
+              - generic [ref=f60e353]:
+                - link [ref=f60e355] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/kelly-irving/
+                  - figure [ref=f60e356]
+                - generic [ref=f60e357]:
+                  - generic [ref=f60e359]:
+                    - link "Kelly Irving Premium Profile You Book coach and editor for changemakers and trailblazers / Publishing gymnast" [ref=f60e360] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/kelly-irving/
+                      - generic [ref=f60e361]:
+                        - paragraph [ref=f60e365]:
+                          - generic [ref=f60e366]:
+                            - generic [ref=f60e367]: Kelly Irving Premium Profile You
+                            - generic [aria-hidden] [ref=f60e368]:
+                              - text: Kelly Irving
+                              - generic [ref=f60e371]: • You
+                        - paragraph [ref=f60e373]: Book coach and editor for changemakers and trailblazers / Publishing gymnast
+                    - paragraph [ref=f60e375]: 4mo
+                    - button "View more options for Kelly Irving’s comment." [ref=f60e376] [cursor=pointer]
+                  - paragraph [ref=f60e382]:
+                    - generic [ref=f60e383]: OMG so good! So sad to have missed this one in person but feel like i lived the moment from this video Kxx
+                  - generic [ref=f60e385]:
+                    - generic [ref=f60e386]:
+                      - generic [ref=f60e387]:
+                        - button "1 reaction" [ref=f60e390] [cursor=pointer]:
+                          - paragraph [ref=f60e394]:
+                            - generic [ref=f60e395]:
+                              - generic [ref=f60e396]: 1 reaction
+                              - text: "1"
+                        - button "Open reactions menu"
+                      - generic [ref=f60e397]:
+                        - button "Reply" [ref=f60e398] [cursor=pointer]
+                        - paragraph [ref=f60e402]:
+                          - generic [ref=f60e403]:
+                            - generic [ref=f60e404]: "1"
+                            - text: "1"
+                      - paragraph [ref=f60e408]:
+                        - generic [ref=f60e409]:
+                          - generic [ref=f60e410]: 32 impressions
+                          - text: "32"
+                    - link [ref=f60e412] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "Reacted to by the author" [ref=f60e413]:
+                        - figure [aria-hidden] [ref=f60e414]
+              - generic [ref=f60e421]:
+                - link [ref=f60e423] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/janinestratford/
+                  - figure [ref=f60e424]
+                - generic [ref=f60e425]:
+                  - generic [ref=f60e427]:
+                    - link [ref=f60e428] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/janinestratford/
+                      - generic [ref=f60e429]:
+                        - generic [ref=f60e430]:
+                          - paragraph [ref=f60e433]: Janine Stratford PCC
+                          - paragraph [ref=f60e434]: Author
+                        - paragraph [ref=f60e436]: Speaker, Author,Leadership Coach, Leadership PD for School Leaders, Career Strategist, 2024 Most Influential Educator, Inspiring educators to lead with a clear and aligned purpose for their team and their career success.
+                    - paragraph [ref=f60e438]: 4mo
+                    - button "View more options for Janine Stratford PCC’s comment." [ref=f60e439] [cursor=pointer]
+                  - paragraph [ref=f60e445]:
+                    - generic [ref=f60e446]:
+                      - text: The video was great.
+                      - link "View Kelly Irving’s profile" [ref=f60e448] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/kelly-irving/
+                        - strong [ref=f60e449]: Kelly Irving
+                      - text: ", sorry you couldn’t be there."
+                      - link "View Ksenia Belova 📸’s profile" [ref=f60e451] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/kseniabelova/
+                        - strong [ref=f60e452]: Ksenia Belova 📸
+                      - text: made the video. She was the photographer. Highly recommend her work.
+                  - generic [ref=f60e455]:
+                    - generic [ref=f60e456]:
+                      - button "0" [ref=f60e459] [cursor=pointer]:
+                        - generic [ref=f60e460]:
+                          - generic:
+                            - paragraph:
+                              - generic: "0"
+                      - button "Open reactions menu"
+                    - button "Reply" [ref=f60e464] [cursor=pointer]
+              - generic [ref=f60e471]:
+                - link [ref=f60e473] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/adrianodiprato/
+                  - figure [ref=f60e474]
+                - generic [ref=f60e475]:
+                  - generic [ref=f60e477]:
+                    - link "Adriano Di Prato Premium Profile 1st Executive Director, APAC at LCI Education | Building the future of creative higher education across Melbourne & Jakarta | Governance, academic quality & growth | Author & TEDx Speaker" [ref=f60e478] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/adrianodiprato/
+                      - generic [ref=f60e479]:
+                        - paragraph [ref=f60e483]:
+                          - generic [ref=f60e484]:
+                            - generic [ref=f60e485]: Adriano Di Prato Premium Profile 1st
+                            - generic [aria-hidden] [ref=f60e486]:
+                              - text: Adriano Di Prato
+                              - generic [ref=f60e489]: • 1st
+                        - paragraph [ref=f60e491]: Executive Director, APAC at LCI Education | Building the future of creative higher education across Melbourne & Jakarta | Governance, academic quality & growth | Author & TEDx Speaker
+                    - paragraph [ref=f60e493]: 4mo
+                    - button "View more options for Adriano Di Prato’s comment." [ref=f60e494] [cursor=pointer]
+                  - paragraph [ref=f60e500]:
+                    - generic [ref=f60e501]:
+                      - text: Congrats once again
+                      - link "View Janine Stratford PCC’s profile" [ref=f60e503] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/janinestratford/
+                        - strong [ref=f60e504]: Janine Stratford PCC
+                      - text: . Wonderful Q&A session as well.
+                  - generic [ref=f60e506]:
+                    - generic [ref=f60e507]:
+                      - generic [ref=f60e508]:
+                        - button "1 reaction" [ref=f60e511] [cursor=pointer]:
+                          - paragraph [ref=f60e515]:
+                            - generic [ref=f60e516]:
+                              - generic [ref=f60e517]: 1 reaction
+                              - text: "1"
+                        - button "Open reactions menu"
+                      - generic [ref=f60e518]:
+                        - button "Reply" [ref=f60e519] [cursor=pointer]
+                        - paragraph [ref=f60e523]:
+                          - generic [ref=f60e524]:
+                            - generic [ref=f60e525]: "2"
+                            - text: "2"
+                    - link [ref=f60e527] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "Reacted to by the author" [ref=f60e528]:
+                        - figure [aria-hidden] [ref=f60e529]
+              - button [ref=f60e535] [cursor=pointer]:
+                - paragraph [ref=f60e536]: See previous replies
+              - generic [ref=f60e541]:
+                - link [ref=f60e543] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/adrianodiprato/
+                  - figure [ref=f60e544]
+                - generic [ref=f60e545]:
+                  - generic [ref=f60e547]:
+                    - link "Adriano Di Prato Premium Profile 1st Executive Director, APAC at LCI Education | Building the future of creative higher education across Melbourne & Jakarta | Governance, academic quality & growth | Author & TEDx Speaker" [ref=f60e548] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/adrianodiprato/
+                      - generic [ref=f60e549]:
+                        - paragraph [ref=f60e553]:
+                          - generic [ref=f60e554]:
+                            - generic [ref=f60e555]: Adriano Di Prato Premium Profile 1st
+                            - generic [aria-hidden] [ref=f60e556]:
+                              - text: Adriano Di Prato
+                              - generic [ref=f60e559]: • 1st
+                        - paragraph [ref=f60e561]: Executive Director, APAC at LCI Education | Building the future of creative higher education across Melbourne & Jakarta | Governance, academic quality & growth | Author & TEDx Speaker
+                    - paragraph [ref=f60e563]: 4mo
+                    - button "View more options for Adriano Di Prato’s comment." [ref=f60e564] [cursor=pointer]
+                  - paragraph [ref=f60e570]:
+                    - generic [ref=f60e571]:
+                      - text: Wonderful event
+                      - link "View Janine Stratford PCC’s profile" [ref=f60e573] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/janinestratford/
+                        - strong [ref=f60e574]: Janine Stratford PCC
+                      - text: 🫶🏼
+                  - generic [ref=f60e576]:
+                    - generic [ref=f60e577]:
+                      - generic [ref=f60e578]:
+                        - button "1 reaction" [ref=f60e581] [cursor=pointer]:
+                          - paragraph [ref=f60e585]:
+                            - generic [ref=f60e586]:
+                              - generic [ref=f60e587]: 1 reaction
+                              - text: "1"
+                        - button "Open reactions menu"
+                      - button "Reply" [ref=f60e589] [cursor=pointer]
+                    - link [ref=f60e593] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "Reacted to by the author" [ref=f60e594]:
+                        - figure [aria-hidden] [ref=f60e595]
+              - generic [ref=f60e602]:
+                - link [ref=f60e604] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/kerrynpowellthenetworkcatalyst/
+                  - figure [ref=f60e605]
+                - generic [ref=f60e606]:
+                  - generic [ref=f60e608]:
+                    - link "Kerryn Powell 1st The opportunity you’re missing is a conversation away | The Catalyst - change the conversation to unlock confidence, opportunity & impact | Conversation & Connection Strategist | Silo Breaker | Author | Speaker | Mentor" [ref=f60e609] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/kerrynpowellthenetworkcatalyst/
+                      - generic [ref=f60e610]:
+                        - paragraph [ref=f60e614]:
+                          - generic [ref=f60e615]:
+                            - generic [ref=f60e616]: Kerryn Powell 1st
+                            - generic [aria-hidden] [ref=f60e617]:
+                              - text: Kerryn Powell
+                              - generic [ref=f60e618]: • 1st
+                        - paragraph [ref=f60e620]: The opportunity you’re missing is a conversation away | The Catalyst - change the conversation to unlock confidence, opportunity & impact | Conversation & Connection Strategist | Silo Breaker | Author | Speaker | Mentor
+                    - paragraph [ref=f60e622]: 4mo
+                    - button "View more options for Kerryn Powell’s comment." [ref=f60e623] [cursor=pointer]
+                  - paragraph [ref=f60e629]:
+                    - generic [ref=f60e630]:
+                      - text: Sincere congratulations
+                      - link "View Janine Stratford PCC’s profile" [ref=f60e632] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/janinestratford/
+                        - strong [ref=f60e633]: Janine Stratford PCC
+                      - text: . You have every right to be proud and celebrating our achievement - what an impact you have made.
+                  - generic [ref=f60e635]:
+                    - generic [ref=f60e636]:
+                      - generic [ref=f60e637]:
+                        - button "1 reaction" [ref=f60e640] [cursor=pointer]:
+                          - paragraph [ref=f60e644]:
+                            - generic [ref=f60e645]:
+                              - generic [ref=f60e646]: 1 reaction
+                              - text: "1"
+                        - button "Open reactions menu"
+                      - generic [ref=f60e647]:
+                        - button "Reply" [ref=f60e648] [cursor=pointer]
+                        - paragraph [ref=f60e652]:
+                          - generic [ref=f60e653]:
+                            - generic [ref=f60e654]: "1"
+                            - text: "1"
+                    - link [ref=f60e656] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "Reacted to by the author" [ref=f60e657]:
+                        - figure [aria-hidden] [ref=f60e658]
+              - generic [ref=f60e665]:
+                - link [ref=f60e667] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/janinestratford/
+                  - figure [ref=f60e668]
+                - generic [ref=f60e669]:
+                  - generic [ref=f60e671]:
+                    - link [ref=f60e672] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/janinestratford/
+                      - generic [ref=f60e673]:
+                        - generic [ref=f60e674]:
+                          - paragraph [ref=f60e677]: Janine Stratford PCC
+                          - paragraph [ref=f60e678]: Author
+                        - paragraph [ref=f60e680]: Speaker, Author,Leadership Coach, Leadership PD for School Leaders, Career Strategist, 2024 Most Influential Educator, Inspiring educators to lead with a clear and aligned purpose for their team and their career success.
+                    - paragraph [ref=f60e682]: 4mo
+                    - button "View more options for Janine Stratford PCC’s comment." [ref=f60e683] [cursor=pointer]
+                  - paragraph [ref=f60e689]:
+                    - generic [ref=f60e690]:
+                      - text: Thanks
+                      - link "View Kerryn Powell’s profile" [ref=f60e692] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/kerrynpowellthenetworkcatalyst/
+                        - strong [ref=f60e693]: Kerryn Powell
+                  - generic [ref=f60e696]:
+                    - generic [ref=f60e697]:
+                      - button "0" [ref=f60e700] [cursor=pointer]:
+                        - generic [ref=f60e701]:
+                          - generic:
+                            - paragraph:
+                              - generic: "0"
+                      - button "Open reactions menu"
+                    - button "Reply" [ref=f60e705] [cursor=pointer]
+              - generic [ref=f60e712]:
+                - link [ref=f60e714] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/karenhollenbach/
+                  - figure [ref=f60e715]
+                - generic [ref=f60e716]:
+                  - generic [ref=f60e718]:
+                    - link "Karen Hollenbach Premium Profile 1st Helping leaders and organisations show up with clarity, confidence and purpose | Executive Visibility & Fractional Marketing Adviser | LinkedIn Consultant, Trainer & Profile Writer" [ref=f60e719] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/karenhollenbach/
+                      - generic [ref=f60e720]:
+                        - paragraph [ref=f60e724]:
+                          - generic [ref=f60e725]:
+                            - generic [ref=f60e726]: Karen Hollenbach Premium Profile 1st
+                            - generic [aria-hidden] [ref=f60e727]:
+                              - text: Karen Hollenbach
+                              - generic [ref=f60e730]: • 1st
+                        - paragraph [ref=f60e732]: Helping leaders and organisations show up with clarity, confidence and purpose | Executive Visibility & Fractional Marketing Adviser | LinkedIn Consultant, Trainer & Profile Writer
+                    - paragraph [ref=f60e734]: 4mo
+                    - button "View more options for Karen Hollenbach’s comment." [ref=f60e735] [cursor=pointer]
+                  - paragraph [ref=f60e741]:
+                    - generic [ref=f60e742]:
+                      - text: Congratulations
+                      - link "View Janine Stratford PCC’s profile" [ref=f60e744] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/janinestratford/
+                        - strong [ref=f60e745]: Janine
+                      - text: . It was a great launch!
+                  - generic [ref=f60e747]:
+                    - generic [ref=f60e748]:
+                      - generic [ref=f60e749]:
+                        - button "1 reaction" [ref=f60e752] [cursor=pointer]:
+                          - paragraph [ref=f60e756]:
+                            - generic [ref=f60e757]:
+                              - generic [ref=f60e758]: 1 reaction
+                              - text: "1"
+                        - button "Open reactions menu"
+                      - generic [ref=f60e759]:
+                        - button "Reply" [ref=f60e760] [cursor=pointer]
+                        - paragraph [ref=f60e764]:
+                          - generic [ref=f60e765]:
+                            - generic [ref=f60e766]: "1"
+                            - text: "1"
+                    - link [ref=f60e768] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "Reacted to by the author" [ref=f60e769]:
+                        - figure [aria-hidden] [ref=f60e770]
+              - generic [ref=f60e777]:
+                - link [ref=f60e779] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/janinestratford/
+                  - figure [ref=f60e780]
+                - generic [ref=f60e781]:
+                  - generic [ref=f60e783]:
+                    - link [ref=f60e784] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/janinestratford/
+                      - generic [ref=f60e785]:
+                        - generic [ref=f60e786]:
+                          - paragraph [ref=f60e789]: Janine Stratford PCC
+                          - paragraph [ref=f60e790]: Author
+                        - paragraph [ref=f60e792]: Speaker, Author,Leadership Coach, Leadership PD for School Leaders, Career Strategist, 2024 Most Influential Educator, Inspiring educators to lead with a clear and aligned purpose for their team and their career success.
+                    - paragraph [ref=f60e794]: 4mo
+                    - button "View more options for Janine Stratford PCC’s comment." [ref=f60e795] [cursor=pointer]
+                  - paragraph [ref=f60e801]:
+                    - generic [ref=f60e802]:
+                      - text: Thanks for being there,
+                      - link "View Karen Hollenbach’s profile" [ref=f60e804] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/karenhollenbach/
+                        - strong [ref=f60e805]: Karen Hollenbach
+                  - generic [ref=f60e807]:
+                    - generic [ref=f60e808]:
+                      - generic [ref=f60e809]:
+                        - button "1 reaction" [ref=f60e812] [cursor=pointer]:
+                          - paragraph [ref=f60e816]:
+                            - generic [ref=f60e817]:
+                              - generic [ref=f60e818]: 1 reaction
+                              - text: "1"
+                        - button "Open reactions menu"
+                      - button "Reply" [ref=f60e820] [cursor=pointer]
+                    - link [ref=f60e823] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+          - complementary "Aside" [ref=f60e952]:
+            - generic [ref=f60e958]:
+              - generic [ref=f60e959]:
+                - link [ref=f60e960] [cursor=pointer]:
+                  - /url: https://about.linkedin.com/
+                  - paragraph [ref=f60e961]: About
+                - link [ref=f60e962] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/accessibility/
+                  - paragraph [ref=f60e963]: Accessibility
+                - link [ref=f60e964] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin/
+                  - paragraph [ref=f60e965]: Help Center
+                - button [ref=f60e966] [cursor=pointer]:
+                  - paragraph [ref=f60e968]: Privacy & Terms
+                - link [ref=f60e970] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin/answer/62931/
+                  - paragraph [ref=f60e971]: Ad Choices
+                - link [ref=f60e972] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/ad/start/?trk=n_nav_ads_rr
+                  - paragraph [ref=f60e973]: Advertising
+                - button [ref=f60e974] [cursor=pointer]:
+                  - paragraph [ref=f60e976]: Business Services
+                - link [ref=f60e978] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/mobile/
+                  - paragraph [ref=f60e979]: Get the LinkedIn app
+                - link [ref=f60e980] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/
+                  - paragraph [ref=f60e981]: More
+              - paragraph [ref=f60e984]: LinkedIn Corporation © 2026

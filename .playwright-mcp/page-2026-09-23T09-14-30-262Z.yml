@@ -1,0 +1,109 @@
+- generic [active] [ref=f7e1]:
+  - generic:
+    - region "Toast message":
+      - heading "0 notifications total" [level=2] [ref=f7e3]
+      - alert
+  - region [ref=f7e4]
+  - generic [ref=f7e5]:
+    - generic [ref=f7e7]:
+      - button "Skip to search" [ref=f7e8] [cursor=pointer]
+      - button "Skip to main content" [ref=f7e10] [cursor=pointer]
+      - button "Keyboard shortcuts" [ref=f7e12] [cursor=pointer]
+      - button "Close jump menu" [ref=f7e14] [cursor=pointer]
+    - banner "Global Navigation" [ref=f7e18]:
+      - generic [ref=f7e19]:
+        - link [ref=f7e20] [cursor=pointer]:
+          - /url: https://www.linkedin.com/feed/?nis=true
+          - img "LinkedIn" [ref=f7e23]
+        - combobox "I’m looking for..." [ref=f7e29]
+        - navigation "Primary Navigation" [ref=f7e30]:
+          - list [ref=f7e31]:
+            - listitem [ref=f7e32]:
+              - link "new feed updates notifications Home" [ref=f7e33] [cursor=pointer]:
+                - /url: https://www.linkedin.com/feed/?nis=true&
+                - generic [ref=f7e34]: new feed updates notifications
+                - generic "Home" [ref=f7e43]
+            - listitem [ref=f7e44]:
+              - link "26 new network updates notifications My Network" [ref=f7e45] [cursor=pointer]:
+                - /url: https://www.linkedin.com/mynetwork/?
+                - generic [ref=f7e47]:
+                  - generic [aria-hidden] [ref=f7e48]: "26"
+                  - generic [ref=f7e49]: 26 new network updates notifications
+                - generic "My Network" [ref=f7e55]
+            - listitem [ref=f7e56]:
+              - link "Jobs" [ref=f7e57] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/?
+            - listitem [ref=f7e64]:
+              - link "2 new messages notifications Messaging" [ref=f7e65] [cursor=pointer]:
+                - /url: https://www.linkedin.com/messaging/?
+                - generic [ref=f7e67]:
+                  - generic [aria-hidden] [ref=f7e68]: "2"
+                  - generic [ref=f7e69]: 2 new messages notifications
+                - generic "Messaging" [ref=f7e75]
+            - listitem [ref=f7e76]:
+              - link "16 new notifications Notifications" [ref=f7e77] [cursor=pointer]:
+                - /url: https://www.linkedin.com/notifications/?
+                - generic [ref=f7e79]:
+                  - generic [aria-hidden] [ref=f7e80]: "16"
+                  - generic [ref=f7e81]: 16 new notifications
+                - generic "Notifications" [ref=f7e87]
+            - listitem [ref=f7e88]:
+              - button [ref=f7e90] [cursor=pointer]:
+                - img "Kelly Irving" [ref=f7e91]
+                - generic [ref=f7e92]: Me
+            - listitem [ref=f7e95]:
+              - button "For Business" [ref=f7e97] [cursor=pointer]
+            - listitem [ref=f7e106]:
+              - link "3 new Campaign Manager notifications Advertise" [ref=f7e107] [cursor=pointer]:
+                - /url: https://www.linkedin.com/campaignmanager/accounts?shouldShowNotificationPanelOnRender=true
+                - generic [ref=f7e109]:
+                  - generic [aria-hidden] [ref=f7e110]: "3"
+                  - generic [ref=f7e111]: 3 new Campaign Manager notifications
+                - generic "Advertise" [ref=f7e118]
+    - generic [ref=f7e124]:
+      - complementary [ref=f7e125]:
+        - generic [ref=f7e128]:
+          - img "PREMIUM" [ref=f7e133]
+          - link [ref=f7e137] [cursor=pointer]:
+            - /url: /in/janinestratford/
+            - img "Janine Stratford PCC" [ref=f7e138]
+          - generic [ref=f7e139]:
+            - link [ref=f7e140] [cursor=pointer]:
+              - /url: /in/janinestratford/
+              - heading [level=3] [ref=f7e141]:
+                - text: Janine Stratford PCC
+                - img "Janine Stratford PCC is a Premium member" [ref=f7e143]
+            - heading "Speaker, Author,Leadership Coach, Leadership PD for School Leaders, Career Strategist, 2024 Most Influential Educator, Inspiring educators to lead with a clear and aligned purpose for their team and their career success." [level=4] [ref=f7e146]
+          - generic [ref=f7e148]:
+            - generic [ref=f7e149]:
+              - generic [ref=f7e150]: Followers
+              - generic [ref=f7e151]: 4,755
+            - button "Message Janine" [ref=f7e154] [cursor=pointer]:
+              - generic [ref=f7e155]: Message
+      - main [ref=f7e156]:
+        - separator [ref=f7e181]
+      - complementary "Interests" [ref=f7e189]:
+        - generic "LinkedIn Footer Content" [ref=f7e251]:
+          - generic [ref=f7e252]:
+            - list
+            - generic [ref=f7e253]:
+              - img "LinkedIn" [ref=f7e254]
+              - text: LinkedIn Corporation © 2026
+    - generic:
+      - generic:
+        - complementary:
+          - generic [ref=f7e258]:
+            - generic [ref=f7e260] [cursor=pointer]:
+              - img "Kelly Irving" [ref=f7e262]
+              - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f7e263]:
+                - generic [ref=f7e264]:
+                  - generic [aria-hidden] [ref=f7e265]: Messaging
+                  - generic [ref=f7e266]: You are on the messaging overlay. Press enter to open the list of conversations.
+              - mark [aria-hidden] [ref=f7e267]:
+                - generic [ref=f7e268]: "2"
+            - generic [ref=f7e269]:
+              - button [ref=f7e271] [cursor=pointer]:
+                - img "Open messenger dropdown menu" [ref=f7e272]
+              - button "Compose message" [ref=f7e275] [cursor=pointer]
+              - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f7e279] [cursor=pointer]
+        - complementary "AI-powered assistant to get help with your career, jobs etc"

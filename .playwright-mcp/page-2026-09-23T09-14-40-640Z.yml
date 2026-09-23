@@ -1,0 +1,777 @@
+- generic [ref=f7e1]:
+  - generic:
+    - region "Toast message":
+      - heading "0 notifications total" [level=2] [ref=f7e3]
+      - alert
+  - region [ref=f7e4]: Like selected
+  - generic [ref=f7e5]:
+    - generic [ref=f7e7]:
+      - button "Skip to search" [ref=f7e8] [cursor=pointer]
+      - button "Skip to main content" [ref=f7e10] [cursor=pointer]
+      - button "Keyboard shortcuts" [ref=f7e12] [cursor=pointer]
+      - button "Close jump menu" [ref=f7e14] [cursor=pointer]
+    - banner "Global Navigation" [ref=f7e18]:
+      - generic [ref=f7e19]:
+        - link [ref=f7e20] [cursor=pointer]:
+          - /url: https://www.linkedin.com/feed/?nis=true
+          - img "LinkedIn" [ref=f7e23]
+        - combobox "I’m looking for..." [ref=f7e29]
+        - navigation "Primary Navigation" [ref=f7e30]:
+          - list [ref=f7e31]:
+            - listitem [ref=f7e32]:
+              - link "new feed updates notifications Home" [ref=f7e33] [cursor=pointer]:
+                - /url: https://www.linkedin.com/feed/?nis=true&
+                - generic [ref=f7e34]: new feed updates notifications
+                - generic "Home" [ref=f7e43]
+            - listitem [ref=f7e44]:
+              - link "26 new network updates notifications My Network" [ref=f7e45] [cursor=pointer]:
+                - /url: https://www.linkedin.com/mynetwork/?
+                - generic [ref=f7e47]:
+                  - generic [aria-hidden] [ref=f7e48]: "26"
+                  - generic [ref=f7e49]: 26 new network updates notifications
+                - generic "My Network" [ref=f7e55]
+            - listitem [ref=f7e56]:
+              - link "Jobs" [ref=f7e57] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/?
+            - listitem [ref=f7e64]:
+              - link "2 new messages notifications Messaging" [ref=f7e65] [cursor=pointer]:
+                - /url: https://www.linkedin.com/messaging/?
+                - generic [ref=f7e67]:
+                  - generic [aria-hidden] [ref=f7e68]: "2"
+                  - generic [ref=f7e69]: 2 new messages notifications
+                - generic "Messaging" [ref=f7e75]
+            - listitem [ref=f7e76]:
+              - link "16 new notifications Notifications" [ref=f7e77] [cursor=pointer]:
+                - /url: https://www.linkedin.com/notifications/?
+                - generic [ref=f7e79]:
+                  - generic [aria-hidden] [ref=f7e80]: "16"
+                  - generic [ref=f7e81]: 16 new notifications
+                - generic "Notifications" [ref=f7e87]
+            - listitem [ref=f7e88]:
+              - button [ref=f7e90] [cursor=pointer]:
+                - img "Kelly Irving" [ref=f7e91]
+                - generic [ref=f7e92]: Me
+            - listitem [ref=f7e95]:
+              - button "For Business" [ref=f7e97] [cursor=pointer]
+            - listitem [ref=f7e106]:
+              - link "3 new Campaign Manager notifications Advertise" [ref=f7e107] [cursor=pointer]:
+                - /url: https://www.linkedin.com/campaignmanager/accounts?shouldShowNotificationPanelOnRender=true
+                - generic [ref=f7e109]:
+                  - generic [aria-hidden] [ref=f7e110]: "3"
+                  - generic [ref=f7e111]: 3 new Campaign Manager notifications
+                - generic "Advertise" [ref=f7e118]
+    - generic [ref=f7e124]:
+      - complementary [ref=f7e125]:
+        - generic [ref=f7e128]:
+          - img "PREMIUM" [ref=f7e133]
+          - link [ref=f7e137] [cursor=pointer]:
+            - /url: /in/janinestratford/
+            - img "Janine Stratford PCC" [ref=f7e138]
+          - generic [ref=f7e139]:
+            - link [ref=f7e140] [cursor=pointer]:
+              - /url: /in/janinestratford/
+              - heading [level=3] [ref=f7e141]:
+                - text: Janine Stratford PCC
+                - img "Janine Stratford PCC is a Premium member" [ref=f7e143]
+            - heading "Speaker, Author,Leadership Coach, Leadership PD for School Leaders, Career Strategist, 2024 Most Influential Educator, Inspiring educators to lead with a clear and aligned purpose for their team and their career success." [level=4] [ref=f7e146]
+          - button "Message Janine" [ref=f7e154] [cursor=pointer]:
+            - generic [ref=f7e155]: Message
+      - main [ref=f7e156]:
+        - generic [ref=f7e283]:
+          - heading "All activity" [level=2] [ref=f7e284]
+          - group "Select type of recent activity" [ref=f7e287]:
+            - button "Posts" [pressed] [ref=f7e288] [cursor=pointer]
+            - button "Comments" [ref=f7e290] [cursor=pointer]
+            - button "Videos" [ref=f7e292] [cursor=pointer]
+            - button "Images" [ref=f7e294] [cursor=pointer]
+            - button "More" [ref=f7e296] [cursor=pointer]
+          - generic [ref=f7e302]:
+            - generic [ref=f7e303]:
+              - generic [ref=f7e304]: Loaded 20 Posts posts
+              - list [ref=f7e305]:
+                - listitem [ref=f7e306]:
+                  - article [ref=f7e311]:
+                    - generic [ref=f7e313]:
+                      - heading "Feed post number 1" [level=2] [ref=f7e314]
+                      - generic [ref=f7e315]:
+                        - generic [ref=f7e316]:
+                          - generic [ref=f7e318]:
+                            - link "View Janine Stratford PCC’s graphic link" [ref=f7e319] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/janinestratford?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAF1IFgBg0sgVVq5rUHgMNS8hRg8-q3yumg
+                              - img "View Janine Stratford PCC’s graphic link" [ref=f7e323]
+                            - generic [ref=f7e324]:
+                              - 'link "View: Janine Stratford PCC Premium • 1st Speaker, Author,Leadership Coach, Leadership PD for School Leaders, Career Strategist, 2024 Most Influential Educator, Inspiring educators to lead with a clear and aligned purpose for their team and their career success." [ref=f7e325] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/janinestratford?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAF1IFgBg0sgVVq5rUHgMNS8hRg8-q3yumg
+                                - generic [ref=f7e326]:
+                                  - generic [ref=f7e327]: Janine Stratford PCC
+                                  - generic [ref=f7e330]: • 1st
+                                - generic [ref=f7e335]: Speaker, Author,Leadership Coach, Leadership PD for School Leaders, Career Strategist, 2024 Most Influential Educator, Inspiring educators to lead with a clear and aligned purpose for their team and their career success.
+                              - link "Visit my website" [ref=f7e337] [cursor=pointer]:
+                                - /url: https://coachingfocus.com.au
+                              - generic [ref=f7e339]: 1d •
+                          - button "Open control menu for post by Janine Stratford PCC" [ref=f7e347] [cursor=pointer]
+                        - generic [ref=f7e351]:
+                          - generic [ref=f7e352]: "I spent years watching brilliant educators work themselves into the ground and still feel like they were not getting anywhere. I was one of them for a long time too, good at the job, run off my feet, and no closer to the kind of leadership I wanted to be doing. That is why I wrote Leading for Tomorrow, Today. After nearly 30 years in education, as a teacher, a school leader, and now as a coach, the one thing I kept coming back to was 'strategic thinking' - a different way of deciding where to spend the effort I already had. The book walks through what I call the Leadership Blueprint Model, five stages I use with the leaders I coach: Brand, Recognise, Align, Nurture, and Demonstrate. It is the process I wish someone had handed me earlier in my career. Every chapter has a real story from my own career in it, including the parts that were not flattering at the time. My hope is that it saves you some of the years it took me to work this out. If you would like a copy of Leading for Tomorrow, Today, it is $39.95 plus postage, and I will sign it myself 😊 (Link in bio)"
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f7e355] [cursor=pointer]:
+                            - generic [ref=f7e356]: …more
+                        - generic [ref=f7e358]:
+                          - button "Activate to view larger image, View image" [ref=f7e360] [cursor=pointer]:
+                            - generic [ref=f7e361]: Activate to view larger image,
+                            - img "View image" [ref=f7e364]
+                          - generic [aria-hidden] [ref=f7e365]: Activate to view larger image,
+                        - generic [ref=f7e366]:
+                          - list [ref=f7e370]:
+                            - listitem [ref=f7e371]:
+                              - button "6 reactions" [ref=f7e1300] [cursor=pointer]:
+                                - img "like" [ref=f7e1301]
+                                - generic [aria-hidden] [ref=f7e374]: "6"
+                            - listitem [ref=f7e375]:
+                              - list [ref=f7e376]:
+                                - listitem [ref=f7e377]:
+                                  - button "2 comments on Janine Stratford PCC’s post" [ref=f7e378] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f7e379]: 2 comments
+                          - generic [ref=f7e380]:
+                            - generic [ref=f7e381]:
+                              - button "Unreact Like" [active] [pressed] [ref=f7e1302] [cursor=pointer]:
+                                - generic [ref=f7e384]:
+                                  - img "like" [ref=f7e1303]
+                                  - generic [aria-hidden] [ref=f7e386]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f7e387] [cursor=pointer]
+                            - button "Comment" [ref=f7e392] [cursor=pointer]
+                            - button "Repost" [ref=f7e397] [cursor=pointer]
+                            - button "Send in a private message" [ref=f7e402] [cursor=pointer]:
+                              - generic [ref=f7e404]: Send
+                      - generic [ref=f7e1305]:
+                        - generic [ref=f7e1307]:
+                          - img "Kelly Irving" [ref=f7e1309]
+                          - generic [ref=f7e1312]:
+                            - generic [ref=f7e1316]:
+                              - textbox "Text editor for creating content" [ref=f7e1318]:
+                                - paragraph [ref=f7e1319]
+                                - text: Add a comment…
+                              - generic [aria-hidden] [ref=f7e1320]: Add a comment…
+                            - generic [ref=f7e1322]:
+                              - button "Open Emoji Keyboard" [ref=f7e1325] [cursor=pointer]
+                              - button "Add a photo" [ref=f7e1328] [cursor=pointer]
+                        - button "Current selected sort order is Most relevant" [ref=f7e1334] [cursor=pointer]:
+                          - generic [aria-hidden] [ref=f7e1336]: Most relevant
+                        - generic [ref=f7e1340]:
+                          - article [ref=f7e1341]:
+                            - generic [ref=f7e1342]:
+                              - generic [ref=f7e1343]:
+                                - link "View Janine Stratford PCC’s graphic link" [ref=f7e1344] [cursor=pointer]:
+                                  - /url: https://www.linkedin.com/in/janinestratford
+                                  - img "View Janine Stratford PCC’s graphic" [ref=f7e1347]
+                                - 'link "View: Janine Stratford PCC Author, Premium Speaker, Author,Leadership Coach, Leadership PD for School Leaders, Career Strategist, 2024 Most Influential Educator, Inspiring educators to lead with a clear and aligned purpose for their team and their career success." [ref=f7e1348] [cursor=pointer]':
+                                  - /url: https://www.linkedin.com/in/janinestratford
+                                  - heading "Janine Stratford PCC Author" [level=3] [ref=f7e1349]:
+                                    - generic [ref=f7e1350]: Janine Stratford PCC
+                                    - generic [ref=f7e1356]: Author
+                                  - generic [ref=f7e1357]: Speaker, Author,Leadership Coach, Leadership PD for School Leaders, Career Strategist, 2024 Most Influential Educator, Inspiring educators to lead with a clear and aligned purpose for their team and their career success.
+                              - generic [ref=f7e1358]:
+                                - time [ref=f7e1359]: 20h
+                                - button [ref=f7e1362] [cursor=pointer]:
+                                  - img "Open options for Janine Stratford PCC’s comment" [ref=f7e1363]
+                            - generic [ref=f7e1373]:
+                              - text: I’ll be keen to learn what you think of it,
+                              - link "Julia Lippold" [ref=f7e1375] [cursor=pointer]:
+                                - /url: /in/julia-lippold-266a63121/
+                            - generic [ref=f7e1380]:
+                              - generic [ref=f7e1381]:
+                                - generic [ref=f7e1382]:
+                                  - button "React Like to Janine Stratford PCC’s comment" [ref=f7e1383] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f7e1386]: Like
+                                  - button "Open reactions menu":
+                                    - generic [ref=f7e1387] [cursor=pointer]
+                                - generic [ref=f7e1390]: ·
+                                - button "1 Reaction on Janine Stratford PCC’s comment" [ref=f7e1391] [cursor=pointer]:
+                                  - img "like" [ref=f7e1392]
+                                  - generic [aria-hidden] [ref=f7e1393]: "1"
+                              - button "Reply to Janine Stratford PCC’s comment" [ref=f7e1396] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f7e1398]: Reply
+                          - article [ref=f7e1399]:
+                            - generic [ref=f7e1400]:
+                              - generic [ref=f7e1401]:
+                                - link "View Julia Lippold’s graphic link" [ref=f7e1402] [cursor=pointer]:
+                                  - /url: https://www.linkedin.com/in/julia-lippold-266a63121
+                                  - img "View Julia Lippold’s graphic" [ref=f7e1405]
+                                - 'link "View: Julia Lippold 2nd Experienced Educator &amp; Curriculum Leader | Senior English Teacher &amp; EAL Specialist | Most Influential Educator 2022 List (The Educator)" [ref=f7e1406] [cursor=pointer]':
+                                  - /url: https://www.linkedin.com/in/julia-lippold-266a63121
+                                  - heading "Julia Lippold • 2nd" [level=3] [ref=f7e1407]:
+                                    - generic [ref=f7e1408]: Julia Lippold
+                                    - generic [ref=f7e1409]: • 2nd
+                                  - generic [ref=f7e1411]: Experienced Educator & Curriculum Leader | Senior English Teacher & EAL Specialist | Most Influential Educator 2022 List (The Educator)
+                              - generic [ref=f7e1412]:
+                                - time [ref=f7e1413]: 21h
+                                - button [ref=f7e1416] [cursor=pointer]:
+                                  - img "Open options for Julia Lippold’s comment" [ref=f7e1417]
+                            - generic [ref=f7e1427]:
+                              - text: Ordered mine last week from
+                              - link "Amba Press" [ref=f7e1428] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/company/amba-press/
+                              - text: Janine. It’s in the mail ☺️ Looking forward to reading it!
+                            - generic [ref=f7e1435]:
+                              - generic [ref=f7e1437]:
+                                - button "React Like to Julia Lippold’s comment" [ref=f7e1438] [cursor=pointer]:
+                                  - generic [aria-hidden] [ref=f7e1441]: Like
+                                - button "Open reactions menu":
+                                  - generic [ref=f7e1442] [cursor=pointer]
+                              - button "Reply to Julia Lippold’s comment" [ref=f7e1447] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f7e1449]: Reply
+                - listitem [ref=f7e406]:
+                  - article [ref=f7e411]:
+                    - generic [ref=f7e413]:
+                      - heading "Feed post number 2" [level=2] [ref=f7e414]
+                      - generic [ref=f7e415]:
+                        - generic [ref=f7e416]:
+                          - generic [ref=f7e418]:
+                            - link [ref=f7e419] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/janinestratford?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAF1IFgBg0sgVVq5rUHgMNS8hRg8-q3yumg
+                              - img "Janine’s profile photo" [ref=f7e422]
+                            - generic [ref=f7e423]:
+                              - link "Janine Stratford PCC" [ref=f7e425] [cursor=pointer]:
+                                - /url: /in/janinestratford/
+                              - text: reposted this
+                          - button "Open control menu for post by Amba Press" [ref=f7e428] [cursor=pointer]
+                          - generic [ref=f7e432]:
+                            - link "Amba Press, graphic." [ref=f7e433] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/company/amba-press/posts
+                            - generic [ref=f7e437]:
+                              - 'link "View: Amba Press 1,818 followers" [ref=f7e438] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/company/amba-press/posts
+                                - generic [ref=f7e439]: Amba Press
+                                - generic [ref=f7e444]: 1,818 followers
+                              - generic [ref=f7e446]: 6d •
+                        - generic [ref=f7e453]:
+                          - generic [ref=f7e456]:
+                            - text: "\"Have you heard the phrase ‘What got you here won’t get you there’? Wherever you are now in your career, your leadership journey, whatever you have done so far, whatever you have learned, studied, achieved so far, has got you to right now. Well done for all the time, effort, and dedication you have given to your career, work, and leadership. But that is not what will carry you to the next step in your career or leadership.\"Read the rest of"
+                            - link "Janine Stratford" [ref=f7e458] [cursor=pointer]:
+                              - /url: /in/janinestratford/
+                            - text: "'s recent article in"
+                            - link "EducationToday" [ref=f7e459] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/company/educationtoday.co/
+                            - text: "here:"
+                            - link "https://lnkd.in/gbBvdaZs" [ref=f7e462] [cursor=pointer]:
+                              - /url: https://lnkd.in/gbBvdaZs
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f7e463] [cursor=pointer]:
+                            - generic [ref=f7e464]: …more
+                        - generic [ref=f7e465]:
+                          - 'link "Open article: What Got You Here Won&#39;t Get You There by educationtoday.com.au, Leaders, graphic" [ref=f7e467] [cursor=pointer]':
+                            - /url: https://www.educationtoday.com.au/news-detail/What-Got-You-Here-Wo-6873
+                            - img "Leaders" [ref=f7e470]
+                          - link "What Got You Here Won't Get You There" [ref=f7e473] [cursor=pointer]:
+                            - /url: https://www.educationtoday.com.au/news-detail/What-Got-You-Here-Wo-6873
+                            - generic [ref=f7e476]:
+                              - generic [ref=f7e477]: What Got You Here Won't Get You There
+                              - generic [ref=f7e479]: educationtoday.com.au
+                        - generic [ref=f7e480]:
+                          - list [ref=f7e484]:
+                            - listitem [ref=f7e485]:
+                              - button "Janine Stratford PCC and 4 others" [ref=f7e486] [cursor=pointer]:
+                                - img "like" [ref=f7e487]
+                                - img "love" [ref=f7e488]
+                                - img "celebrate" [ref=f7e489]
+                                - generic [ref=f7e490]:
+                                  - generic [aria-hidden] [ref=f7e491]: "5"
+                                  - generic [ref=f7e492]: Janine Stratford PCC and 4 others
+                            - listitem [ref=f7e493]:
+                              - list [ref=f7e494]:
+                                - listitem [ref=f7e495]:
+                                  - button "1 repost of Amba Press’ post" [ref=f7e496] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f7e497]: 1 repost
+                          - generic [ref=f7e498]:
+                            - generic [ref=f7e499]:
+                              - button "React Like" [ref=f7e500] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f7e504]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f7e505] [cursor=pointer]
+                            - button "Comment" [ref=f7e510] [cursor=pointer]
+                            - button "Repost" [ref=f7e515] [cursor=pointer]
+                            - button "Send in a private message" [ref=f7e520] [cursor=pointer]:
+                              - generic [ref=f7e522]: Send
+                - listitem [ref=f7e524]:
+                  - article [ref=f7e529]:
+                    - generic [ref=f7e531]:
+                      - heading "Feed post number 3" [level=2] [ref=f7e532]
+                      - generic [ref=f7e533]:
+                        - generic [ref=f7e534]:
+                          - generic [ref=f7e536]:
+                            - link "View Janine Stratford PCC’s graphic link" [ref=f7e537] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/janinestratford?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAF1IFgBg0sgVVq5rUHgMNS8hRg8-q3yumg
+                              - img "View Janine Stratford PCC’s graphic link" [ref=f7e541]
+                            - generic [ref=f7e542]:
+                              - 'link "View: Janine Stratford PCC Premium • 1st Speaker, Author,Leadership Coach, Leadership PD for School Leaders, Career Strategist, 2024 Most Influential Educator, Inspiring educators to lead with a clear and aligned purpose for their team and their career success." [ref=f7e543] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/janinestratford?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAF1IFgBg0sgVVq5rUHgMNS8hRg8-q3yumg
+                                - generic [ref=f7e544]:
+                                  - generic [ref=f7e545]: Janine Stratford PCC
+                                  - generic [ref=f7e548]: • 1st
+                                - generic [ref=f7e553]: Speaker, Author,Leadership Coach, Leadership PD for School Leaders, Career Strategist, 2024 Most Influential Educator, Inspiring educators to lead with a clear and aligned purpose for their team and their career success.
+                              - link "Visit my website" [ref=f7e555] [cursor=pointer]:
+                                - /url: https://coachingfocus.com.au
+                              - generic [ref=f7e557]: 6d •
+                          - button "Open control menu for post by Janine Stratford PCC" [ref=f7e565] [cursor=pointer]
+                        - generic [ref=f7e569]:
+                          - generic [ref=f7e570]: Some of my best learning happens behind the wheel. Whenever I’m heading out on a long drive, I choose a podcast and listen to what educators, thought leaders and innovators are thinking about next. In Leading for Tomorrow, Today, I shared 🔟 of my favourites 🎧 So, what made the list? Swipe through to find out 👉
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f7e573] [cursor=pointer]:
+                            - generic [ref=f7e574]: …more
+                        - generic [ref=f7e575]:
+                          - region "Video player" [ref=f7e579]:
+                            - generic [ref=f7e582] [cursor=pointer]
+                            - button "Play" [ref=f7e583] [cursor=pointer]
+                          - article [ref=f7e585]:
+                            - generic [ref=f7e586]: Some of my best learning happens behind the wheel
+                        - generic [ref=f7e587]:
+                          - list [ref=f7e591]:
+                            - listitem [ref=f7e592]:
+                              - button "1 reaction" [ref=f7e593] [cursor=pointer]:
+                                - img "like" [ref=f7e594]
+                                - generic [aria-hidden] [ref=f7e595]: "1"
+                          - generic [ref=f7e596]:
+                            - generic [ref=f7e597]:
+                              - button "React Like" [ref=f7e598] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f7e602]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f7e603] [cursor=pointer]
+                            - button "Comment" [ref=f7e608] [cursor=pointer]
+                            - button "Repost" [ref=f7e613] [cursor=pointer]
+                            - button "Send in a private message" [ref=f7e618] [cursor=pointer]:
+                              - generic [ref=f7e620]: Send
+                - listitem [ref=f7e622]:
+                  - article [ref=f7e627]:
+                    - generic [ref=f7e629]:
+                      - heading "Feed post number 4" [level=2] [ref=f7e630]
+                      - generic [ref=f7e631]:
+                        - generic [ref=f7e632]:
+                          - generic [ref=f7e634]:
+                            - link "View Janine Stratford PCC’s graphic link" [ref=f7e635] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/janinestratford?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAF1IFgBg0sgVVq5rUHgMNS8hRg8-q3yumg
+                              - img "View Janine Stratford PCC’s graphic link" [ref=f7e639]
+                            - generic [ref=f7e640]:
+                              - 'link "View: Janine Stratford PCC Premium • 1st Speaker, Author,Leadership Coach, Leadership PD for School Leaders, Career Strategist, 2024 Most Influential Educator, Inspiring educators to lead with a clear and aligned purpose for their team and their career success." [ref=f7e641] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/janinestratford?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAF1IFgBg0sgVVq5rUHgMNS8hRg8-q3yumg
+                                - generic [ref=f7e642]:
+                                  - generic [ref=f7e643]: Janine Stratford PCC
+                                  - generic [ref=f7e646]: • 1st
+                                - generic [ref=f7e651]: Speaker, Author,Leadership Coach, Leadership PD for School Leaders, Career Strategist, 2024 Most Influential Educator, Inspiring educators to lead with a clear and aligned purpose for their team and their career success.
+                              - link "Visit my website" [ref=f7e653] [cursor=pointer]:
+                                - /url: https://coachingfocus.com.au
+                              - generic [ref=f7e655]: 1w • Edited •
+                          - button "Open control menu for post by Janine Stratford PCC" [ref=f7e663] [cursor=pointer]
+                        - generic [ref=f7e667]:
+                          - generic [ref=f7e668]: Most interview advice focuses on what to say. Just as much of the outcome comes down to how you prepare beforehand. So, with that in mind, here are 4️⃣ tips worth building into your interview preparation 👉
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f7e671] [cursor=pointer]:
+                            - generic [ref=f7e672]: …more
+                        - generic [ref=f7e673]:
+                          - region "Video player" [ref=f7e677]:
+                            - generic [ref=f7e680] [cursor=pointer]
+                            - button "Play" [ref=f7e681] [cursor=pointer]
+                          - article [ref=f7e683]:
+                            - generic [ref=f7e684]: Most interview advice focuses on what to say
+                        - generic [ref=f7e685]:
+                          - list [ref=f7e689]:
+                            - listitem [ref=f7e690]:
+                              - button "Katrina Davey and 2 others" [ref=f7e691] [cursor=pointer]:
+                                - img "like" [ref=f7e692]
+                                - generic [ref=f7e693]:
+                                  - generic [aria-hidden] [ref=f7e694]: "3"
+                                  - generic [ref=f7e695]: Katrina Davey and 2 others
+                            - listitem [ref=f7e696]:
+                              - list [ref=f7e697]:
+                                - listitem [ref=f7e698]:
+                                  - button "2 comments on Janine Stratford PCC’s post" [ref=f7e699] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f7e700]: 2 comments
+                          - generic [ref=f7e701]:
+                            - generic [ref=f7e702]:
+                              - button "React Like" [ref=f7e703] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f7e707]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f7e708] [cursor=pointer]
+                            - button "Comment" [ref=f7e713] [cursor=pointer]
+                            - button "Repost" [ref=f7e718] [cursor=pointer]
+                            - button "Send in a private message" [ref=f7e723] [cursor=pointer]:
+                              - generic [ref=f7e725]: Send
+                - listitem [ref=f7e727]:
+                  - article [ref=f7e732]:
+                    - generic [ref=f7e734]:
+                      - heading "Feed post number 5" [level=2] [ref=f7e735]
+                      - generic [ref=f7e736]:
+                        - generic [ref=f7e737]:
+                          - generic [ref=f7e739]:
+                            - link "View Janine Stratford PCC’s graphic link" [ref=f7e740] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/janinestratford?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAF1IFgBg0sgVVq5rUHgMNS8hRg8-q3yumg
+                              - img "View Janine Stratford PCC’s graphic link" [ref=f7e744]
+                            - generic [ref=f7e745]:
+                              - 'link "View: Janine Stratford PCC Premium • 1st Speaker, Author,Leadership Coach, Leadership PD for School Leaders, Career Strategist, 2024 Most Influential Educator, Inspiring educators to lead with a clear and aligned purpose for their team and their career success." [ref=f7e746] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/janinestratford?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAF1IFgBg0sgVVq5rUHgMNS8hRg8-q3yumg
+                                - generic [ref=f7e747]:
+                                  - generic [ref=f7e748]: Janine Stratford PCC
+                                  - generic [ref=f7e751]: • 1st
+                                - generic [ref=f7e756]: Speaker, Author,Leadership Coach, Leadership PD for School Leaders, Career Strategist, 2024 Most Influential Educator, Inspiring educators to lead with a clear and aligned purpose for their team and their career success.
+                              - link "Visit my website" [ref=f7e758] [cursor=pointer]:
+                                - /url: https://coachingfocus.com.au
+                              - generic [ref=f7e760]: 1w •
+                          - button "Open control menu for post by Janine Stratford PCC" [ref=f7e768] [cursor=pointer]
+                        - generic [ref=f7e772]:
+                          - generic [ref=f7e775]:
+                            - text: Managing conflict is not a strength for most of us, as educators. So it’s a program I deliver often. Here’s a look inside the day with
+                            - link "Wenona School" [ref=f7e776] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/company/wenonaschool/
+                            - text: . We focus on having language that we are comfortable to use, a framework to follow, and building up our level of assertiveness. Of course we need to add some fun and team work into the day. Thank you
+                            - link "Nicole Timbrell" [ref=f7e780] [cursor=pointer]:
+                              - /url: /in/nicole-timbrell-705158121/
+                            - text: and
+                            - link "Linda Douglas" [ref=f7e782] [cursor=pointer]:
+                              - /url: /in/linda-douglas-52913034/
+                            - text: for having me back to continue the leadership learning with you leaders.
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f7e783] [cursor=pointer]:
+                            - generic [ref=f7e784]: …more
+                        - region "Video player" [ref=f7e789]:
+                          - generic [ref=f7e792] [cursor=pointer]
+                          - button "Play" [ref=f7e793] [cursor=pointer]
+                        - generic [ref=f7e795]:
+                          - list [ref=f7e799]:
+                            - listitem [ref=f7e800]:
+                              - button "Michael Ha and 7 others" [ref=f7e801] [cursor=pointer]:
+                                - img "like" [ref=f7e802]
+                                - generic [ref=f7e803]:
+                                  - generic [aria-hidden] [ref=f7e804]: "8"
+                                  - generic [ref=f7e805]: Michael Ha and 7 others
+                          - generic [ref=f7e806]:
+                            - generic [ref=f7e807]:
+                              - button "React Like" [ref=f7e808] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f7e812]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f7e813] [cursor=pointer]
+                            - button "Comment" [ref=f7e818] [cursor=pointer]
+                            - button "Repost" [ref=f7e823] [cursor=pointer]
+                            - button "Send in a private message" [ref=f7e828] [cursor=pointer]:
+                              - generic [ref=f7e830]: Send
+                - listitem [ref=f7e832]
+                - listitem [ref=f7e836]
+                - listitem [ref=f7e840]
+                - listitem [ref=f7e844]
+                - listitem [ref=f7e848]
+                - listitem [ref=f7e852]
+                - listitem [ref=f7e856]
+                - listitem [ref=f7e860]
+                - listitem [ref=f7e864]
+                - listitem [ref=f7e868]
+                - listitem [ref=f7e872]
+                - listitem [ref=f7e876]
+                - listitem [ref=f7e880]
+                - listitem [ref=f7e884]
+                - listitem [ref=f7e888]
+            - button "Show more results" [ref=f7e894] [cursor=pointer]
+      - complementary "Interests" [ref=f7e189]:
+        - iframe [ref=f7e897]:
+          - generic [ref=f8e2]:
+            - generic: Ad
+            - img "overflow-web-small" [ref=f8e6] [cursor=pointer]
+            - link "LinkedIn for Marketing" [ref=f8e10] [cursor=pointer]:
+              - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Fbusiness.linkedin.com%2Fadvertise%2Fcx%2F22%2F06%2Frequest-a-strategy-call%3Fmcid%3D7503488571140616212%26src%3Dli-dynamic%26cid%3D701hh0000077UsqAAE%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGgzYuOzVv9isCpolYiUDc5V6E2RVAGnyHFbcsBLIzLQMIJUqg8Msk-ZfpWlhrVnXnaqun-De04tHouxpSO1ns2SrqLKdylHEw7ceHmVGG9_2dEYiVOLHkQelcYAf61rUY9o1PHfAUx9qTJtnM4DyH0DbFTBDkkqcGj-duGEVqxKQHhrjNsIETpxv-mA9BswFSWYwJS1U9Yt7zTMGMJU38NAqrsNSoB3C58Tt9Y9BYHWDYQzWstF9hzKfavBlp6qA_Brz0wwQHshBrRl6XWfoyYQw-kWUvqk9KKv4mF7n89o7H4fIrR7emRYg4bXpgZypOS-a0uJ7o_qejElJ3rqLCHvXSmug-ORj0Z4jeDitnPJazD8JCn2hEOCblzJdMER-beEpcp6F1wZvvqrHbzN4MGQkMIbYc67_z0xB-_PQ70k_NMpz6Z3UInZjNML9Q8nZqyO3ZF2kufPQRVhHUhOjFQK5em0gQEl1ibLG7HxPzPztzOTvtp-eL-lc39nHiQ0Sk5B8CSnv-hwR5T-FZfBlppE6C6CKb7lnDgx96cMn2xFblztfEw_iUrCDXzzKxoINQDEfjPQRdlLduiB6DN4Rmf6eGNtOha9Xc0HR5NC2-lqhlb_on1MEQkWYQmx3cesb9FZYMBiQ-FbmR9DgiUPSUuKFqpleB2lFNHUOQRtQMzJlpFzeWrZq1qFTlWsZTQr7mYjFWpy1oI2W4YuSc0CHmPCT5Ne8fnruRObaSCmMyd6wZLVwjTqBxCByL3HSkvDr9rT27N465PsKNigGGIVtuvHIIuyAro9H8qF6vq4B8W751oGxrLSKzs06M-gvBAWixwPA8vNjEXtuloCEavkbIj6UOhbdfLesWgO3ZwQqLaD0oHY1AppqvR-kQHwN9aGdJku6-3-Oq-LKIwiMlkPWj-zvpKTyY1oaBtjQMTveu4Khcaf3NHSB5iKIsW8PYog7W8oF_lcUmixlC6wp_M_onNG82I5ZerCmYMDyZsvyLs4gjR2gihFeWkxBJVMI_ESkqINfSR2hG42Bzk069BNm15l8K_1OE0VKCpYiTeXP6FH2C8buVPIskT0izH4bw5bv3nO2gZjyP-wp61BrkjAQ_wR04JKEPUlSorkDCOs7HLH7R6z3cPE_jP%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%22%2C%22trackingId%22%3A%2228450632-b1ce-4efa-9546-7bc043825e2a%22%7D%2C%22time%22%3A1790154870335%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_view_base_recent_activity_content_view%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+            - generic [ref=f8e11]:
+              - heading "Kelly, prove ROI with help from a LinkedIn Ads expert" [level=2] [ref=f8e14]
+              - generic [ref=f8e16]:
+                - img "Kelly" [ref=f8e17]
+                - generic [ref=f8e18]:
+                  - link [ref=f8e19] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Fbusiness.linkedin.com%2Fadvertise%2Fcx%2F22%2F06%2Frequest-a-strategy-call%3Fmcid%3D7503488571140616212%26src%3Dli-dynamic%26cid%3D701hh0000077UsqAAE%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGgzYuOzVv9isCpolYiUDc5V6E2RVAGnyHFbcsBLIzLQMIJUqg8Msk-ZfpWlhrVnXnaqun-De04tHouxpSO1ns2SrqLKdylHEw7ceHmVGG9_2dEYiVOLHkQelcYAf61rUY9o1PHfAUx9qTJtnM4DyH0DbFTBDkkqcGj-duGEVqxKQHhrjNsIETpxv-mA9BswFSWYwJS1U9Yt7zTMGMJU38NAqrsNSoB3C58Tt9Y9BYHWDYQzWstF9hzKfavBlp6qA_Brz0wwQHshBrRl6XWfoyYQw-kWUvqk9KKv4mF7n89o7H4fIrR7emRYg4bXpgZypOS-a0uJ7o_qejElJ3rqLCHvXSmug-ORj0Z4jeDitnPJazD8JCn2hEOCblzJdMER-beEpcp6F1wZvvqrHbzN4MGQkMIbYc67_z0xB-_PQ70k_NMpz6Z3UInZjNML9Q8nZqyO3ZF2kufPQRVhHUhOjFQK5em0gQEl1ibLG7HxPzPztzOTvtp-eL-lc39nHiQ0Sk5B8CSnv-hwR5T-FZfBlppE6C6CKb7lnDgx96cMn2xFblztfEw_iUrCDXzzKxoINQDEfjPQRdlLduiB6DN4Rmf6eGNtOha9Xc0HR5NC2-lqhlb_on1MEQkWYQmx3cesb9FZYMBiQ-FbmR9DgiUPSUuKFqpleB2lFNHUOQRtQMzJlpFzeWrZq1qFTlWsZTQr7mYjFWpy1oI2W4YuSc0CHmPCT5Ne8fnruRObaSCmMyd6wZLVwjTqBxCByL3HSkvDr9rT27N465PsKNigGGIVtuvHIIuyAro9H8qF6vq4B8W751oGxrLSKzs06M-gvBAWixwPA8vNjEXtuloCEavkbIj6UOhbdfLesWgO3ZwQqLaD0oHY1AppqvR-kQHwN9aGdJku6-3-Oq-LKIwiMlkPWj-zvpKTyY1oaBtjQMTveu4Khcaf3NHSB5iKIsW8PYog7W8oF_lcUmixlC6wp_M_onNG82I5ZerCmYMDyZsvyLs4gjR2gihFeWkxBJVMI_ESkqINfSR2hG42Bzk069BNm15l8K_1OE0VKCpYiTeXP6FH2C8buVPIskT0izH4bw5bv3nO2gZjyP-wp61BrkjAQ_wR04JKEPUlSorkDCOs7HLH7R6z3cPE_jP%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%22%2C%22trackingId%22%3A%2228450632-b1ce-4efa-9546-7bc043825e2a%22%7D%2C%22time%22%3A1790154870335%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_view_base_recent_activity_content_view%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                    - img "LinkedIn for Marketing" [ref=f8e20]
+                  - tooltip "LinkedIn for Marketing" [ref=f8e21]
+              - generic [ref=f8e22]:
+                - heading "Get clarity on your campaign ROI" [level=2] [ref=f8e25]
+                - link "Book a 1:1 call" [ref=f8e27] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Fbusiness.linkedin.com%2Fadvertise%2Fcx%2F22%2F06%2Frequest-a-strategy-call%3Fmcid%3D7503488571140616212%26src%3Dli-dynamic%26cid%3D701hh0000077UsqAAE%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGgzYuOzVv9isCpolYiUDc5V6E2RVAGnyHFbcsBLIzLQMIJUqg8Msk-ZfpWlhrVnXnaqun-De04tHouxpSO1ns2SrqLKdylHEw7ceHmVGG9_2dEYiVOLHkQelcYAf61rUY9o1PHfAUx9qTJtnM4DyH0DbFTBDkkqcGj-duGEVqxKQHhrjNsIETpxv-mA9BswFSWYwJS1U9Yt7zTMGMJU38NAqrsNSoB3C58Tt9Y9BYHWDYQzWstF9hzKfavBlp6qA_Brz0wwQHshBrRl6XWfoyYQw-kWUvqk9KKv4mF7n89o7H4fIrR7emRYg4bXpgZypOS-a0uJ7o_qejElJ3rqLCHvXSmug-ORj0Z4jeDitnPJazD8JCn2hEOCblzJdMER-beEpcp6F1wZvvqrHbzN4MGQkMIbYc67_z0xB-_PQ70k_NMpz6Z3UInZjNML9Q8nZqyO3ZF2kufPQRVhHUhOjFQK5em0gQEl1ibLG7HxPzPztzOTvtp-eL-lc39nHiQ0Sk5B8CSnv-hwR5T-FZfBlppE6C6CKb7lnDgx96cMn2xFblztfEw_iUrCDXzzKxoINQDEfjPQRdlLduiB6DN4Rmf6eGNtOha9Xc0HR5NC2-lqhlb_on1MEQkWYQmx3cesb9FZYMBiQ-FbmR9DgiUPSUuKFqpleB2lFNHUOQRtQMzJlpFzeWrZq1qFTlWsZTQr7mYjFWpy1oI2W4YuSc0CHmPCT5Ne8fnruRObaSCmMyd6wZLVwjTqBxCByL3HSkvDr9rT27N465PsKNigGGIVtuvHIIuyAro9H8qF6vq4B8W751oGxrLSKzs06M-gvBAWixwPA8vNjEXtuloCEavkbIj6UOhbdfLesWgO3ZwQqLaD0oHY1AppqvR-kQHwN9aGdJku6-3-Oq-LKIwiMlkPWj-zvpKTyY1oaBtjQMTveu4Khcaf3NHSB5iKIsW8PYog7W8oF_lcUmixlC6wp_M_onNG82I5ZerCmYMDyZsvyLs4gjR2gihFeWkxBJVMI_ESkqINfSR2hG42Bzk069BNm15l8K_1OE0VKCpYiTeXP6FH2C8buVPIskT0izH4bw5bv3nO2gZjyP-wp61BrkjAQ_wR04JKEPUlSorkDCOs7HLH7R6z3cPE_jP%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%22%2C%22trackingId%22%3A%2228450632-b1ce-4efa-9546-7bc043825e2a%22%7D%2C%22time%22%3A1790154870335%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_view_base_recent_activity_content_view%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+        - generic [ref=f7e898]:
+          - heading "People you may know" [level=2] [ref=f7e903]
+          - generic [ref=f7e905]:
+            - list [ref=f7e906]:
+              - listitem [ref=f7e907]:
+                - generic [ref=f7e908]:
+                  - link [ref=f7e910] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/nayantharapv
+                    - img "Nayan Thara P V is open to work" [ref=f7e913]
+                  - generic [ref=f7e914]:
+                    - link "Nayan Thara P V CMS Expert | Journalist | Writer | Content Creative & Strategist" [ref=f7e916] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/nayantharapv?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADDsw-gBRkEAwEcNi-J7Vz7ZB5-5gUQ472U
+                      - generic [ref=f7e917]: Nayan Thara P V
+                      - generic [ref=f7e926]: CMS Expert | Journalist | Writer | Content Creative & Strategist
+                    - list [ref=f7e932]:
+                      - listitem [ref=f7e933]:
+                        - button "Invite Nayan Thara P V to connect" [ref=f7e935] [cursor=pointer]:
+                          - generic [ref=f7e938]: Connect
+              - listitem [ref=f7e939]:
+                - generic [ref=f7e940]:
+                  - link [ref=f7e942] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/lily-dillon-19b453438
+                    - img "Lily Dillon" [ref=f7e945]
+                  - generic [ref=f7e946]:
+                    - link "Lily Dillon Level 3 Creative Digital Media Student at Burnley College (Year 2)" [ref=f7e948] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/lily-dillon-19b453438?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAG5pmkcBXFWupqAUn7_tv8I-wt_danJe3-4
+                      - generic [ref=f7e949]: Lily Dillon
+                      - generic [ref=f7e954]: Level 3 Creative Digital Media Student at Burnley College (Year 2)
+                    - list [ref=f7e960]:
+                      - listitem [ref=f7e961]:
+                        - button "Invite Lily Dillon to connect" [ref=f7e963] [cursor=pointer]:
+                          - generic [ref=f7e966]: Connect
+              - listitem [ref=f7e967]:
+                - generic [ref=f7e968]:
+                  - link [ref=f7e970] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/jimmy-hartanto-230757185
+                    - img "Jimmy Hartanto" [ref=f7e973]
+                  - generic [ref=f7e974]:
+                    - link "Jimmy Hartanto AI Automation Consultant & Engineer for recruitment firms | Most of your workflow doesn’t need AI. I find the part that does, build it, and keep it running | Discovery call first" [ref=f7e976] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/jimmy-hartanto-230757185?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACu3KYQBWDUCuGn26KSLRwLO72cWck9KLYA
+                      - generic [ref=f7e977]: Jimmy Hartanto
+                      - generic [ref=f7e986]: AI Automation Consultant & Engineer for recruitment firms | Most of your workflow doesn’t need AI. I find the part that does, build it, and keep it running | Discovery call first
+                    - list [ref=f7e992]:
+                      - listitem [ref=f7e993]:
+                        - button "Invite Jimmy Hartanto to connect" [ref=f7e995] [cursor=pointer]:
+                          - generic [ref=f7e998]: Connect
+              - listitem [ref=f7e999]:
+                - generic [ref=f7e1000]:
+                  - link [ref=f7e1002] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/lillianna-rain-mclean-lapham-9145a1431
+                    - img "Lillianna Rain McLean-Lapham" [ref=f7e1005]
+                  - generic [ref=f7e1006]:
+                    - link "Lillianna Rain McLean-Lapham Law Student" [ref=f7e1008] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/lillianna-rain-mclean-lapham-9145a1431?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAG0wAeABWjBZNPtScafj2I6-Xh5rx3HUadM
+                      - generic [ref=f7e1009]: Lillianna Rain McLean-Lapham
+                      - generic [ref=f7e1018]: Law Student
+                    - list [ref=f7e1024]:
+                      - listitem [ref=f7e1025]:
+                        - button "Invite Lillianna Rain McLean-Lapham to connect" [ref=f7e1027] [cursor=pointer]:
+                          - generic [ref=f7e1030]: Connect
+              - listitem [ref=f7e1031]:
+                - generic [ref=f7e1032]:
+                  - link [ref=f7e1034] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/anna-kosiedowski-312b95152
+                    - img "Anna Kosiedowski" [ref=f7e1037]
+                  - generic [ref=f7e1038]:
+                    - link "Anna Kosiedowski People & Culture Manager" [ref=f7e1040] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/anna-kosiedowski-312b95152?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACTWoH4BCmOerTfbTKQFdvaBmGBTxITf5Sk
+                      - generic [ref=f7e1041]: Anna Kosiedowski
+                      - generic [ref=f7e1050]: People & Culture Manager
+                    - list [ref=f7e1056]:
+                      - listitem [ref=f7e1057]:
+                        - button "Invite Anna Kosiedowski to connect" [ref=f7e1059] [cursor=pointer]:
+                          - generic [ref=f7e1062]: Connect
+            - button "Show more" [ref=f7e1065] [cursor=pointer]
+        - generic [ref=f7e250]:
+          - iframe [ref=f7e1450]:
+            - generic [ref=f9e2]:
+              - generic: Ad
+              - img "overflow-web-small" [ref=f9e6] [cursor=pointer]
+              - link "LinkedIn" [ref=f9e10] [cursor=pointer]:
+                - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Fbusiness.linkedin.com%2Fmarketing-solutions%2Fwebinars%2F22%2F05%2Ffill-your-funnel-on-linkedin%3Fsrc%3Dli-dynamic%26veh%3D7016Q000000nUhcQAExFxOS1xCUSTxDAxAPACxENxOnDemandxWCx202208xOnDemandWebinarsxGlobalActiveCustRedeemx1194x1507xVisitsxv2a%26cid%3D7016Q000000nUhcQAE%26mcid%3D7387207353630232577%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGgzYu04y1VJuZvzmXOqqZ7Jucei5vktwTNqDFQkt03r6gVgZvMJ5dMAdpMDAvp0ZuXfcrjhjM0RWreqxjgsYrplWYf2T23cpRML70wo0efxNZTTkiqNHn7DOgTMNw5FYMrgX26XA_9AQ_Awu9H-O4BuVlT2LqRgZMyTQB_u136YkxAmKcJR6cH_PDK9_Zgs3N3DEeXbr7f9sxmItITy15L2yBeMljcJi3CeohjlC2cRhNJ6YQ8LRDZ-raaEeRpxZAyypCdpi2OggJdF93ClGeuKCODGGvxfNLZXFLjHnbzwkgNy7w3YN0lCeQxAO0KL4myu0ulVKQTyXXMS0HrTxHnZzqVEJJ45U9g65PCLzua-E3JoCcjiDLnIM1ToJ_6g8Se2fk6J3PVnupaclRv0NSvu4uC9Zd0vE2lTWMcJk_THIGw7CZ-hiqzfRkgyGL0pLfnWlXjWHRyZk5QLg3jUTk9RyuniJIRl1rvrVqILDGPpQuSIsMo-fTrR9la6nDBFz1wmzeFq8Q0NiTqKcaVziI3waiWQ30Mc91RsYqgRqevsnVgnlV1T0pBAQA45yfa-LFU_n-sOQvHkTzAZpf_q630ObxazzAo9XNn8IdsRJ-hv18YzWwSy8LPHeQ6RkFjJXAMBr0Nga6OZqV_ztzHipNzWFjvphdJ8E3ksFjBYe6AIp8rZ5tiJPsrueXplom5y8TeaY0zL7bKLmnUKxX9ZeKkK8kVVbaCgl9p9Nj1QScWH-GmTpvgMwimyDpF5GKDaSZqoV6xMoU2ocBzz1El8Hot25JjXQrd5wGEzb2OYFNhN6l_9MNzDDAasypqIOr94lK9Rb77tvYv-RvT8FfkAc4M31iDTuLk5kUXzVCVd1NFl5yeAy8CyQvuWjx-r-_tSbDF9vypJQZUpDGfDjFJajNPK1syaKerhXWLQugxB0UB0zh_LnZ0kxOvw32GY8J9v_fZPvVRmeIFL5YpyxVOo72xVYlnmEPjtTzxIbInJlWsy99CfWKnuk1Ezf02NqFEn-uB7tnodDlDBP_TBmjLeqFbhF2wCjMwsz9OBUU14JJZfRbfQvbM3FWGVZj5fUgeWquhJ4pGBGxevVfFTZdeHp-VMvXYDSxM0cCoXgJJGLJ92XjX2wsHAMXYGa0ryl1N4G78mWPtCbqBq1tz3lHh-gc7rMZ314G-eGo%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%22%2C%22trackingId%22%3A%2262b42ec6-461c-4041-a586-2ed2f1e1c557%22%7D%2C%22time%22%3A1790154880098%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_view_base_recent_activity_content_view%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+              - generic [ref=f9e11]:
+                - heading "Want to stand out in a sea of competitors?" [level=2] [ref=f9e14]
+                - generic [ref=f9e16]:
+                  - img "Kelly" [ref=f9e17]
+                  - generic [ref=f9e18]:
+                    - link [ref=f9e19] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Fbusiness.linkedin.com%2Fmarketing-solutions%2Fwebinars%2F22%2F05%2Ffill-your-funnel-on-linkedin%3Fsrc%3Dli-dynamic%26veh%3D7016Q000000nUhcQAExFxOS1xCUSTxDAxAPACxENxOnDemandxWCx202208xOnDemandWebinarsxGlobalActiveCustRedeemx1194x1507xVisitsxv2a%26cid%3D7016Q000000nUhcQAE%26mcid%3D7387207353630232577%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGgzYu04y1VJuZvzmXOqqZ7Jucei5vktwTNqDFQkt03r6gVgZvMJ5dMAdpMDAvp0ZuXfcrjhjM0RWreqxjgsYrplWYf2T23cpRML70wo0efxNZTTkiqNHn7DOgTMNw5FYMrgX26XA_9AQ_Awu9H-O4BuVlT2LqRgZMyTQB_u136YkxAmKcJR6cH_PDK9_Zgs3N3DEeXbr7f9sxmItITy15L2yBeMljcJi3CeohjlC2cRhNJ6YQ8LRDZ-raaEeRpxZAyypCdpi2OggJdF93ClGeuKCODGGvxfNLZXFLjHnbzwkgNy7w3YN0lCeQxAO0KL4myu0ulVKQTyXXMS0HrTxHnZzqVEJJ45U9g65PCLzua-E3JoCcjiDLnIM1ToJ_6g8Se2fk6J3PVnupaclRv0NSvu4uC9Zd0vE2lTWMcJk_THIGw7CZ-hiqzfRkgyGL0pLfnWlXjWHRyZk5QLg3jUTk9RyuniJIRl1rvrVqILDGPpQuSIsMo-fTrR9la6nDBFz1wmzeFq8Q0NiTqKcaVziI3waiWQ30Mc91RsYqgRqevsnVgnlV1T0pBAQA45yfa-LFU_n-sOQvHkTzAZpf_q630ObxazzAo9XNn8IdsRJ-hv18YzWwSy8LPHeQ6RkFjJXAMBr0Nga6OZqV_ztzHipNzWFjvphdJ8E3ksFjBYe6AIp8rZ5tiJPsrueXplom5y8TeaY0zL7bKLmnUKxX9ZeKkK8kVVbaCgl9p9Nj1QScWH-GmTpvgMwimyDpF5GKDaSZqoV6xMoU2ocBzz1El8Hot25JjXQrd5wGEzb2OYFNhN6l_9MNzDDAasypqIOr94lK9Rb77tvYv-RvT8FfkAc4M31iDTuLk5kUXzVCVd1NFl5yeAy8CyQvuWjx-r-_tSbDF9vypJQZUpDGfDjFJajNPK1syaKerhXWLQugxB0UB0zh_LnZ0kxOvw32GY8J9v_fZPvVRmeIFL5YpyxVOo72xVYlnmEPjtTzxIbInJlWsy99CfWKnuk1Ezf02NqFEn-uB7tnodDlDBP_TBmjLeqFbhF2wCjMwsz9OBUU14JJZfRbfQvbM3FWGVZj5fUgeWquhJ4pGBGxevVfFTZdeHp-VMvXYDSxM0cCoXgJJGLJ92XjX2wsHAMXYGa0ryl1N4G78mWPtCbqBq1tz3lHh-gc7rMZ314G-eGo%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%22%2C%22trackingId%22%3A%2262b42ec6-461c-4041-a586-2ed2f1e1c557%22%7D%2C%22time%22%3A1790154880098%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_view_base_recent_activity_content_view%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                      - img "LinkedIn" [ref=f9e20]
+                    - tooltip "LinkedIn" [ref=f9e21]
+                - generic [ref=f9e22]:
+                  - heading "Kelly, discover how to tailor your content" [level=2] [ref=f9e25]
+                  - link "Watch now" [ref=f9e27] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Fbusiness.linkedin.com%2Fmarketing-solutions%2Fwebinars%2F22%2F05%2Ffill-your-funnel-on-linkedin%3Fsrc%3Dli-dynamic%26veh%3D7016Q000000nUhcQAExFxOS1xCUSTxDAxAPACxENxOnDemandxWCx202208xOnDemandWebinarsxGlobalActiveCustRedeemx1194x1507xVisitsxv2a%26cid%3D7016Q000000nUhcQAE%26mcid%3D7387207353630232577%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGgzYu04y1VJuZvzmXOqqZ7Jucei5vktwTNqDFQkt03r6gVgZvMJ5dMAdpMDAvp0ZuXfcrjhjM0RWreqxjgsYrplWYf2T23cpRML70wo0efxNZTTkiqNHn7DOgTMNw5FYMrgX26XA_9AQ_Awu9H-O4BuVlT2LqRgZMyTQB_u136YkxAmKcJR6cH_PDK9_Zgs3N3DEeXbr7f9sxmItITy15L2yBeMljcJi3CeohjlC2cRhNJ6YQ8LRDZ-raaEeRpxZAyypCdpi2OggJdF93ClGeuKCODGGvxfNLZXFLjHnbzwkgNy7w3YN0lCeQxAO0KL4myu0ulVKQTyXXMS0HrTxHnZzqVEJJ45U9g65PCLzua-E3JoCcjiDLnIM1ToJ_6g8Se2fk6J3PVnupaclRv0NSvu4uC9Zd0vE2lTWMcJk_THIGw7CZ-hiqzfRkgyGL0pLfnWlXjWHRyZk5QLg3jUTk9RyuniJIRl1rvrVqILDGPpQuSIsMo-fTrR9la6nDBFz1wmzeFq8Q0NiTqKcaVziI3waiWQ30Mc91RsYqgRqevsnVgnlV1T0pBAQA45yfa-LFU_n-sOQvHkTzAZpf_q630ObxazzAo9XNn8IdsRJ-hv18YzWwSy8LPHeQ6RkFjJXAMBr0Nga6OZqV_ztzHipNzWFjvphdJ8E3ksFjBYe6AIp8rZ5tiJPsrueXplom5y8TeaY0zL7bKLmnUKxX9ZeKkK8kVVbaCgl9p9Nj1QScWH-GmTpvgMwimyDpF5GKDaSZqoV6xMoU2ocBzz1El8Hot25JjXQrd5wGEzb2OYFNhN6l_9MNzDDAasypqIOr94lK9Rb77tvYv-RvT8FfkAc4M31iDTuLk5kUXzVCVd1NFl5yeAy8CyQvuWjx-r-_tSbDF9vypJQZUpDGfDjFJajNPK1syaKerhXWLQugxB0UB0zh_LnZ0kxOvw32GY8J9v_fZPvVRmeIFL5YpyxVOo72xVYlnmEPjtTzxIbInJlWsy99CfWKnuk1Ezf02NqFEn-uB7tnodDlDBP_TBmjLeqFbhF2wCjMwsz9OBUU14JJZfRbfQvbM3FWGVZj5fUgeWquhJ4pGBGxevVfFTZdeHp-VMvXYDSxM0cCoXgJJGLJ92XjX2wsHAMXYGa0ryl1N4G78mWPtCbqBq1tz3lHh-gc7rMZ314G-eGo%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%22%2C%22trackingId%22%3A%2262b42ec6-461c-4041-a586-2ed2f1e1c557%22%7D%2C%22time%22%3A1790154880098%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_view_base_recent_activity_content_view%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+          - generic "LinkedIn Footer Content" [ref=f7e251]:
+            - generic [ref=f7e252]:
+              - list [ref=f7e1070]:
+                - listitem [ref=f7e1071]:
+                  - link "About" [ref=f7e1072] [cursor=pointer]:
+                    - /url: https://about.linkedin.com/
+                - listitem [ref=f7e1074]:
+                  - link "Accessibility" [ref=f7e1075] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/accessibility
+                - listitem [ref=f7e1077]:
+                  - link "Help Center" [ref=f7e1078] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/help/linkedin?trk=footer_d_flagship3_profile_view_base_recent_activity_content_view
+                - listitem [ref=f7e1080]:
+                  - button "Privacy & Terms" [ref=f7e1082] [cursor=pointer]
+                - listitem [ref=f7e1087]:
+                  - link "Ad Choices" [ref=f7e1088] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/help/linkedin/answer/62931
+                - listitem [ref=f7e1090]:
+                  - link "Advertising" [ref=f7e1091] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/ad/start?trk=n_nav_ads_rr
+                - listitem [ref=f7e1093]:
+                  - button "Business Services" [ref=f7e1095] [cursor=pointer]
+                - listitem [ref=f7e1100]:
+                  - button "Get the LinkedIn app" [ref=f7e1103] [cursor=pointer]
+                - listitem [ref=f7e1104]:
+                  - button "More options" [ref=f7e1105] [cursor=pointer]: More
+              - generic [ref=f7e253]:
+                - img "LinkedIn" [ref=f7e254]
+                - text: LinkedIn Corporation © 2026
+    - generic:
+      - generic:
+        - complementary:
+          - generic [ref=f7e257]:
+            - generic [ref=f7e258]:
+              - generic [ref=f7e260] [cursor=pointer]:
+                - img "Kelly Irving" [ref=f7e262]
+                - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f7e263]:
+                  - generic [ref=f7e264]:
+                    - generic [aria-hidden] [ref=f7e265]: Messaging
+                    - generic [ref=f7e266]: You are on the messaging overlay. Press enter to open the list of conversations.
+                - mark [aria-hidden] [ref=f7e267]:
+                  - generic [ref=f7e268]: "2"
+              - generic [ref=f7e269]:
+                - button [ref=f7e271] [cursor=pointer]:
+                  - img "Open messenger dropdown menu" [ref=f7e272]
+                - button "Compose message" [ref=f7e275] [cursor=pointer]
+                - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f7e279] [cursor=pointer]
+            - generic [ref=f7e1106]:
+              - heading "Page inboxes" [level=3] [ref=f7e1108]
+              - generic [ref=f7e1109] [cursor=pointer]:
+                - generic [ref=f7e1110]: Click to see affiliated inboxes
+                - button "Page inboxes" [ref=f7e1111]
+          - dialog "Messaging" [ref=f7e1114]:
+            - generic [ref=f7e1115]:
+              - generic [ref=f7e1116] [cursor=pointer]:
+                - generic [ref=f7e1118]:
+                  - img "Pia Federici" [ref=f7e1121]
+                  - heading "Pia Federici" [level=2] [ref=f7e1123]
+                - button "Close your conversation with Kelly Irving and Pia Federici" [ref=f7e1125]
+              - generic [ref=f7e1130]:
+                - list [ref=f7e1135]:
+                  - listitem
+                  - listitem [ref=f7e1451]:
+                    - time [ref=f7e1452]: Tuesday
+                    - generic [ref=f7e1453]: Kelly Irving sent the following message at 3:35 PM
+                    - generic [ref=f7e1454]:
+                      - link "View Kelly’s profile Kelly Irving" [ref=f7e1455] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                        - generic [ref=f7e1456]: View Kelly’s profile
+                        - img "Kelly Irving" [ref=f7e1457]
+                      - generic [ref=f7e1458]:
+                        - generic [ref=f7e1459]:
+                          - link "Kelly Irving" [ref=f7e1460] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/in/ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                          - img "LinkedIn Premium" [ref=f7e1462]
+                        - time [ref=f7e1465]: • 3:35 PM
+                      - generic [ref=f7e1467]:
+                        - paragraph [ref=f7e1469]: Hey Pia I see you followed the Expert Author Community page. Let's connect. Kx
+                        - generic "Sent at 9/22/2026, 3:35 PM" [ref=f7e1470]
+                  - listitem [ref=f7e1136]:
+                    - generic [ref=f7e1138]: Pia Federici sent the following messages at 3:36 PM
+                    - generic [ref=f7e1139]:
+                      - link "View Pia’s profile Pia Federici" [ref=f7e1140] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/ACoAADD-vyQBlwY5ZjQfCdU9a8v7GoKHDgt9m7k
+                        - generic [ref=f7e1141]: View Pia’s profile
+                        - img "Pia Federici" [ref=f7e1142]
+                      - generic [ref=f7e1143]:
+                        - link "Pia Federici" [ref=f7e1145] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/ACoAADD-vyQBlwY5ZjQfCdU9a8v7GoKHDgt9m7k
+                        - time [ref=f7e1147]: • 3:36 PM
+                      - paragraph [ref=f7e1151]: Thanks for connecting.
+                  - listitem [ref=f7e1152]
+                  - listitem [ref=f7e1473]:
+                    - generic [ref=f7e1474]:
+                      - button "Scroll quick replies left" [disabled] [ref=f7e1475]
+                      - list [ref=f7e1476]:
+                        - listitem [ref=f7e1477]:
+                          - button "Reply to conversation with “It's my pleasure”" [ref=f7e1478] [cursor=pointer]:
+                            - generic [aria-hidden]: It's my pleasure
+                        - listitem [ref=f7e1480]:
+                          - button "Reply to conversation with “You're welcome”" [ref=f7e1481] [cursor=pointer]:
+                            - generic [aria-hidden]: You're welcome
+                        - listitem [ref=f7e1483]:
+                          - button "Reply to conversation with “👍”" [ref=f7e1484] [cursor=pointer]:
+                            - generic [aria-hidden]: 👍
+                      - button "Scroll quick replies right" [ref=f7e1486] [cursor=pointer]
+                  - listitem
+                - generic [ref=f7e1153]:
+                  - generic [ref=f7e1154]:
+                    - generic [ref=f7e1156]:
+                      - textbox "Write a message…" [ref=f7e1157]:
+                        - paragraph [ref=f7e1158]
+                      - text: Write a message…
+                    - button "Maximize compose field" [ref=f7e1160] [cursor=pointer]
+                  - generic [ref=f7e1164]:
+                    - generic [ref=f7e1165]:
+                      - button "Attach an image to your conversation with Pia Federici" [ref=f7e1167] [cursor=pointer]
+                      - button "Attach a file to your conversation with Pia Federici" [ref=f7e1172] [cursor=pointer]
+                      - button "Open GIF Keyboard" [ref=f7e1177] [cursor=pointer]
+                      - button "Open Emoji Keyboard" [ref=f7e1183] [cursor=pointer]
+                    - generic [ref=f7e1185]:
+                      - generic [ref=f7e1186]: Press Enter to Send
+                      - button "Open send options" [ref=f7e1190] [cursor=pointer]
+          - dialog "Messaging" [ref=f7e1194]:
+            - generic [ref=f7e1195]:
+              - generic [ref=f7e1196] [cursor=pointer]:
+                - generic [ref=f7e1198]:
+                  - img "Nidhi Kathuria" [ref=f7e1201]
+                  - heading "Nidhi Kathuria" [level=2] [ref=f7e1203]
+                - button "Close your conversation with Nidhi Kathuria and Kelly Irving" [ref=f7e1205]
+              - generic [ref=f7e1210]:
+                - list [ref=f7e1215]:
+                  - listitem
+                  - listitem [ref=f7e1490]:
+                    - time [ref=f7e1491]: Tuesday
+                    - generic [ref=f7e1492]: Kelly Irving sent the following message at 4:09 PM
+                    - generic [ref=f7e1493]:
+                      - link "View Kelly’s profile Kelly Irving" [ref=f7e1494] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                        - generic [ref=f7e1495]: View Kelly’s profile
+                        - img "Kelly Irving" [ref=f7e1496]
+                      - generic [ref=f7e1497]:
+                        - generic [ref=f7e1498]:
+                          - link "Kelly Irving" [ref=f7e1499] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/in/ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                          - img "LinkedIn Premium" [ref=f7e1501]
+                        - time [ref=f7e1504]: • 4:09 PM
+                      - generic [ref=f7e1506]:
+                        - paragraph [ref=f7e1508]: Hey Nidhi I see you followed the Expert Author Community page. Let's connect. Kx
+                        - generic "Sent at 9/22/2026, 4:09 PM" [ref=f7e1509]
+                  - listitem [ref=f7e1216]:
+                    - generic [ref=f7e1218]: Nidhi Kathuria sent the following messages at 4:10 PM
+                    - generic [ref=f7e1219]:
+                      - link "View Nidhi’s profile Nidhi Kathuria" [ref=f7e1220] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/ACoAAAItH4QB7vfNEmmK2ucAKo5ab9bSIk6nGDM
+                        - generic [ref=f7e1221]: View Nidhi’s profile
+                        - img "Nidhi Kathuria" [ref=f7e1222]
+                      - generic [ref=f7e1223]:
+                        - generic [ref=f7e1224]:
+                          - link "Nidhi Kathuria" [ref=f7e1225] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/in/ACoAAAItH4QB7vfNEmmK2ucAKo5ab9bSIk6nGDM
+                          - img "LinkedIn Premium" [ref=f7e1227]
+                        - time [ref=f7e1230]: • 4:10 PM
+                      - paragraph [ref=f7e1234]: Hi Kelly, thanks
+                  - listitem [ref=f7e1235]
+                  - listitem [ref=f7e1512]:
+                    - generic [ref=f7e1513]:
+                      - button "Scroll quick replies left" [disabled] [ref=f7e1514]
+                      - list [ref=f7e1515]:
+                        - listitem [ref=f7e1516]:
+                          - button "Reply to conversation with “Hi, Nidhi”" [ref=f7e1517] [cursor=pointer]:
+                            - generic [aria-hidden]: Hi, Nidhi
+                        - listitem [ref=f7e1519]:
+                          - button "Reply to conversation with “Great, thanks”" [ref=f7e1520] [cursor=pointer]:
+                            - generic [aria-hidden]: Great, thanks
+                        - listitem [ref=f7e1522]:
+                          - button "Reply to conversation with “You're welcome, Nidhi”" [ref=f7e1523] [cursor=pointer]:
+                            - generic [aria-hidden]: You're welcome, Nidhi
+                      - button "Scroll quick replies right" [ref=f7e1525] [cursor=pointer]
+                  - listitem
+                - generic [ref=f7e1236]:
+                  - generic [ref=f7e1237]:
+                    - generic [ref=f7e1239]:
+                      - textbox "Write a message…" [ref=f7e1240]:
+                        - paragraph [ref=f7e1241]
+                      - text: Write a message…
+                    - button "Maximize compose field" [ref=f7e1243] [cursor=pointer]
+                  - generic [ref=f7e1247]:
+                    - generic [ref=f7e1248]:
+                      - button "Attach an image to your conversation with Nidhi Kathuria" [ref=f7e1250] [cursor=pointer]
+                      - button "Attach a file to your conversation with Nidhi Kathuria" [ref=f7e1255] [cursor=pointer]
+                      - button "Open GIF Keyboard" [ref=f7e1260] [cursor=pointer]
+                      - button "Open Emoji Keyboard" [ref=f7e1266] [cursor=pointer]
+                    - generic [ref=f7e1268]:
+                      - generic [ref=f7e1269]: Press Enter to Send
+                      - button "Open send options" [ref=f7e1273] [cursor=pointer]
+        - complementary "AI-powered assistant to get help with your career, jobs etc"
