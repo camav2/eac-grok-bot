@@ -1,0 +1,112 @@
+- generic [active] [ref=f182e1]:
+  - generic:
+    - region "Toast message":
+      - heading "0 notifications total" [level=2] [ref=f182e3]
+      - alert
+  - region [ref=f182e13]
+  - generic [ref=f182e14]:
+    - generic [ref=f182e21]:
+      - complementary [ref=f182e22]:
+        - region "Organizational page admin navigation section" [ref=f182e24]:
+          - generic [ref=f182e25]:
+            - button [ref=f182e26]
+            - generic [ref=f182e29]: Premium
+          - generic [ref=f182e31]:
+            - img "Expert Author Community logo" [ref=f182e32]
+            - heading [level=1] [ref=f182e33]:
+              - text: Expert Author Community
+              - link "Verifications" [ref=f182e37] [cursor=pointer]:
+                - /url: /company/89798536/admin/settings/verification-control/
+            - link "3,398 followers" [ref=f182e40] [cursor=pointer]:
+              - /url: /company/89798536/admin/analytics/followers/
+            - generic [ref=f182e41]:
+              - link "Create" [ref=f182e42] [cursor=pointer]
+              - link "View as member" [ref=f182e46] [cursor=pointer]
+          - navigation [ref=f182e50]:
+            - list [ref=f182e51]:
+              - listitem [ref=f182e52]:
+                - link "Dashboard" [ref=f182e53] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/dashboard
+              - listitem [ref=f182e58]:
+                - link "Page posts" [ref=f182e59] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/page-posts/published
+              - listitem [ref=f182e64]:
+                - link "Analytics" [ref=f182e65] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/analytics/updates
+              - listitem [ref=f182e70]:
+                - link "Feed" [ref=f182e71] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/feed/following
+              - listitem [ref=f182e76]:
+                - link "Activity 5 new notifications" [ref=f182e77] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/notifications/all
+                  - generic [ref=f182e80]:
+                    - generic [ref=f182e81]: Activity
+                    - generic [ref=f182e83]:
+                      - generic [aria-hidden] [ref=f182e84]: "5"
+                      - generic [ref=f182e85]: 5 new notifications
+              - listitem [ref=f182e86]:
+                - link "Inbox" [ref=f182e87] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/inbox?pageMailboxUrn=urn%3Ali%3Afsd_pageMailbox%3A16608703
+              - listitem [ref=f182e92]:
+                - link "Edit Page" [ref=f182e93] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/edit
+            - list [ref=f182e98]:
+              - listitem [ref=f182e99]:
+                - link "Products" [ref=f182e100] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/products
+              - listitem [ref=f182e105]:
+                - link "Jobs" [ref=f182e106] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/posted-jobs/open
+              - listitem [ref=f182e111]:
+                - link "Events" [ref=f182e112] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/notifications/all/?viewEvents=true
+            - list [ref=f182e117]:
+              - listitem [ref=f182e118]:
+                - link "Premium features" [ref=f182e119] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/premium/my-premium/?companyUrn=urn%3Ali%3Afsd_company%3A89798536
+              - listitem [ref=f182e127]:
+                - link "Advertise" [ref=f182e128] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/ad-beta/accounts
+              - listitem [ref=f182e136]:
+                - link "Invite to follow" [ref=f182e137] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/notifications/all/?invite=true
+              - listitem [ref=f182e142]:
+                - link "Settings" [ref=f182e143] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/settings
+      - generic [ref=f182e149]:
+        - main [ref=f182e150]:
+          - generic [ref=f182e151]:
+            - generic [ref=f182e154]:
+              - heading "Activity" [level=2] [ref=f182e155]
+              - paragraph [ref=f182e156]: Keep track of the activity around your page
+            - list [ref=f182e157]:
+              - listitem [ref=f182e158]:
+                - link "All" [ref=f182e159] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/notifications/all
+              - listitem [ref=f182e164]:
+                - link "Comments" [ref=f182e165] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/notifications/comments
+              - listitem [ref=f182e170]:
+                - link "Mentions" [ref=f182e171] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/notifications/mentions
+              - listitem [ref=f182e176]:
+                - link "Reactions" [ref=f182e177] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/notifications/reactions
+              - listitem [ref=f182e182]:
+                - button "More" [ref=f182e184] [cursor=pointer]
+        - complementary "Admin notifications aside section" [ref=f182e203]:
+          - generic [ref=f182e204]:
+            - generic [ref=f182e205]:
+              - heading "Post highlights" [level=2] [ref=f182e206]
+              - button "Post highlights information" [ref=f182e208] [cursor=pointer]
+            - heading "In the last 30 days" [level=2] [ref=f182e211]
+            - alert [ref=f182e213]: Loading
+          - generic "LinkedIn Footer Content" [ref=f182e226]:
+            - generic [ref=f182e227]:
+              - list
+              - generic [ref=f182e228]:
+                - img "LinkedIn" [ref=f182e229]
+                - text: LinkedIn Corporation © 2026
+    - generic:
+      - generic:
+        - complementary "AI-powered assistant to get help with your career, jobs etc"

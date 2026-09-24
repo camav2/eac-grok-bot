@@ -1,0 +1,834 @@
+- generic [ref=f129e1]:
+  - generic:
+    - region "Toast message":
+      - heading "0 notifications total" [level=2] [ref=f129e3]
+      - alert
+  - generic [ref=f129e4]:
+    - generic [ref=f129e6]:
+      - button "Skip to search" [ref=f129e7] [cursor=pointer]
+      - button "Skip to main content" [ref=f129e9] [cursor=pointer]
+      - button "Keyboard shortcuts" [ref=f129e11] [cursor=pointer]
+      - button "Close jump menu" [ref=f129e13] [cursor=pointer]
+    - banner "Global Navigation" [ref=f129e17]:
+      - generic [ref=f129e18]:
+        - link [ref=f129e19] [cursor=pointer]:
+          - /url: https://www.linkedin.com/feed/?nis=true
+          - img "LinkedIn" [ref=f129e22]
+        - combobox "I’m looking for..." [ref=f129e28]
+        - navigation "Primary Navigation" [ref=f129e29]:
+          - list [ref=f129e30]:
+            - listitem [ref=f129e31]:
+              - link "new feed updates notifications Home" [ref=f129e32] [cursor=pointer]:
+                - /url: https://www.linkedin.com/feed/?nis=true&
+                - generic [ref=f129e33]: new feed updates notifications
+                - generic "Home" [ref=f129e42]
+            - listitem [ref=f129e43]:
+              - link "26 new network updates notifications My Network" [ref=f129e44] [cursor=pointer]:
+                - /url: https://www.linkedin.com/mynetwork/?
+                - generic [ref=f129e46]:
+                  - generic [aria-hidden] [ref=f129e47]: "26"
+                  - generic [ref=f129e48]: 26 new network updates notifications
+                - generic "My Network" [ref=f129e54]
+            - listitem [ref=f129e55]:
+              - link "Jobs" [ref=f129e56] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/?
+            - listitem [ref=f129e63]:
+              - link "2 new messages notifications Messaging" [ref=f129e64] [cursor=pointer]:
+                - /url: https://www.linkedin.com/messaging/?
+                - generic [ref=f129e66]:
+                  - generic [aria-hidden] [ref=f129e67]: "2"
+                  - generic [ref=f129e68]: 2 new messages notifications
+                - generic "Messaging" [ref=f129e74]
+            - listitem [ref=f129e75]:
+              - link "21 new notifications Notifications" [ref=f129e76] [cursor=pointer]:
+                - /url: https://www.linkedin.com/notifications/?
+                - generic [ref=f129e78]:
+                  - generic [aria-hidden] [ref=f129e79]: "21"
+                  - generic [ref=f129e80]: 21 new notifications
+                - generic "Notifications" [ref=f129e86]
+            - listitem [ref=f129e87]:
+              - button [ref=f129e89] [cursor=pointer]:
+                - img "Kelly Irving" [ref=f129e90]
+                - generic [ref=f129e91]: Me
+            - listitem [ref=f129e94]:
+              - button "For Business" [ref=f129e96] [cursor=pointer]
+            - listitem [ref=f129e105]:
+              - link "3 new Campaign Manager notifications Advertise" [ref=f129e106] [cursor=pointer]:
+                - /url: https://www.linkedin.com/campaignmanager/accounts?shouldShowNotificationPanelOnRender=true
+                - generic [ref=f129e108]:
+                  - generic [aria-hidden] [ref=f129e109]: "3"
+                  - generic [ref=f129e110]: 3 new Campaign Manager notifications
+                - generic "Advertise" [ref=f129e117]
+    - generic [ref=f129e123]:
+      - complementary [ref=f129e124]:
+        - generic [ref=f129e127]:
+          - link [ref=f129e130] [cursor=pointer]:
+            - /url: /in/rebeccacattran/
+            - img "Rebecca Cattran 🧡 Change. Leadership. Coach." [ref=f129e131]
+          - generic [ref=f129e132]:
+            - link [ref=f129e133] [cursor=pointer]:
+              - /url: /in/rebeccacattran/
+              - heading "Rebecca Cattran 🧡 Change. Leadership. Coach." [level=3] [ref=f129e134]
+            - heading "I help leaders navigate change with confidence to create positive impact 💫" [level=4] [ref=f129e135]
+          - button "Message Rebecca" [ref=f129e143] [cursor=pointer]:
+            - generic [ref=f129e144]: Message
+      - main [ref=f129e145]:
+        - generic [ref=f129e273]:
+          - heading "All activity" [level=2] [ref=f129e274]
+          - group "Select type of recent activity" [ref=f129e277]:
+            - button "Posts" [pressed] [ref=f129e278] [cursor=pointer]
+            - button "Comments" [ref=f129e280] [cursor=pointer]
+            - button "Videos" [ref=f129e282] [cursor=pointer]
+            - button "Images" [ref=f129e284] [cursor=pointer]
+            - button "More" [ref=f129e286] [cursor=pointer]
+          - generic [ref=f129e292]:
+            - generic [ref=f129e293]:
+              - generic [ref=f129e294]: Loaded 19 Posts posts
+              - list [ref=f129e295]:
+                - listitem [ref=f129e296]:
+                  - article [ref=f129e301]:
+                    - generic [ref=f129e303]:
+                      - heading "Feed post number 1" [level=2] [ref=f129e304]
+                      - generic [ref=f129e305]:
+                        - generic [ref=f129e306]:
+                          - generic [ref=f129e308]:
+                            - link "View Rebecca Cattran 🧡 Change. Leadership. Coach.’s graphic link" [ref=f129e309] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/rebeccacattran?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAKn6W8B5PB0H0XAmJcD-V497ryyNEFwNsI
+                              - img "View Rebecca Cattran 🧡 Change. Leadership. Coach.’s graphic link" [ref=f129e313]
+                            - generic [ref=f129e314]:
+                              - 'link "View: Rebecca Cattran 🧡 Change. Leadership. Coach. Verified • 1st I help leaders navigate change with confidence to create positive impact 💫" [ref=f129e315] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/rebeccacattran?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAKn6W8B5PB0H0XAmJcD-V497ryyNEFwNsI
+                                - generic [ref=f129e316]:
+                                  - generic [ref=f129e317]: Rebecca Cattran 🧡 Change. Leadership. Coach.
+                                  - generic [ref=f129e320]: • 1st
+                                - generic [ref=f129e324]: I help leaders navigate change with confidence to create positive impact 💫
+                              - generic [ref=f129e326]: 11h • Edited •
+                          - generic [ref=f129e333] [cursor=pointer]:
+                            - button "Open control menu for post by Rebecca Cattran 🧡 Change. Leadership. Coach." [expanded] [ref=f129e334]
+                            - generic "Control Menu Options" [active] [ref=f129e1475]:
+                              - list [ref=f129e1477]:
+                                - listitem [ref=f129e1478]:
+                                  - button [ref=f129e1479]:
+                                    - generic [ref=f129e1484]:
+                                      - text: Save
+                                      - paragraph
+                                - listitem [ref=f129e1485]:
+                                  - button [ref=f129e1486]:
+                                    - generic [ref=f129e1491]:
+                                      - text: Copy link to post
+                                      - paragraph
+                                - listitem [ref=f129e1492]:
+                                  - button [ref=f129e1493]:
+                                    - generic [ref=f129e1499]:
+                                      - text: Embed this post
+                                      - paragraph
+                                - listitem [ref=f129e1500]:
+                                  - button [ref=f129e1501]:
+                                    - generic [ref=f129e1506]:
+                                      - text: Unfollow Rebecca Cattran 🧡 Change. Leadership. Coach.
+                                      - paragraph
+                                - listitem [ref=f129e1507]:
+                                  - button [ref=f129e1508]:
+                                    - generic [ref=f129e1513]:
+                                      - text: Report post
+                                      - paragraph
+                        - generic [ref=f129e338]:
+                          - generic [ref=f129e341]:
+                            - text: Facilitation has always been close to my heart.As a practice, it’s inclusive, supportive and empowering – all qualities that I value greatly.That’s why I put my hand up to help organise this amazing event, along with talented people like
+                            - link "Michelle Howard" [ref=f129e343] [cursor=pointer]:
+                              - /url: /in/michelle-howard-7808b236/
+                            - text: and
+                            - link "Noel Gately" [ref=f129e345] [cursor=pointer]:
+                              - /url: /in/noel-gately-56921268/
+                            - text: – fellow lifelong facilitators.It’s been really rewarding seeing the program come together over the past few months.I’ve been happy to play my part working with the amazing
+                            - link "Teagan Malcolm" [ref=f129e347] [cursor=pointer]:
+                              - /url: /in/teagan-malcolm-5356b0266/
+                            - text: "to create a distinctive design to help spread the word far and wide about this amazing event that is a warm up to the much-anticipated IAF Oceania Conference in Geelong that kicks off from 14 October.So, if you’re a FODW regular – you know you’re in for a treat!If you’re new to FODW, let me share a little bit about what you can expect from the day.Quality content. Interactive learning experiences. A distinctive regional flavour.Sessions showcasing an array of skills that make facilitation a core capability in whatever organisation you’re working in.Make the time to invest in you. Take a day out of your regular routine and head to Geelong.You will leave energised and inspired to create positive impact.So you know what you need to do...Head to our website to buy your tickets today:"
+                            - link "https://lnkd.in/gtBjuTsu" [ref=f129e348] [cursor=pointer]:
+                              - /url: https://lnkd.in/gtBjuTsu
+                            - link "hashtag ConsciousCareer" [ref=f129e349] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=%23consciouscareer&origin=HASH_TAG_FROM_FEED
+                              - generic [ref=f129e350]: hashtag
+                              - generic [ref=f129e351]: "#ConsciousCareer"
+                            - link "hashtag PeopleFirst" [ref=f129e352] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=%23peoplefirst&origin=HASH_TAG_FROM_FEED
+                              - generic [ref=f129e353]: hashtag
+                              - generic [ref=f129e354]: "#PeopleFirst"
+                            - link "hashtag RealConversations" [ref=f129e355] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=%23realconversations&origin=HASH_TAG_FROM_FEED
+                              - generic [ref=f129e356]: hashtag
+                              - generic [ref=f129e357]: "#RealConversations"
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f129e358] [cursor=pointer]:
+                            - generic [ref=f129e359]: …more
+                        - generic [ref=f129e361]:
+                          - button "Activate to view larger image, background pattern" [ref=f129e363] [cursor=pointer]:
+                            - generic [ref=f129e364]: Activate to view larger image,
+                            - img "background pattern" [ref=f129e367]
+                          - generic [aria-hidden] [ref=f129e368]: Activate to view larger image,
+                        - generic [ref=f129e369]:
+                          - list [ref=f129e373]:
+                            - listitem [ref=f129e374]:
+                              - button "You and 12 others" [ref=f129e375] [cursor=pointer]:
+                                - img "like" [ref=f129e376]
+                                - img "love" [ref=f129e377]
+                                - img "celebrate" [ref=f129e378]
+                                - generic [ref=f129e379]:
+                                  - generic [aria-hidden] [ref=f129e380]: "13"
+                                  - generic [ref=f129e381]: You and 12 others
+                            - listitem [ref=f129e382]:
+                              - list [ref=f129e383]:
+                                - listitem [ref=f129e384]:
+                                  - button "7 comments on Rebecca Cattran 🧡 Change. Leadership. Coach.’s post" [ref=f129e385] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f129e386]: 7 comments
+                                  - text: ·
+                                - listitem [ref=f129e387]:
+                                  - button "1 repost of Rebecca Cattran 🧡 Change. Leadership. Coach.’s post" [ref=f129e388] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f129e389]: 1 repost
+                          - generic [ref=f129e390]:
+                            - generic [ref=f129e391]:
+                              - button "Unreact Like" [pressed] [ref=f129e392] [cursor=pointer]:
+                                - generic [ref=f129e394]:
+                                  - img "like" [ref=f129e395]
+                                  - generic [aria-hidden] [ref=f129e396]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f129e397] [cursor=pointer]
+                            - button "Comment" [ref=f129e402] [cursor=pointer]
+                            - button "Repost" [ref=f129e408] [cursor=pointer]
+                            - button "Send in a private message" [ref=f129e414] [cursor=pointer]:
+                              - generic [ref=f129e417]: Send
+                      - generic [ref=f129e1246]:
+                        - generic [ref=f129e1248]:
+                          - img "Kelly Irving" [ref=f129e1250]
+                          - generic [ref=f129e1253]:
+                            - generic [ref=f129e1257]:
+                              - textbox "Text editor for creating content" [ref=f129e1259]:
+                                - paragraph [ref=f129e1260]
+                                - text: Add a comment…
+                              - generic [aria-hidden] [ref=f129e1261]: Add a comment…
+                            - generic [ref=f129e1263]:
+                              - button "Open Emoji Keyboard" [ref=f129e1266] [cursor=pointer]
+                              - button "Add a photo" [ref=f129e1269] [cursor=pointer]
+                        - button "Current selected sort order is Most relevant" [ref=f129e1275] [cursor=pointer]:
+                          - generic [aria-hidden] [ref=f129e1277]: Most relevant
+                        - generic [ref=f129e1280]:
+                          - generic [ref=f129e1281]:
+                            - article [ref=f129e1282]:
+                              - generic [ref=f129e1283]:
+                                - generic [ref=f129e1284]:
+                                  - link "View Rebecca Cattran 🧡 Change. Leadership. Coach.’s graphic link" [ref=f129e1285] [cursor=pointer]:
+                                    - /url: https://www.linkedin.com/in/rebeccacattran
+                                    - img "View Rebecca Cattran 🧡 Change. Leadership. Coach.’s graphic" [ref=f129e1288]
+                                  - 'link "View: Rebecca Cattran 🧡 Change. Leadership. Coach. Author, Verified I help leaders navigate change with confidence to create positive impact 💫" [ref=f129e1289] [cursor=pointer]':
+                                    - /url: https://www.linkedin.com/in/rebeccacattran
+                                    - heading "Rebecca Cattran 🧡 Change. Leadership. Coach. Author" [level=3] [ref=f129e1290]:
+                                      - generic [ref=f129e1291]: Rebecca Cattran 🧡 Change. Leadership. Coach.
+                                      - generic [ref=f129e1296]: Author
+                                    - generic [ref=f129e1297]: I help leaders navigate change with confidence to create positive impact 💫
+                                - generic [ref=f129e1298]:
+                                  - time [ref=f129e1299]: 10h
+                                  - button [ref=f129e1302] [cursor=pointer]:
+                                    - img "Open options for Rebecca Cattran 🧡 Change. Leadership. Coach.’s comment" [ref=f129e1303]
+                              - generic [ref=f129e1313]:
+                                - link "Martin De Los Rios" [ref=f129e1315] [cursor=pointer]:
+                                  - /url: /in/martin-de-los-rios-46800314/
+                                - text: ;
+                                - link "Igor Tomic" [ref=f129e1317] [cursor=pointer]:
+                                  - /url: /in/igor-tomic-8391341ab/
+                                - text: ;
+                                - link "Linette Harriott" [ref=f129e1319] [cursor=pointer]:
+                                  - /url: /in/linette-harriott-14484219/
+                              - generic [ref=f129e1324]:
+                                - generic [ref=f129e1325]:
+                                  - generic [ref=f129e1326]:
+                                    - button "React Like to Rebecca Cattran 🧡 Change. Leadership. Coach.’s comment" [ref=f129e1327] [cursor=pointer]:
+                                      - generic [aria-hidden] [ref=f129e1330]: Like
+                                    - button "Open reactions menu":
+                                      - generic [ref=f129e1331] [cursor=pointer]
+                                  - generic [ref=f129e1334]: ·
+                                  - button "1 Reaction on Rebecca Cattran 🧡 Change. Leadership. Coach.’s comment" [ref=f129e1335] [cursor=pointer]:
+                                    - img "like" [ref=f129e1336]
+                                    - generic [aria-hidden] [ref=f129e1337]: "1"
+                                - button "Reply to Rebecca Cattran 🧡 Change. Leadership. Coach.’s comment" [ref=f129e1340] [cursor=pointer]:
+                                  - generic [aria-hidden] [ref=f129e1342]: Reply
+                            - article [ref=f129e1343]:
+                              - generic [ref=f129e1344]:
+                                - generic [ref=f129e1345]:
+                                  - link "View Andrew Huffer’s graphic link" [ref=f129e1346] [cursor=pointer]:
+                                    - /url: https://www.linkedin.com/in/andrewhuffer
+                                    - img "View Andrew Huffer’s graphic" [ref=f129e1349]
+                                  - 'link "View: Andrew Huffer 2nd Independent Facilitator | Stakeholder Engagement | Workshop Design &amp; Facilitation | Government | Industry &amp; Regional Organisations | IAF Chair (Oceania)" [ref=f129e1350] [cursor=pointer]':
+                                    - /url: https://www.linkedin.com/in/andrewhuffer
+                                    - heading "Andrew Huffer • 2nd" [level=3] [ref=f129e1351]:
+                                      - generic [ref=f129e1352]: Andrew Huffer
+                                      - generic [ref=f129e1353]: • 2nd
+                                    - generic [ref=f129e1355]: Independent Facilitator | Stakeholder Engagement | Workshop Design & Facilitation | Government | Industry & Regional Organisations | IAF Chair (Oceania)
+                                - generic [ref=f129e1356]:
+                                  - generic [ref=f129e1357]: (edited)
+                                  - time [ref=f129e1358]: 8h
+                                  - button [ref=f129e1361] [cursor=pointer]:
+                                    - img "Open options for Andrew Huffer’s comment" [ref=f129e1362]
+                              - generic [ref=f129e1364]:
+                                - button [aria-hidden] [ref=f129e1365] [cursor=pointer]
+                                - generic [ref=f129e1372]:
+                                  - text: As a previous attendee, there's always loads of value in this event. Even better if you're a
+                                  - link "hashtag Geelong" [ref=f129e1373] [cursor=pointer]:
+                                    - /url: https://www.linkedin.com/search/results/all/?keywords=%23geelong&origin=HASH_TAG_FROM_FEED
+                                    - generic [ref=f129e1374]: hashtag
+                                    - generic [ref=f129e1375]: "#Geelong"
+                                  - text: local!
+                                  - link "Committee for Geelong" [ref=f129e1376] [cursor=pointer]:
+                                    - /url: https://www.linkedin.com/company/committee-for-geelong/
+                                  - link "Lauren Carnegie" [ref=f129e1380] [cursor=pointer]:
+                                    - /url: /in/lauren-carnegie/
+                              - generic [ref=f129e1381]:
+                                - generic [ref=f129e1382]:
+                                  - button [aria-hidden] [ref=f129e1383] [cursor=pointer]
+                                  - generic [ref=f129e1385]:
+                                    - generic [ref=f129e1386]:
+                                      - generic [ref=f129e1387]:
+                                        - button "React Like to Andrew Huffer’s comment" [ref=f129e1388] [cursor=pointer]:
+                                          - generic [aria-hidden] [ref=f129e1391]: Like
+                                        - button "Open reactions menu":
+                                          - generic [ref=f129e1392] [cursor=pointer]
+                                      - generic [ref=f129e1395]: ·
+                                      - button "2 Reactions on Andrew Huffer’s comment" [ref=f129e1396] [cursor=pointer]:
+                                        - img "love" [ref=f129e1397]
+                                        - img "like" [ref=f129e1398]
+                                        - generic [aria-hidden] [ref=f129e1399]: "2"
+                                    - generic [ref=f129e1401]:
+                                      - button "Reply to Andrew Huffer’s comment" [ref=f129e1402] [cursor=pointer]:
+                                        - generic [aria-hidden] [ref=f129e1404]: Reply
+                                      - generic [ref=f129e1405]: ·
+                                      - generic [aria-hidden] [ref=f129e1406]: 1 reply
+                                      - generic [ref=f129e1407]: 1 Comment on Andrew Huffer’s comment
+                                - generic [ref=f129e1409]:
+                                  - button [aria-hidden] [ref=f129e1410] [cursor=pointer]
+                                  - article [ref=f129e1412]:
+                                    - generic [ref=f129e1413]:
+                                      - generic [ref=f129e1414]:
+                                        - link "View Rebecca Cattran 🧡 Change. Leadership. Coach.’s graphic link" [ref=f129e1415] [cursor=pointer]:
+                                          - /url: https://www.linkedin.com/in/rebeccacattran
+                                          - img "View Rebecca Cattran 🧡 Change. Leadership. Coach.’s graphic" [ref=f129e1418]
+                                        - 'link "View: Rebecca Cattran 🧡 Change. Leadership. Coach. Author, Verified I help leaders navigate change with confidence to create positive impact 💫" [ref=f129e1419] [cursor=pointer]':
+                                          - /url: https://www.linkedin.com/in/rebeccacattran
+                                          - heading "Rebecca Cattran 🧡 Change. Leadership. Coach. Author" [level=3] [ref=f129e1420]:
+                                            - generic [ref=f129e1421]: Rebecca Cattran 🧡 Change. Leadership. Coach.
+                                            - generic [ref=f129e1426]: Author
+                                          - generic [ref=f129e1427]: I help leaders navigate change with confidence to create positive impact 💫
+                                      - generic [ref=f129e1428]:
+                                        - time [ref=f129e1429]: 7h
+                                        - button [ref=f129e1432] [cursor=pointer]:
+                                          - img "Open options for Rebecca Cattran 🧡 Change. Leadership. Coach.’s comment" [ref=f129e1433]
+                                    - generic [ref=f129e1443]:
+                                      - link "Andrew Huffer" [ref=f129e1445] [cursor=pointer]:
+                                        - /url: /in/andrewhuffer/
+                                      - text: "- great people & great conversations creating new perspectives 💫"
+                                    - generic [ref=f129e1450]:
+                                      - generic [ref=f129e1452]:
+                                        - button "React Like to Rebecca Cattran 🧡 Change. Leadership. Coach.’s comment" [ref=f129e1453] [cursor=pointer]:
+                                          - generic [aria-hidden] [ref=f129e1456]: Like
+                                        - button "Open reactions menu":
+                                          - generic [ref=f129e1457] [cursor=pointer]
+                                      - button "Reply to Rebecca Cattran 🧡 Change. Leadership. Coach.’s comment" [ref=f129e1462] [cursor=pointer]:
+                                        - generic [aria-hidden] [ref=f129e1464]: Reply
+                          - generic [ref=f129e1465]:
+                            - button "Load more comments" [ref=f129e1466] [cursor=pointer]
+                            - button "Load more comments" [ref=f129e1470] [cursor=pointer]
+                - listitem [ref=f129e419]:
+                  - article [ref=f129e424]:
+                    - generic [ref=f129e426]:
+                      - heading "Feed post number 2" [level=2] [ref=f129e427]
+                      - generic [ref=f129e428]:
+                        - generic [ref=f129e429]:
+                          - generic [ref=f129e431]:
+                            - link "View Rebecca Cattran 🧡 Change. Leadership. Coach.’s graphic link" [ref=f129e432] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/rebeccacattran?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAKn6W8B5PB0H0XAmJcD-V497ryyNEFwNsI
+                              - img "View Rebecca Cattran 🧡 Change. Leadership. Coach.’s graphic link" [ref=f129e436]
+                            - generic [ref=f129e437]:
+                              - 'link "View: Rebecca Cattran 🧡 Change. Leadership. Coach. Verified • 1st I help leaders navigate change with confidence to create positive impact 💫" [ref=f129e438] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/rebeccacattran?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAKn6W8B5PB0H0XAmJcD-V497ryyNEFwNsI
+                                - generic [ref=f129e439]:
+                                  - generic [ref=f129e440]: Rebecca Cattran 🧡 Change. Leadership. Coach.
+                                  - generic [ref=f129e443]: • 1st
+                                - generic [ref=f129e447]: I help leaders navigate change with confidence to create positive impact 💫
+                              - generic [ref=f129e449]: 1mo •
+                          - button "Open control menu for post by Rebecca Cattran 🧡 Change. Leadership. Coach." [ref=f129e457] [cursor=pointer]
+                        - generic [ref=f129e461]:
+                          - generic [ref=f129e464]:
+                            - text: Advocacy is central to people-focused change. What does advocacy mean to you?
+                            - link "hashtag RealConversations" [ref=f129e465] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=%23realconversations&origin=HASH_TAG_FROM_FEED
+                              - generic [ref=f129e466]: hashtag
+                              - generic [ref=f129e467]: "#RealConversations"
+                            - link "hashtag PositiveImpact" [ref=f129e468] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=%23positiveimpact&origin=HASH_TAG_FROM_FEED
+                              - generic [ref=f129e469]: hashtag
+                              - generic [ref=f129e470]: "#PositiveImpact"
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f129e471] [cursor=pointer]:
+                            - generic [ref=f129e472]: …more
+                        - generic [ref=f129e473]:
+                          - generic [ref=f129e474]:
+                            - generic [ref=f129e475]:
+                              - link "Popolo Plus, graphic." [ref=f129e476] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/company/popolo-plus/posts
+                              - generic [ref=f129e480]:
+                                - 'link "View: Popolo Plus 317 followers" [ref=f129e481] [cursor=pointer]':
+                                  - /url: https://www.linkedin.com/company/popolo-plus/posts
+                                  - generic [ref=f129e482]: Popolo Plus
+                                  - generic [ref=f129e487]: 317 followers
+                                - generic [ref=f129e489]: 1mo •
+                            - button "Follow Popolo Plus" [ref=f129e495] [cursor=pointer]:
+                              - generic [aria-hidden] [ref=f129e498]: Follow
+                          - link [ref=f129e500] [cursor=pointer]:
+                            - /url: /feed/update/urn:li:activity:7494936052378267648/
+                            - generic [ref=f129e501]:
+                              - generic [ref=f129e504]:
+                                - text: In this month's issue we explore what makes advocacy a key ingredient in effective change.Join the conversation! 👇
+                                - link "hashtag ChangeLeadership" [ref=f129e505]:
+                                  - /url: https://www.linkedin.com/search/results/all/?keywords=%23changeleadership&origin=HASH_TAG_FROM_FEED
+                                  - generic [ref=f129e506]: hashtag
+                                  - generic [ref=f129e507]: "#ChangeLeadership"
+                                - link "hashtag PeopleFirst" [ref=f129e508]:
+                                  - /url: https://www.linkedin.com/search/results/all/?keywords=%23peoplefirst&origin=HASH_TAG_FROM_FEED
+                                  - generic [ref=f129e509]: hashtag
+                                  - generic [ref=f129e510]: "#PeopleFirst"
+                              - button "see more, visually reveals content which is already detected by screen readers" [ref=f129e511]:
+                                - generic [ref=f129e512]: …more
+                          - article [ref=f129e513]:
+                            - generic [ref=f129e514]:
+                              - 'link "Open article: Let''s talk about advocacy... by Popolo Plus • 3 min read" [ref=f129e516] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/pulse/lets-talk-advocacy-popolo-plus-n9icc?trackingId=838Es8WBVCl6h14If%2BUygA%3D%3D
+                              - 'link "Open article: Let''s talk about advocacy... by Popolo Plus • 3 min read" [ref=f129e520] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/pulse/lets-talk-advocacy-popolo-plus-n9icc?trackingId=838Es8WBVCl6h14If%2BUygA%3D%3D
+                                - generic [ref=f129e521]:
+                                  - generic [ref=f129e522]:
+                                    - link "Let&#39;s do change better!, graphic." [ref=f129e523]:
+                                      - /url: https://www.linkedin.com/newsletters/let-s-do-change-better-7448903705980203009
+                                    - generic [ref=f129e526]:
+                                      - link "Let's do change better!" [ref=f129e527]:
+                                        - /url: https://www.linkedin.com/newsletters/let-s-do-change-better-7448903705980203009
+                                      - button "Subscribe" [ref=f129e532]:
+                                        - generic [aria-hidden] [ref=f129e535]: Subscribe
+                                        - generic [ref=f129e536]: "Subscribe to {:entityName}"
+                                  - generic [ref=f129e537]:
+                                    - generic [ref=f129e538]: Let's talk about advocacy...
+                                    - generic [ref=f129e540]: Popolo Plus
+                        - generic [ref=f129e541]:
+                          - list [ref=f129e545]:
+                            - listitem [ref=f129e546]:
+                              - button "Nina Witenden and 4 others" [ref=f129e547] [cursor=pointer]:
+                                - img "like" [ref=f129e548]
+                                - img "love" [ref=f129e549]
+                                - img "support" [ref=f129e550]
+                                - generic [ref=f129e551]:
+                                  - generic [aria-hidden] [ref=f129e552]: "5"
+                                  - generic [ref=f129e553]: Nina Witenden and 4 others
+                          - generic [ref=f129e554]:
+                            - generic [ref=f129e555]:
+                              - button "React Like" [ref=f129e556] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f129e561]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f129e562] [cursor=pointer]
+                            - button "Comment" [ref=f129e567] [cursor=pointer]
+                            - button "Repost" [ref=f129e573] [cursor=pointer]
+                            - button "Send in a private message" [ref=f129e579] [cursor=pointer]:
+                              - generic [ref=f129e582]: Send
+                - listitem [ref=f129e584]:
+                  - article [ref=f129e589]:
+                    - generic [ref=f129e591]:
+                      - heading "Feed post number 3" [level=2] [ref=f129e592]
+                      - generic [ref=f129e593]:
+                        - generic [ref=f129e594]:
+                          - generic [ref=f129e596]:
+                            - link "View Rebecca Cattran 🧡 Change. Leadership. Coach.’s graphic link" [ref=f129e597] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/rebeccacattran?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAKn6W8B5PB0H0XAmJcD-V497ryyNEFwNsI
+                              - img "View Rebecca Cattran 🧡 Change. Leadership. Coach.’s graphic link" [ref=f129e601]
+                            - generic [ref=f129e602]:
+                              - 'link "View: Rebecca Cattran 🧡 Change. Leadership. Coach. Verified • 1st I help leaders navigate change with confidence to create positive impact 💫" [ref=f129e603] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/rebeccacattran?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAKn6W8B5PB0H0XAmJcD-V497ryyNEFwNsI
+                                - generic [ref=f129e604]:
+                                  - generic [ref=f129e605]: Rebecca Cattran 🧡 Change. Leadership. Coach.
+                                  - generic [ref=f129e608]: • 1st
+                                - generic [ref=f129e612]: I help leaders navigate change with confidence to create positive impact 💫
+                              - generic [ref=f129e614]: 1mo • Edited •
+                          - button "Open control menu for post by Rebecca Cattran 🧡 Change. Leadership. Coach." [ref=f129e622] [cursor=pointer]
+                        - generic [ref=f129e626]:
+                          - generic [ref=f129e629]:
+                            - text: I love wearing different hats in the work I do.Last week’s gathering of
+                            - link "Adairs Retail Group" [ref=f129e630] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/company/adairs-retail-group/
+                            - text: hosting retail leaders from around the country at the MCG was BIG!It was an important test for the major change initiative I’m leading because we were bringing it to life.Making it real, talking up how it would make a difference for customers and retail teams and most importantly, giving everyone a chance to get some hands on practice with the new system.We also took the opportunity to share perspectives on the practicalities of change – normalising and validating the challenges people can expect to experience.I got to support senior leaders to share these insights; work with SMEs to provide practical demos, join a panel discussion on leading change and partner with the GM of Retail
+                            - link "Kate Ryan" [ref=f129e634] [cursor=pointer]:
+                              - /url: /in/kateryan82/
+                            - text: to close it out. This is my favourite photo that sums up the experience.Look closely. What do you notice?Focused attention.As we wrapped up three days of content, conversation and demonstration, I asked the group two questions:👉 What’s going to help you get ready for Go Live?👉 What do you need to do in the next four weeks?The room was silent.Even though people were tired, they stepped into the space of reflection.Taking personal accountability. Embedding learning. Prioritising practical action.When I asked each person to share one action I was blown away.What I heard was clarity, courage and conviction.Everyone in the room knew what they needed to do to set themselves and their teams up for success back in store.🙌 This is change leadership in action.
+                            - link "hashtag ChangeLeader" [ref=f129e635] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=%23changeleader&origin=HASH_TAG_FROM_FEED
+                              - generic [ref=f129e636]: hashtag
+                              - generic [ref=f129e637]: "#ChangeLeader"
+                            - link "hashtag ConsciousCareer" [ref=f129e638] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=%23consciouscareer&origin=HASH_TAG_FROM_FEED
+                              - generic [ref=f129e639]: hashtag
+                              - generic [ref=f129e640]: "#ConsciousCareer"
+                            - link "hashtag PeopleFirst" [ref=f129e641] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=%23peoplefirst&origin=HASH_TAG_FROM_FEED
+                              - generic [ref=f129e642]: hashtag
+                              - generic [ref=f129e643]: "#PeopleFirst"
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f129e644] [cursor=pointer]:
+                            - generic [ref=f129e645]: …more
+                        - generic [ref=f129e647]:
+                          - button "Activate to view larger image, View image" [ref=f129e649] [cursor=pointer]:
+                            - generic [ref=f129e650]: Activate to view larger image,
+                            - img "View image" [ref=f129e653]
+                          - generic [aria-hidden] [ref=f129e654]: Activate to view larger image,
+                        - generic [ref=f129e655]:
+                          - list [ref=f129e659]:
+                            - listitem [ref=f129e660]:
+                              - button "Nina Witenden and 43 others" [ref=f129e661] [cursor=pointer]:
+                                - img "like" [ref=f129e662]
+                                - img "celebrate" [ref=f129e663]
+                                - img "support" [ref=f129e664]
+                                - generic [ref=f129e665]:
+                                  - generic [aria-hidden] [ref=f129e666]: "44"
+                                  - generic [ref=f129e667]: Nina Witenden and 43 others
+                            - listitem [ref=f129e668]:
+                              - list [ref=f129e669]:
+                                - listitem [ref=f129e670]:
+                                  - button "12 comments on Rebecca Cattran 🧡 Change. Leadership. Coach.’s post" [ref=f129e671] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f129e672]: 12 comments
+                          - generic [ref=f129e673]:
+                            - generic [ref=f129e674]:
+                              - button "React Like" [ref=f129e675] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f129e680]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f129e681] [cursor=pointer]
+                            - button "Comment" [ref=f129e686] [cursor=pointer]
+                            - button "Repost" [ref=f129e692] [cursor=pointer]
+                            - button "Send in a private message" [ref=f129e698] [cursor=pointer]:
+                              - generic [ref=f129e701]: Send
+                - listitem [ref=f129e703]:
+                  - article [ref=f129e708]:
+                    - generic [ref=f129e710]:
+                      - heading "Feed post number 4" [level=2] [ref=f129e711]
+                      - generic [ref=f129e712]:
+                        - generic [ref=f129e713]:
+                          - generic [ref=f129e715]:
+                            - link "View Rebecca Cattran 🧡 Change. Leadership. Coach.’s graphic link" [ref=f129e716] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/rebeccacattran?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAKn6W8B5PB0H0XAmJcD-V497ryyNEFwNsI
+                              - img "View Rebecca Cattran 🧡 Change. Leadership. Coach.’s graphic link" [ref=f129e720]
+                            - generic [ref=f129e721]:
+                              - 'link "View: Rebecca Cattran 🧡 Change. Leadership. Coach. Verified • 1st I help leaders navigate change with confidence to create positive impact 💫" [ref=f129e722] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/rebeccacattran?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAKn6W8B5PB0H0XAmJcD-V497ryyNEFwNsI
+                                - generic [ref=f129e723]:
+                                  - generic [ref=f129e724]: Rebecca Cattran 🧡 Change. Leadership. Coach.
+                                  - generic [ref=f129e727]: • 1st
+                                - generic [ref=f129e731]: I help leaders navigate change with confidence to create positive impact 💫
+                              - generic [ref=f129e733]: 1mo •
+                          - button "Open control menu for post by Rebecca Cattran 🧡 Change. Leadership. Coach." [ref=f129e741] [cursor=pointer]
+                        - generic [ref=f129e745]:
+                          - generic [ref=f129e746]: What kind of immersive change experiences are you creating? You can’t beat being in person having powerful conversations with leaders👇
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f129e749] [cursor=pointer]:
+                            - generic [ref=f129e750]: …more
+                        - region "Video player" [ref=f129e755]:
+                          - generic [ref=f129e759] [cursor=pointer]
+                          - button "Play" [ref=f129e760] [cursor=pointer]
+                        - generic [ref=f129e762]:
+                          - list [ref=f129e766]:
+                            - listitem [ref=f129e767]:
+                              - button "Taural Rhoden and 16 others" [ref=f129e768] [cursor=pointer]:
+                                - img "like" [ref=f129e769]
+                                - img "love" [ref=f129e770]
+                                - img "celebrate" [ref=f129e771]
+                                - generic [ref=f129e772]:
+                                  - generic [aria-hidden] [ref=f129e773]: "17"
+                                  - generic [ref=f129e774]: Taural Rhoden and 16 others
+                            - listitem [ref=f129e775]:
+                              - list [ref=f129e776]:
+                                - listitem [ref=f129e777]:
+                                  - button "2 comments on Rebecca Cattran 🧡 Change. Leadership. Coach.’s post" [ref=f129e778] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f129e779]: 2 comments
+                          - generic [ref=f129e780]:
+                            - generic [ref=f129e781]:
+                              - button "React Like" [ref=f129e782] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f129e787]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f129e788] [cursor=pointer]
+                            - button "Comment" [ref=f129e793] [cursor=pointer]
+                            - button "Repost" [ref=f129e799] [cursor=pointer]
+                            - button "Send in a private message" [ref=f129e805] [cursor=pointer]:
+                              - generic [ref=f129e808]: Send
+                - listitem [ref=f129e810]:
+                  - article [ref=f129e815]:
+                    - generic [ref=f129e817]:
+                      - heading "Feed post number 5" [level=2] [ref=f129e818]
+                      - generic [ref=f129e819]:
+                        - generic [ref=f129e820]:
+                          - generic [ref=f129e822]:
+                            - link "View Rebecca Cattran 🧡 Change. Leadership. Coach.’s graphic link" [ref=f129e823] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/rebeccacattran?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAKn6W8B5PB0H0XAmJcD-V497ryyNEFwNsI
+                              - img "View Rebecca Cattran 🧡 Change. Leadership. Coach.’s graphic link" [ref=f129e827]
+                            - generic [ref=f129e828]:
+                              - 'link "View: Rebecca Cattran 🧡 Change. Leadership. Coach. Verified • 1st I help leaders navigate change with confidence to create positive impact 💫" [ref=f129e829] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/rebeccacattran?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAKn6W8B5PB0H0XAmJcD-V497ryyNEFwNsI
+                                - generic [ref=f129e830]:
+                                  - generic [ref=f129e831]: Rebecca Cattran 🧡 Change. Leadership. Coach.
+                                  - generic [ref=f129e834]: • 1st
+                                - generic [ref=f129e838]: I help leaders navigate change with confidence to create positive impact 💫
+                              - generic [ref=f129e840]: 2mo •
+                          - button "Open control menu for post by Rebecca Cattran 🧡 Change. Leadership. Coach." [ref=f129e848] [cursor=pointer]
+                        - generic [ref=f129e852]:
+                          - generic [ref=f129e853]: I feel like alignment can often be overlooked in organisations. What’s your experience? Read on for my perspective 👇
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f129e856] [cursor=pointer]:
+                            - generic [ref=f129e857]: …more
+                        - generic [ref=f129e858]:
+                          - generic [ref=f129e859]:
+                            - generic [ref=f129e860]:
+                              - link "Popolo Plus, graphic." [ref=f129e861] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/company/popolo-plus/posts
+                              - generic [ref=f129e865]:
+                                - 'link "View: Popolo Plus 317 followers" [ref=f129e866] [cursor=pointer]':
+                                  - /url: https://www.linkedin.com/company/popolo-plus/posts
+                                  - generic [ref=f129e867]: Popolo Plus
+                                  - generic [ref=f129e872]: 317 followers
+                                - generic [ref=f129e874]: 2mo •
+                            - button "Follow Popolo Plus" [ref=f129e880] [cursor=pointer]:
+                              - generic [aria-hidden] [ref=f129e883]: Follow
+                          - link [ref=f129e885] [cursor=pointer]:
+                            - /url: /feed/update/urn:li:activity:7482977241245638656/
+                            - generic [ref=f129e886]:
+                              - generic [ref=f129e889]:
+                                - text: Achieving alignment is pivotal to successful change.So what do you need to be paying more attention to?
+                                - link "hashtag RealChange" [ref=f129e890]:
+                                  - /url: https://www.linkedin.com/search/results/all/?keywords=%23realchange&origin=HASH_TAG_FROM_FEED
+                                  - generic [ref=f129e891]: hashtag
+                                  - generic [ref=f129e892]: "#RealChange"
+                                - link "hashtag MakingADifference" [ref=f129e893]:
+                                  - /url: https://www.linkedin.com/search/results/all/?keywords=%23makingadifference&origin=HASH_TAG_FROM_FEED
+                                  - generic [ref=f129e894]: hashtag
+                                  - generic [ref=f129e895]: "#MakingADifference"
+                              - button "see more, visually reveals content which is already detected by screen readers" [ref=f129e896]:
+                                - generic [ref=f129e897]: …more
+                          - article [ref=f129e898]:
+                            - generic [ref=f129e899]:
+                              - 'link "Open article: Let''s talk about alignment... by Popolo Plus • 3 min read" [ref=f129e901] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/pulse/lets-talk-alignment-popolo-plus-pvhnc?trackingId=i%2BuB5wp4airefkp9ENyKtw%3D%3D
+                              - 'link "Open article: Let''s talk about alignment... by Popolo Plus • 3 min read" [ref=f129e905] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/pulse/lets-talk-alignment-popolo-plus-pvhnc?trackingId=i%2BuB5wp4airefkp9ENyKtw%3D%3D
+                                - generic [ref=f129e906]:
+                                  - generic [ref=f129e907]:
+                                    - link "Let&#39;s do change better!, graphic." [ref=f129e908]:
+                                      - /url: https://www.linkedin.com/newsletters/let-s-do-change-better-7448903705980203009
+                                    - generic [ref=f129e911]:
+                                      - link "Let's do change better!" [ref=f129e912]:
+                                        - /url: https://www.linkedin.com/newsletters/let-s-do-change-better-7448903705980203009
+                                      - button "Subscribe" [ref=f129e917]:
+                                        - generic [aria-hidden] [ref=f129e920]: Subscribe
+                                        - generic [ref=f129e921]: "Subscribe to {:entityName}"
+                                  - generic [ref=f129e922]:
+                                    - generic [ref=f129e923]: Let's talk about alignment...
+                                    - generic [ref=f129e925]: Popolo Plus
+                        - generic [ref=f129e926]:
+                          - list [ref=f129e930]:
+                            - listitem [ref=f129e931]:
+                              - button "7 reactions" [ref=f129e932] [cursor=pointer]:
+                                - img "like" [ref=f129e933]
+                                - img "support" [ref=f129e934]
+                                - generic [aria-hidden] [ref=f129e935]: "7"
+                            - listitem [ref=f129e936]:
+                              - list [ref=f129e937]:
+                                - listitem [ref=f129e938]:
+                                  - button "2 comments on Rebecca Cattran 🧡 Change. Leadership. Coach.’s post" [ref=f129e939] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f129e940]: 2 comments
+                          - generic [ref=f129e941]:
+                            - generic [ref=f129e942]:
+                              - button "React Like" [ref=f129e943] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f129e948]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f129e949] [cursor=pointer]
+                            - button "Comment" [ref=f129e954] [cursor=pointer]
+                            - button "Repost" [ref=f129e960] [cursor=pointer]
+                            - button "Send in a private message" [ref=f129e966] [cursor=pointer]:
+                              - generic [ref=f129e969]: Send
+                - listitem [ref=f129e971]
+                - listitem [ref=f129e975]
+                - listitem [ref=f129e979]
+                - listitem [ref=f129e983]
+                - listitem [ref=f129e987]
+                - listitem [ref=f129e991]
+                - listitem [ref=f129e995]
+                - listitem [ref=f129e999]
+                - listitem [ref=f129e1003]
+                - listitem [ref=f129e1007]
+                - listitem [ref=f129e1011]
+                - listitem [ref=f129e1015]
+                - listitem [ref=f129e1019]
+                - listitem [ref=f129e1023]
+            - button "Show more results" [ref=f129e1029] [cursor=pointer]
+      - complementary "Interests" [ref=f129e178]:
+        - iframe [ref=f129e1032]:
+          - generic [ref=f130e2]:
+            - generic: Ad
+            - img "overflow-web-small" [ref=f130e6] [cursor=pointer]
+            - link "LinkedIn for Marketing" [ref=f130e10] [cursor=pointer]:
+              - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Fbusiness.linkedin.com%2Fadvertise%2Fcx%2F21%2F09%2Fschedule-a-consultation-vb%3Fmcid%3D7503488571140616209%26src%3Dli-dynamic%26cid%3D701hh0000077UsqAAE%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg0rKWoZ17DnPXpRzTYlL3z-WZkK8BRGy5TlhOeqMS_l37dO90MiGFrruEGvzgtLLk3mitZajYg63F3nh9RAFvlchMX6bwzyF7r5EJiLaJrquAliVw6Uzw04D9SCkdq5_AExiQeIDhEgZBGGCCg6l16XyI2wDPU3L0dgbBX4v9clTWj_8SB2vxOxHCnDXe0Dx8oHH9CZXH1NGGdu9SrRG8edBBjrro3HjZFANVvaJXFLiyQl-kduB3bl_xZsjOYYegoFl3dsnkYYgrVQAOYqhmpKGhuDzAnz6zj48RWfnFXDm0W2Q8XJq88kjjUnrMFVDidGKnb63BMhtio0roKQ7aKzRDYWpBOBll73K8VEVD5gryp3pZIY-ib4bNDOhe1Rk-s8o95h87SVbZyv67Us4UKNzh2SMaN7JS11OAM8cC1LPvD_VTl-gUcrJGxDOHQKmIFDlzDJBe1UyCniRGWx-L5hFF39ZSBw2ZNwp-KWSen9Un52nXD9FK6VWyQ3hnigHtXTXpAnB-UOyOCVTwUa9JYYn90eUoqQt4Ef76oiVoRdGFnQbg70vr3KRC83fOk0nWTEd2snzRZcHCtlBLQd3m499MNBfqGxlpamgOsrAmdWNZHY0uofzpmidyPOp7aiKd7HzZV_XUZRXIaLok5MSN6briUbH0kuq-JAys_7FIdwhtvoJoPE06--OTU9e9ZdOWT5j3dtP9_2g0yXxex8UaJII3jzN5-bwxRkNuEQ6if9h2IcU6A30mcUMgUR7Jkh2bvRdNU-3_GpE1Z2XI7HITVOQb-XiKWfX6fm9KUDcxkyS4GW2zM09kLA__vvFbtce2DdzURPD4DKEG0mvXfhpA44NqYhMI65Bzl_dP7d30emf6nrqmzU5QG3fFSODrtUhQRxObl0OOKTRvDJ88NxeU1bIwhWUZckMKvjnkKHhsHQchXiEpbUdsOgWls-_nQqyIVtvlK8QT2Y-TLgvKW8qF-aXvLOTpS5j4Oco9XjTs9_ud6Ghrf7kLuN4UpPfBAypaLhFcc9uZK5xSXMKDpHxpdTRJH9uogS66yEnVqS80BhlgAQ6u2DvUeefiWQy12WvJhxxVyaR_6WhS9p2FzZDFGyJ5HFT5_hhmVJkSiIP7ogvS-ZptKg%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%22%2C%22trackingId%22%3A%22ef31b837-83a4-497e-a7c7-29fbf995b7d2%22%7D%2C%22time%22%3A1790241314374%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_view_base_recent_activity_content_view%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+            - generic [ref=f130e11]:
+              - heading "Kelly, struggling to reach the right B2B buyers?" [level=2] [ref=f130e14]
+              - generic [ref=f130e16]:
+                - img "Kelly" [ref=f130e17]
+                - generic [ref=f130e18]:
+                  - link [ref=f130e19] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Fbusiness.linkedin.com%2Fadvertise%2Fcx%2F21%2F09%2Fschedule-a-consultation-vb%3Fmcid%3D7503488571140616209%26src%3Dli-dynamic%26cid%3D701hh0000077UsqAAE%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg0rKWoZ17DnPXpRzTYlL3z-WZkK8BRGy5TlhOeqMS_l37dO90MiGFrruEGvzgtLLk3mitZajYg63F3nh9RAFvlchMX6bwzyF7r5EJiLaJrquAliVw6Uzw04D9SCkdq5_AExiQeIDhEgZBGGCCg6l16XyI2wDPU3L0dgbBX4v9clTWj_8SB2vxOxHCnDXe0Dx8oHH9CZXH1NGGdu9SrRG8edBBjrro3HjZFANVvaJXFLiyQl-kduB3bl_xZsjOYYegoFl3dsnkYYgrVQAOYqhmpKGhuDzAnz6zj48RWfnFXDm0W2Q8XJq88kjjUnrMFVDidGKnb63BMhtio0roKQ7aKzRDYWpBOBll73K8VEVD5gryp3pZIY-ib4bNDOhe1Rk-s8o95h87SVbZyv67Us4UKNzh2SMaN7JS11OAM8cC1LPvD_VTl-gUcrJGxDOHQKmIFDlzDJBe1UyCniRGWx-L5hFF39ZSBw2ZNwp-KWSen9Un52nXD9FK6VWyQ3hnigHtXTXpAnB-UOyOCVTwUa9JYYn90eUoqQt4Ef76oiVoRdGFnQbg70vr3KRC83fOk0nWTEd2snzRZcHCtlBLQd3m499MNBfqGxlpamgOsrAmdWNZHY0uofzpmidyPOp7aiKd7HzZV_XUZRXIaLok5MSN6briUbH0kuq-JAys_7FIdwhtvoJoPE06--OTU9e9ZdOWT5j3dtP9_2g0yXxex8UaJII3jzN5-bwxRkNuEQ6if9h2IcU6A30mcUMgUR7Jkh2bvRdNU-3_GpE1Z2XI7HITVOQb-XiKWfX6fm9KUDcxkyS4GW2zM09kLA__vvFbtce2DdzURPD4DKEG0mvXfhpA44NqYhMI65Bzl_dP7d30emf6nrqmzU5QG3fFSODrtUhQRxObl0OOKTRvDJ88NxeU1bIwhWUZckMKvjnkKHhsHQchXiEpbUdsOgWls-_nQqyIVtvlK8QT2Y-TLgvKW8qF-aXvLOTpS5j4Oco9XjTs9_ud6Ghrf7kLuN4UpPfBAypaLhFcc9uZK5xSXMKDpHxpdTRJH9uogS66yEnVqS80BhlgAQ6u2DvUeefiWQy12WvJhxxVyaR_6WhS9p2FzZDFGyJ5HFT5_hhmVJkSiIP7ogvS-ZptKg%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%22%2C%22trackingId%22%3A%22ef31b837-83a4-497e-a7c7-29fbf995b7d2%22%7D%2C%22time%22%3A1790241314374%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_view_base_recent_activity_content_view%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                    - img "LinkedIn for Marketing" [ref=f130e20]
+                  - tooltip "LinkedIn for Marketing" [ref=f130e21]
+              - generic [ref=f130e22]:
+                - heading "Refine targeting with a LinkedIn Ads expert" [level=2] [ref=f130e25]
+                - link "Book a 1:1 call" [ref=f130e27] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Fbusiness.linkedin.com%2Fadvertise%2Fcx%2F21%2F09%2Fschedule-a-consultation-vb%3Fmcid%3D7503488571140616209%26src%3Dli-dynamic%26cid%3D701hh0000077UsqAAE%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg0rKWoZ17DnPXpRzTYlL3z-WZkK8BRGy5TlhOeqMS_l37dO90MiGFrruEGvzgtLLk3mitZajYg63F3nh9RAFvlchMX6bwzyF7r5EJiLaJrquAliVw6Uzw04D9SCkdq5_AExiQeIDhEgZBGGCCg6l16XyI2wDPU3L0dgbBX4v9clTWj_8SB2vxOxHCnDXe0Dx8oHH9CZXH1NGGdu9SrRG8edBBjrro3HjZFANVvaJXFLiyQl-kduB3bl_xZsjOYYegoFl3dsnkYYgrVQAOYqhmpKGhuDzAnz6zj48RWfnFXDm0W2Q8XJq88kjjUnrMFVDidGKnb63BMhtio0roKQ7aKzRDYWpBOBll73K8VEVD5gryp3pZIY-ib4bNDOhe1Rk-s8o95h87SVbZyv67Us4UKNzh2SMaN7JS11OAM8cC1LPvD_VTl-gUcrJGxDOHQKmIFDlzDJBe1UyCniRGWx-L5hFF39ZSBw2ZNwp-KWSen9Un52nXD9FK6VWyQ3hnigHtXTXpAnB-UOyOCVTwUa9JYYn90eUoqQt4Ef76oiVoRdGFnQbg70vr3KRC83fOk0nWTEd2snzRZcHCtlBLQd3m499MNBfqGxlpamgOsrAmdWNZHY0uofzpmidyPOp7aiKd7HzZV_XUZRXIaLok5MSN6briUbH0kuq-JAys_7FIdwhtvoJoPE06--OTU9e9ZdOWT5j3dtP9_2g0yXxex8UaJII3jzN5-bwxRkNuEQ6if9h2IcU6A30mcUMgUR7Jkh2bvRdNU-3_GpE1Z2XI7HITVOQb-XiKWfX6fm9KUDcxkyS4GW2zM09kLA__vvFbtce2DdzURPD4DKEG0mvXfhpA44NqYhMI65Bzl_dP7d30emf6nrqmzU5QG3fFSODrtUhQRxObl0OOKTRvDJ88NxeU1bIwhWUZckMKvjnkKHhsHQchXiEpbUdsOgWls-_nQqyIVtvlK8QT2Y-TLgvKW8qF-aXvLOTpS5j4Oco9XjTs9_ud6Ghrf7kLuN4UpPfBAypaLhFcc9uZK5xSXMKDpHxpdTRJH9uogS66yEnVqS80BhlgAQ6u2DvUeefiWQy12WvJhxxVyaR_6WhS9p2FzZDFGyJ5HFT5_hhmVJkSiIP7ogvS-ZptKg%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%22%2C%22trackingId%22%3A%22ef31b837-83a4-497e-a7c7-29fbf995b7d2%22%7D%2C%22time%22%3A1790241314374%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_view_base_recent_activity_content_view%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+        - generic [ref=f129e1033]:
+          - heading "People you may know" [level=2] [ref=f129e1038]
+          - generic [ref=f129e1040]:
+            - list [ref=f129e1041]:
+              - listitem [ref=f129e1042]:
+                - generic [ref=f129e1043]:
+                  - link [ref=f129e1045] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/nayantharapv
+                    - img "Nayan Thara P V is open to work" [ref=f129e1048]
+                  - generic [ref=f129e1049]:
+                    - link "Nayan Thara P V CMS Expert | Journalist | Writer | Content Creative & Strategist" [ref=f129e1051] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/nayantharapv?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADDsw-gBRkEAwEcNi-J7Vz7ZB5-5gUQ472U
+                      - generic [ref=f129e1052]: Nayan Thara P V
+                      - generic [ref=f129e1061]: CMS Expert | Journalist | Writer | Content Creative & Strategist
+                    - list [ref=f129e1067]:
+                      - listitem [ref=f129e1068]:
+                        - button "Invite Nayan Thara P V to connect" [ref=f129e1070] [cursor=pointer]:
+                          - generic [ref=f129e1073]: Connect
+              - listitem [ref=f129e1074]:
+                - generic [ref=f129e1075]:
+                  - link [ref=f129e1077] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/astryd-aniel-412837436
+                    - img "Astryd Aniel" [ref=f129e1080]
+                  - generic [ref=f129e1081]:
+                    - link "Astryd Aniel Author - Mentor - Member of the Collective Consciousness at Freelance | Self-Employed" [ref=f129e1083] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/astryd-aniel-412837436?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAG4dJI4BI_sazPzT-qYLQ9yw5UNqnqdmx4M
+                      - generic [ref=f129e1084]: Astryd Aniel
+                      - generic [ref=f129e1089]: Author - Mentor - Member of the Collective Consciousness at Freelance | Self-Employed
+                    - list [ref=f129e1095]:
+                      - listitem [ref=f129e1096]:
+                        - button "Invite Astryd Aniel to connect" [ref=f129e1098] [cursor=pointer]:
+                          - generic [ref=f129e1101]: Connect
+              - listitem [ref=f129e1102]:
+                - generic [ref=f129e1103]:
+                  - link [ref=f129e1105] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/anna-kosiedowski-312b95152
+                    - img "Anna Kosiedowski" [ref=f129e1108]
+                  - generic [ref=f129e1109]:
+                    - link "Anna Kosiedowski People & Culture Manager" [ref=f129e1111] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/anna-kosiedowski-312b95152?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACTWoH4BCmOerTfbTKQFdvaBmGBTxITf5Sk
+                      - generic [ref=f129e1112]: Anna Kosiedowski
+                      - generic [ref=f129e1121]: People & Culture Manager
+                    - list [ref=f129e1127]:
+                      - listitem [ref=f129e1128]:
+                        - button "Invite Anna Kosiedowski to connect" [ref=f129e1130] [cursor=pointer]:
+                          - generic [ref=f129e1133]: Connect
+              - listitem [ref=f129e1134]:
+                - generic [ref=f129e1135]:
+                  - link [ref=f129e1137] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/sonam-malhi-b00106436
+                    - img "Sonam Malhi" [ref=f129e1140]
+                  - generic [ref=f129e1141]:
+                    - link "Sonam Malhi 2IC at TeamKids" [ref=f129e1143] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/sonam-malhi-b00106436?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAG4BmrABmHYaA-HhYSbY-VAYqhCzBJfo8xY
+                      - generic [ref=f129e1144]: Sonam Malhi
+                      - generic [ref=f129e1149]: 2IC at TeamKids
+                    - list [ref=f129e1155]:
+                      - listitem [ref=f129e1156]:
+                        - button "Invite Sonam Malhi to connect" [ref=f129e1158] [cursor=pointer]:
+                          - generic [ref=f129e1161]: Connect
+              - listitem [ref=f129e1162]:
+                - generic [ref=f129e1163]:
+                  - link [ref=f129e1165] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/jimmy-hartanto-230757185
+                    - img "Jimmy Hartanto" [ref=f129e1168]
+                  - generic [ref=f129e1169]:
+                    - link "Jimmy Hartanto AI Automation Consultant & Engineer for recruitment firms | Most of your workflow doesn’t need AI. I find the part that does, build it, and keep it running | Discovery call first" [ref=f129e1171] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/jimmy-hartanto-230757185?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACu3KYQBWDUCuGn26KSLRwLO72cWck9KLYA
+                      - generic [ref=f129e1172]: Jimmy Hartanto
+                      - generic [ref=f129e1181]: AI Automation Consultant & Engineer for recruitment firms | Most of your workflow doesn’t need AI. I find the part that does, build it, and keep it running | Discovery call first
+                    - list [ref=f129e1187]:
+                      - listitem [ref=f129e1188]:
+                        - button "Invite Jimmy Hartanto to connect" [ref=f129e1190] [cursor=pointer]:
+                          - generic [ref=f129e1193]: Connect
+            - button "Show more" [ref=f129e1196] [cursor=pointer]
+        - generic [ref=f129e239]:
+          - iframe [ref=f129e1472]:
+            - generic [ref=f131e2]:
+              - generic: Ad
+              - img "overflow-web-small" [ref=f131e6] [cursor=pointer]
+              - link "LinkedIn for Marketing" [ref=f131e10] [cursor=pointer]:
+                - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Fbusiness.linkedin.com%2Fmarketing-solutions%2Fwebinars%2F25%2F06%2Fmeasure-and-optimize%3Fmcid%3D7418940837629227008%26src%3Dli-dynamic%26cid%3D701Kf000000UbVFIA0%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg0rLkqGnZg26dp_B5U9JFUuQt42Qan5PWyrvaem6kum6AckNuXwjKyQLPq1ZQ8mcc0YtZNo5Upm-n8iXfkIrJh7zC6XQiGkDUrtG5IPb9ZFAaFv4Yr-ktGqGSIW96UcEipRu2nLEzzFQqQxjlCk3fFebBDgPZUp1R00D89prFc_VRPc8QsEJHoXxum0C7XLttCczAku_dQs1assuYGeD26KntNqmaYDwq-dDP2k4OPTE8bij-ZlTJSyYfJrsto8g6LT40qgGkhCu-6A0GthNtY97oemVkyL-KOdLPDpvWFk63uden3PwJVEYCJQJcbVnwL0qMCvaekzXFzZiqA06zsGYMwGCld7mrd3JwOxjSNhI3-e0DDwMvTO9fZpcZha2wNqAf6-czWJQn9sEbfCi_-LTWeXPa2EzNi_SrrvfAt0zTeNBxFlz5iymk7pciPgK_dkyBOlWjJ_KX6D0-cAT6681AGdFGpZIL0rIPfunUqQLRB70laYioJeXdB2Tfegw7NSYH6unwde8J8MAgfbwEGwB6GfEoKHik8JjFQIybPuylPzZpbHx1tSEW9Au4ZSJqCHAo_dF7K03bEHtNQH0PPmbX3jR6OzO5aCS2exXIZ7vliezc8HLqfLwf-B7YdIxK8jMEHoinBNn3gAvp89JiJrk0_20cezk_OIYPuOTiQXXr6l5hI3re0d3OLdDKGhq7DxNB4wQUJn3eXCebCRjuqTeELAO2csvrmXQ0ERYP8v4F1P65p2GF1bQkWr-IkxybeU078XHyRzyqWFRciyu3-JJsUljbtvWURyob109pAKQHMQj4iwQiMZFkDGDTihU422062xNBJy6sATGIafyj7AzwadW5sowvyZAhNOpZ1mxE5KUrHTbsWiKYp2nnQo0kOcHviHcrN7t18ApnMuyDgefqd8xN2IPpQa8c7RTb8wCEH99m_bio3NjXgZkyp-8oz1GiWIxDE6dzuN8hoyy5I_XMmJR4rDZwD3qbRgTyz54lUh8PbmgXJx_uFpeDrBSs5c4pFNc9ThXQFB6-aJ9deh3ezJCGS-UY7SVMvXCb37ftCUeGMZQBJqy6kvxMgAk8lcaFCv986smZUJRHswXZvseojuagSzt3LOm4Ubdp89_FQne4rDE62OlFR4CMGjtSfroFyaYa4_np1O84hgbiFUKAZA7G3ahGesnIa22WIhs%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%22%2C%22trackingId%22%3A%228c1dd59c-3182-49b0-bccc-8f68018e173e%22%7D%2C%22time%22%3A1790241334349%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_view_base_recent_activity_content_view%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+              - generic [ref=f131e11]:
+                - 'heading "Conversions API: One view of ROI across online and offline touchpoints" [level=2] [ref=f131e14]'
+                - generic [ref=f131e16]:
+                  - img "Kelly" [ref=f131e17]
+                  - generic [ref=f131e18]:
+                    - link [ref=f131e19] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Fbusiness.linkedin.com%2Fmarketing-solutions%2Fwebinars%2F25%2F06%2Fmeasure-and-optimize%3Fmcid%3D7418940837629227008%26src%3Dli-dynamic%26cid%3D701Kf000000UbVFIA0%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg0rLkqGnZg26dp_B5U9JFUuQt42Qan5PWyrvaem6kum6AckNuXwjKyQLPq1ZQ8mcc0YtZNo5Upm-n8iXfkIrJh7zC6XQiGkDUrtG5IPb9ZFAaFv4Yr-ktGqGSIW96UcEipRu2nLEzzFQqQxjlCk3fFebBDgPZUp1R00D89prFc_VRPc8QsEJHoXxum0C7XLttCczAku_dQs1assuYGeD26KntNqmaYDwq-dDP2k4OPTE8bij-ZlTJSyYfJrsto8g6LT40qgGkhCu-6A0GthNtY97oemVkyL-KOdLPDpvWFk63uden3PwJVEYCJQJcbVnwL0qMCvaekzXFzZiqA06zsGYMwGCld7mrd3JwOxjSNhI3-e0DDwMvTO9fZpcZha2wNqAf6-czWJQn9sEbfCi_-LTWeXPa2EzNi_SrrvfAt0zTeNBxFlz5iymk7pciPgK_dkyBOlWjJ_KX6D0-cAT6681AGdFGpZIL0rIPfunUqQLRB70laYioJeXdB2Tfegw7NSYH6unwde8J8MAgfbwEGwB6GfEoKHik8JjFQIybPuylPzZpbHx1tSEW9Au4ZSJqCHAo_dF7K03bEHtNQH0PPmbX3jR6OzO5aCS2exXIZ7vliezc8HLqfLwf-B7YdIxK8jMEHoinBNn3gAvp89JiJrk0_20cezk_OIYPuOTiQXXr6l5hI3re0d3OLdDKGhq7DxNB4wQUJn3eXCebCRjuqTeELAO2csvrmXQ0ERYP8v4F1P65p2GF1bQkWr-IkxybeU078XHyRzyqWFRciyu3-JJsUljbtvWURyob109pAKQHMQj4iwQiMZFkDGDTihU422062xNBJy6sATGIafyj7AzwadW5sowvyZAhNOpZ1mxE5KUrHTbsWiKYp2nnQo0kOcHviHcrN7t18ApnMuyDgefqd8xN2IPpQa8c7RTb8wCEH99m_bio3NjXgZkyp-8oz1GiWIxDE6dzuN8hoyy5I_XMmJR4rDZwD3qbRgTyz54lUh8PbmgXJx_uFpeDrBSs5c4pFNc9ThXQFB6-aJ9deh3ezJCGS-UY7SVMvXCb37ftCUeGMZQBJqy6kvxMgAk8lcaFCv986smZUJRHswXZvseojuagSzt3LOm4Ubdp89_FQne4rDE62OlFR4CMGjtSfroFyaYa4_np1O84hgbiFUKAZA7G3ahGesnIa22WIhs%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%22%2C%22trackingId%22%3A%228c1dd59c-3182-49b0-bccc-8f68018e173e%22%7D%2C%22time%22%3A1790241334349%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_view_base_recent_activity_content_view%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                      - img "LinkedIn for Marketing" [ref=f131e20]
+                    - tooltip "LinkedIn for Marketing" [ref=f131e21]
+                - generic [ref=f131e23]:
+                  - heading "Kelly, measure impact with LinkedIn Ads" [level=2] [ref=f131e26]
+                  - link "Watch webinar now" [ref=f131e28] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Fbusiness.linkedin.com%2Fmarketing-solutions%2Fwebinars%2F25%2F06%2Fmeasure-and-optimize%3Fmcid%3D7418940837629227008%26src%3Dli-dynamic%26cid%3D701Kf000000UbVFIA0%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg0rLkqGnZg26dp_B5U9JFUuQt42Qan5PWyrvaem6kum6AckNuXwjKyQLPq1ZQ8mcc0YtZNo5Upm-n8iXfkIrJh7zC6XQiGkDUrtG5IPb9ZFAaFv4Yr-ktGqGSIW96UcEipRu2nLEzzFQqQxjlCk3fFebBDgPZUp1R00D89prFc_VRPc8QsEJHoXxum0C7XLttCczAku_dQs1assuYGeD26KntNqmaYDwq-dDP2k4OPTE8bij-ZlTJSyYfJrsto8g6LT40qgGkhCu-6A0GthNtY97oemVkyL-KOdLPDpvWFk63uden3PwJVEYCJQJcbVnwL0qMCvaekzXFzZiqA06zsGYMwGCld7mrd3JwOxjSNhI3-e0DDwMvTO9fZpcZha2wNqAf6-czWJQn9sEbfCi_-LTWeXPa2EzNi_SrrvfAt0zTeNBxFlz5iymk7pciPgK_dkyBOlWjJ_KX6D0-cAT6681AGdFGpZIL0rIPfunUqQLRB70laYioJeXdB2Tfegw7NSYH6unwde8J8MAgfbwEGwB6GfEoKHik8JjFQIybPuylPzZpbHx1tSEW9Au4ZSJqCHAo_dF7K03bEHtNQH0PPmbX3jR6OzO5aCS2exXIZ7vliezc8HLqfLwf-B7YdIxK8jMEHoinBNn3gAvp89JiJrk0_20cezk_OIYPuOTiQXXr6l5hI3re0d3OLdDKGhq7DxNB4wQUJn3eXCebCRjuqTeELAO2csvrmXQ0ERYP8v4F1P65p2GF1bQkWr-IkxybeU078XHyRzyqWFRciyu3-JJsUljbtvWURyob109pAKQHMQj4iwQiMZFkDGDTihU422062xNBJy6sATGIafyj7AzwadW5sowvyZAhNOpZ1mxE5KUrHTbsWiKYp2nnQo0kOcHviHcrN7t18ApnMuyDgefqd8xN2IPpQa8c7RTb8wCEH99m_bio3NjXgZkyp-8oz1GiWIxDE6dzuN8hoyy5I_XMmJR4rDZwD3qbRgTyz54lUh8PbmgXJx_uFpeDrBSs5c4pFNc9ThXQFB6-aJ9deh3ezJCGS-UY7SVMvXCb37ftCUeGMZQBJqy6kvxMgAk8lcaFCv986smZUJRHswXZvseojuagSzt3LOm4Ubdp89_FQne4rDE62OlFR4CMGjtSfroFyaYa4_np1O84hgbiFUKAZA7G3ahGesnIa22WIhs%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%22%2C%22trackingId%22%3A%228c1dd59c-3182-49b0-bccc-8f68018e173e%22%7D%2C%22time%22%3A1790241334349%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_view_base_recent_activity_content_view%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+          - generic "LinkedIn Footer Content" [ref=f129e240]:
+            - generic [ref=f129e241]:
+              - list [ref=f129e1201]:
+                - listitem [ref=f129e1202]:
+                  - link "About" [ref=f129e1203] [cursor=pointer]:
+                    - /url: https://about.linkedin.com/
+                - listitem [ref=f129e1205]:
+                  - link "Accessibility" [ref=f129e1206] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/accessibility
+                - listitem [ref=f129e1208]:
+                  - link "Help Center" [ref=f129e1209] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/help/linkedin?trk=footer_d_flagship3_profile_view_base_recent_activity_content_view
+                - listitem [ref=f129e1211]:
+                  - button "Privacy & Terms" [ref=f129e1213] [cursor=pointer]
+                - listitem [ref=f129e1218]:
+                  - link "Ad Choices" [ref=f129e1219] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/help/linkedin/answer/62931
+                - listitem [ref=f129e1221]:
+                  - link "Advertising" [ref=f129e1222] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/ad/start?trk=n_nav_ads_rr
+                - listitem [ref=f129e1224]:
+                  - button "Business Services" [ref=f129e1226] [cursor=pointer]
+                - listitem [ref=f129e1231]:
+                  - button "Get the LinkedIn app" [ref=f129e1234] [cursor=pointer]
+                - listitem [ref=f129e1235]:
+                  - button "More options" [ref=f129e1236] [cursor=pointer]: More
+              - generic [ref=f129e242]:
+                - img "LinkedIn" [ref=f129e243]
+                - text: LinkedIn Corporation © 2026
+    - generic:
+      - generic:
+        - complementary:
+          - generic [ref=f129e246]:
+            - generic [ref=f129e247]:
+              - generic [ref=f129e249] [cursor=pointer]:
+                - img "Kelly Irving" [ref=f129e251]
+                - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f129e252]:
+                  - generic [ref=f129e253]:
+                    - generic [aria-hidden] [ref=f129e254]: Messaging
+                    - generic [ref=f129e255]: You are on the messaging overlay. Press enter to open the list of conversations.
+                - mark [aria-hidden] [ref=f129e256]:
+                  - generic [ref=f129e257]: "2"
+              - generic [ref=f129e258]:
+                - button [ref=f129e260] [cursor=pointer]:
+                  - img "Open messenger dropdown menu" [ref=f129e261]
+                - button "Compose message" [ref=f129e264] [cursor=pointer]
+                - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f129e268] [cursor=pointer]
+            - generic [ref=f129e1237]:
+              - heading "Page inboxes" [level=3] [ref=f129e1239]
+              - generic [ref=f129e1240] [cursor=pointer]:
+                - generic [ref=f129e1241]: Click to see affiliated inboxes
+                - button "Page inboxes" [ref=f129e1242]
+        - complementary "AI-powered assistant to get help with your career, jobs etc"
+  - region [ref=f129e272]

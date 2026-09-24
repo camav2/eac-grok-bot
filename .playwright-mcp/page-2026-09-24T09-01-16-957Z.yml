@@ -1,0 +1,1358 @@
+- generic [ref=f194e13]:
+  - generic:
+    - region "Toast message":
+      - heading "0 notifications total" [level=2] [ref=f194e15]
+      - alert
+  - region [ref=f194e12]
+  - generic [ref=f194e16]:
+    - generic [ref=f194e18]:
+      - button "Skip to search" [ref=f194e19] [cursor=pointer]
+      - button "Skip to main content" [ref=f194e21] [cursor=pointer]
+      - button "Keyboard shortcuts" [ref=f194e23] [cursor=pointer]
+      - button "Close jump menu" [ref=f194e25] [cursor=pointer]
+    - banner "Global Navigation" [ref=f194e29]:
+      - generic [ref=f194e30]:
+        - link [ref=f194e31] [cursor=pointer]:
+          - /url: https://www.linkedin.com/feed/?nis=true
+          - img "LinkedIn" [ref=f194e34]
+        - combobox "I’m looking for..." [ref=f194e40]
+        - navigation "Primary Navigation" [ref=f194e41]:
+          - list [ref=f194e42]:
+            - listitem [ref=f194e43]:
+              - link "new feed updates notifications Home" [ref=f194e44] [cursor=pointer]:
+                - /url: https://www.linkedin.com/feed/?nis=true&
+                - generic [ref=f194e45]: new feed updates notifications
+                - generic "Home" [ref=f194e54]
+            - listitem [ref=f194e55]:
+              - link "26 new network updates notifications My Network" [ref=f194e56] [cursor=pointer]:
+                - /url: https://www.linkedin.com/mynetwork/?
+                - generic [ref=f194e58]:
+                  - generic [aria-hidden] [ref=f194e59]: "26"
+                  - generic [ref=f194e60]: 26 new network updates notifications
+                - generic "My Network" [ref=f194e66]
+            - listitem [ref=f194e67]:
+              - link "Jobs" [ref=f194e68] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/?
+            - listitem [ref=f194e75]:
+              - link "2 new messages notifications Messaging" [ref=f194e76] [cursor=pointer]:
+                - /url: https://www.linkedin.com/messaging/?
+                - generic [ref=f194e78]:
+                  - generic [aria-hidden] [ref=f194e79]: "2"
+                  - generic [ref=f194e80]: 2 new messages notifications
+                - generic "Messaging" [ref=f194e86]
+            - listitem [ref=f194e87]:
+              - link "21 new notifications Notifications" [ref=f194e88] [cursor=pointer]:
+                - /url: https://www.linkedin.com/notifications/?
+                - generic [ref=f194e90]:
+                  - generic [aria-hidden] [ref=f194e91]: "21"
+                  - generic [ref=f194e92]: 21 new notifications
+                - generic "Notifications" [ref=f194e98]
+            - listitem [ref=f194e99]:
+              - button [ref=f194e101] [cursor=pointer]:
+                - img "Kelly Irving" [ref=f194e102]
+                - generic [ref=f194e103]: Me
+            - listitem [ref=f194e106]:
+              - button "For Business" [ref=f194e108] [cursor=pointer]
+            - listitem [ref=f194e117]:
+              - link "3 new Campaign Manager notifications Advertise" [ref=f194e118] [cursor=pointer]:
+                - /url: https://www.linkedin.com/campaignmanager/accounts?shouldShowNotificationPanelOnRender=true
+                - generic [ref=f194e120]:
+                  - generic [aria-hidden] [ref=f194e121]: "3"
+                  - generic [ref=f194e122]: 3 new Campaign Manager notifications
+                - generic "Advertise" [ref=f194e129]
+    - generic [ref=f194e136]:
+      - complementary [ref=f194e137]:
+        - region "Organizational page admin navigation section" [ref=f194e139]:
+          - generic [ref=f194e140]:
+            - button [ref=f194e141]
+            - generic [ref=f194e144]: Premium
+          - generic [ref=f194e146]:
+            - img "Expert Author Community logo" [ref=f194e147]
+            - heading [level=1] [ref=f194e148]:
+              - text: Expert Author Community
+              - link "Verifications" [ref=f194e152] [cursor=pointer]:
+                - /url: /company/89798536/admin/settings/verification-control/
+            - link "3,398 followers" [ref=f194e155] [cursor=pointer]:
+              - /url: /company/89798536/admin/analytics/followers/
+            - generic [ref=f194e156]:
+              - link "Create" [ref=f194e157] [cursor=pointer]
+              - link "View as member" [ref=f194e161] [cursor=pointer]
+          - navigation [ref=f194e165]:
+            - list [ref=f194e166]:
+              - listitem [ref=f194e167]:
+                - link "Dashboard" [ref=f194e168] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/dashboard
+              - listitem [ref=f194e173]:
+                - link "Page posts" [ref=f194e174] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/page-posts/published
+              - listitem [ref=f194e179]:
+                - link "Analytics" [ref=f194e180] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/analytics/updates
+              - listitem [ref=f194e185]:
+                - link "Feed" [ref=f194e186] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/feed/following
+              - listitem [ref=f194e191]:
+                - link "Activity" [ref=f194e192] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/notifications/all
+              - listitem [ref=f194e197]:
+                - link "Inbox" [ref=f194e198] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/inbox?pageMailboxUrn=urn%3Ali%3Afsd_pageMailbox%3A16608703
+              - listitem [ref=f194e203]:
+                - link "Edit Page" [ref=f194e204] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/edit
+            - list [ref=f194e209]:
+              - listitem [ref=f194e210]:
+                - link "Products" [ref=f194e211] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/products
+              - listitem [ref=f194e216]:
+                - link "Jobs" [ref=f194e217] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/posted-jobs/open
+              - listitem [ref=f194e222]:
+                - link "Events" [ref=f194e223] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/notifications/mentions/?viewEvents=true
+            - list [ref=f194e228]:
+              - listitem [ref=f194e229]:
+                - link "Premium features" [ref=f194e230] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/premium/my-premium/?companyUrn=urn%3Ali%3Afsd_company%3A89798536
+              - listitem [ref=f194e238]:
+                - link "Advertise" [ref=f194e239] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/ad-beta/accounts
+              - listitem [ref=f194e247]:
+                - link "Invite to follow" [ref=f194e248] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/notifications/mentions/?invite=true
+              - listitem [ref=f194e253]:
+                - link "Settings" [ref=f194e254] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/settings
+      - generic [ref=f194e260]:
+        - main [ref=f194e261]:
+          - generic [ref=f194e262]:
+            - generic [ref=f194e265]:
+              - heading "Activity" [level=2] [ref=f194e266]
+              - paragraph [ref=f194e267]: Keep track of the activity around your page
+            - list [ref=f194e268]:
+              - listitem [ref=f194e269]:
+                - link "All" [ref=f194e270] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/notifications/all
+              - listitem [ref=f194e275]:
+                - link "Comments" [ref=f194e276] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/notifications/comments
+              - listitem [ref=f194e281]:
+                - link "Mentions" [ref=f194e282] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/notifications/mentions
+              - listitem [ref=f194e287]:
+                - link "Reactions" [ref=f194e288] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/notifications/reactions
+              - listitem [ref=f194e293]:
+                - button "More" [ref=f194e295] [cursor=pointer]
+          - generic [ref=f194e301]:
+            - generic [ref=f194e303]:
+              - article "Notification" [ref=f194e305] [cursor=pointer]:
+                - generic [ref=f194e306]:
+                  - img "Karen Dunshea" [ref=f194e311]
+                  - generic [ref=f194e312]:
+                    - link [ref=f194e313]:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7508768441512706048?actorCompanyId=89798536
+                      - generic [ref=f194e314]:
+                        - text: Karen Dunshea
+                        - strong [ref=f194e315]: mentioned your company in an update
+                    - link [aria-hidden] [ref=f194e316]:
+                      - generic [ref=f194e318]:
+                        - text: Woohoo! I (almost) have a book! After three years writing, thinking, re-writing, discussing, editing, re-writing…. I have finished all that I need to do. I’m now having a couple of weeks off and in mid-October I should have my print copy from Grammar Factory for final approval.
+                        - link [ref=f194e319]:
+                          - /url: https://www.linkedin.com/company/expert-author-community/
+                          - generic [ref=f194e320]: Expert Author Community
+                        - link [ref=f194e321]:
+                          - /url: /in/kelly-irving/
+                          - text: Kelly Irving
+                        - link [ref=f194e322]:
+                          - /url: /in/scottmacmillan/
+                          - text: Scott A. MacMillan
+                      - separator [ref=f194e323]
+                      - generic [ref=f194e324]: Book cover
+                    - link "Comment" [ref=f194e332]
+                  - paragraph [ref=f194e336]: 2h
+              - article "Notification" [ref=f194e338] [cursor=pointer]:
+                - generic [ref=f194e339]:
+                  - img "Kelly Irving" [ref=f194e344]
+                  - generic [ref=f194e345]:
+                    - strong [ref=f194e348]:
+                      - generic [ref=f194e349]: EMPLOYEE ACTIVITY
+                    - link [ref=f194e350]:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7508057154000658432?dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287508277860571258880%2Curn%3Ali%3AugcPost%3A7508057102339317760%29&actorCompanyId=89798536
+                      - generic [ref=f194e351]:
+                        - text: Kelly Irving
+                        - strong [ref=f194e352]: mentioned your company in a comment
+                    - link [aria-hidden] [ref=f194e353]:
+                      - generic [ref=f194e354]: Wowwee how epic! Congratulations Faye! Sorry to have missed it in person but how absolutely thrilling to be supported from Expert Author Community ‘s very own Michelle Scheibner ❤️
+                      - separator [ref=f194e356]
+                      - generic [ref=f194e366]:
+                        - text: I’m still soaking up the joy of celebrating Soulful Simplicity, surrounded by 70 wonderful colleagues, friends, and family. Seeing so many people from different chapters of my life gathered in one room was deeply moving. Each of you left an impression on my heart, and I am so grateful you chose to share this milestone with me. A very special thank you to my speakers,
+                        - link [ref=f194e367]:
+                          - /url: /in/michellescheibner/
+                          - text: Michelle Scheibner
+                        - text: and
+                        - link [ref=f194e368]:
+                          - /url: /in/dr-tamar-black/
+                          - text: Dr Tamar Black
+                        - text: for their beautiful words; to my wonderful MC,
+                        - link [ref=f194e369]:
+                          - /url: /in/veronika-whyte-51975bb8/
+                          - text: Veronika Whyte
+                        - text: for guiding us through the afternoon with such warmth; and to
+                        - link [ref=f194e370]:
+                          - /url: /in/janinelum/
+                          - text: Janine Lum
+                        - text: "for her incredible support in organising the surprise photography and the upcoming magazine review, a delicate touch only a luxury event curator can bring. The afternoon was everything I had hoped for: a warm, intimate, beautifully crafted event, with the angelic voice of Elly Poletti, exquisite gourmet canapés and sparkling wine from Harbour Kitchen, and so many moments of connection, reflection, and celebration. And to everyone who attended, got a signed copy of the book, shared a conversation, gave me a hug, took a photograph, or simply stood beside me on this very special day, thank you. A book may carry one author’s name on its cover, but moments like this remind me that no meaningful journey is ever travelled entirely alone. Soulful Simplicity is now out in the world, and what a beautiful way to celebrate it's beginning."
+                        - link [ref=f194e371]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23soulfulsimplicity&origin=HASH_TAG_FROM_FEED
+                          - generic [ref=f194e372]: hashtag
+                          - generic [ref=f194e373]: "#SoulfulSimplicity"
+                        - link [ref=f194e374]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23booklaunch&origin=HASH_TAG_FROM_FEED
+                          - generic [ref=f194e375]: hashtag
+                          - generic [ref=f194e376]: "#BookLaunch"
+                        - link [ref=f194e377]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23australianauthor&origin=HASH_TAG_FROM_FEED
+                          - generic [ref=f194e378]: hashtag
+                          - generic [ref=f194e379]: "#AustralianAuthor"
+                        - link [ref=f194e380]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23womeninpsychology&origin=HASH_TAG_FROM_FEED
+                          - generic [ref=f194e381]: hashtag
+                          - generic [ref=f194e382]: "#WomenInPsychology"
+                        - link [ref=f194e383]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23womeninmidlife&origin=HASH_TAG_FROM_FEED
+                          - generic [ref=f194e384]: hashtag
+                          - generic [ref=f194e385]: "#WomenInMidlife"
+                        - link [ref=f194e386]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23authorlife&origin=HASH_TAG_FROM_FEED
+                          - generic [ref=f194e387]: hashtag
+                          - generic [ref=f194e388]: "#AuthorLife"
+                        - link [ref=f194e389]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23gratitude&origin=HASH_TAG_FROM_FEED
+                          - generic [ref=f194e390]: hashtag
+                          - generic [ref=f194e391]: "#Gratitude"
+                        - link [ref=f194e392]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23newbeginnings&origin=HASH_TAG_FROM_FEED
+                          - generic [ref=f194e393]: hashtag
+                          - generic [ref=f194e394]: "#NewBeginnings"
+                    - link "Respond" [ref=f194e397]
+                  - paragraph [ref=f194e401]: 1d
+              - article "Notification" [ref=f194e403] [cursor=pointer]:
+                - generic [ref=f194e404]:
+                  - img "Kelly Irving" [ref=f194e409]
+                  - generic [ref=f194e410]:
+                    - strong [ref=f194e413]:
+                      - generic [ref=f194e414]: EMPLOYEE ACTIVITY
+                    - link [ref=f194e415]:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7508057154000658432?dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287508277860571258880%2Curn%3Ali%3AugcPost%3A7508057102339317760%29&actorCompanyId=89798536
+                      - generic [ref=f194e416]:
+                        - text: Kelly Irving
+                        - strong [ref=f194e417]: mentioned your company in a comment
+                    - link [aria-hidden] [ref=f194e418]:
+                      - generic [ref=f194e419]: Wowwee how epic! Congratulations Faye! Sorry to have missed it in person but how absolutely thrilling to be supported from Expert Author Community ‘s very own Michelle Scheibner ❤️
+                      - separator [ref=f194e421]
+                      - generic [ref=f194e431]:
+                        - text: I’m still soaking up the joy of celebrating Soulful Simplicity, surrounded by 70 wonderful colleagues, friends, and family. Seeing so many people from different chapters of my life gathered in one room was deeply moving. Each of you left an impression on my heart, and I am so grateful you chose to share this milestone with me. A very special thank you to my speakers,
+                        - link [ref=f194e432]:
+                          - /url: /in/michellescheibner/
+                          - text: Michelle Scheibner
+                        - text: and
+                        - link [ref=f194e433]:
+                          - /url: /in/dr-tamar-black/
+                          - text: Dr Tamar Black
+                        - text: for their beautiful words; to my wonderful MC,
+                        - link [ref=f194e434]:
+                          - /url: /in/veronika-whyte-51975bb8/
+                          - text: Veronika Whyte
+                        - text: for guiding us through the afternoon with such warmth; and to
+                        - link [ref=f194e435]:
+                          - /url: /in/janinelum/
+                          - text: Janine Lum
+                        - text: "for her incredible support in organising the surprise photography and the upcoming magazine review, a delicate touch only a luxury event curator can bring. The afternoon was everything I had hoped for: a warm, intimate, beautifully crafted event, with the angelic voice of Elly Poletti, exquisite gourmet canapés and sparkling wine from Harbour Kitchen, and so many moments of connection, reflection, and celebration. And to everyone who attended, got a signed copy of the book, shared a conversation, gave me a hug, took a photograph, or simply stood beside me on this very special day, thank you. A book may carry one author’s name on its cover, but moments like this remind me that no meaningful journey is ever travelled entirely alone. Soulful Simplicity is now out in the world, and what a beautiful way to celebrate it's beginning."
+                        - link [ref=f194e436]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23soulfulsimplicity&origin=HASH_TAG_FROM_FEED
+                          - generic [ref=f194e437]: hashtag
+                          - generic [ref=f194e438]: "#SoulfulSimplicity"
+                        - link [ref=f194e439]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23booklaunch&origin=HASH_TAG_FROM_FEED
+                          - generic [ref=f194e440]: hashtag
+                          - generic [ref=f194e441]: "#BookLaunch"
+                        - link [ref=f194e442]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23australianauthor&origin=HASH_TAG_FROM_FEED
+                          - generic [ref=f194e443]: hashtag
+                          - generic [ref=f194e444]: "#AustralianAuthor"
+                        - link [ref=f194e445]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23womeninpsychology&origin=HASH_TAG_FROM_FEED
+                          - generic [ref=f194e446]: hashtag
+                          - generic [ref=f194e447]: "#WomenInPsychology"
+                        - link [ref=f194e448]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23womeninmidlife&origin=HASH_TAG_FROM_FEED
+                          - generic [ref=f194e449]: hashtag
+                          - generic [ref=f194e450]: "#WomenInMidlife"
+                        - link [ref=f194e451]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23authorlife&origin=HASH_TAG_FROM_FEED
+                          - generic [ref=f194e452]: hashtag
+                          - generic [ref=f194e453]: "#AuthorLife"
+                        - link [ref=f194e454]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23gratitude&origin=HASH_TAG_FROM_FEED
+                          - generic [ref=f194e455]: hashtag
+                          - generic [ref=f194e456]: "#Gratitude"
+                        - link [ref=f194e457]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23newbeginnings&origin=HASH_TAG_FROM_FEED
+                          - generic [ref=f194e458]: hashtag
+                          - generic [ref=f194e459]: "#NewBeginnings"
+                    - link "Respond" [ref=f194e462]
+                  - paragraph [ref=f194e466]: 1d
+              - article "Notification" [ref=f194e468] [cursor=pointer]:
+                - generic [ref=f194e469]:
+                  - img "Sarah Gray GAICD" [ref=f194e474]
+                  - generic [ref=f194e475]:
+                    - strong [ref=f194e478]:
+                      - generic [ref=f194e479]: EMPLOYEE ACTIVITY
+                    - link [ref=f194e480]:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7508015419816026114?dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287508074652552929281%2Curn%3Ali%3AugcPost%3A7508015418599624704%29&actorCompanyId=89798536
+                      - generic [ref=f194e481]:
+                        - text: Sarah Gray GAICD
+                        - strong [ref=f194e482]: mentioned your company in a comment
+                    - link [aria-hidden] [ref=f194e483]:
+                      - generic [ref=f194e484]: Honestly wouldn’t have a book without this epic Expert Author Community team - forever grateful 💙🫠
+                      - separator [ref=f194e486]
+                      - generic [ref=f194e490]:
+                        - text: It’s easy to churn out words. It’s harder to make them mean something. Harder still to make them trustworthy. Trust doesn’t come from putting “author” after your name. It is earned through ideas that stand up, writing that sounds like you, decisions made with care and people who are willing to challenge your thinking. For more than a decade, this has been the work of EAC. We’ve helped experts develop books that have strengthened their reputations and opened doors to publishing, speaking, consulting, partnerships and conversations that matter. And we’ve earned trust in the same way. Slowly. Through the quality of the books, the strength of the relationships and the community built around the work. Our Open House is a chance to meet the authors, alumni and coaches behind EAC and see what developing a trusted book looks like from the inside. If you know our work, add your voice below. What has EAC made possible for you?
+                        - link [ref=f194e491]:
+                          - /url: /in/melo-calarco/
+                          - text: Melo Calarco
+                        - link [ref=f194e492]:
+                          - /url: /in/emma-lagerlow-4a2849/
+                          - text: Emma Lagerlow
+                        - link [ref=f194e493]:
+                          - /url: /in/michellescheibner/
+                          - text: Michelle Scheibner
+                        - link [ref=f194e494]:
+                          - /url: /in/sarah-gray-gaicd/
+                          - text: Sarah Gray GAICD
+                        - link [ref=f194e495]:
+                          - /url: /in/taural/
+                          - text: Taural Rhoden
+                        - link [ref=f194e496]:
+                          - /url: /in/andrewwilliamsloan/
+                          - text: Andrew Sloan
+                        - link [ref=f194e497]:
+                          - /url: /in/karen-stein-coaching/
+                          - text: Karen Stein
+                        - link [ref=f194e498]:
+                          - /url: /in/jo-clancy/
+                          - text: Jo Clancy (GAICD, MBA)
+                        - link [ref=f194e499]:
+                          - /url: /in/penelopebarr/
+                          - text: Penelope Barr
+                        - link [ref=f194e500]:
+                          - /url: /in/graemecowan1/
+                          - text: Graeme Cowan
+                        - link [ref=f194e501]:
+                          - /url: /in/sophiebretag/
+                          - text: Sophie Bretag
+                        - link [ref=f194e502]:
+                          - /url: /in/kerryn-harvey-611b5671/
+                          - text: Kerryn Harvey
+                        - link [ref=f194e503]:
+                          - /url: /in/karendunshea/
+                          - text: Karen Dunshea
+                        - link [ref=f194e504]:
+                          - /url: /in/jennifer-mulveny-06313086/
+                          - text: Jennifer Mulveny
+                        - link [ref=f194e505]:
+                          - /url: /in/susan-paczkowski/
+                          - text: Susan Paczkowski
+                        - link [ref=f194e506]:
+                          - /url: /in/annahutchison/
+                          - text: Anna Hutchison
+                        - link [ref=f194e507]:
+                          - /url: /in/benitabensch/
+                          - text: Benita Bensch
+                        - link [ref=f194e508]:
+                          - /url: /in/clintrahe/
+                          - text: Clint Rahe
+                        - link [ref=f194e509]:
+                          - /url: /in/karentisdell/
+                          - text: Karen Tisdell
+                        - link [ref=f194e510]:
+                          - /url: /in/paul-watkins-92125499/
+                          - text: Paul Watkins
+                        - link [ref=f194e511]:
+                          - /url: /in/ajustin-clarke/
+                          - text: Justin Clarke (ICF PCC)
+                        - link [ref=f194e512]:
+                          - /url: /in/saoriordan/
+                          - text: Siobhán O'Riordan
+                    - link "Respond" [ref=f194e515]
+                  - paragraph [ref=f194e519]: 2d
+              - article "Notification" [ref=f194e521] [cursor=pointer]:
+                - generic [ref=f194e522]:
+                  - img "Cameron McGrane" [ref=f194e527]
+                  - generic [ref=f194e528]:
+                    - link [ref=f194e529]:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7508026882517463040?actorCompanyId=89798536
+                      - generic [ref=f194e530]:
+                        - text: Cameron McGrane
+                        - strong [ref=f194e531]: mentioned your company in an update
+                    - link [aria-hidden] [ref=f194e532]:
+                      - generic [ref=f194e534]:
+                        - text: I've really enjoyed the process preparing for the upcoming the
+                        - link [ref=f194e535]:
+                          - /url: https://www.linkedin.com/company/expert-author-community/
+                          - generic [ref=f194e536]: Expert Author Community
+                        - text: Open house alongside
+                        - link [ref=f194e537]:
+                          - /url: /in/kelly-irving/
+                          - text: Kelly Irving
+                        - text: . I believe it's a sign that this is going to be a goody.
+                      - separator [ref=f194e538]
+                      - generic [ref=f194e539]: EAC Open House | Write a book people trust
+                    - link "Comment" [ref=f194e544]
+                  - paragraph [ref=f194e548]: 2d
+              - article "Notification" [ref=f194e550] [cursor=pointer]:
+                - generic [ref=f194e551]:
+                  - generic [ref=f194e555]:
+                    - link [ref=f194e556]:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7507683888995966976?actorCompanyId=89798536
+                      - generic [ref=f194e557]:
+                        - text: The Community Collective
+                        - strong [ref=f194e558]: mentioned your company in an update
+                    - link [aria-hidden] [ref=f194e559]:
+                      - generic [ref=f194e567]:
+                        - text: Our hearts are so full. We officially surpassed our fundraising goal for our not-for-profit partner
+                        - link [ref=f194e568]:
+                          - /url: https://www.linkedin.com/company/foreverprojects/
+                          - generic [ref=f194e569]: Forever Projects
+                        - text: "! 🎉 🥹 During our 5th Birthday Party Australia Tour, we set out to raise $5,000 for Forever Projects, a member of our community. And thanks to your incredible generosity, we raised a total of $5,776! We support Forever Projects because 100% of every dollar goes directly to locally-led teams in Tanzania, helping women create sustainable income and providing nutrition for their babies. It’s community-led growth in its truest form 🧡 Thank you to everyone who donated. You’ve proven that the best communities give back ✨ Shout out to all our Birthday Tour Event Partners:"
+                        - link [ref=f194e570]:
+                          - /url: https://www.linkedin.com/company/notionhq/
+                          - generic [ref=f194e571]: Notion
+                        - text: ","
+                        - link [ref=f194e572]:
+                          - /url: https://www.linkedin.com/company/thenudgegroup/
+                          - generic [ref=f194e573]: The Nudge Group
+                        - text: ","
+                        - link [ref=f194e574]:
+                          - /url: https://www.linkedin.com/company/standard-ledger/
+                          - generic [ref=f194e575]: Standard Ledger
+                        - text: ","
+                        - link [ref=f194e576]:
+                          - /url: https://www.linkedin.com/company/foreverprojects/
+                          - generic [ref=f194e577]: Forever Projects
+                        - text: ", and Community Partners"
+                        - link [ref=f194e578]:
+                          - /url: https://www.linkedin.com/company/the-commons-cowork/
+                          - generic [ref=f194e579]: The Commons
+                        - link [ref=f194e580]:
+                          - /url: https://www.linkedin.com/company/stone-&-chalk/
+                          - generic [ref=f194e581]: Stone & Chalk
+                        - link [ref=f194e582]:
+                          - /url: https://www.linkedin.com/company/the-pillars-club-au/
+                          - generic [ref=f194e583]: The Pillars
+                        - link [ref=f194e584]:
+                          - /url: https://www.linkedin.com/company/the-precinct-bne/
+                          - generic [ref=f194e585]: The Precinct
+                        - link [ref=f194e586]:
+                          - /url: https://www.linkedin.com/company/happy-spaces-australia/
+                          - generic [ref=f194e587]: Happy Spaces
+                        - link [ref=f194e588]:
+                          - /url: https://www.linkedin.com/company/notionhq/
+                          - generic [ref=f194e589]: Notion
+                        - link [ref=f194e590]:
+                          - /url: https://www.linkedin.com/company/frontcover/
+                          - generic [ref=f194e591]: Frontcover
+                        - text: ","
+                        - link [ref=f194e592]:
+                          - /url: https://www.linkedin.com/company/stone-&-chalk/
+                          - generic [ref=f194e593]: Stone & Chalk
+                        - text: ", Energy Lab,"
+                        - link [ref=f194e594]:
+                          - /url: https://www.linkedin.com/company/heapsnormal/
+                          - generic [ref=f194e595]: Heaps Normal
+                        - text: ", Gentle Habits,"
+                        - link [ref=f194e596]:
+                          - /url: https://www.linkedin.com/company/happy-spaces-australia/
+                          - generic [ref=f194e597]: Happy Spaces
+                        - text: ","
+                        - link [ref=f194e598]:
+                          - /url: https://www.linkedin.com/company/liftwomengroup/
+                          - generic [ref=f194e599]: LIFTWOMEN® Group
+                        - text: ","
+                        - link [ref=f194e600]:
+                          - /url: https://www.linkedin.com/company/the-commons-cowork/
+                          - generic [ref=f194e601]: The Commons
+                        - text: ","
+                        - link [ref=f194e602]:
+                          - /url: https://www.linkedin.com/company/the-precinct-bne/
+                          - generic [ref=f194e603]: The Precinct
+                        - text: ","
+                        - link [ref=f194e604]:
+                          - /url: https://www.linkedin.com/company/sellanythingeducation/
+                          - generic [ref=f194e605]: Sell Anything
+                        - text: ","
+                        - link [ref=f194e606]:
+                          - /url: https://www.linkedin.com/company/what-the-health-media/
+                          - generic [ref=f194e607]: What The Health
+                        - text: ","
+                        - link [ref=f194e608]:
+                          - /url: https://www.linkedin.com/company/the-pillars-club-au/
+                          - generic [ref=f194e609]: The Pillars
+                        - text: ","
+                        - link [ref=f194e610]:
+                          - /url: https://www.linkedin.com/company/the-wade-institute/
+                          - generic [ref=f194e611]: Wade Institute of Entrepreneurship
+                        - text: ","
+                        - link [ref=f194e612]:
+                          - /url: https://www.linkedin.com/company/startmate/
+                          - generic [ref=f194e613]: Startmate
+                        - text: ","
+                        - link [ref=f194e614]:
+                          - /url: https://www.linkedin.com/company/alllalong/
+                          - generic [ref=f194e615]: All Along
+                        - text: ","
+                        - link [ref=f194e616]:
+                          - /url: https://www.linkedin.com/company/pledge-1-/
+                          - generic [ref=f194e617]: Pledge 1%
+                        - text: ","
+                        - link [ref=f194e618]:
+                          - /url: https://www.linkedin.com/company/cremornedigitalhub/
+                          - generic [ref=f194e619]: Cremorne Digital Hub
+                        - text: ", and"
+                        - link [ref=f194e620]:
+                          - /url: https://www.linkedin.com/company/expert-author-community/
+                          - generic [ref=f194e621]: Expert Author Community
+                        - text: . Special thanks to
+                        - link [ref=f194e622]:
+                          - /url: https://www.linkedin.com/company/standard-ledger/
+                          - generic [ref=f194e623]: Standard Ledger
+                        - text: "that contributed an extra amount per ticket sold! Make an extra donation here:"
+                        - link [ref=f194e624]:
+                          - /url: https://lnkd.in/gEwTeW9q
+                          - text: https://lnkd.in/gEwTeW9q
+                        - text: "Keen to master community-led growth? Submit a late application for Cohort #9:"
+                        - link [ref=f194e625]:
+                          - /url: https://lnkd.in/g534S2Ru
+                          - text: https://lnkd.in/g534S2Ru
+                    - link "Comment" [ref=f194e628]
+                  - paragraph [ref=f194e632]: 3d
+              - article "Notification" [ref=f194e634] [cursor=pointer]:
+                - generic [ref=f194e635]:
+                  - img "Sophie Bretag" [ref=f194e640]
+                  - generic [ref=f194e641]:
+                    - link [ref=f194e642]:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7505178931239481344?actorCompanyId=89798536
+                      - generic [ref=f194e643]:
+                        - text: Sophie Bretag
+                        - strong [ref=f194e644]: mentioned your company in an update
+                    - link [aria-hidden] [ref=f194e645]:
+                      - generic [ref=f194e653]:
+                        - text: I realised why I’ve taken nearly eight weeks to share this... It’s because I haven’t really had the right words for it until now. 🌻 My lovely Dad, ever the wordsmith, explained it beautifully to me the other day “...the vast room seemed to shrink because we were surrounded by so much warmth and love.” 📙 When I think back to launching my book, The Kind Way, at Dymocks Adelaide at the end of July, what comes back to me isn’t really the fact that we oversold tickets or that the room was overflowing with people. It’s how the room felt. 🧡 There were smiles, hugs and laughter and everywhere I looked was another human who has meant something to me along the way. My family is small, but having them all there meant the absolute world to me, alongside friends, clients, colleagues and beautiful humans who have come into my life through so many different ways. 🎤 My fabulous host (and friend!)
+                        - link [ref=f194e654]:
+                          - /url: /in/tamsinsimounds/
+                          - text: Tamsin Simounds
+                        - text: held the conversation with so much warmth and kindness that I could simply share the stories behind the work. My beautiful best friend
+                        - link [ref=f194e655]:
+                          - /url: /in/rebecca-keevers-6259242b/
+                          - text: Rebecca Keevers
+                        - text: stood up and spoke words I’ll treasure for a very long time, and then my 2 boys stood in front of everyone and talked about what it meant to them to have their mama as a published author. 🤩 I will never forget how proud I felt of them being so brave. 🩷 Even the little details that I organised were an extension of what my book is about, with 1000 Hearts and
+                        - link [ref=f194e656]:
+                          - /url: https://www.linkedin.com/company/jurlique/
+                          - generic [ref=f194e657]: Jurlique
+                        - text: (thank you
+                        - link [ref=f194e658]:
+                          - /url: /in/sarah-de-jonge-bb214a311/
+                          - text: Sarah De Jonge
+                        - text: and
+                        - link [ref=f194e659]:
+                          - /url: /in/cherie-hutchinson-36912039/
+                          - text: Cherie Hutchinson
+                        - text: ) generously partnering with me to create gifts for everyone who came, adding even more care and kindness to a room already full of it. 🙏 I wrote a book about kindness, about being human, about protecting our capacity and remembering that we matter too, and for one beautiful night I got to feel all of that reflected back at me through the people who showed up. 🙌 I’m incredibly proud of this book and everything it has gone on to do in the short 10 weeks it’s been published (hello 3 print runs and a billboard in Times Square...!), but when I think about my book journey, the numbers aren’t what I’ll remember. 🤗 I’ll remember the smiling faces, my best friend speaking, my boys standing there so bravely. The hugs, the laughter and the warmth that somehow filled every corner of that very big room. 💖 Mostly, I’ll remember what it felt like to be surrounded by people who genuinely wanted to be there, celebrating something that means so very much to me. I’ll never stop being grateful for that. 🥰 To everyone who came to my launch in Adelaide, thankyou! To those of you who sent your well wishes, thankyou! To everyone who has bought, referred or reviewed my book, thankyou! I know that this is just the beginning. Kindest Soph 🌈☀️ (SO many beautiful pics of beautiful humans - this gives you the vibe I hope of what the night created for us all).
+                        - link [ref=f194e660]:
+                          - /url: /in/kelly-irving/
+                          - text: Kelly Irving
+                        - link [ref=f194e661]:
+                          - /url: https://www.linkedin.com/company/expert-author-community/
+                          - generic [ref=f194e662]: Expert Author Community
+                        - link [ref=f194e663]:
+                          - /url: /in/thekindpress/
+                          - text: Natasha Gilmour
+                        - link [ref=f194e664]:
+                          - /url: /in/dymocks-adelaide-2161b224/
+                          - text: Dymocks Adelaide
+                    - link "Comment" [ref=f194e667]
+                  - paragraph [ref=f194e671]: 1w
+              - article "Notification" [ref=f194e673] [cursor=pointer]:
+                - generic [ref=f194e674]:
+                  - img "Michelle Scheibner" [ref=f194e679]
+                  - generic [ref=f194e680]:
+                    - link [ref=f194e681]:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7505434605450104832?actorCompanyId=89798536
+                      - generic [ref=f194e682]:
+                        - text: Michelle Scheibner
+                        - strong [ref=f194e683]: mentioned your company in an update
+                    - link [aria-hidden] [ref=f194e684]:
+                      - generic [ref=f194e694]:
+                        - text: Countdown to the launch of
+                        - link [ref=f194e695]:
+                          - /url: /in/fayeevans/
+                          - text: Faye Evans
+                        - text: "book Soulful Simplicity: A Neuro-Spiritual Path to Living with Intention. Seeing Faye holding her book and knowing she is just days away from it's release and launch reminds me of the hours, in fact years, that go into publishing a book of quality. One for you"
+                        - link [ref=f194e696]:
+                          - /url: /in/catherine-twiss-5226a97/
+                          - text: Catherine Twiss
+                        - text: and
+                        - link [ref=f194e697]:
+                          - /url: /in/nathalia-geritz-elsegood-723b2b228/
+                          - text: Nathalia Geritz (Elsegood)
+                        - text: . Lucky enough to be reading a copy right now and absolutely loving it - stay tuned for a review. Hope to see other
+                        - link [ref=f194e698]:
+                          - /url: https://www.linkedin.com/company/expert-author-community/
+                          - generic [ref=f194e699]: Expert Author Community
+                        - text: writers, and any one who is as fascinated as I am with the intersection of neuroscience, psychology and soulful practices, on Saturday September 19th, details in Faye's post below 🎈
+                    - link "Comment" [ref=f194e702]
+                  - paragraph [ref=f194e706]: 1w
+              - article "Notification" [ref=f194e708] [cursor=pointer]:
+                - generic [ref=f194e709]:
+                  - img "Danielle Duell" [ref=f194e714]
+                  - generic [ref=f194e715]:
+                    - link [ref=f194e716]:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7502587762580180992?dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287505167221879373824%2Curn%3Ali%3Aactivity%3A7502587762580180992%29&actorCompanyId=89798536
+                      - generic [ref=f194e717]:
+                        - text: Danielle Duell
+                        - strong [ref=f194e718]: mentioned your company in a comment
+                    - link [aria-hidden] [ref=f194e719]:
+                      - generic [ref=f194e720]: Expert Author Community - Thank you. ⭐ I've learned so much and met so many amazing humans+authors since being part of this community. It's had a big influence on how I've approached the whole book.
+                      - separator [ref=f194e722]
+                      - generic [ref=f194e730]:
+                        - text: "It’s official: I just signed with"
+                        - link [ref=f194e731]:
+                          - /url: https://www.linkedin.com/company/grammarfactory/
+                          - generic [ref=f194e732]: Grammar Factory
+                        - text: "to publish my book! This year, I'm writing the guide leaders have been asking for: how to put purpose into practice, not leave it as words on a wall. Choosing a publisher was a decision I didn't take lightly and I was fortunate to have a choice. That's not something every author gets and I didn't want to waste it. I kept coming back to the question: who could help us get this book into the hands of leaders globally, while staying true to our purpose 'to equip business to improve the world,' and creating a sustainable path for our business? Grammar Factory was the answer. I first connected through"
+                        - link [ref=f194e733]:
+                          - /url: /in/kelly-irving/
+                          - text: Kelly Irving
+                        - text: "'s"
+                        - link [ref=f194e734]:
+                          - /url: https://www.linkedin.com/company/expert-author-community/
+                          - generic [ref=f194e735]: Expert Author Community
+                        - text: ", and from my first conversation with"
+                        - link [ref=f194e736]:
+                          - /url: /in/scottmacmillan/
+                          - text: Scott A. MacMillan
+                        - text: ", I had a strong sense we’d found the right partner. Scott patiently answered a lot of questions and gave me the confidence that the ideas I’ve been carrying for years were in good hands. My team and I at"
+                        - link [ref=f194e737]:
+                          - /url: https://www.linkedin.com/company/people-with-purpose-/
+                          - generic [ref=f194e738]: People With Purpose*
+                        - text: are incredibly excited to be working with the Grammar Factory team to bring the book to life, and ultimately to help leaders close the gap between purpose intent and purpose in practice. More to come soon.
+                        - link [ref=f194e739]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23purposeinpractice&origin=HASH_TAG_FROM_FEED
+                          - generic [ref=f194e740]: hashtag
+                          - generic [ref=f194e741]: "#purposeinpractice"
+                        - link [ref=f194e742]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23purposeledbusiness&origin=HASH_TAG_FROM_FEED
+                          - generic [ref=f194e743]: hashtag
+                          - generic [ref=f194e744]: "#purposeledbusiness"
+                        - link [ref=f194e745]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23purposefulleadership&origin=HASH_TAG_FROM_FEED
+                          - generic [ref=f194e746]: hashtag
+                          - generic [ref=f194e747]: "#purposefulleadership"
+                        - link [ref=f194e748]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23author&origin=HASH_TAG_FROM_FEED
+                          - generic [ref=f194e749]: hashtag
+                          - generic [ref=f194e750]: "#author"
+                        - link [ref=f194e751]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23book&origin=HASH_TAG_FROM_FEED
+                          - generic [ref=f194e752]: hashtag
+                          - generic [ref=f194e753]: "#book"
+                    - generic [ref=f194e754]:
+                      - generic [ref=f194e755]: 103 reactions
+                      - generic [ref=f194e756]: • 28 comments
+                    - link "Respond" [ref=f194e759]
+                  - paragraph [ref=f194e763]: 1w
+              - article "Notification" [ref=f194e765] [cursor=pointer]:
+                - generic [ref=f194e766]:
+                  - img "Danielle Duell" [ref=f194e771]
+                  - generic [ref=f194e772]:
+                    - link [ref=f194e773]:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7502587762580180992?dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287505166640955674624%2Curn%3Ali%3Aactivity%3A7502587762580180992%29&actorCompanyId=89798536
+                      - generic [ref=f194e774]:
+                        - text: Danielle Duell
+                        - strong [ref=f194e775]: mentioned your company in a comment
+                    - link [aria-hidden] [ref=f194e776]:
+                      - generic [ref=f194e777]: This all started in your community, Kelly Irving, so a lot of the thanks belongs with you. ⭐ Grateful for everything the Expert Author Community set in motion. 🙏
+                      - separator [ref=f194e779]
+                      - generic [ref=f194e787]:
+                        - text: "It’s official: I just signed with"
+                        - link [ref=f194e788]:
+                          - /url: https://www.linkedin.com/company/grammarfactory/
+                          - generic [ref=f194e789]: Grammar Factory
+                        - text: "to publish my book! This year, I'm writing the guide leaders have been asking for: how to put purpose into practice, not leave it as words on a wall. Choosing a publisher was a decision I didn't take lightly and I was fortunate to have a choice. That's not something every author gets and I didn't want to waste it. I kept coming back to the question: who could help us get this book into the hands of leaders globally, while staying true to our purpose 'to equip business to improve the world,' and creating a sustainable path for our business? Grammar Factory was the answer. I first connected through"
+                        - link [ref=f194e790]:
+                          - /url: /in/kelly-irving/
+                          - text: Kelly Irving
+                        - text: "'s"
+                        - link [ref=f194e791]:
+                          - /url: https://www.linkedin.com/company/expert-author-community/
+                          - generic [ref=f194e792]: Expert Author Community
+                        - text: ", and from my first conversation with"
+                        - link [ref=f194e793]:
+                          - /url: /in/scottmacmillan/
+                          - text: Scott A. MacMillan
+                        - text: ", I had a strong sense we’d found the right partner. Scott patiently answered a lot of questions and gave me the confidence that the ideas I’ve been carrying for years were in good hands. My team and I at"
+                        - link [ref=f194e794]:
+                          - /url: https://www.linkedin.com/company/people-with-purpose-/
+                          - generic [ref=f194e795]: People With Purpose*
+                        - text: are incredibly excited to be working with the Grammar Factory team to bring the book to life, and ultimately to help leaders close the gap between purpose intent and purpose in practice. More to come soon.
+                        - link [ref=f194e796]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23purposeinpractice&origin=HASH_TAG_FROM_FEED
+                          - generic [ref=f194e797]: hashtag
+                          - generic [ref=f194e798]: "#purposeinpractice"
+                        - link [ref=f194e799]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23purposeledbusiness&origin=HASH_TAG_FROM_FEED
+                          - generic [ref=f194e800]: hashtag
+                          - generic [ref=f194e801]: "#purposeledbusiness"
+                        - link [ref=f194e802]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23purposefulleadership&origin=HASH_TAG_FROM_FEED
+                          - generic [ref=f194e803]: hashtag
+                          - generic [ref=f194e804]: "#purposefulleadership"
+                        - link [ref=f194e805]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23author&origin=HASH_TAG_FROM_FEED
+                          - generic [ref=f194e806]: hashtag
+                          - generic [ref=f194e807]: "#author"
+                        - link [ref=f194e808]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23book&origin=HASH_TAG_FROM_FEED
+                          - generic [ref=f194e809]: hashtag
+                          - generic [ref=f194e810]: "#book"
+                    - generic [ref=f194e811]:
+                      - generic [ref=f194e812]: 103 reactions
+                      - generic [ref=f194e813]: • 28 comments
+                    - link "Respond" [ref=f194e816]
+                  - paragraph [ref=f194e820]: 1w
+              - article "Notification" [ref=f194e822] [cursor=pointer]:
+                - generic [ref=f194e823]:
+                  - img "Chloe Cooper" [ref=f194e828]
+                  - generic [ref=f194e829]:
+                    - link [ref=f194e830]:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7504094990160019456?dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287504125752787988480%2Curn%3Ali%3AugcPost%3A7504094989165953025%29&actorCompanyId=89798536
+                      - generic [ref=f194e831]:
+                        - text: Chloe Cooper
+                        - strong [ref=f194e832]: mentioned your company in a comment
+                    - link [aria-hidden] [ref=f194e833]:
+                      - generic [ref=f194e834]: Almost there Expert Author Community Kelly Irving, in no small part due to Siobhán O'Riordan's fab feedback.
+                      - separator [ref=f194e836]
+                      - generic [ref=f194e846]:
+                        - text: The moment when it all comes together ❤️😀 Congratulations to our newest upcoming RAC author
+                        - link [ref=f194e847]:
+                          - /url: /in/chloe-temple/
+                          - text: Chloe Cooper
+                    - link "Respond" [ref=f194e850]
+                  - paragraph [ref=f194e854]: 1w
+              - article "Notification" [ref=f194e856] [cursor=pointer]:
+                - generic [ref=f194e857]:
+                  - img "Chloe Cooper" [ref=f194e862]
+                  - generic [ref=f194e863]:
+                    - link [ref=f194e864]:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7503844246076981248?actorCompanyId=89798536
+                      - generic [ref=f194e865]:
+                        - text: Chloe Cooper
+                        - strong [ref=f194e866]: mentioned your company in an update
+                    - link [aria-hidden] [ref=f194e867]:
+                      - generic [ref=f194e877]:
+                        - text: Not going to lie, I lost hope this day would ever happen. In 2021, I announced here on LI that I was writing a book. 5 years have gone by, and every "how's the book going?" since has landed like a small personal failure. I was stuck in a shame spiral... ...because I just couldn’t do it. I literally, no matter how hard I tried, could not get this damn thing over the line. Despite surrounding myself with amazing communities like
+                        - link [ref=f194e878]:
+                          - /url: /in/kelly-irving/
+                          - text: Kelly Irving
+                        - link [ref=f194e879]:
+                          - /url: https://www.linkedin.com/company/expert-author-community/
+                          - generic [ref=f194e880]: Expert Author Community
+                        - text: and befriending countless authors. Big shout-out to my podmates
+                        - link [ref=f194e881]:
+                          - /url: /in/saoriordan/
+                          - text: Siobhán O'Riordan
+                        - link [ref=f194e882]:
+                          - /url: /in/tyannosborn/
+                          - text: TyAnn Osborn
+                        - link [ref=f194e883]:
+                          - /url: /in/moniquezytnik/
+                          - text: Monique Zytnik
+                        - link [ref=f194e884]:
+                          - /url: /in/jennifervancil/
+                          - text: Jennifer Doyle Vancil, M.Ed., PCC
+                        - text: I sat back watching others lead the way, heart aching that for whatever reason, I couldn’t get myself to do the same.
+                        - link [ref=f194e885]:
+                          - /url: /in/theryanhopkins/
+                          - text: Ryan Hopkins
+                        - text: "- remember sharing with you blooming years back and I think you're now on round 2. Well, it’s finally happening. I’m doing this a bit backwards, because whilst you can see the printed version here, it’s still a WIP. But here’s the thing: for the next 12 weeks, I’m going to take you behind the scenes of getting this into the world. It's called The Fulfilment Habit. It’ll be out in December. And for the next twelve weeks, I'm going to show the whole shabangle. Every bit it takes to self-publish a book INCLUDING the money bits, the costs involved and the big fat hairy £80k goal I’m aiming for. And so, if you are one of the hundreds of people who've asked me about the book at any point in the last five years: thank you for your patience, and sorry it’s taken so long, but here it is. P.S. I’ve recorded myself reading the first two parts. It’s totally free to listen to; just check out the comments on the link."
+                    - link "Comment" [ref=f194e888]
+                  - paragraph [ref=f194e892]: 1w
+              - article "Notification" [ref=f194e894] [cursor=pointer]:
+                - generic [ref=f194e895]:
+                  - img "Fay Calderone" [ref=f194e900]
+                  - generic [ref=f194e901]:
+                    - link [ref=f194e902]:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7503032888679014400?dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287503037996544339968%2Curn%3Ali%3AugcPost%3A7503032887777239040%29&actorCompanyId=89798536
+                      - generic [ref=f194e903]:
+                        - text: Fay Calderone
+                        - strong [ref=f194e904]: mentioned your company in a comment
+                    - link [aria-hidden] [ref=f194e905]:
+                      - generic [ref=f194e906]: "Thanks so much for sharing Expert Author Community and for the clarity, courage and conviction you helped me find when #RiseUp was just a big hairy audacious goal! 💫"
+                      - separator [ref=f194e908]
+                      - generic [ref=f194e918]:
+                        - text: A launch moment Fay won’t forget. At the RiseUp launch, Kate Eastman AM SC's keynote hit exactly where the book' work meets the room - and
+                        - link [ref=f194e919]:
+                          - /url: /in/faycalderone/
+                          - text: Fay Calderone
+                        - text: called it a career highlight.
+                    - link "Respond" [ref=f194e922]
+                  - paragraph [ref=f194e926]: 2w
+              - article "Notification" [ref=f194e928] [cursor=pointer]:
+                - generic [ref=f194e929]:
+                  - img "Danielle Duell" [ref=f194e934]
+                  - generic [ref=f194e935]:
+                    - link [ref=f194e936]:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7502587762580180992?actorCompanyId=89798536
+                      - generic [ref=f194e937]:
+                        - text: Danielle Duell
+                        - strong [ref=f194e938]: mentioned your company in an update
+                    - link [aria-hidden] [ref=f194e939]:
+                      - generic [ref=f194e947]:
+                        - text: "It’s official: I just signed with"
+                        - link [ref=f194e948]:
+                          - /url: https://www.linkedin.com/company/grammarfactory/
+                          - generic [ref=f194e949]: Grammar Factory
+                        - text: "to publish my book! This year, I'm writing the guide leaders have been asking for: how to put purpose into practice, not leave it as words on a wall. Choosing a publisher was a decision I didn't take lightly and I was fortunate to have a choice. That's not something every author gets and I didn't want to waste it. I kept coming back to the question: who could help us get this book into the hands of leaders globally, while staying true to our purpose 'to equip business to improve the world,' and creating a sustainable path for our business? Grammar Factory was the answer. I first connected through"
+                        - link [ref=f194e950]:
+                          - /url: /in/kelly-irving/
+                          - text: Kelly Irving
+                        - text: "'s"
+                        - link [ref=f194e951]:
+                          - /url: https://www.linkedin.com/company/expert-author-community/
+                          - generic [ref=f194e952]: Expert Author Community
+                        - text: ", and from my first conversation with"
+                        - link [ref=f194e953]:
+                          - /url: /in/scottmacmillan/
+                          - text: Scott A. MacMillan
+                        - text: ", I had a strong sense we’d found the right partner. Scott patiently answered a lot of questions and gave me the confidence that the ideas I’ve been carrying for years were in good hands. My team and I at"
+                        - link [ref=f194e954]:
+                          - /url: https://www.linkedin.com/company/people-with-purpose-/
+                          - generic [ref=f194e955]: People With Purpose*
+                        - text: are incredibly excited to be working with the Grammar Factory team to bring the book to life, and ultimately to help leaders close the gap between purpose intent and purpose in practice. More to come soon.
+                        - link [ref=f194e956]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23purposeinpractice&origin=HASH_TAG_FROM_FEED
+                          - generic [ref=f194e957]: hashtag
+                          - generic [ref=f194e958]: "#purposeinpractice"
+                        - link [ref=f194e959]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23purposeledbusiness&origin=HASH_TAG_FROM_FEED
+                          - generic [ref=f194e960]: hashtag
+                          - generic [ref=f194e961]: "#purposeledbusiness"
+                        - link [ref=f194e962]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23purposefulleadership&origin=HASH_TAG_FROM_FEED
+                          - generic [ref=f194e963]: hashtag
+                          - generic [ref=f194e964]: "#purposefulleadership"
+                        - link [ref=f194e965]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23author&origin=HASH_TAG_FROM_FEED
+                          - generic [ref=f194e966]: hashtag
+                          - generic [ref=f194e967]: "#author"
+                        - link [ref=f194e968]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23book&origin=HASH_TAG_FROM_FEED
+                          - generic [ref=f194e969]: hashtag
+                          - generic [ref=f194e970]: "#book"
+                    - generic [ref=f194e971]:
+                      - generic [ref=f194e972]: 103 reactions
+                      - generic [ref=f194e973]: • 28 comments
+                    - link "Comment" [ref=f194e976]
+                  - paragraph [ref=f194e980]: 2w
+              - article "Notification" [ref=f194e982] [cursor=pointer]:
+                - generic [ref=f194e983]:
+                  - img "Kerryn Harvey" [ref=f194e988]
+                  - generic [ref=f194e989]:
+                    - link [ref=f194e990]:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7499347143178993665?actorCompanyId=89798536
+                      - generic [ref=f194e991]:
+                        - text: Kerryn Harvey
+                        - strong [ref=f194e992]: mentioned your company in an update
+                    - link [aria-hidden] [ref=f194e993]:
+                      - generic [ref=f194e1001]:
+                        - text: A perfect Saturday morning for the inaugural Mostly Ups Pop Up Book Stall. A great opportunity to chat to some locals, & sell & sign some books. Many thanks to my Nine Lives Training clients for being my support crew & Blakes Feast for allowing us to set up at their cafe. I will do it again on a sunny day somewhere soon!
+                        - link [ref=f194e1002]:
+                          - /url: https://www.linkedin.com/company/hembury-books/
+                          - generic [ref=f194e1003]: Hembury Books
+                        - link [ref=f194e1004]:
+                          - /url: https://www.linkedin.com/company/expert-author-community/
+                          - generic [ref=f194e1005]: Expert Author Community
+                        - link [ref=f194e1006]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23mostlyups&origin=HASH_TAG_FROM_FEED
+                          - generic [ref=f194e1007]: hashtag
+                          - generic [ref=f194e1008]: "#mostlyups"
+                        - link [ref=f194e1009]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23author&origin=HASH_TAG_FROM_FEED
+                          - generic [ref=f194e1010]: hashtag
+                          - generic [ref=f194e1011]: "#author"
+                        - link [ref=f194e1012]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23amputee&origin=HASH_TAG_FROM_FEED
+                          - generic [ref=f194e1013]: hashtag
+                          - generic [ref=f194e1014]: "#amputee"
+                        - link [ref=f194e1015]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23nevergiveup&origin=HASH_TAG_FROM_FEED
+                          - generic [ref=f194e1016]: hashtag
+                          - generic [ref=f194e1017]: "#nevergiveup"
+                    - link "Comment" [ref=f194e1020]
+                  - paragraph [ref=f194e1024]: 3w
+              - article "Notification" [ref=f194e1026] [cursor=pointer]:
+                - generic [ref=f194e1027]:
+                  - img "Bee Lim, Ph.D." [ref=f194e1032]
+                  - generic [ref=f194e1033]:
+                    - link [ref=f194e1034]:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7498535746853691392?actorCompanyId=89798536
+                      - generic [ref=f194e1035]:
+                        - text: Bee Lim, Ph.D.
+                        - strong [ref=f194e1036]: mentioned your company in an update
+                    - link [aria-hidden] [ref=f194e1037]:
+                      - generic [ref=f194e1045]:
+                        - text: Bringing an unconventional book idea to life takes a village. Thank you
+                        - link [ref=f194e1046]:
+                          - /url: /in/anna-featherstone-writer/
+                          - text: Anna Featherstone
+                        - text: for a conversation that made room for the unglamorous parts;
+                        - link [ref=f194e1047]:
+                          - /url: /in/kelly-irving/
+                          - text: Kelly Irving
+                        - text: and the
+                        - link [ref=f194e1048]:
+                          - /url: https://www.linkedin.com/company/expert-author-community/
+                          - generic [ref=f194e1049]: Expert Author Community
+                        - text: where Welcome Home was still just a concept being pitched across a room;
+                        - link [ref=f194e1050]:
+                          - /url: https://www.linkedin.com/company/yinfluenceeditorial/
+                          - generic [ref=f194e1051]: yinfluence editorial
+                        - text: for getting Welcome Home in front of its people, and Professor
+                        - link [ref=f194e1052]:
+                          - /url: /in/helen-hsu-psy-d-%E5%BE%90%E8%8F%AF-a329494/
+                          - text: Helen Hsu, Psy.D. 徐華
+                        - text: who said yes to an email I almost didn’t send.
+                    - generic [ref=f194e1053]:
+                      - generic [ref=f194e1054]: 15 reactions
+                      - generic [ref=f194e1055]: • 3 comments
+                    - link "Comment" [ref=f194e1058]
+                  - paragraph [ref=f194e1062]: 4w
+              - article "Notification" [ref=f194e1064] [cursor=pointer]:
+                - generic [ref=f194e1065]:
+                  - img "Anna Featherstone" [ref=f194e1070]
+                  - generic [ref=f194e1071]:
+                    - link [ref=f194e1072]:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7498464070837104641?actorCompanyId=89798536
+                      - generic [ref=f194e1073]:
+                        - text: Anna Featherstone
+                        - strong [ref=f194e1074]: mentioned your company in an update
+                    - link [aria-hidden] [ref=f194e1075]:
+                      - generic [ref=f194e1083]:
+                        - text: Some books can't be squeezed onto a standard publishing shelf. Especially when they're a mix of magical realism, mind and art. So what do you do when you have a very specific vision and handing over creative control doesn't feel right? Clinical psychologist
+                        - link [ref=f194e1084]:
+                          - /url: /in/drbeelim/
+                          - text: Bee Lim, Ph.D.
+                        - text: answered that question with custom publishing, and she shares her reasoning in my latest conversation for the Self-Publishing with
+                        - link [ref=f194e1085]:
+                          - /url: https://www.linkedin.com/company/the-alliance-of-independent-authors/
+                          - generic [ref=f194e1086]: Alliance of Independent Authors (ALLi)
+                        - text: "Podcast (link in comments). Her book, 'Welcome Home: Healing Trauma & Reclaiming Wholeness', is an illustrated narrative non-fiction hardcover, a reflective story rather than a self-help manual, born from noticing her clients connected with mental health concepts better through narrative and metaphor than clinical explanation. Amongst other things we talk about: → Custom publishing: keeping IP and creative control while relying on an established publisher's production and distribution experience → Endorsements: the email Bee almost didn't send to an Ivy League professor, and the connection it sparked → Writing and marketing as a regulated health professional: unsolicited reviews only, client confidentiality first, and positioning the book as a resource, never a treatment → Translation rights: Chinese rights being pitched currently, another area where indie authors have agency I first met Bee at"
+                        - link [ref=f194e1087]:
+                          - /url: /in/kelly-irving/
+                          - text: Kelly Irving
+                        - text: "'s"
+                        - link [ref=f194e1088]:
+                          - /url: https://www.linkedin.com/company/expert-author-community/
+                          - generic [ref=f194e1089]: Expert Author Community
+                        - text: on the fabulous pitch day, where authors pitch their concepts to publishers and industry professionals. Watching Bee take that concept all the way to a beautifully produced book has been a privilege. It's great timing too because if you're a health and medical professional, I'm co-hosting a live workshop with healthcare thought leadership strategist
+                        - link [ref=f194e1090]:
+                          - /url: /in/meganwalkerthoughtleadership/
+                          - text: Megan Walker
+                        - text: on Friday 11 September, ‘How to Write and Publish a HealthCare Book’. If that's of interest, see you there. Links in the comments.
+                    - generic [ref=f194e1091]:
+                      - generic [ref=f194e1092]: 18 reactions
+                      - generic [ref=f194e1093]: • 1 comment
+                    - link "Comment" [ref=f194e1096]
+                  - paragraph [ref=f194e1100]: 4w
+              - article "Notification" [ref=f194e1102] [cursor=pointer]:
+                - generic [ref=f194e1103]:
+                  - img "Kerryn Harvey" [ref=f194e1108]
+                  - generic [ref=f194e1109]:
+                    - link [ref=f194e1110]:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7497223132227907584?actorCompanyId=89798536
+                      - generic [ref=f194e1111]:
+                        - text: Kerryn Harvey
+                        - strong [ref=f194e1112]: mentioned your company in an update
+                    - link [aria-hidden] [ref=f194e1113]:
+                      - generic [ref=f194e1121]:
+                        - text: Mostly Ups Book Launch No 2 📚 What a buzz meeting some Adelaide locals & catching up with staff from Royal Adelaide Hospital at my Adelaide book launch. Thank you to Laura, Nina & Ellie at Mostly Books for hosting. Super special to have my surgeon Marcus Wagstaff in attendance. So grateful for the incredible support. Adelaide will always hold a special place in my heart ❤️
+                        - link [ref=f194e1122]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23mostlyups&origin=HASH_TAG_FROM_FEED
+                          - generic [ref=f194e1123]: hashtag
+                          - generic [ref=f194e1124]: "#mostlyups"
+                        - link [ref=f194e1125]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23author&origin=HASH_TAG_FROM_FEED
+                          - generic [ref=f194e1126]: hashtag
+                          - generic [ref=f194e1127]: "#author"
+                        - link [ref=f194e1128]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23amputee&origin=HASH_TAG_FROM_FEED
+                          - generic [ref=f194e1129]: hashtag
+                          - generic [ref=f194e1130]: "#amputee"
+                        - link [ref=f194e1131]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23nevergiveup&origin=HASH_TAG_FROM_FEED
+                          - generic [ref=f194e1132]: hashtag
+                          - generic [ref=f194e1133]: "#nevergiveup"
+                        - link [ref=f194e1134]:
+                          - /url: https://www.linkedin.com/company/hembury-books/
+                          - generic [ref=f194e1135]: Hembury Books
+                        - link [ref=f194e1136]:
+                          - /url: https://www.linkedin.com/company/expert-author-community/
+                          - generic [ref=f194e1137]: Expert Author Community
+                    - link "Comment" [ref=f194e1140]
+                  - paragraph [ref=f194e1144]: 1mo
+              - article "Notification" [ref=f194e1146] [cursor=pointer]:
+                - generic [ref=f194e1147]:
+                  - img "Jennifer Doyle Vancil, M.Ed., PCC" [ref=f194e1152]
+                  - generic [ref=f194e1153]:
+                    - link [ref=f194e1154]:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7496557290997723136?actorCompanyId=89798536
+                      - generic [ref=f194e1155]:
+                        - text: Jennifer Doyle Vancil, M.Ed., PCC
+                        - strong [ref=f194e1156]: mentioned your company in an update
+                    - link [aria-hidden] [ref=f194e1157]:
+                      - generic [ref=f194e1165]:
+                        - text: I'd love to recommend my friend
+                        - link [ref=f194e1166]:
+                          - /url: /in/saoriordan/
+                          - text: Siobhán O'Riordan
+                        - text: "'s book \"Reframe\" for anyone who identifies as a \"generalist\" rather than a specialist. Fans of our \"strengths-based career\" philosophy will find Siobhan's book challenging you to get clear on your strengths and learn to communicate them as part of the way you can find your next opportunities. Even if you aren't a specialist \"accountant\" or \"marketing director\" or some other specific title. Many of the career explorers I work with might identify as generalists and I'm so excited to have Siobhan's book to support our work. I had the honor of partnering with Siobhan in a writing group when we were both in the"
+                        - link [ref=f194e1167]:
+                          - /url: https://www.linkedin.com/company/expert-author-community/
+                          - generic [ref=f194e1168]: Expert Author Community
+                        - text: so I've watched this book develop and now that it's out, I've now sent her book to my clients and I've read it myself and I can say wholeheartedly, it's worth our time.
+                    - link "Comment" [ref=f194e1171]
+                  - paragraph [ref=f194e1175]: 1mo
+              - article "Notification" [ref=f194e1177] [cursor=pointer]:
+                - generic [ref=f194e1178]:
+                  - img "Paz Pisarski 🏵" [ref=f194e1183]
+                  - generic [ref=f194e1184]:
+                    - link [ref=f194e1185]:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7496010520722931713?dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287496012293755817984%2Curn%3Ali%3AugcPost%3A7496010517015179264%29&actorCompanyId=89798536
+                      - generic [ref=f194e1186]:
+                        - text: Paz Pisarski 🏵
+                        - strong [ref=f194e1187]: mentioned your company in a comment
+                    - link [aria-hidden] [ref=f194e1188]:
+                      - generic [ref=f194e1189]: We're so grateful for the support of our incredible community partners helping to bring this event to life! LIFTWOMEN® Group , One Roof, Startmate, Frontcover, Expert Author Community, Sell Anything, What The Health, EnergyLab , Pledge 1%, Heaps Normal, Gentle Habits , Cremorne Digital Hub, All Along , Wade Institute of Entrepreneurship, URBNSURF, SAARI Collective.
+                      - separator [ref=f194e1191]
+                      - generic [ref=f194e1199]:
+                        - text: Wow Adelaide! Together we've now raised $3.7k for charity during our Australia Tour to celebrate
+                        - link [ref=f194e1200]:
+                          - /url: https://www.linkedin.com/company/the-community-collective/
+                          - generic [ref=f194e1201]: The Community Collective
+                        - text: "'s 5th Birthday 🎉 Last night we... Raised over $1000 in 3 hours. Supporting families in Tanzania to break out of poverty with"
+                        - link [ref=f194e1202]:
+                          - /url: https://www.linkedin.com/company/foreverprojects/
+                          - generic [ref=f194e1203]: Forever Projects
+                        - text: "🧡 That's the power of community. Thank you to all involved: 🤝 Partners:"
+                        - link [ref=f194e1204]:
+                          - /url: https://www.linkedin.com/company/notionhq/
+                          - generic [ref=f194e1205]: Notion
+                        - text: x
+                        - link [ref=f194e1206]:
+                          - /url: https://www.linkedin.com/company/thenudgegroup/
+                          - generic [ref=f194e1207]: The Nudge Group
+                        - text: x
+                        - link [ref=f194e1208]:
+                          - /url: https://www.linkedin.com/company/foreverprojects/
+                          - generic [ref=f194e1209]: Forever Projects
+                        - text: x
+                        - link [ref=f194e1210]:
+                          - /url: https://www.linkedin.com/company/standard-ledger/
+                          - generic [ref=f194e1211]: Standard Ledger
+                        - text: "🏡 Venue:"
+                        - link [ref=f194e1212]:
+                          - /url: https://www.linkedin.com/company/stone-&-chalk/
+                          - generic [ref=f194e1213]: Stone & Chalk
+                        - text: "🎤 Featured Guests: 🏵"
+                        - link [ref=f194e1214]:
+                          - /url: /in/remcomarcelis/
+                          - text: Remco Marcelis
+                        - text: ", Co-Founder @"
+                        - link [ref=f194e1215]:
+                          - /url: https://www.linkedin.com/company/standard-ledger/
+                          - generic [ref=f194e1216]: Standard Ledger
+                        - text: 🏵
+                        - link [ref=f194e1217]:
+                          - /url: /in/kirstystark/
+                          - text: Kirsty Stark
+                        - text: ", Founder @"
+                        - link [ref=f194e1218]:
+                          - /url: https://www.linkedin.com/company/crewhq-au/
+                          - generic [ref=f194e1219]: CrewHQ
+                        - text: 🏵
+                        - link [ref=f194e1220]:
+                          - /url: /in/thenewmobility/
+                          - text: Chris Hoffmann
+                        - text: ", Co-Founder & Chief Customer Officer @"
+                        - link [ref=f194e1221]:
+                          - /url: https://www.linkedin.com/company/startwithhex/
+                          - generic [ref=f194e1222]: HEX
+                        - text: 🏵
+                        - link [ref=f194e1223]:
+                          - /url: /in/seangrealy/
+                          - text: Sean Grealy
+                        - text: ", Co-Founder @"
+                        - link [ref=f194e1224]:
+                          - /url: https://www.linkedin.com/company/sellanythingeducation/
+                          - generic [ref=f194e1225]: Sell Anything
+                        - text: "👋 Hosts: 🏵"
+                        - link [ref=f194e1226]:
+                          - /url: /in/jad-kais/
+                          - text: Jad Kais
+                        - text: ", Event Coordinator @"
+                        - link [ref=f194e1227]:
+                          - /url: https://www.linkedin.com/company/stone-&-chalk/
+                          - generic [ref=f194e1228]: Stone & Chalk
+                        - text: 🏵
+                        - link [ref=f194e1229]:
+                          - /url: /in/sanchi-dora-46a30516b/
+                          - text: Sanchi Dora
+                        - text: ", Co-Founder @ Flaura AI 🏵"
+                        - link [ref=f194e1230]:
+                          - /url: /in/louisa-para-tag/
+                          - text: Louisa Para
+                        - text: ", Co-Founder @"
+                        - link [ref=f194e1231]:
+                          - /url: https://www.linkedin.com/company/some-ai/
+                          - generic [ref=f194e1232]: SoMe
+                        - text: "🎨 Live Painting: Matt Shaw @ Basement Gallery 📸 Photographer: Alayna Photography 🧡 Events Team:"
+                        - link [ref=f194e1233]:
+                          - /url: /in/matthew-pisarski/
+                          - text: Matthew
+                        - text: x
+                        - link [ref=f194e1234]:
+                          - /url: /in/ines-schuber/
+                          - text: Ines
+                        - text: x
+                        - link [ref=f194e1235]:
+                          - /url: /in/parkhi-sachdeva/
+                          - text: Parkhi
+                        - text: x
+                        - link [ref=f194e1236]:
+                          - /url: /in/nikita-lamba/
+                          - text: Nikita
+                        - text: x
+                        - link [ref=f194e1237]:
+                          - /url: /in/desmond-john/
+                          - text: Desmond
+                        - text: "And secret Tarot Reader 🔮 What was your highlight last night?! Join our last 2 stops in Torquay (my home town!) and Brisbane:"
+                        - link [ref=f194e1238]:
+                          - /url: https://lnkd.in/gFZ96Jev
+                          - text: https://lnkd.in/gFZ96Jev
+                        - text: ~ Hey I'm Paz 👋 Curious to master community-led growth? Explore our 8-week Community Cohort program featuring
+                        - link [ref=f194e1239]:
+                          - /url: /in/priyaparker/
+                          - text: Priya Parker
+                        - text: "& Speakers from"
+                        - link [ref=f194e1240]:
+                          - /url: https://www.linkedin.com/company/stripe/
+                          - generic [ref=f194e1241]: Stripe
+                        - text: ","
+                        - link [ref=f194e1242]:
+                          - /url: https://www.linkedin.com/company/amazon-web-services/
+                          - generic [ref=f194e1243]: Amazon Web Services (AWS)
+                        - text: "&"
+                        - link [ref=f194e1244]:
+                          - /url: https://www.linkedin.com/company/hubspot/
+                          - generic [ref=f194e1245]: HubSpot
+                        - text: before 31 August
+                        - link [ref=f194e1246]:
+                          - /url: https://lnkd.in/gyZ_fn_U
+                          - text: https://lnkd.in/gyZ_fn_U
+                        - text: Let's keep building this orange community-led movement 🏵
+                    - link "Respond" [ref=f194e1249]
+                  - paragraph [ref=f194e1253]: 1mo
+            - button "Show more results" [ref=f194e1256] [cursor=pointer]
+        - complementary "Admin notifications aside section" [ref=f194e1258]:
+          - generic [ref=f194e1259]:
+            - generic [ref=f194e1260]:
+              - heading "Post highlights" [level=2] [ref=f194e1261]
+              - button "Post highlights information" [ref=f194e1263] [cursor=pointer]
+            - heading "In the last 30 days" [level=2] [ref=f194e1266]
+            - generic [ref=f194e1267]:
+              - heading "Most comments" [level=3] [ref=f194e1269]
+              - generic [ref=f194e1270]:
+                - generic [ref=f194e1271]:
+                  - link [ref=f194e1272] [cursor=pointer]:
+                    - /url: /feed/update/urn:li:activity:7502587762580180992/?actorCompanyId=89798536
+                    - generic [ref=f194e1273]:
+                      - img "No alternative text description for this image" [ref=f194e1276]
+                      - generic [ref=f194e1278]:
+                        - text: "It’s official: I just signed with"
+                        - link "Grammar Factory" [ref=f194e1279]:
+                          - /url: https://www.linkedin.com/company/grammarfactory/
+                        - text: "to publish my book! This year, I'm writing the guide leaders have been asking for: how to put purpose into practice, not leave it as words on a wall. Choosing a publisher was a decision I didn't take lightly and I was fortunate to have a choice. That's not something every author gets and I didn't want to waste it. I kept coming back to the question: who could help us get this book into the hands of leaders globally, while staying true to our purpose 'to equip business to improve the world,' and creating a sustainable path for our business? Grammar Factory was the answer. I first connected through"
+                        - link "Kelly Irving" [ref=f194e1281]:
+                          - /url: /in/kelly-irving/
+                        - text: "'s"
+                        - link "Expert Author Community" [ref=f194e1282]:
+                          - /url: https://www.linkedin.com/company/expert-author-community/
+                        - text: ", and from my first conversation with"
+                        - link "Scott A. MacMillan" [ref=f194e1284]:
+                          - /url: /in/scottmacmillan/
+                        - text: ", I had a strong sense we’d found the right partner. Scott patiently answered a lot of questions and gave me the confidence that the ideas I’ve been carrying for years were in good hands. My team and I at"
+                        - link "People With Purpose*" [ref=f194e1285]:
+                          - /url: https://www.linkedin.com/company/people-with-purpose-/
+                        - text: are incredibly excited to be working with the Grammar Factory team to bring the book to life, and ultimately to help leaders close the gap between purpose intent and purpose in practice. More to come soon.
+                        - link "hashtag purposeinpractice" [ref=f194e1287]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23purposeinpractice&origin=HASH_TAG_FROM_FEED
+                          - generic [ref=f194e1288]: hashtag
+                          - generic [ref=f194e1289]: "#purposeinpractice"
+                        - link "hashtag purposeledbusiness" [ref=f194e1290]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23purposeledbusiness&origin=HASH_TAG_FROM_FEED
+                          - generic [ref=f194e1291]: hashtag
+                          - generic [ref=f194e1292]: "#purposeledbusiness"
+                        - link "hashtag purposefulleadership" [ref=f194e1293]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23purposefulleadership&origin=HASH_TAG_FROM_FEED
+                          - generic [ref=f194e1294]: hashtag
+                          - generic [ref=f194e1295]: "#purposefulleadership"
+                        - link "hashtag author" [ref=f194e1296]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23author&origin=HASH_TAG_FROM_FEED
+                          - generic [ref=f194e1297]: hashtag
+                          - generic [ref=f194e1298]: "#author"
+                        - link "hashtag book" [ref=f194e1299]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23book&origin=HASH_TAG_FROM_FEED
+                          - generic [ref=f194e1300]: hashtag
+                          - generic [ref=f194e1301]: "#book"
+                  - generic [ref=f194e1302]:
+                    - generic [ref=f194e1303]: 103 reactions
+                    - generic [ref=f194e1304]: • 28 comments
+                - separator [ref=f194e1305]
+                - generic [ref=f194e1308]:
+                  - text: Not eligible to boost.
+                  - strong [ref=f194e1311]:
+                    - link "Learn more" [ref=f194e1312] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/help/lms/answer/a452425
+            - generic [ref=f194e1313]:
+              - heading "Most reposts" [level=3] [ref=f194e1315]
+              - generic [ref=f194e1316]:
+                - generic [ref=f194e1317]:
+                  - 'link "Navigate to post: EAC Open House | Write a book people trust" [ref=f194e1318] [cursor=pointer]':
+                    - /url: /feed/update/urn:li:ugcPost:7508015418599624704/?actorCompanyId=89798536
+                    - generic [ref=f194e1319]: EAC Open House | Write a book people trust
+                  - generic [ref=f194e1321]:
+                    - generic [ref=f194e1322]: 10 reactions
+                    - generic [ref=f194e1323]: • 3 comments
+                - separator [ref=f194e1324]
+                - generic [ref=f194e1325]:
+                  - generic [ref=f194e1328]: Boosted.
+                  - link "View results" [ref=f194e1331] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/89798536/admin/post-analytics/urn:li:activity:7508015419816026114
+            - generic [ref=f194e1332]:
+              - heading "Most reactions" [level=3] [ref=f194e1334]
+              - generic [ref=f194e1335]:
+                - generic [ref=f194e1336]:
+                  - link [ref=f194e1337] [cursor=pointer]:
+                    - /url: /feed/update/urn:li:activity:7502587762580180992/?actorCompanyId=89798536
+                    - generic [ref=f194e1338]:
+                      - img "No alternative text description for this image" [ref=f194e1341]
+                      - generic [ref=f194e1343]:
+                        - text: "It’s official: I just signed with"
+                        - link "Grammar Factory" [ref=f194e1344]:
+                          - /url: https://www.linkedin.com/company/grammarfactory/
+                        - text: "to publish my book! This year, I'm writing the guide leaders have been asking for: how to put purpose into practice, not leave it as words on a wall. Choosing a publisher was a decision I didn't take lightly and I was fortunate to have a choice. That's not something every author gets and I didn't want to waste it. I kept coming back to the question: who could help us get this book into the hands of leaders globally, while staying true to our purpose 'to equip business to improve the world,' and creating a sustainable path for our business? Grammar Factory was the answer. I first connected through"
+                        - link "Kelly Irving" [ref=f194e1346]:
+                          - /url: /in/kelly-irving/
+                        - text: "'s"
+                        - link "Expert Author Community" [ref=f194e1347]:
+                          - /url: https://www.linkedin.com/company/expert-author-community/
+                        - text: ", and from my first conversation with"
+                        - link "Scott A. MacMillan" [ref=f194e1349]:
+                          - /url: /in/scottmacmillan/
+                        - text: ", I had a strong sense we’d found the right partner. Scott patiently answered a lot of questions and gave me the confidence that the ideas I’ve been carrying for years were in good hands. My team and I at"
+                        - link "People With Purpose*" [ref=f194e1350]:
+                          - /url: https://www.linkedin.com/company/people-with-purpose-/
+                        - text: are incredibly excited to be working with the Grammar Factory team to bring the book to life, and ultimately to help leaders close the gap between purpose intent and purpose in practice. More to come soon.
+                        - link "hashtag purposeinpractice" [ref=f194e1352]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23purposeinpractice&origin=HASH_TAG_FROM_FEED
+                          - generic [ref=f194e1353]: hashtag
+                          - generic [ref=f194e1354]: "#purposeinpractice"
+                        - link "hashtag purposeledbusiness" [ref=f194e1355]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23purposeledbusiness&origin=HASH_TAG_FROM_FEED
+                          - generic [ref=f194e1356]: hashtag
+                          - generic [ref=f194e1357]: "#purposeledbusiness"
+                        - link "hashtag purposefulleadership" [ref=f194e1358]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23purposefulleadership&origin=HASH_TAG_FROM_FEED
+                          - generic [ref=f194e1359]: hashtag
+                          - generic [ref=f194e1360]: "#purposefulleadership"
+                        - link "hashtag author" [ref=f194e1361]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23author&origin=HASH_TAG_FROM_FEED
+                          - generic [ref=f194e1362]: hashtag
+                          - generic [ref=f194e1363]: "#author"
+                        - link "hashtag book" [ref=f194e1364]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23book&origin=HASH_TAG_FROM_FEED
+                          - generic [ref=f194e1365]: hashtag
+                          - generic [ref=f194e1366]: "#book"
+                  - generic [ref=f194e1367]:
+                    - generic [ref=f194e1368]: 103 reactions
+                    - generic [ref=f194e1369]: • 28 comments
+                - separator [ref=f194e1370]
+                - generic [ref=f194e1373]:
+                  - text: Not eligible to boost.
+                  - strong [ref=f194e1376]:
+                    - link "Learn more" [ref=f194e1377] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/help/lms/answer/a452425
+          - generic "LinkedIn Footer Content" [ref=f194e1378]:
+            - generic [ref=f194e1379]:
+              - list [ref=f194e1380]:
+                - listitem [ref=f194e1381]:
+                  - link "About" [ref=f194e1382] [cursor=pointer]:
+                    - /url: https://about.linkedin.com/
+                - listitem [ref=f194e1384]:
+                  - link "Accessibility" [ref=f194e1385] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/accessibility
+                - listitem [ref=f194e1387]:
+                  - link "Help Center" [ref=f194e1388] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/help/linkedin?trk=footer_d_flagship3_company_admin
+                - listitem [ref=f194e1390]:
+                  - button "Privacy & Terms" [ref=f194e1392] [cursor=pointer]
+                - listitem [ref=f194e1397]:
+                  - link "Ad Choices" [ref=f194e1398] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/help/linkedin/answer/62931
+                - listitem [ref=f194e1400]:
+                  - link "Advertising" [ref=f194e1401] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/ad/start?trk=n_nav_ads_rr
+                - listitem [ref=f194e1403]:
+                  - button "Business Services" [ref=f194e1405] [cursor=pointer]
+                - listitem [ref=f194e1410]:
+                  - button "Get the LinkedIn app" [ref=f194e1413] [cursor=pointer]
+                - listitem [ref=f194e1414]:
+                  - button "More options" [ref=f194e1415] [cursor=pointer]: More
+              - generic [ref=f194e1416]:
+                - img "LinkedIn" [ref=f194e1417]
+                - text: LinkedIn Corporation © 2026
+    - generic:
+      - generic:
+        - complementary:
+          - generic [ref=f194e1420]:
+            - generic [ref=f194e1421]:
+              - generic [ref=f194e1423] [cursor=pointer]:
+                - img "Kelly Irving" [ref=f194e1425]
+                - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f194e1426]:
+                  - generic [ref=f194e1427]:
+                    - generic [aria-hidden] [ref=f194e1428]: Messaging
+                    - generic [ref=f194e1429]: You are on the messaging overlay. Press enter to open the list of conversations.
+                - mark [aria-hidden] [ref=f194e1430]:
+                  - generic [ref=f194e1431]: "2"
+              - generic [ref=f194e1432]:
+                - button [ref=f194e1434] [cursor=pointer]:
+                  - img "Open messenger dropdown menu" [ref=f194e1435]
+                - button "Compose message" [ref=f194e1438] [cursor=pointer]
+                - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f194e1442] [cursor=pointer]
+            - generic [ref=f194e1446]:
+              - heading "Page inboxes" [level=3] [ref=f194e1448]
+              - generic [ref=f194e1449] [cursor=pointer]:
+                - generic [ref=f194e1450]: Click to see affiliated inboxes
+                - button "Page inboxes" [ref=f194e1451]
+        - complementary "AI-powered assistant to get help with your career, jobs etc"

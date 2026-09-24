@@ -1,0 +1,2218 @@
+{
+  "tables": [
+    {
+      "id": "tblYau6tGKVESUWFM",
+      "name": "Customers",
+      "primaryFieldId": "fldJotZv3YSTkITQ4",
+      "fields": [
+        {
+          "id": "fldJotZv3YSTkITQ4",
+          "name": "Name",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldtxzzwbd9v6TVvO",
+          "name": "Firstname",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldJtMtcjGcSPaLLT",
+          "name": "Publication date",
+          "type": "date"
+        },
+        {
+          "id": "flde4lJoRMbBUnkE1",
+          "name": "Email",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldbVofI31TE5hAjd",
+          "name": "Transactionss",
+          "type": "multipleRecordLinks"
+        },
+        {
+          "id": "fldHFmnQrVyVFoWLb",
+          "name": "TRAN ID (from Transactionss)",
+          "type": "multipleLookupValues"
+        },
+        {
+          "id": "flde7WFCjToOlgA9w",
+          "name": "Products",
+          "type": "multipleSelects"
+        },
+        {
+          "id": "fldvGEgkfQlGtLzMP",
+          "name": "Enrollment Date",
+          "type": "date"
+        },
+        {
+          "id": "fldW7cUDXbA9OfOOo",
+          "name": "Active Campaign Record",
+          "type": "url"
+        },
+        {
+          "id": "fldJ4V6oNhbh2Jp8z",
+          "name": "photo",
+          "type": "multipleAttachments"
+        },
+        {
+          "id": "flduCxg4y67sc0ylT",
+          "name": "Field 9",
+          "type": "createdTime"
+        },
+        {
+          "id": "fldqKq1uxJLbnVv3g",
+          "name": "Purchases",
+          "type": "multipleSelects"
+        },
+        {
+          "id": "fldSWW2o4BAGs7Fvh",
+          "name": "Purchase Notes",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldm0qM6ud29XhTbL",
+          "name": "Send Survey",
+          "type": "checkbox"
+        },
+        {
+          "id": "fld8ZTAmSS0H5GjHQ",
+          "name": "Survey Sent",
+          "type": "checkbox"
+        },
+        {
+          "id": "fld1cfsjL0NcWTSB2",
+          "name": "Survey Complete",
+          "type": "checkbox"
+        },
+        {
+          "id": "fldzYW31DldJdNmOx",
+          "name": "Transactions",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldkI3Ui0N4g9oeTy",
+          "name": "EAC Payment Plan #",
+          "type": "count"
+        },
+        {
+          "id": "fldOEHh2rWysEMqi0",
+          "name": "EAC Customer",
+          "type": "checkbox"
+        },
+        {
+          "id": "fldmnQwgln9u2osOm",
+          "name": "Customer Details",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldixy352nHkJvwLI",
+          "name": "Clarity Calls",
+          "type": "multipleRecordLinks"
+        },
+        {
+          "id": "fldIkRga0vGeNZmD5",
+          "name": "EOI",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldN7JOoRw0OQ1BW9",
+          "name": "Customer Details 2",
+          "type": "multipleRecordLinks"
+        }
+      ]
+    },
+    {
+      "id": "tblwCilhmWIOyNfAy",
+      "name": "Customer Details",
+      "primaryFieldId": "fldVl0cR5nHUZd5xY",
+      "fields": [
+        {
+          "id": "fldVl0cR5nHUZd5xY",
+          "name": "Name Look Up",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldt09Q47IRTXMLHX",
+          "name": "Customer",
+          "type": "multipleRecordLinks"
+        },
+        {
+          "id": "fldb9z9GqQW7wLDV2",
+          "name": "Linkedin",
+          "type": "url"
+        },
+        {
+          "id": "fldkiwm5tJxXLWhep",
+          "name": "Author",
+          "type": "multipleRecordLinks"
+        },
+        {
+          "id": "fldfhCYfqPjcxkGm6",
+          "name": "Books",
+          "type": "multipleLookupValues"
+        },
+        {
+          "id": "fld6WJKxozZDPWWiR",
+          "name": "Linkedin (from Author)",
+          "type": "multipleLookupValues"
+        },
+        {
+          "id": "fldv7jVTirtMmskuL",
+          "name": "Name (from Customer)",
+          "type": "multipleLookupValues"
+        }
+      ]
+    },
+    {
+      "id": "tblVjIAnjdEOwVvTJ",
+      "name": "Customer Transactions",
+      "primaryFieldId": "fldGxHtpGrB3YJs41",
+      "fields": [
+        {
+          "id": "fldGxHtpGrB3YJs41",
+          "name": "Email",
+          "type": "email"
+        },
+        {
+          "id": "fld6dGSeY2lDohizQ",
+          "name": "TRAN ID",
+          "type": "autoNumber"
+        },
+        {
+          "id": "fldrLLKYbzQCQ17zQ",
+          "name": "Transaction Date",
+          "type": "createdTime"
+        },
+        {
+          "id": "fldqGN3qOGSFKUuJL",
+          "name": "Firstname",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldGC0X6W9V2tbkZQ",
+          "name": "Last Name",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldptuPjNIfsAEOWz",
+          "name": "Full Name",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldbga9wWm7YZh9nt",
+          "name": "Product",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldnTEvoacul1W4hd",
+          "name": "Purchases",
+          "type": "multipleSelects"
+        },
+        {
+          "id": "fld99IeHbcsfzewXm",
+          "name": "Customers 2",
+          "type": "multipleRecordLinks"
+        },
+        {
+          "id": "fldb0fMBMhTqrwzhZ",
+          "name": "Amount",
+          "type": "currency"
+        },
+        {
+          "id": "fldnB36su4N8kqsac",
+          "name": "Payment #",
+          "type": "number"
+        },
+        {
+          "id": "fld4qq3nM1gDqqT5C",
+          "name": "Send Invoice",
+          "type": "checkbox"
+        },
+        {
+          "id": "fldTjzmU5xwwL5fz6",
+          "name": "Created",
+          "type": "createdTime"
+        },
+        {
+          "id": "fldHIaUrXYrAUilVj",
+          "name": "Stripe Trans ID",
+          "type": "formula"
+        }
+      ]
+    },
+    {
+      "id": "tblwzo7aAjAklv2ED",
+      "name": "Clarity Calls",
+      "primaryFieldId": "fld49JCstN2bJe0zc",
+      "fields": [
+        {
+          "id": "fld49JCstN2bJe0zc",
+          "name": "Name",
+          "type": "formula"
+        },
+        {
+          "id": "fldSQud9rpC8SNn2d",
+          "name": "Customers",
+          "type": "multipleRecordLinks"
+        },
+        {
+          "id": "fldNEmwlgD5Qf4A0j",
+          "name": "Firstname (from Customers)",
+          "type": "multipleLookupValues"
+        },
+        {
+          "id": "fldYdb8qXeRh7IL1g",
+          "name": "Last Name (from Customers)",
+          "type": "multipleLookupValues"
+        },
+        {
+          "id": "fldhIiiBgtlDPfuQD",
+          "name": "Journey",
+          "type": "multipleSelects"
+        },
+        {
+          "id": "fldnUfY1zfHfm13Ls",
+          "name": "Interview Type",
+          "type": "singleSelect"
+        },
+        {
+          "id": "fldJJgnLLSGYmsf5S",
+          "name": "Sent Email",
+          "type": "checkbox"
+        },
+        {
+          "id": "fldtjC9Fvn0xKvSoz",
+          "name": "Enrollment Date (from Customers)",
+          "type": "multipleLookupValues"
+        },
+        {
+          "id": "fldPjRlg6L4xwOqJk",
+          "name": "Email (from Customers)",
+          "type": "multipleLookupValues"
+        },
+        {
+          "id": "fldAqkftdhoPk5zIQ",
+          "name": "Circle Profile",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldHVDZ9vXi1U8O2T",
+          "name": "Active Campaign Record (from Customers)",
+          "type": "multipleLookupValues"
+        },
+        {
+          "id": "fldT31bwoqyDYK5Ox",
+          "name": "Interview Request Template",
+          "type": "richText"
+        },
+        {
+          "id": "fldwpfElbTSjwZMCe",
+          "name": "Scheduled Interview",
+          "type": "checkbox"
+        },
+        {
+          "id": "fldu6ZU440Kv45rmQ",
+          "name": "Interview Templates",
+          "type": "url"
+        },
+        {
+          "id": "fldqNAis4Vzu4qdc6",
+          "name": "Customer Camp Templates",
+          "type": "singleLineText"
+        },
+        {
+          "id": "flddesVnlPt7gbVrC",
+          "name": "Notes",
+          "type": "multilineText"
+        }
+      ]
+    },
+    {
+      "id": "tblZcN2ti9bjZuX7E",
+      "name": "EOI",
+      "primaryFieldId": "fldU2J3aAzETJ0yNL",
+      "fields": [
+        {
+          "id": "fldU2J3aAzETJ0yNL",
+          "name": "First Name",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldt1tXh0ipDpejpk",
+          "name": "Last Name",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldnIbq6YSmQB1Ngp",
+          "name": "Email",
+          "type": "email"
+        },
+        {
+          "id": "fldEsNrlCb6DrEEDD",
+          "name": "Notes",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldut3XVCh0aU6KVt",
+          "name": "Linkedin Profile Url",
+          "type": "url"
+        },
+        {
+          "id": "fldLk6lMnU00lZgei",
+          "name": "Invited to Book Launch via LI",
+          "type": "checkbox"
+        },
+        {
+          "id": "fldKanE1k0CGLkbb5",
+          "name": "Registered: Comm Book Launch",
+          "type": "checkbox"
+        },
+        {
+          "id": "fldHpJxQubnHsEY1S",
+          "name": "Attended: Comm Book Launch",
+          "type": "checkbox"
+        },
+        {
+          "id": "fldFrmEtmGqlZDMbD",
+          "name": "Couldn't Come: Comm Book Launch",
+          "type": "checkbox"
+        },
+        {
+          "id": "fldDkJZRxk6099mMY",
+          "name": "Registered: Open House Nov 2024",
+          "type": "checkbox"
+        },
+        {
+          "id": "fldjbNNelSqHRSOqD",
+          "name": "Connected on LI ",
+          "type": "checkbox"
+        },
+        {
+          "id": "fldXhOGYxrwS6jEz2",
+          "name": "KI sent voice message on LI",
+          "type": "checkbox"
+        },
+        {
+          "id": "fldU8g7l0HRobWRIr",
+          "name": "Location",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldonzTquf1vwClo4",
+          "name": "Why are you interested in joining the Expert Author Community?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldnX24t4w6ohqh47",
+          "name": "How did you hear about the Expert Author Community?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldnJxNajPou1ZQFi",
+          "name": "Anything else you'd like to add?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldIzk58bRBbiNfkz",
+          "name": "Keep this box checked to receive Kelly's monthly newsletter and inspiration from the Expert Author Community.",
+          "type": "checkbox"
+        },
+        {
+          "id": "fldS4y4NL2b27oahz",
+          "name": "Created",
+          "type": "createdTime"
+        },
+        {
+          "id": "fld7PZYkLAH00Tu7N",
+          "name": "Next Intake",
+          "type": "multipleSelects"
+        },
+        {
+          "id": "fldhCZJK3yEMkYNnf",
+          "name": "run",
+          "type": "checkbox"
+        },
+        {
+          "id": "fld5ChBXcFSNcSMHF",
+          "name": "Which of our members referred you?",
+          "type": "singleLineText"
+        },
+        {
+          "id": "flde72fig1cFzcMZ0",
+          "name": "Writing Sprint Link",
+          "type": "formula"
+        },
+        {
+          "id": "fldpDL6InFMYzSgOt",
+          "name": "Referrals",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fld7JU7UeKYb6xCF4",
+          "name": "Member Events",
+          "type": "multipleSelects"
+        },
+        {
+          "id": "fld58vyp2PgxVUO39",
+          "name": "Repeat EOI",
+          "type": "checkbox"
+        },
+        {
+          "id": "fldJzCChVpadm7H18",
+          "name": "Last Modified",
+          "type": "lastModifiedTime"
+        },
+        {
+          "id": "fldZDJPHUR93MScoQ",
+          "name": "Apply for EAC",
+          "type": "multipleRecordLinks"
+        }
+      ]
+    },
+    {
+      "id": "tblWJlGzHa5iWLFO6",
+      "name": "Apply for EAC",
+      "primaryFieldId": "fldNnOhlRIBSTjpZM",
+      "fields": [
+        {
+          "id": "fldNnOhlRIBSTjpZM",
+          "name": "Name",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldgZPW6jejTSJXTf",
+          "name": "NOtes",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldB2rH7ZbgH44r8U",
+          "name": "Alumni Call ",
+          "type": "dateTime"
+        },
+        {
+          "id": "fldglA5leNr2Y1KbT",
+          "name": "Approve & Send Payment Link",
+          "type": "checkbox"
+        },
+        {
+          "id": "fldoGkoHBpvxZ476L",
+          "name": "Purchased",
+          "type": "checkbox"
+        },
+        {
+          "id": "fldJRpdBt4E1Lm5s3",
+          "name": "Alumni Call Assign",
+          "type": "singleSelect"
+        },
+        {
+          "id": "fldmt2EeOmLAA2Urj",
+          "name": "Alumni Call Email",
+          "type": "formula"
+        },
+        {
+          "id": "fld7GJIljUnXiOG4M",
+          "name": "Email",
+          "type": "email"
+        },
+        {
+          "id": "fld2M2qjDo6giaWfH",
+          "name": "Alumni Linkedin",
+          "type": "formula"
+        },
+        {
+          "id": "fldGlrbvd9U8c8bQQ",
+          "name": "Where are you at in the book-writing journey?",
+          "type": "singleSelect"
+        },
+        {
+          "id": "fldi85QxDhO2obwPq",
+          "name": "Other",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fld8yv3ucCr064xWh",
+          "name": "Tell me a little bit about your book, what you want to write and for who?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldd8HMbBBVKD33nB",
+          "name": "Your professional website",
+          "type": "url"
+        },
+        {
+          "id": "fldEo1PWqwc9Gj7sF",
+          "name": "Your LinkedIn profile",
+          "type": "url"
+        },
+        {
+          "id": "fldN6BjxL7YFDkesY",
+          "name": "How ready are you to commit to this writing thing?",
+          "type": "singleSelect"
+        },
+        {
+          "id": "fldtmSQqn1LlcM1jj",
+          "name": "Any members you know already in the EAC?",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldwm4E7hLEFE82Yu",
+          "name": "Anyone you think we should know? Please leave their LinkedIn here",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fld9RfQ6Um6iA5L7u",
+          "name": "Which package are you interested in?",
+          "type": "singleSelect"
+        },
+        {
+          "id": "fld7l416npv3OByeu",
+          "name": "Any other questions you have about anything at all?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldc5AFtDR6WTRX8m",
+          "name": "Have you attended an Open House or workshop/webinar before?",
+          "type": "singleSelect"
+        },
+        {
+          "id": "fldeCSwTvdCUViqiX",
+          "name": "Link",
+          "type": "formula"
+        },
+        {
+          "id": "fldET6oTqFVbNl5MY",
+          "name": "Edit Message in Zap",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldOlEghEUOwX4A8U",
+          "name": "Email History",
+          "type": "multipleSelects"
+        },
+        {
+          "id": "flduiOC1CH4ThrA04",
+          "name": "Onboarded Circle",
+          "type": "checkbox"
+        },
+        {
+          "id": "fldQJG6mNOHXNQ2rm",
+          "name": "Send Reminder Email 1",
+          "type": "checkbox"
+        },
+        {
+          "id": "fldNWIsy9sL76foRk",
+          "name": "Email Reminder 1 Sent",
+          "type": "dateTime"
+        },
+        {
+          "id": "fldvR4BmbdVo9jFi3",
+          "name": "Send Reminder Email 2",
+          "type": "checkbox"
+        },
+        {
+          "id": "fldygOl8tx27vdf6X",
+          "name": "Email Reminder 2 Sent",
+          "type": "dateTime"
+        },
+        {
+          "id": "fldFyWN1yKUUZquVh",
+          "name": "Send Reminder Email 3",
+          "type": "checkbox"
+        },
+        {
+          "id": "fldr0MQinIh5oHDgI",
+          "name": "Email Reminder 3 Sent",
+          "type": "dateTime"
+        },
+        {
+          "id": "fldfF5ngFqSPzEHnb",
+          "name": "Send Receipt",
+          "type": "checkbox"
+        },
+        {
+          "id": "fldmw5MGNnid2S2Xr",
+          "name": "Created",
+          "type": "createdTime"
+        },
+        {
+          "id": "fld161XojvpM0CcQS",
+          "name": "Purchase Date",
+          "type": "date"
+        },
+        {
+          "id": "fldJEiQEq6RDamlmY",
+          "name": "Invoice Description",
+          "type": "formula"
+        },
+        {
+          "id": "fldS3F6vBlIXwzKRi",
+          "name": "Price",
+          "type": "formula"
+        },
+        {
+          "id": "fldheApX7GkS5BruH",
+          "name": "GST",
+          "type": "formula"
+        },
+        {
+          "id": "fldZygc8wqZOVsOiP",
+          "name": "PRICE EX GST",
+          "type": "formula"
+        },
+        {
+          "id": "fldWkIPQoWEzveo9E",
+          "name": "PRICE + GST",
+          "type": "formula"
+        },
+        {
+          "id": "fldIJ1k1P0trqlfGO",
+          "name": "Total Price",
+          "type": "formula"
+        },
+        {
+          "id": "fldCxz7hLXamJgoNE",
+          "name": "Intake",
+          "type": "singleSelect"
+        },
+        {
+          "id": "fldZHa1iXbmYclV9H",
+          "name": "Purchase Type",
+          "type": "multipleSelects"
+        },
+        {
+          "id": "fldlxFZSipeODRT0M",
+          "name": "Who referred you to the EAC? (We'd love to thank them)",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldR60b9Cs4UeHiMl",
+          "name": "Start Date",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fld9THVid3NcZcqJc",
+          "name": "End Date",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldwiLQVNVzAbjuLu",
+          "name": "Intake#",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldzJWPiyWIR0gMta",
+          "name": "Have you read the Program Guide?",
+          "type": "singleSelect"
+        },
+        {
+          "id": "fldJxAwhfyZDE64CH",
+          "name": "I agree to EAC Terms and Conditions",
+          "type": "checkbox"
+        },
+        {
+          "id": "fldFkIIo7vNxrECSn",
+          "name": "Last Modified",
+          "type": "lastModifiedTime"
+        },
+        {
+          "id": "fldsaBaoD30I0DouJ",
+          "name": "Renewal Notes",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldTnXMJxSfTRfS33",
+          "name": "Application Notes",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldHYXisn17l1fyld",
+          "name": "Payment Due Date [EMAIL]",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldMMQqim2T6OuK1V",
+          "name": "Welcome Session Date [Email]",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldTFXv0iYvy3bivP",
+          "name": "Firstname",
+          "type": "formula"
+        },
+        {
+          "id": "fld5hQq5UO6QEyqx9",
+          "name": "Lastname",
+          "type": "formula"
+        },
+        {
+          "id": "fld5wIUQ5IP00cIq8",
+          "name": "Invoiced Package",
+          "type": "singleSelect"
+        },
+        {
+          "id": "fldgriArbC001MPBO",
+          "name": "Skip App Recieved",
+          "type": "checkbox"
+        },
+        {
+          "id": "fldiazvJZcEOYdgHj",
+          "name": "Would you like to add on 3 x 1:1 coaching sessions with our Industry Coach?",
+          "type": "singleSelect"
+        },
+        {
+          "id": "fldrfGZD2dsC3SZsl",
+          "name": "Your Phone Number",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldvwuHCtX0GdIQw8",
+          "name": "EOI",
+          "type": "multipleRecordLinks"
+        },
+        {
+          "id": "fldu4NZK6b1gYhlzl",
+          "name": "Kelly notes",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldj7N7PSjxwgBsG5",
+          "name": "Post call ALum notes",
+          "type": "multilineText"
+        }
+      ]
+    },
+    {
+      "id": "tblWkq8RRRydDPMgt",
+      "name": "Open House",
+      "primaryFieldId": "fldRmNL5Z8FpXiTd3",
+      "fields": [
+        {
+          "id": "fldRmNL5Z8FpXiTd3",
+          "name": "Name",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldmy5unEPzQbRszX",
+          "name": "Email",
+          "type": "email"
+        },
+        {
+          "id": "fldyN35OcPU34x8zM",
+          "name": "Professional Website",
+          "type": "url"
+        },
+        {
+          "id": "fldeypNmO0aJH5m12",
+          "name": "LinkedIn",
+          "type": "url"
+        },
+        {
+          "id": "fldxmjlYrqQeenYgH",
+          "name": "Where are you at in the book-writing journey?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fld2qOFgrXZWoHeK6",
+          "name": "Tell me a little bit about your book, what you want to write and for who?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldFTKcE2FB6m6gtT",
+          "name": "How did you hear about Kelly and/or The Expert Author Community and what most interests you about working with us?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldJpu6F04GnffEDv",
+          "name": "What would you most like to get out of this session?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldDIQjSR6rBVjPgS",
+          "name": "Created",
+          "type": "createdTime"
+        },
+        {
+          "id": "fldkHIcnKGCz3TdIW",
+          "name": "Notes",
+          "type": "multilineText"
+        }
+      ]
+    },
+    {
+      "id": "tblKcVJyYuVZXZO0V",
+      "name": "NPS Survey",
+      "primaryFieldId": "fldmndR7AMxZOT5cz",
+      "fields": [
+        {
+          "id": "fldmndR7AMxZOT5cz",
+          "name": "Name",
+          "type": "autoNumber"
+        },
+        {
+          "id": "fldaNoYtIkGOJ9jRZ",
+          "name": "How likely are you to recommend the Expert Author Community to a friend or colleague?",
+          "type": "singleSelect"
+        },
+        {
+          "id": "fld2LufNjgGA3gR4I",
+          "name": "How would you feel if you were no longer part of the Expert Author Community?",
+          "type": "singleSelect"
+        },
+        {
+          "id": "fldih8Q3ZEkszWvCO",
+          "name": "Have you already recommended the Expert Author Community to someone?",
+          "type": "singleSelect"
+        },
+        {
+          "id": "fldCHMw3JMOSzxqC6",
+          "name": "What is the main benefit you get from the Expert Author Community?",
+          "type": "singleSelect"
+        },
+        {
+          "id": "fldwvNajyaFDiyG9F",
+          "name": "What do you love most about the Expert Author Community?",
+          "type": "singleSelect"
+        },
+        {
+          "id": "flddBtBq4aDE9EtWZ",
+          "name": "Email",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldVR3yj5rL6fWLuu",
+          "name": "Any other ideas or feedback to help us support you?",
+          "type": "multilineText"
+        }
+      ]
+    },
+    {
+      "id": "tbli6tMvRfMc5UMaN",
+      "name": "Books",
+      "primaryFieldId": "fld9GKIZu4hIJFCuP",
+      "fields": [
+        {
+          "id": "fld9GKIZu4hIJFCuP",
+          "name": "Book Title + Sub Titles",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldLyOE6Vw7kEF8l2",
+          "name": "Publish",
+          "type": "checkbox"
+        },
+        {
+          "id": "fldNkODk8ePhLwgID",
+          "name": "Published By",
+          "type": "multipleRecordLinks"
+        },
+        {
+          "id": "fldrwZuTAf6JWKwnY",
+          "name": "Name (from Published By)",
+          "type": "multipleLookupValues"
+        },
+        {
+          "id": "fldueMXKV7wkzChuq",
+          "name": "Author Name",
+          "type": "multipleRecordLinks"
+        },
+        {
+          "id": "fldPXS15c2r2ji6JK",
+          "name": "Book Covers",
+          "type": "multipleAttachments"
+        },
+        {
+          "id": "fldMJiwkWE09VzwsU",
+          "name": "Published Date",
+          "type": "date"
+        },
+        {
+          "id": "fld7oQbLC9e4s4GNq",
+          "name": "Amazon URL",
+          "type": "url"
+        },
+        {
+          "id": "fldOkldLI7jH2K0VY",
+          "name": "Booktopia URL",
+          "type": "url"
+        },
+        {
+          "id": "flddzHxlQCqxQbNzM",
+          "name": "Book Reviewed",
+          "type": "checkbox"
+        },
+        {
+          "id": "fldnYFWl7IcOPiBq2",
+          "name": "Social Media Posts About Book",
+          "type": "multipleAttachments"
+        },
+        {
+          "id": "fldkRUmM15yV6PypH",
+          "name": "Authors",
+          "type": "multipleRecordLinks"
+        },
+        {
+          "id": "fldwzt2TlJvWM4Ime",
+          "name": "Notes",
+          "type": "multilineText"
+        },
+        {
+          "id": "flddvZHjy0A320utv",
+          "name": "Customer Details",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldO19wAQyq0Fm1IV",
+          "name": "Publisher",
+          "type": "multipleRecordLinks"
+        }
+      ]
+    },
+    {
+      "id": "tblqf6Xrzbw2V3YFs",
+      "name": "Authors",
+      "primaryFieldId": "fldFQGd11K7D5Jq0F",
+      "fields": [
+        {
+          "id": "fldFQGd11K7D5Jq0F",
+          "name": "Name",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldXhmmD5JveUMYkX",
+          "name": "Books 2",
+          "type": "multipleRecordLinks"
+        },
+        {
+          "id": "fldM4kmydCirE3WU9",
+          "name": "Author Website",
+          "type": "url"
+        },
+        {
+          "id": "fldD1hfNKbnTr8HlS",
+          "name": "Facebook",
+          "type": "url"
+        },
+        {
+          "id": "fldS0lI11x8nNs0tV",
+          "name": "Active Campaign Record",
+          "type": "url"
+        },
+        {
+          "id": "fldgvVRyYkLMsyRtr",
+          "name": "Linkedin",
+          "type": "url"
+        },
+        {
+          "id": "fldi9pPPJShNmleHa",
+          "name": "Twitter",
+          "type": "url"
+        },
+        {
+          "id": "fld19WXS70XxAOzDS",
+          "name": "LinkedIn Title",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldvk6x34s95YCI4A",
+          "name": "Long Summary (Amazon/ Booktopia) ",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldtE1nMANPBB2QTq",
+          "name": "Books",
+          "type": "multipleRecordLinks"
+        },
+        {
+          "id": "fldfdAqsWE2kR91C7",
+          "name": "Services",
+          "type": "multipleSelects"
+        },
+        {
+          "id": "fldhq5unsNs9v33Hq",
+          "name": "LinkedIn Followers",
+          "type": "number",
+          "description": "Follower count from LinkedIn profile, collected via browser sweep."
+        },
+        {
+          "id": "fld8ADIaJBoIg3b4G",
+          "name": "LinkedIn Followers Checked",
+          "type": "date",
+          "description": "Date the follower count was last collected."
+        },
+        {
+          "id": "fldJmYrU9rkKT55n0",
+          "name": "X/Twitter Followers",
+          "type": "number",
+          "description": "Follower count from X/Twitter profile, collected via browser sweep."
+        },
+        {
+          "id": "fldPJi86RxrOp5dea",
+          "name": "Promo Images",
+          "type": "multipleAttachments",
+          "description": "Launch, celebration and book photos sourced from the author's LinkedIn image posts (full-size, ~1280px). Source post, date and caption are in each set's manifest CSV. Check permission with the author before external promo use."
+        },
+        {
+          "id": "fldvgljkdXp40tIQh",
+          "name": "Customer Details",
+          "type": "multipleRecordLinks"
+        }
+      ]
+    },
+    {
+      "id": "tblFq4kCV6z34kNBs",
+      "name": "Publishers",
+      "primaryFieldId": "fldv8Uumxv33EuAiu",
+      "fields": [
+        {
+          "id": "fldv8Uumxv33EuAiu",
+          "name": "Name",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fld0U0f7bnuiI2DbO",
+          "name": "Genres",
+          "type": "multipleSelects"
+        },
+        {
+          "id": "fldXTTfLOrCVs7pFf",
+          "name": "Publisher Type",
+          "type": "singleSelect",
+          "description": "Traditional Publishers: These houses take on the full financial risk. They pay for all production costs and often provide the author with an \"advance\" against future royalties. Major examples include the \"Big Five\": Penguin Random House, HarperCollins, Hachette, Macmillan, and Simon & Schuster.\nIndependent (Indie) Presses: Smaller, often niche-focused companies that operate on a traditional model but with more specialized catalogs.\nAcademic & Educational Publishers: Focus on research, textbooks, and scholarly journals for universities and schools (e.g., Oxford University Press).\nHybrid Publishers: A model where the author and publisher share costs and risks, often granting the author higher royalty percentages in exchange for their investment.\nSelf-Publishing Platforms: Services (like Kindle Direct Publishing) that allow authors to act as their own publisher, retaining full rights and control but bearing all costs"
+        },
+        {
+          "id": "fldHyrYBEhuwMHqoV",
+          "name": "Logo Image",
+          "type": "multipleAttachments"
+        },
+        {
+          "id": "fldeO8SqV3aahIjOR",
+          "name": "Book Spine Image",
+          "type": "multipleAttachments",
+          "description": "this is a photo of a book showing the spine. Perpsective is looking at the book on a book shelf. It's to show the reader why the logo \\ brand looks like on the spine."
+        },
+        {
+          "id": "fldTaRxYkSDpTCaTI",
+          "name": "Submission Policy",
+          "type": "multipleSelects"
+        },
+        {
+          "id": "fldMODZAQq8Z29M8d",
+          "name": "Distribution Reach",
+          "type": "multipleSelects",
+          "description": "Does the publisher get books into physical stores/libraries (like Ingram), or is it digital-only?."
+        },
+        {
+          "id": "fldiJYmTba5BYVMqv",
+          "name": "Creative Control",
+          "type": "singleSelect",
+          "description": "Who has the final say on the cover design, title, and final edits?."
+        },
+        {
+          "id": "fldRT0doB5XIjN6m8",
+          "name": "Marketing Support",
+          "type": "multipleSelects"
+        },
+        {
+          "id": "fld2nH8XE1pHkzY33",
+          "name": "Slug",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fld63TdOPVdcvm6mZ",
+          "name": "Website",
+          "type": "url"
+        },
+        {
+          "id": "fldinVTY9SbeGusEQ",
+          "name": "Books",
+          "type": "multipleRecordLinks"
+        },
+        {
+          "id": "fldAnjpupqFBNeJ3v",
+          "name": "Book Title + Sub Titles (from Books)",
+          "type": "multipleLookupValues"
+        },
+        {
+          "id": "fldT7ZfllPoD7kE3D",
+          "name": "Founded Year",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldRVklBwY576SQko",
+          "name": "Description",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldHSoVPqEBrT6Wk3",
+          "name": "Long Description",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldRNg3CUJ3M95bsb",
+          "name": "Topic Tags",
+          "type": "multipleSelects"
+        },
+        {
+          "id": "fldvkBKV67JolXg75",
+          "name": "Author Type",
+          "type": "multipleSelects"
+        },
+        {
+          "id": "fldBh9I8mKzAFX06j",
+          "name": "Secondary Genres",
+          "type": "multipleSelects"
+        },
+        {
+          "id": "fldPIDXUFHESjz3nQ",
+          "name": "Headquarter Country",
+          "type": "multipleSelects"
+        },
+        {
+          "id": "fld7fyDh9QDMLcwo8",
+          "name": "Primary Publishing Regions",
+          "type": "multipleSelects"
+        },
+        {
+          "id": "fldPCXYtIL11JtiEr",
+          "name": "Languages Published",
+          "type": "multipleSelects"
+        },
+        {
+          "id": "fldAVyETJk5heG24x",
+          "name": "Distribution Counties",
+          "type": "multipleSelects"
+        },
+        {
+          "id": "fld5cPFxeZndMK5Fm",
+          "name": "EAC Publisher Pitch Particapant",
+          "type": "checkbox"
+        },
+        {
+          "id": "fldmZqCYJssH9Tr75",
+          "name": "Services",
+          "type": "multipleSelects"
+        },
+        {
+          "id": "fld5h3omSSuCvPt6R",
+          "name": "Open Graph Title",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldfQZEPQTCjz6n1C",
+          "name": "Open Graph Description",
+          "type": "multilineText"
+        },
+        {
+          "id": "fld9kNyidl8sETIUL",
+          "name": "Books 2",
+          "type": "multipleRecordLinks"
+        }
+      ]
+    },
+    {
+      "id": "tblzXUjoZr3tUldAx",
+      "name": "Book Launches",
+      "primaryFieldId": "fldGulqDfBwWudOzi",
+      "fields": [
+        {
+          "id": "fldGulqDfBwWudOzi",
+          "name": "Name",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldyVBUsoi84Y9vWR",
+          "name": "Book Title",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldFUby14DgXs36bu",
+          "name": "Date ",
+          "type": "date"
+        },
+        {
+          "id": "fldqNFRMZS2PnLprK",
+          "name": "Publisher",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldxBWIvuVoczMDFp",
+          "name": "Won a publishing deal?",
+          "type": "checkbox"
+        },
+        {
+          "id": "fldoSXzhSYnp9pocH",
+          "name": "About the Book",
+          "type": "singleLineText"
+        },
+        {
+          "id": "flddIXzpzLk0F30X0",
+          "name": "How can EAC members help?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldLcMUSBArHF11SN",
+          "name": "Book Cover",
+          "type": "multipleAttachments"
+        },
+        {
+          "id": "fldnynN3nprjlORSZ",
+          "name": "Would you be interested in being featured as a Community Spotlight on our blog and other promotional materials?",
+          "type": "singleSelect"
+        }
+      ]
+    },
+    {
+      "id": "tbl3wa6HO5v634vh7",
+      "name": "Feedback - 1 on 1",
+      "primaryFieldId": "fldEicErygydEObzO",
+      "fields": [
+        {
+          "id": "fldEicErygydEObzO",
+          "name": "Name",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldpjsPefaELt32UU",
+          "name": "Notes",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldeQceJoHYiVIRpg",
+          "name": "Attachments",
+          "type": "multipleAttachments"
+        },
+        {
+          "id": "fldo8acKzD9HL7ivZ",
+          "name": "Would it be okay if I use what you've shared here in my marketing to help me attract more of the right people to the program?",
+          "type": "singleSelect"
+        },
+        {
+          "id": "fldWN5rQVErPA89NX",
+          "name": "What was (or wasn't!) happening in your book writing journey before you invested in my services?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldiYZBODFrfzrjqp",
+          "name": "What's changed or shifted for you (and your business) as a result of working with me on your book?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldK3gJW9Xn7TBinG",
+          "name": "What went into the decision to work with me 1:1?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldPfkczPoh4pj1Gw",
+          "name": "What, if any, problems or challenges did my services lessen or fix for you?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldujuE1sIRLZGMQp",
+          "name": "How do you measure the value my services provide?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldII01jD9MgPm3Wl",
+          "name": "What, if anything, did you need to convince yourself of before you made the decision to join work with me?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldADHgoYszmzDTOJ",
+          "name": "Think back to when you were considering working with me. What do you know now - after having worked with me - that would be useful for that earlier version of you to understand?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldo1kegXYr7w6AxR",
+          "name": "What alternatives to working 1:1 with me did you consider or try, and how did this compare?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldQ4REmV6I6NHUcG",
+          "name": "Any other thoughts you'd like to fling my way?",
+          "type": "multilineText"
+        }
+      ]
+    },
+    {
+      "id": "tbldgefc5UKfcx3Og",
+      "name": "Feedback - Kickstart",
+      "primaryFieldId": "fldNiGBhjHiu1Qzx5",
+      "fields": [
+        {
+          "id": "fldNiGBhjHiu1Qzx5",
+          "name": "Name",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldDcMHQtorYbBMnB",
+          "name": "Notes",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldSRTcSGe7ti8C5l",
+          "name": "Attachments",
+          "type": "multipleAttachments"
+        },
+        {
+          "id": "fldBiotP2OfYnxcu4",
+          "name": "Would it be okay if I use what you've shared here in my marketing to help me attract more of the right people to the program?",
+          "type": "singleSelect"
+        },
+        {
+          "id": "fldJgKJIEybb6ixNe",
+          "name": "Before you bought Expert Author Academy, what challenges did you keep coming up against in your book writing journey?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldSZTLGZoyUvO5Nu",
+          "name": "What's changed or shifted for you (and your business) as a result of joining the program?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldMA8QXNvdoZMFT4",
+          "name": "What went into the decision to join the Kickstart version of the program?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldIcCK6g9kDV9FTQ",
+          "name": "Can you tell me about the most appealing/valuable aspect of Expert Author Academy?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldbZjQh8IsUaHLh1",
+          "name": "How do you measure the value Expert Author Academy provides?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldXJk2tlgIjxnqE1",
+          "name": "What, if anything, did you need to convince yourself of before you made the decision to join?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fld5BgyEHz10ckrWh",
+          "name": "Think back to when you decided to hit the 'buy' button. What do you know now - after having been a part of the program - that would be useful for that earlier version of you to understand?",
+          "type": "multilineText"
+        },
+        {
+          "id": "flddTd2BQnYmq3daY",
+          "name": "What other book writing or book coaching programs have you tried or thought about trying before, and how did this compare?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fld9sirSZM3JrS7Hq",
+          "name": "Any other thoughts you'd like to fling my way?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldEqlFyQPMBCFbGT",
+          "name": "What podcasts, FB groups, associations, forums or other resources have you looked at for book writing information?",
+          "type": "multilineText"
+        }
+      ]
+    },
+    {
+      "id": "tblZGMImoTEIUmUt4",
+      "name": "Feedback - Accelerate",
+      "primaryFieldId": "fldU0Xsz9MfGnG8Aa",
+      "fields": [
+        {
+          "id": "fldU0Xsz9MfGnG8Aa",
+          "name": "Name",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldXyYOM0yy7nawi9",
+          "name": "Notes",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldJAKyxd2LMb0rFN",
+          "name": "Attachments",
+          "type": "multipleAttachments"
+        },
+        {
+          "id": "fldnnsrm8lplFSBvD",
+          "name": "Would it be okay if I use what you've shared here in my marketing to help me attract more of the right people to the program?",
+          "type": "singleSelect"
+        },
+        {
+          "id": "fldbtphMLgIEPwQJs",
+          "name": "Before you bought Expert Author Academy, what challenges did you keep coming up against in your book writing journey?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldZkmEFEg2Wp9VWi",
+          "name": "What's changed or shifted for you (and your business) as a result of joining the program?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldL1lhy2b9n346mn",
+          "name": "What went into the decision to join the Accelerate version of the program?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldFxBIu4zzmP5dBj",
+          "name": "Can you tell me about the most appealing/valuable aspect of Expert Author Academy?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldhEwFPBtfPVFFqE",
+          "name": "How do you measure the value Expert Author Academy provides?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldZ7iE7evfUTeoQf",
+          "name": "What, if anything, did you need to convince yourself of before you made the decision to join Expert Author Academy generally and the Accelerate option specifically?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldKVACxPD3HGqvr6",
+          "name": "Think back to when you decided to hit the 'buy' button. What do you know now - after having been a part of the program - that would be useful for that earlier version of you to understand?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldD9ZIeltFJvpIrI",
+          "name": "What other book writing or book coaching programs have you tried or thought about trying before, and how did this compare?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldzjxkv5YAfWbIEV",
+          "name": "What other book writing or book coaching programs have you tried or thought about trying before, and how did this compare? copy",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldtM6yfJN37UsmAK",
+          "name": "What podcasts, FB groups, associations, forums or other resources have you looked at for book writing information?",
+          "type": "multilineText"
+        }
+      ]
+    },
+    {
+      "id": "tblHTHpoJxK3MXRMR",
+      "name": "Feedback - Nail It Now Masterclass",
+      "primaryFieldId": "fldCdS9Buql1fh5TX",
+      "fields": [
+        {
+          "id": "fldCdS9Buql1fh5TX",
+          "name": "Name",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldFLTvOlcEsfLtBW",
+          "name": "Notes",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldrNFfzyGR73BoYA",
+          "name": "Attachments",
+          "type": "multipleAttachments"
+        },
+        {
+          "id": "fld5An8otZvGxtyOq",
+          "name": "Would it be okay if I use what you've shared here in my marketing to help me attract more of the right people to the program?",
+          "type": "singleSelect"
+        },
+        {
+          "id": "fldTGkYO6UOZH7N2f",
+          "name": "What motivated you to sign up for the masterclass?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldHxhlHZU8hhKSf5",
+          "name": "What tangible outcome do you feel you got from the whole thing?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldtegYAnPfIVF3Fa",
+          "name": "Describe what you feel the most valuable part of the assessment was",
+          "type": "multilineText"
+        },
+        {
+          "id": "fld9K1knZlKCxS0k0",
+          "name": "Describe what you feel the most valuable part of the group coaching was",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldnKwpwpdFHHGaU6",
+          "name": "What was your biggest takeaway from the whole experience?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldhws1xqCGAOMFXI",
+          "name": "Any other thoughts you'd like to fling my way?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldVbfH7gl9dxdsOV",
+          "name": "Field 10",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldACskbVyIeQ3omA",
+          "name": "Created By",
+          "type": "createdBy"
+        },
+        {
+          "id": "fldxMH1dLntdWdi8J",
+          "name": "Describe Circle space value",
+          "type": "multilineText"
+        }
+      ]
+    },
+    {
+      "id": "tbl02M2bGUumeuuyN",
+      "name": "Feedback - White Paper",
+      "primaryFieldId": "fldBOOAVq5xtPeaQu",
+      "fields": [
+        {
+          "id": "fldBOOAVq5xtPeaQu",
+          "name": "Name",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldmP4LI7ZD1Et1bA",
+          "name": "Notes",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldbmOadgwXy68QGW",
+          "name": "Attachments",
+          "type": "multipleAttachments"
+        },
+        {
+          "id": "fldlEM8ers8XWxhMF",
+          "name": "Would it be okay if I use what you've shared here in my marketing to help me attract more of the right people to the program?",
+          "type": "singleSelect"
+        },
+        {
+          "id": "fldTjHnkNtq5Ly84D",
+          "name": "What was (or wasn't!) happening in your book writing journey before you invested in my services?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldfuBxivuqvKRiH5",
+          "name": "What's changed or shifted for you (and your business) as a result of working with me on your book?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldHzSFq1Mmn41hEm",
+          "name": "What went into the decision to work with me 1:1?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldMLW83HdgkAJ0Xc",
+          "name": "What, if any, problems or challenges did my services lessen or fix for you?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldrP6AvkxQ1a6L75",
+          "name": "How do you measure the value my services provide?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldFeCXNvYLw0M2d1",
+          "name": "What, if anything, did you need to convince yourself of before you made the decision to join work with me?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldx9jcSQhyCK3S5p",
+          "name": "Think back to when you were considering working with me. What do you know now - after having worked with me - that would be useful for that earlier version of you to understand?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldlxWaKPNqnHwzOx",
+          "name": "What alternatives to working 1:1 with me did you consider or try, and how did this compare?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldNAtAQNVHmY7Ttm",
+          "name": "Any other thoughts you'd like to fling my way?",
+          "type": "multilineText"
+        }
+      ]
+    },
+    {
+      "id": "tblaTeOGOW4GcAuWN",
+      "name": "Feedback - Perfect Proposal",
+      "primaryFieldId": "fldIyA0ropteXs7dQ",
+      "fields": [
+        {
+          "id": "fldIyA0ropteXs7dQ",
+          "name": "What motivated you to sign up for the session?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldRsko2arrJ8RM7c",
+          "name": "Describe the process with me and how it helped being able to run over your ideas direct with me",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldFxShIbHGzqm4AN",
+          "name": "Describe what you feel the most valuable part of the session was",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldSZl3PP849tgW0k",
+          "name": "Describe what you feel the most valuable part of the private Circle space was",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldyqGlGXPTLJ7npu",
+          "name": "Describe what you feel the most valuable part of the group coaching was",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldSwJiVjcVCRCurP",
+          "name": "What tangible outcome do you feel you got from the whole experience?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldcBXrMJ5VvCDZQt",
+          "name": "What was your biggest takeaway from the whole experience?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldBPRJvnjZtlsiru",
+          "name": "Any other thoughts you'd like to fling our way?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldLR2QXI2I64Mh9M",
+          "name": "Would it be okay if I use what you've shared here  to help me attract more of the right people to the session?",
+          "type": "singleSelect"
+        },
+        {
+          "id": "fldQpTUqE29dJBxqS",
+          "name": "If you hit 'For sure!' please put your name below so we know who you are...",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldTumPR34ps2RV4O",
+          "name": "Add anything else you feel we might have missed",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldeHGUe1bDLhSYzu",
+          "name": "And finally, please upload a photo of your glorious face with your book (if you have a book yet).",
+          "type": "multipleAttachments"
+        },
+        {
+          "id": "fldS5mA9CAUfxfPas",
+          "name": "Which coach did you book in to work with?",
+          "type": "singleLineText"
+        }
+      ]
+    },
+    {
+      "id": "tbl6LzFw1K69yIKub",
+      "name": "one on one",
+      "primaryFieldId": "fldkc8tIePZ101oZD",
+      "fields": [
+        {
+          "id": "fldkc8tIePZ101oZD",
+          "name": "Name",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldZC1M7e3u9WFADm",
+          "name": "Website",
+          "type": "url"
+        },
+        {
+          "id": "fldZKiv3rJb58ivvS",
+          "name": "Linkedin",
+          "type": "url"
+        },
+        {
+          "id": "fld9SnECOkWmvB1TN",
+          "name": "Email",
+          "type": "email"
+        },
+        {
+          "id": "flduOau76tCxyu8kh",
+          "name": "Phone",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldtzVAEepBatXmaC",
+          "name": "Country Location",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldEaKjBbkxqmvcUN",
+          "name": "Have you got a publisher deal already?",
+          "type": "singleSelect"
+        },
+        {
+          "id": "fldqQbRetFehJ04QG",
+          "name": "If Yes, who is your publisher and what is your submission date?",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldVBbLDI5l7up8Sv",
+          "name": "If No, what are you willing to invest to secure a publishing contract? (Including writing and editing help and marketing and advertising/PR services, which are all required assets for an attractive pitch)",
+          "type": "singleSelect"
+        },
+        {
+          "id": "fldgU59KDceF2rt3a",
+          "name": "What is the working title for your book?",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldpcJOGfehPKvrpi",
+          "name": "What problem does it address for which audience?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldfXufqxW9PyBIN3",
+          "name": "What is the overall goal for your book?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldThMdwmtTuzwPB8",
+          "name": "What drives you to succeed writing this book?",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fld74idWWWbYY4HoG",
+          "name": "How much time each week do you have to invest on writing?",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldlaErYJnZIpuuP5",
+          "name": "What are you most curious about when it comes to working with Kelly?",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldHmt1bYocaPRO0q",
+          "name": "submission date",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldm1Y1AAAy2Uo6jT",
+          "name": "Created",
+          "type": "createdTime"
+        }
+      ]
+    },
+    {
+      "id": "tbl8tjdL3zPK9jzln",
+      "name": "Apply (OLD)",
+      "primaryFieldId": "fldl8PkdKjd3VVYrC",
+      "fields": [
+        {
+          "id": "fldl8PkdKjd3VVYrC",
+          "name": "Name",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldtqDHeQwF9LLxAP",
+          "name": "Tell me a little bit about your book, what you want to write and for who?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldyVFvCUKUFKRVyG",
+          "name": "Email",
+          "type": "email"
+        },
+        {
+          "id": "fldDjgJfPBt7vWngP",
+          "name": "Your LinkedIn profile",
+          "type": "url"
+        },
+        {
+          "id": "fld8uDYmszvi1PV38",
+          "name": "Your professional website",
+          "type": "url"
+        },
+        {
+          "id": "fldp4CMLoXrrO7DRP",
+          "name": "Where are you at in the book writing journey?",
+          "type": "singleSelect"
+        },
+        {
+          "id": "fldbP0xP8QUttytEI",
+          "name": "Did you attend the workshop or watch the recording? (This helps with me initial understanding of where you're at, so I don't repeat anything.)",
+          "type": "singleSelect"
+        },
+        {
+          "id": "fldapkXjGQXvv77da",
+          "name": "How did you hear about Kelly and/or The Expert Author Community and what most interests you about working with us?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldtH8cOlZrIAcaRB",
+          "name": "Created",
+          "type": "createdTime"
+        },
+        {
+          "id": "fldRnfpOWGxwjabHX",
+          "name": "To focus and maximise our time together, please check The Expert Author Community website and FAQs first, then share any specific question(s) you still have about your position that you would like to address on the call. I look forward to chatting!",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldiJ0XxkKCXQ4UBH",
+          "name": "Other",
+          "type": "singleLineText"
+        }
+      ]
+    },
+    {
+      "id": "tblmwZUmyLxIFVJi8",
+      "name": "EAC Launch Feedback",
+      "primaryFieldId": "fldEBOje5RiRTBf9F",
+      "fields": [
+        {
+          "id": "fldEBOje5RiRTBf9F",
+          "name": "Your name",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldopbagPLXn4cYuV",
+          "name": "Would you like to be added to the Expression of Interest for our next intake?",
+          "type": "checkbox"
+        },
+        {
+          "id": "fldvosFdKpTagIwhy",
+          "name": "What was the single biggest reason you didn’t join Expert Author Community?",
+          "type": "multipleSelects"
+        },
+        {
+          "id": "fldvEH92zKzvYUpKW",
+          "name": "What would make joining Expert Author Community an absolute no-brainer for you?",
+          "type": "multilineText",
+          "description": "You can join the EOI https://www.expertauthor.community/"
+        },
+        {
+          "id": "fld0BLFRpQD8yEmsh",
+          "name": "If Expert Author Community wasn’t what you needed right now, what else are you struggling with when it comes to writing and publishing a book?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldtD4klz8R72MXdV",
+          "name": "Is there anything else you wish you knew about writing and publishing a book?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldWJqp2ohc3QvVGp",
+          "name": "Enter your email",
+          "type": "email"
+        },
+        {
+          "id": "fldkFgoy9G1L3wKLC",
+          "name": "Created",
+          "type": "dateTime"
+        },
+        {
+          "id": "fldMFyxBihWztrRoO",
+          "name": "Request Address",
+          "type": "checkbox"
+        },
+        {
+          "id": "fldlSnojMHo1AnIOS",
+          "name": "Journal Sent",
+          "type": "checkbox"
+        },
+        {
+          "id": "fldpn5E7U1zQd3vRQ",
+          "name": "Would you consider joining Expert Author Community in the future?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fld3tGqOKgX6BxYqK",
+          "name": "Created 2",
+          "type": "createdTime"
+        }
+      ]
+    },
+    {
+      "id": "tblA77etqBKHgPZQ2",
+      "name": "Community Book Launch Application",
+      "primaryFieldId": "fldTFnPJMZ4sVHmqG",
+      "fields": [
+        {
+          "id": "fldTFnPJMZ4sVHmqG",
+          "name": "Name",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldFT6MkUBW3IUHSC",
+          "name": "Notes",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldHotznNu32QCK3W",
+          "name": "Assignee",
+          "type": "singleCollaborator"
+        },
+        {
+          "id": "fldWhyhfnbBfdsjfs",
+          "name": "Publication date",
+          "type": "date"
+        },
+        {
+          "id": "flduSOO8hnHBnJ6aC",
+          "name": "What excites you about being part of the book launch?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fld2KlwGiDw5iyYsY",
+          "name": "Would you be willing to invite your network along to the event?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldEXwlUXXVIcnQyN",
+          "name": "How could we best support you at the event?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldM2Setqk9nQMF5D",
+          "name": "Would you like the EAC to run more Community Book Launches?",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldQgrhpbt8G1fzTC",
+          "name": "We have very limited spots for the Launch, so if we are unable to include your book this time, what other ways could we help support you and your book? (e.g. interview, newsletter, community event, hosting your own book launch or something else)",
+          "type": "multilineText"
+        }
+      ]
+    },
+    {
+      "id": "tblwhSTFItN93ZmLJ",
+      "name": "Writing Sprint EOI",
+      "primaryFieldId": "fldSkwz3WghBFoJcG",
+      "fields": [
+        {
+          "id": "fldSkwz3WghBFoJcG",
+          "name": "Name",
+          "type": "formula"
+        },
+        {
+          "id": "fldcFdouppOseyoF7",
+          "name": "First Name",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldRFIXrPlkGjL1lO",
+          "name": "LastName",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldNcZ8gqG2VaSw1a",
+          "name": "Writing Sprint",
+          "type": "singleSelect"
+        },
+        {
+          "id": "fldgLAWKvxykUzgcu",
+          "name": "Calendar Invite Sent",
+          "type": "checkbox"
+        },
+        {
+          "id": "fldPtdkrrrZw8QM36",
+          "name": "Existing EOI",
+          "type": "checkbox"
+        },
+        {
+          "id": "fldZ6PdkR7mLCWFjh",
+          "name": "Which of these dates and 90-minute events would you like to join?",
+          "type": "multipleSelects"
+        },
+        {
+          "id": "fld3CuuNdk2VlBzME",
+          "name": "Email",
+          "type": "email"
+        },
+        {
+          "id": "fld8SZMJ9UmVVqa5E",
+          "name": "LinkedIn",
+          "type": "url"
+        },
+        {
+          "id": "fld4Dl9as0LpJirVQ",
+          "name": "What would you most like to get out of the Writing Sprint event?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldBTBzRTc00kdncR",
+          "name": "Which of our members referred you?",
+          "type": "singleLineText",
+          "description": "Or how else did you hear about the Expert Author Community?"
+        },
+        {
+          "id": "fldrKt9qJ7hGccDlk",
+          "name": "Would you like to join the expressions of interest list for our June 2024 intake of the Expert Author Community?",
+          "type": "singleSelect"
+        },
+        {
+          "id": "fldFLkNrXKjxgQtPj",
+          "name": "Current EAC Member",
+          "type": "checkbox"
+        }
+      ]
+    },
+    {
+      "id": "tblIE7P49BRWV3jgK",
+      "name": "Coaching Submission",
+      "primaryFieldId": "fldStoybL6lxg27WT",
+      "fields": [
+        {
+          "id": "fldStoybL6lxg27WT",
+          "name": "Name",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fld7STwcjhN5gGjn7",
+          "name": "Proposed topic and title",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldWiLCBNZfLWCh43",
+          "name": "Assignee",
+          "type": "singleCollaborator"
+        },
+        {
+          "id": "fldAGPzoX51iu7Rz1",
+          "name": "Proposed times and dates of session",
+          "type": "singleLineText"
+        },
+        {
+          "id": "flduxfDyHDkIqpqL8",
+          "name": "Description of session",
+          "type": "multilineText"
+        },
+        {
+          "id": "fld2PXe958bGG6utR",
+          "name": "Why would you like to run this event?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldxsYyg5AdvNzIYk",
+          "name": "What are the top 3 benefits for our members?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldjFmtQBWtp2q797",
+          "name": "Are you comfortable hosting by yourself? ",
+          "type": "singleSelect"
+        },
+        {
+          "id": "fldKzUBF5JnfwqgK5",
+          "name": "Anything else we can do to help you be successful?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fld2jfcJlyC7JlAJp",
+          "name": "Bonus question! If we could bring in one guest speaker this intake, who would it be and why?",
+          "type": "multipleSelects"
+        }
+      ]
+    },
+    {
+      "id": "tblba7QYIp5EKC82j",
+      "name": "Co-write Challenge Feedback",
+      "primaryFieldId": "fld2VdovX5L0Pc4k8",
+      "fields": [
+        {
+          "id": "fld2VdovX5L0Pc4k8",
+          "name": "Name",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldMqMc4lIKCTriw9",
+          "name": "How would you rate your experience of the Co-write Challenge? (1 to 10)",
+          "type": "singleSelect"
+        },
+        {
+          "id": "fldg1SWARoOXIUblE",
+          "name": "Assignee",
+          "type": "singleCollaborator"
+        },
+        {
+          "id": "fldDzKwYElWarzxgk",
+          "name": "What did you love?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldvHmtSLBSIv3SMK",
+          "name": "What did you feel could be improved?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldbHzdMmyXhuuYxX",
+          "name": "Any other thoughts or ideas you’d like to fling our way?",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldNicUyJkp3v7uYM",
+          "name": "Would you like to be added to the expressions of interest for the Expert Author Community’s next official intake?",
+          "type": "singleSelect"
+        },
+        {
+          "id": "fldFWFnPiZDzx6D6W",
+          "name": "Email",
+          "type": "singleLineText"
+        }
+      ]
+    },
+    {
+      "id": "tbltA4bTKjbaQXHJo",
+      "name": "Cowrite Purchases 2026",
+      "primaryFieldId": "flduGjixdQuivtOKc",
+      "fields": [
+        {
+          "id": "flduGjixdQuivtOKc",
+          "name": "Name",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldTs14bBz5jauAK0",
+          "name": "Email",
+          "type": "email"
+        },
+        {
+          "id": "fldodrGObe4gjfcE4",
+          "name": "Purchase History",
+          "type": "singleSelect"
+        },
+        {
+          "id": "fldsw7YoPC2wE35WI",
+          "name": "EOI",
+          "type": "singleSelect"
+        },
+        {
+          "id": "fldjILMQlaYMDPKmz",
+          "name": "Date Purchased",
+          "type": "date"
+        }
+      ]
+    },
+    {
+      "id": "tblJvUcEvsa1R3oZQ",
+      "name": "Write Now Purchases 2026",
+      "primaryFieldId": "fld3yNUD3zGVmcl7p",
+      "fields": [
+        {
+          "id": "fld3yNUD3zGVmcl7p",
+          "name": "Name",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldWUK9akbyOaY6cb",
+          "name": "Notes",
+          "type": "multilineText"
+        },
+        {
+          "id": "fld046GbfMe7mVenq",
+          "name": "Status",
+          "type": "singleSelect"
+        },
+        {
+          "id": "fldCtwaQhvrQ36rb7",
+          "name": "Email",
+          "type": "email"
+        }
+      ]
+    }
+  ]
+}

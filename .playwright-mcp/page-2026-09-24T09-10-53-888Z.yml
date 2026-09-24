@@ -1,0 +1,109 @@
+- generic [active] [ref=f16e1]:
+  - generic:
+    - region "Toast message":
+      - heading "0 notifications total" [level=2] [ref=f16e3]
+      - alert
+  - generic [ref=f16e4]:
+    - generic [ref=f16e6]:
+      - button "Skip to search" [ref=f16e7] [cursor=pointer]
+      - button "Skip to main content" [ref=f16e9] [cursor=pointer]
+      - button "Keyboard shortcuts" [ref=f16e11] [cursor=pointer]
+      - button "Close jump menu" [ref=f16e13] [cursor=pointer]
+    - banner "Global Navigation" [ref=f16e17]:
+      - generic [ref=f16e18]:
+        - link [ref=f16e19] [cursor=pointer]:
+          - /url: https://www.linkedin.com/feed/?nis=true
+          - img "LinkedIn" [ref=f16e22]
+        - combobox "I’m looking for..." [ref=f16e28]
+        - navigation "Primary Navigation" [ref=f16e29]:
+          - list [ref=f16e30]:
+            - listitem [ref=f16e31]:
+              - link "new feed updates notifications Home" [ref=f16e32] [cursor=pointer]:
+                - /url: https://www.linkedin.com/feed/?nis=true&
+                - generic [ref=f16e33]: new feed updates notifications
+                - generic "Home" [ref=f16e42]
+            - listitem [ref=f16e43]:
+              - link "26 new network updates notifications My Network" [ref=f16e44] [cursor=pointer]:
+                - /url: https://www.linkedin.com/mynetwork/?
+                - generic [ref=f16e46]:
+                  - generic [aria-hidden] [ref=f16e47]: "26"
+                  - generic [ref=f16e48]: 26 new network updates notifications
+                - generic "My Network" [ref=f16e54]
+            - listitem [ref=f16e55]:
+              - link "Jobs" [ref=f16e56] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/?
+            - listitem [ref=f16e63]:
+              - link "2 new messages notifications Messaging" [ref=f16e64] [cursor=pointer]:
+                - /url: https://www.linkedin.com/messaging/?
+                - generic [ref=f16e66]:
+                  - generic [aria-hidden] [ref=f16e67]: "2"
+                  - generic [ref=f16e68]: 2 new messages notifications
+                - generic "Messaging" [ref=f16e74]
+            - listitem [ref=f16e75]:
+              - link "21 new notifications Notifications" [ref=f16e76] [cursor=pointer]:
+                - /url: https://www.linkedin.com/notifications/?
+                - generic [ref=f16e78]:
+                  - generic [aria-hidden] [ref=f16e79]: "21"
+                  - generic [ref=f16e80]: 21 new notifications
+                - generic "Notifications" [ref=f16e86]
+            - listitem [ref=f16e87]:
+              - button [ref=f16e89] [cursor=pointer]:
+                - img "Kelly Irving" [ref=f16e90]
+                - generic [ref=f16e91]: Me
+            - listitem [ref=f16e94]:
+              - button "For Business" [ref=f16e96] [cursor=pointer]
+            - listitem [ref=f16e105]:
+              - link "3 new Campaign Manager notifications Advertise" [ref=f16e106] [cursor=pointer]:
+                - /url: https://www.linkedin.com/campaignmanager/accounts?shouldShowNotificationPanelOnRender=true
+                - generic [ref=f16e108]:
+                  - generic [aria-hidden] [ref=f16e109]: "3"
+                  - generic [ref=f16e110]: 3 new Campaign Manager notifications
+                - generic "Advertise" [ref=f16e117]
+    - generic [ref=f16e123]:
+      - complementary [ref=f16e124]:
+        - generic [ref=f16e127]:
+          - img "PREMIUM" [ref=f16e132]
+          - link [ref=f16e136] [cursor=pointer]:
+            - /url: /in/shyambarr/
+            - img "Dr Shyam Barr" [ref=f16e137]
+          - generic [ref=f16e138]:
+            - link [ref=f16e139] [cursor=pointer]:
+              - /url: /in/shyambarr/
+              - heading [level=3] [ref=f16e140]:
+                - text: Dr Shyam Barr
+                - img "Dr Shyam Barr is a Premium member" [ref=f16e142]
+            - heading "I help educators foster students’ metacognition and self-regulated learning | Speaker | Author | Adjunct Associate Professor at Faculty of Education, University of Canberra" [level=4] [ref=f16e145]
+          - generic [ref=f16e147]:
+            - generic [ref=f16e148]:
+              - generic [ref=f16e149]: Followers
+              - generic [ref=f16e150]: 5,872
+            - button "Message Dr Shyam" [ref=f16e153] [cursor=pointer]:
+              - generic [ref=f16e154]: Message
+      - main [ref=f16e155]:
+        - separator [ref=f16e180]
+      - complementary "Interests" [ref=f16e188]:
+        - generic "LinkedIn Footer Content" [ref=f16e250]:
+          - generic [ref=f16e251]:
+            - list
+            - generic [ref=f16e252]:
+              - img "LinkedIn" [ref=f16e253]
+              - text: LinkedIn Corporation © 2026
+    - generic:
+      - generic:
+        - complementary:
+          - generic [ref=f16e257]:
+            - generic [ref=f16e259] [cursor=pointer]:
+              - img "Kelly Irving" [ref=f16e261]
+              - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f16e262]:
+                - generic [ref=f16e263]:
+                  - generic [aria-hidden] [ref=f16e264]: Messaging
+                  - generic [ref=f16e265]: You are on the messaging overlay. Press enter to open the list of conversations.
+              - mark [aria-hidden] [ref=f16e266]:
+                - generic [ref=f16e267]: "2"
+            - generic [ref=f16e268]:
+              - button [ref=f16e270] [cursor=pointer]:
+                - img "Open messenger dropdown menu" [ref=f16e271]
+              - button "Compose message" [ref=f16e274] [cursor=pointer]
+              - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f16e278] [cursor=pointer]
+        - complementary "AI-powered assistant to get help with your career, jobs etc"
+  - region [ref=f16e282]

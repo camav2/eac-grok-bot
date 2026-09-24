@@ -1,0 +1,697 @@
+- generic [ref=f16e1]:
+  - generic:
+    - region "Toast message":
+      - heading "0 notifications total" [level=2] [ref=f16e3]
+      - alert
+  - generic [ref=f16e4]:
+    - generic [ref=f16e6]:
+      - button "Skip to search" [ref=f16e7] [cursor=pointer]
+      - button "Skip to main content" [ref=f16e9] [cursor=pointer]
+      - button "Keyboard shortcuts" [ref=f16e11] [cursor=pointer]
+      - button "Close jump menu" [ref=f16e13] [cursor=pointer]
+    - banner "Global Navigation" [ref=f16e17]:
+      - generic [ref=f16e18]:
+        - link [ref=f16e19] [cursor=pointer]:
+          - /url: https://www.linkedin.com/feed/?nis=true
+          - img "LinkedIn" [ref=f16e22]
+        - combobox "I’m looking for..." [ref=f16e28]
+        - navigation "Primary Navigation" [ref=f16e29]:
+          - list [ref=f16e30]:
+            - listitem [ref=f16e31]:
+              - link "new feed updates notifications Home" [ref=f16e32] [cursor=pointer]:
+                - /url: https://www.linkedin.com/feed/?nis=true&
+                - generic [ref=f16e33]: new feed updates notifications
+                - generic "Home" [ref=f16e42]
+            - listitem [ref=f16e43]:
+              - link "26 new network updates notifications My Network" [ref=f16e44] [cursor=pointer]:
+                - /url: https://www.linkedin.com/mynetwork/?
+                - generic [ref=f16e46]:
+                  - generic [aria-hidden] [ref=f16e47]: "26"
+                  - generic [ref=f16e48]: 26 new network updates notifications
+                - generic "My Network" [ref=f16e54]
+            - listitem [ref=f16e55]:
+              - link "Jobs" [ref=f16e56] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/?
+            - listitem [ref=f16e63]:
+              - link "2 new messages notifications Messaging" [ref=f16e64] [cursor=pointer]:
+                - /url: https://www.linkedin.com/messaging/?
+                - generic [ref=f16e66]:
+                  - generic [aria-hidden] [ref=f16e67]: "2"
+                  - generic [ref=f16e68]: 2 new messages notifications
+                - generic "Messaging" [ref=f16e74]
+            - listitem [ref=f16e75]:
+              - link "21 new notifications Notifications" [ref=f16e76] [cursor=pointer]:
+                - /url: https://www.linkedin.com/notifications/?
+                - generic [ref=f16e78]:
+                  - generic [aria-hidden] [ref=f16e79]: "21"
+                  - generic [ref=f16e80]: 21 new notifications
+                - generic "Notifications" [ref=f16e86]
+            - listitem [ref=f16e87]:
+              - button [ref=f16e89] [cursor=pointer]:
+                - img "Kelly Irving" [ref=f16e90]
+                - generic [ref=f16e91]: Me
+            - listitem [ref=f16e94]:
+              - button "For Business" [ref=f16e96] [cursor=pointer]
+            - listitem [ref=f16e105]:
+              - link "3 new Campaign Manager notifications Advertise" [ref=f16e106] [cursor=pointer]:
+                - /url: https://www.linkedin.com/campaignmanager/accounts?shouldShowNotificationPanelOnRender=true
+                - generic [ref=f16e108]:
+                  - generic [aria-hidden] [ref=f16e109]: "3"
+                  - generic [ref=f16e110]: 3 new Campaign Manager notifications
+                - generic "Advertise" [ref=f16e117]
+    - generic [ref=f16e123]:
+      - complementary [ref=f16e124]:
+        - generic [ref=f16e127]:
+          - img "PREMIUM" [ref=f16e132]
+          - link [ref=f16e136] [cursor=pointer]:
+            - /url: /in/shyambarr/
+            - img "Dr Shyam Barr" [ref=f16e137]
+          - generic [ref=f16e138]:
+            - link [ref=f16e139] [cursor=pointer]:
+              - /url: /in/shyambarr/
+              - heading [level=3] [ref=f16e140]:
+                - text: Dr Shyam Barr
+                - img "Dr Shyam Barr is a Premium member" [ref=f16e142]
+            - heading "I help educators foster students’ metacognition and self-regulated learning | Speaker | Author | Adjunct Associate Professor at Faculty of Education, University of Canberra" [level=4] [ref=f16e145]
+          - generic [ref=f16e147]:
+            - generic [ref=f16e148]:
+              - generic [ref=f16e149]: Followers
+              - generic [ref=f16e150]: 5,872
+            - button "Message Dr Shyam" [ref=f16e153] [cursor=pointer]:
+              - generic [ref=f16e154]: Message
+      - main [ref=f16e155]:
+        - generic [ref=f16e283]:
+          - heading "All activity" [level=2] [ref=f16e284]
+          - group "Select type of recent activity" [ref=f16e287]:
+            - button "Posts" [pressed] [ref=f16e288] [cursor=pointer]
+            - button "Comments" [ref=f16e290] [cursor=pointer]
+            - button "Videos" [ref=f16e292] [cursor=pointer]
+            - button "Images" [ref=f16e294] [cursor=pointer]
+            - button "More" [ref=f16e296] [cursor=pointer]
+          - generic [ref=f16e302]:
+            - generic [ref=f16e303]:
+              - generic [ref=f16e304]: Loaded 20 Posts posts
+              - list [ref=f16e305]:
+                - listitem [ref=f16e306]:
+                  - article [ref=f16e311]:
+                    - generic [ref=f16e313]:
+                      - heading "Feed post number 1" [level=2] [ref=f16e314]
+                      - generic [ref=f16e315]:
+                        - generic [ref=f16e316]:
+                          - generic [ref=f16e318]:
+                            - link "View Dr Shyam Barr’s graphic link" [ref=f16e319] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/shyambarr?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAlJ-RcBNq_g-q5uQUiSDdhu8XLk5jKYgu0
+                              - img "View Dr Shyam Barr’s graphic link" [ref=f16e323]
+                            - generic [ref=f16e324]:
+                              - 'link "View: Dr Shyam Barr Premium • 1st I help educators foster students’ metacognition and self-regulated learning | Speaker | Author | Adjunct Associate Professor at Faculty of Education, University of Canberra" [ref=f16e325] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/shyambarr?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAlJ-RcBNq_g-q5uQUiSDdhu8XLk5jKYgu0
+                                - generic [ref=f16e326]:
+                                  - generic [ref=f16e327]: Dr Shyam Barr
+                                  - generic [ref=f16e330]: • 1st
+                                - generic [ref=f16e335]: I help educators foster students’ metacognition and self-regulated learning | Speaker | Author | Adjunct Associate Professor at Faculty of Education, University of Canberra
+                              - link "Visit my website" [ref=f16e337] [cursor=pointer]:
+                                - /url: http://www.shyambarr.com.au
+                              - generic [ref=f16e339]: 6h •
+                          - button "Open control menu for post by Dr Shyam Barr" [ref=f16e347] [cursor=pointer]
+                        - generic [ref=f16e351]:
+                          - generic [ref=f16e354]:
+                            - text: I’m very excited to share that I’ve signed a new collaboration with the
+                            - link "ACT Education Directorate" [ref=f16e355] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/company/act-department-of-education-and-training/
+                            - text: ", working with public schools across the Australian Capital Territory (ACT) to strengthen how teachers explicitly teach self-regulated learning and metacognition.Over the past several years, I’ve worked with schools and systems to help teachers move from talking about these capabilities to actually teaching them, explicitly, in the classroom. This collaboration is the next step in that work, now at a system level with another of Australia’s public education directorates/departments.Working with a system the size of the ACT public education system is a great opportunity to think about how we can support teachers to strengthen students’ capacity to regulate their own learning.The project is a two-hour masterclass, deliberately scoped to get us started. I’m working to a November deadline, so the next few weeks will be focused on getting the content right for this audience. I'll keep you posted. Very exciting!"
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f16e358] [cursor=pointer]:
+                            - generic [ref=f16e359]: …more
+                        - region "Video player" [ref=f16e364]:
+                          - generic [ref=f16e368]:
+                            - button "Play" [ref=f16e1249] [cursor=pointer]
+                            - slider "Playback progress" [ref=f16e371] [cursor=pointer]:
+                              - generic [ref=f16e372]: "Loaded: 100.00%"
+                            - generic [ref=f16e375]:
+                              - text: Remaining time
+                              - generic [ref=f16e376]: 0:34
+                            - generic [ref=f16e377]:
+                              - generic [aria-hidden]: 1x
+                              - button "Playback speed" [ref=f16e378] [cursor=pointer]
+                            - button "Turn closed captions on" [ref=f16e380] [cursor=pointer]
+                            - generic [ref=f16e382]:
+                              - button "Unmute" [ref=f16e383] [cursor=pointer]
+                              - generic:
+                                - slider "Volume":
+                                  - generic [ref=f16e385] [cursor=pointer]
+                            - button "Turn fullscreen on" [ref=f16e386] [cursor=pointer]
+                        - generic [ref=f16e388]:
+                          - list [ref=f16e392]:
+                            - listitem [ref=f16e393]:
+                              - button "You and 24 others" [ref=f16e394] [cursor=pointer]:
+                                - img "like" [ref=f16e395]
+                                - img "celebrate" [ref=f16e396]
+                                - img "love" [ref=f16e397]
+                                - generic [ref=f16e398]:
+                                  - generic [aria-hidden] [ref=f16e399]: "25"
+                                  - generic [ref=f16e400]: You and 24 others
+                            - listitem [ref=f16e401]:
+                              - list [ref=f16e402]:
+                                - listitem [ref=f16e403]:
+                                  - button "2 comments on Dr Shyam Barr’s post" [ref=f16e404] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f16e405]: 2 comments
+                          - generic [ref=f16e406]:
+                            - generic [ref=f16e407]:
+                              - button "Unreact Like" [pressed] [ref=f16e408] [cursor=pointer]:
+                                - generic [ref=f16e410]:
+                                  - img "like" [ref=f16e411]
+                                  - generic [aria-hidden] [ref=f16e412]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f16e413] [cursor=pointer]
+                            - button "Comment" [ref=f16e418] [cursor=pointer]
+                            - button "Repost" [ref=f16e424] [cursor=pointer]
+                            - button "Send in a private message" [ref=f16e430] [cursor=pointer]:
+                              - generic [ref=f16e433]: Send
+                - listitem [ref=f16e435]:
+                  - article [ref=f16e440]:
+                    - generic [ref=f16e442]:
+                      - heading "Feed post number 2" [level=2] [ref=f16e443]
+                      - generic [ref=f16e444]:
+                        - generic [ref=f16e445]:
+                          - generic [ref=f16e447]:
+                            - link "View Dr Shyam Barr’s graphic link" [ref=f16e448] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/shyambarr?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAlJ-RcBNq_g-q5uQUiSDdhu8XLk5jKYgu0
+                              - img "View Dr Shyam Barr’s graphic link" [ref=f16e452]
+                            - generic [ref=f16e453]:
+                              - 'link "View: Dr Shyam Barr Premium • 1st I help educators foster students’ metacognition and self-regulated learning | Speaker | Author | Adjunct Associate Professor at Faculty of Education, University of Canberra" [ref=f16e454] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/shyambarr?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAlJ-RcBNq_g-q5uQUiSDdhu8XLk5jKYgu0
+                                - generic [ref=f16e455]:
+                                  - generic [ref=f16e456]: Dr Shyam Barr
+                                  - generic [ref=f16e459]: • 1st
+                                - generic [ref=f16e464]: I help educators foster students’ metacognition and self-regulated learning | Speaker | Author | Adjunct Associate Professor at Faculty of Education, University of Canberra
+                              - link "Visit my website" [ref=f16e466] [cursor=pointer]:
+                                - /url: http://www.shyambarr.com.au
+                              - generic [ref=f16e468]: 3d •
+                          - button "Open control menu for post by Dr Shyam Barr" [ref=f16e476] [cursor=pointer]
+                        - generic [ref=f16e480]:
+                          - generic [ref=f16e483]:
+                            - text: "Before you can teach students to regulate, you need to know where they actually are.In the recent episode of Educate to Self-Regulate, Paula shares how her staff came together to map where students were in relation to personal and social capability.They started with the basics: Do students know what an emotion is? Can they identify it in the moment? Can they regulate?Then, they tracked this across their students, and the shifts were significant - Paula describes students who had previously been physically aggressive becoming engaged and independent learners. Major behaviours decreased by 85%.Note: every behaviour incident takes time away from learning.Emotional awareness isn't a soft add-on. It is part of the foundation students need to become better self-regulated learners.Listen to the full episode to hear how Paula's team built this into their context.Tune in to Spotify, Apple Podcasts or watch the full episode on YouTube:"
+                            - link "https://lnkd.in/gg9bExgd" [ref=f16e484] [cursor=pointer]:
+                              - /url: https://lnkd.in/gg9bExgd
+                            - text: Where would your staff start if you mapped this today?
+                            - link "hashtag EducatetoSelfRegulate" [ref=f16e485] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=%23educatetoselfregulate&origin=HASH_TAG_FROM_FEED
+                              - generic [ref=f16e486]: hashtag
+                              - generic [ref=f16e487]: "#EducatetoSelfRegulate"
+                            - link "hashtag SelfRegulatedLearning" [ref=f16e488] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=%23selfregulatedlearning&origin=HASH_TAG_FROM_FEED
+                              - generic [ref=f16e489]: hashtag
+                              - generic [ref=f16e490]: "#SelfRegulatedLearning"
+                            - link "hashtag metacognition" [ref=f16e491] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=%23metacognition&origin=HASH_TAG_FROM_FEED
+                              - generic [ref=f16e492]: hashtag
+                              - generic [ref=f16e493]: "#metacognition"
+                            - link "hashtag StudentBehaviour" [ref=f16e494] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=%23studentbehaviour&origin=HASH_TAG_FROM_FEED
+                              - generic [ref=f16e495]: hashtag
+                              - generic [ref=f16e496]: "#StudentBehaviour"
+                            - link "hashtag EdPodcast" [ref=f16e497] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=%23edpodcast&origin=HASH_TAG_FROM_FEED
+                              - generic [ref=f16e498]: hashtag
+                              - generic [ref=f16e499]: "#EdPodcast"
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f16e500] [cursor=pointer]:
+                            - generic [ref=f16e501]: …more
+                        - region "Video player" [ref=f16e506]:
+                          - generic [ref=f16e510] [cursor=pointer]
+                          - button "Play" [ref=f16e511] [cursor=pointer]
+                        - generic [ref=f16e513]:
+                          - list [ref=f16e517]:
+                            - listitem [ref=f16e518]:
+                              - button "Michelle Scheibner and 11 others" [ref=f16e519] [cursor=pointer]:
+                                - img "like" [ref=f16e520]
+                                - img "celebrate" [ref=f16e521]
+                                - img "support" [ref=f16e522]
+                                - generic [ref=f16e523]:
+                                  - generic [aria-hidden] [ref=f16e524]: "12"
+                                  - generic [ref=f16e525]: Michelle Scheibner and 11 others
+                            - listitem [ref=f16e526]:
+                              - list [ref=f16e527]:
+                                - listitem [ref=f16e528]:
+                                  - button "1 comment on Dr Shyam Barr’s post" [ref=f16e529] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f16e530]: 1 comment
+                                  - text: ·
+                                - listitem [ref=f16e531]:
+                                  - button "1 repost of Dr Shyam Barr’s post" [ref=f16e532] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f16e533]: 1 repost
+                          - generic [ref=f16e534]:
+                            - generic [ref=f16e535]:
+                              - button "React Like" [ref=f16e536] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f16e541]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f16e542] [cursor=pointer]
+                            - button "Comment" [ref=f16e547] [cursor=pointer]
+                            - button "Repost" [ref=f16e553] [cursor=pointer]
+                            - button "Send in a private message" [ref=f16e559] [cursor=pointer]:
+                              - generic [ref=f16e562]: Send
+                - listitem [ref=f16e564]:
+                  - article [ref=f16e569]:
+                    - generic [ref=f16e571]:
+                      - heading "Feed post number 3" [level=2] [ref=f16e572]
+                      - generic [ref=f16e573]:
+                        - generic [ref=f16e574]:
+                          - generic [ref=f16e576]:
+                            - link "View Dr Shyam Barr’s graphic link" [ref=f16e577] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/shyambarr?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAlJ-RcBNq_g-q5uQUiSDdhu8XLk5jKYgu0
+                              - img "View Dr Shyam Barr’s graphic link" [ref=f16e581]
+                            - generic [ref=f16e582]:
+                              - 'link "View: Dr Shyam Barr Premium • 1st I help educators foster students’ metacognition and self-regulated learning | Speaker | Author | Adjunct Associate Professor at Faculty of Education, University of Canberra" [ref=f16e583] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/shyambarr?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAlJ-RcBNq_g-q5uQUiSDdhu8XLk5jKYgu0
+                                - generic [ref=f16e584]:
+                                  - generic [ref=f16e585]: Dr Shyam Barr
+                                  - generic [ref=f16e588]: • 1st
+                                - generic [ref=f16e593]: I help educators foster students’ metacognition and self-regulated learning | Speaker | Author | Adjunct Associate Professor at Faculty of Education, University of Canberra
+                              - link "Visit my website" [ref=f16e595] [cursor=pointer]:
+                                - /url: http://www.shyambarr.com.au
+                              - generic [ref=f16e597]: 6d •
+                          - button "Open control menu for post by Dr Shyam Barr" [ref=f16e605] [cursor=pointer]
+                        - generic [ref=f16e609]:
+                          - generic [ref=f16e612]:
+                            - text: Last week I had the pleasure of spending the day with the team at Para Hills High School exploring an important question:What knowledge and skills do students need to become self-regulated learners?It sounds like a simple question. But once a room full of teachers starts unpacking it together, things get interesting.What does a self-regulated learner actually do? What strategies do they need? How do we explicitly teach those strategies? And how do we gradually support students to use them without relying on us?I loved the engagement in the room. Teachers tested ideas against their own classrooms, challenged the thinking, and explored what this could look like in practice.The feedback afterwards was incredibly generous. Staff described the day as engaging, relevant, accessible and practical — with one educator sharing:“I was probably not really ‘sold’ on the idea of metacognition before this presentation — but now I feel like there is more purpose for this concept.”That one brought a smile to my face.A huge thank you to Matthew Zviedrans,
+                            - link "Novi Palmer" [ref=f16e614] [cursor=pointer]:
+                              - /url: /in/novi-palmer-528568319/
+                            - text: "-Amran, and the whole Para Hills High School team for the incredibly warm welcome — and, more importantly, for investing in helping students become better learners.I’m looking forward to seeing where the SRL journey takes you next.And if your school is beginning to ask similar questions about metacognition and self-regulated learning, I'd love to work with you.2027 bookings are now open. Visit:"
+                            - link "shyambarr.com.au/services" [ref=f16e615] [cursor=pointer]:
+                              - /url: http://shyambarr.com.au/services
+                            - link "hashtag SelfRegulatedLearning" [ref=f16e616] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=%23selfregulatedlearning&origin=HASH_TAG_FROM_FEED
+                              - generic [ref=f16e617]: hashtag
+                              - generic [ref=f16e618]: "#SelfRegulatedLearning"
+                            - link "hashtag Metacognition" [ref=f16e619] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=%23metacognition&origin=HASH_TAG_FROM_FEED
+                              - generic [ref=f16e620]: hashtag
+                              - generic [ref=f16e621]: "#Metacognition"
+                            - link "hashtag TeacherPD" [ref=f16e622] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=%23teacherpd&origin=HASH_TAG_FROM_FEED
+                              - generic [ref=f16e623]: hashtag
+                              - generic [ref=f16e624]: "#TeacherPD"
+                            - link "hashtag StudentAgency" [ref=f16e625] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=%23studentagency&origin=HASH_TAG_FROM_FEED
+                              - generic [ref=f16e626]: hashtag
+                              - generic [ref=f16e627]: "#StudentAgency"
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f16e628] [cursor=pointer]:
+                            - generic [ref=f16e629]: …more
+                        - region "Video player" [ref=f16e634]:
+                          - generic [ref=f16e638] [cursor=pointer]
+                          - button "Play" [ref=f16e639] [cursor=pointer]
+                        - generic [ref=f16e641]:
+                          - list [ref=f16e645]:
+                            - listitem [ref=f16e646]:
+                              - button "14 reactions" [ref=f16e647] [cursor=pointer]:
+                                - img "like" [ref=f16e648]
+                                - img "love" [ref=f16e649]
+                                - img "celebrate" [ref=f16e650]
+                                - generic [aria-hidden] [ref=f16e651]: "14"
+                          - generic [ref=f16e652]:
+                            - generic [ref=f16e653]:
+                              - button "React Like" [ref=f16e654] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f16e659]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f16e660] [cursor=pointer]
+                            - button "Comment" [ref=f16e665] [cursor=pointer]
+                            - button "Repost" [ref=f16e671] [cursor=pointer]
+                            - button "Send in a private message" [ref=f16e677] [cursor=pointer]:
+                              - generic [ref=f16e680]: Send
+                - listitem [ref=f16e682]:
+                  - article [ref=f16e687]:
+                    - generic [ref=f16e689]:
+                      - heading "Feed post number 4" [level=2] [ref=f16e690]
+                      - generic [ref=f16e691]:
+                        - generic [ref=f16e692]:
+                          - generic [ref=f16e694]:
+                            - link "View Dr Shyam Barr’s graphic link" [ref=f16e695] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/shyambarr?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAlJ-RcBNq_g-q5uQUiSDdhu8XLk5jKYgu0
+                              - img "View Dr Shyam Barr’s graphic link" [ref=f16e699]
+                            - generic [ref=f16e700]:
+                              - 'link "View: Dr Shyam Barr Premium • 1st I help educators foster students’ metacognition and self-regulated learning | Speaker | Author | Adjunct Associate Professor at Faculty of Education, University of Canberra" [ref=f16e701] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/shyambarr?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAlJ-RcBNq_g-q5uQUiSDdhu8XLk5jKYgu0
+                                - generic [ref=f16e702]:
+                                  - generic [ref=f16e703]: Dr Shyam Barr
+                                  - generic [ref=f16e706]: • 1st
+                                - generic [ref=f16e711]: I help educators foster students’ metacognition and self-regulated learning | Speaker | Author | Adjunct Associate Professor at Faculty of Education, University of Canberra
+                              - link "Visit my website" [ref=f16e713] [cursor=pointer]:
+                                - /url: http://www.shyambarr.com.au
+                              - generic [ref=f16e715]: 1w •
+                          - button "Open control menu for post by Dr Shyam Barr" [ref=f16e723] [cursor=pointer]
+                        - generic [ref=f16e727]:
+                          - generic [ref=f16e730]:
+                            - text: "I've been working with a school here in the ACT for a number of years, supporting their focus on metacognition and self-regulated learning (SRL). Recently, the leadership team raised an interesting challenge:“Some students know the learning strategies they've been explicitly taught. They can explain them. They can demonstrate them when asked. But they aren't necessarily using them independently to regulate their learning.”It prompted me to revisit a distinction in the research that I think is really useful for educators: availability deficiency vs production deficiency.Put simply: Does the student not have the strategy available to them? Or do they have it, but aren't using it when it's needed?Being able to tell the difference has important implications for how you teach SRL—and what a student might need from you next.I've unpacked the idea (with the help of an umbrella metaphor ☂️) in my latest blog: When students know what to do, but don't do it. (Link in comments)."
+                            - link "Lisa Pope" [ref=f16e732] [cursor=pointer]:
+                              - /url: /in/lisa-pope-18664a13/
+                            - text: ","
+                            - link "Kirk Zwangobani" [ref=f16e734] [cursor=pointer]:
+                              - /url: /in/kirk-zwangobani-6724a6207/
+                            - text: ","
+                            - link "Nidean Dickson" [ref=f16e736] [cursor=pointer]:
+                              - /url: /in/nidean-dickson-44b4b797/
+                            - text: ","
+                            - link "Ramya Deepak" [ref=f16e738] [cursor=pointer]:
+                              - /url: /in/ramya-deepak/
+                            - text: ","
+                            - link "Dipesh Vadher" [ref=f16e740] [cursor=pointer]:
+                              - /url: /in/dipesh-vadher-2653b1201/
+                            - link "hashtag SelfRegulatedLearning" [ref=f16e741] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=%23selfregulatedlearning&origin=HASH_TAG_FROM_FEED
+                              - generic [ref=f16e742]: hashtag
+                              - generic [ref=f16e743]: "#SelfRegulatedLearning"
+                            - link "hashtag Metacognition" [ref=f16e744] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=%23metacognition&origin=HASH_TAG_FROM_FEED
+                              - generic [ref=f16e745]: hashtag
+                              - generic [ref=f16e746]: "#Metacognition"
+                            - link "hashtag EducationLeadership" [ref=f16e747] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=%23educationleadership&origin=HASH_TAG_FROM_FEED
+                              - generic [ref=f16e748]: hashtag
+                              - generic [ref=f16e749]: "#EducationLeadership"
+                            - link "hashtag TeachingStrategies" [ref=f16e750] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=%23teachingstrategies&origin=HASH_TAG_FROM_FEED
+                              - generic [ref=f16e751]: hashtag
+                              - generic [ref=f16e752]: "#TeachingStrategies"
+                            - link "hashtag StudentAgency" [ref=f16e753] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=%23studentagency&origin=HASH_TAG_FROM_FEED
+                              - generic [ref=f16e754]: hashtag
+                              - generic [ref=f16e755]: "#StudentAgency"
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f16e756] [cursor=pointer]:
+                            - generic [ref=f16e757]: …more
+                        - generic [ref=f16e759]:
+                          - 'button "Activate to view larger image, When students know what to do, but don''t do it: Availability vs Production deficiency in metacognition and self-regulated learning blog by Dr Shyam Barr" [ref=f16e761] [cursor=pointer]':
+                            - generic [ref=f16e762]: Activate to view larger image,
+                            - 'img "When students know what to do, but don''t do it: Availability vs Production deficiency in metacognition and self-regulated learning blog by Dr Shyam Barr" [ref=f16e765]'
+                          - generic [aria-hidden] [ref=f16e766]: Activate to view larger image,
+                        - generic [ref=f16e767]:
+                          - list [ref=f16e771]:
+                            - listitem [ref=f16e772]:
+                              - button "Karen Dunshea and 27 others" [ref=f16e773] [cursor=pointer]:
+                                - img "like" [ref=f16e774]
+                                - img "love" [ref=f16e775]
+                                - img "insightful" [ref=f16e776]
+                                - generic [ref=f16e777]:
+                                  - generic [aria-hidden] [ref=f16e778]: "28"
+                                  - generic [ref=f16e779]: Karen Dunshea and 27 others
+                            - listitem [ref=f16e780]:
+                              - list [ref=f16e781]:
+                                - listitem [ref=f16e782]:
+                                  - button "5 comments on Dr Shyam Barr’s post" [ref=f16e783] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f16e784]: 5 comments
+                          - generic [ref=f16e785]:
+                            - generic [ref=f16e786]:
+                              - button "React Like" [ref=f16e787] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f16e792]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f16e793] [cursor=pointer]
+                            - button "Comment" [ref=f16e798] [cursor=pointer]
+                            - button "Repost" [ref=f16e804] [cursor=pointer]
+                            - button "Send in a private message" [ref=f16e810] [cursor=pointer]:
+                              - generic [ref=f16e813]: Send
+                - listitem [ref=f16e815]:
+                  - article [ref=f16e820]:
+                    - generic [ref=f16e822]:
+                      - heading "Feed post number 5" [level=2] [ref=f16e823]
+                      - generic [ref=f16e824]:
+                        - generic [ref=f16e825]:
+                          - generic [ref=f16e827]:
+                            - link "View Dr Shyam Barr’s graphic link" [ref=f16e828] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/shyambarr?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAlJ-RcBNq_g-q5uQUiSDdhu8XLk5jKYgu0
+                              - img "View Dr Shyam Barr’s graphic link" [ref=f16e832]
+                            - generic [ref=f16e833]:
+                              - 'link "View: Dr Shyam Barr Premium • 1st I help educators foster students’ metacognition and self-regulated learning | Speaker | Author | Adjunct Associate Professor at Faculty of Education, University of Canberra" [ref=f16e834] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/shyambarr?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAlJ-RcBNq_g-q5uQUiSDdhu8XLk5jKYgu0
+                                - generic [ref=f16e835]:
+                                  - generic [ref=f16e836]: Dr Shyam Barr
+                                  - generic [ref=f16e839]: • 1st
+                                - generic [ref=f16e844]: I help educators foster students’ metacognition and self-regulated learning | Speaker | Author | Adjunct Associate Professor at Faculty of Education, University of Canberra
+                              - link "Visit my website" [ref=f16e846] [cursor=pointer]:
+                                - /url: http://www.shyambarr.com.au
+                              - generic [ref=f16e848]: 1w • Edited •
+                          - button "Open control menu for post by Dr Shyam Barr" [ref=f16e856] [cursor=pointer]
+                        - generic [ref=f16e860]:
+                          - generic [ref=f16e863]:
+                            - text: I was at the
+                            - link "Australian Schools Plus" [ref=f16e864] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/company/australian-schools-plus/
+                            - text: Teaching Awards last night — a lovely celebration of teachers doing amazing work across Australia.I’ve only seen Education Minister
+                            - link "Jason Clare MP" [ref=f16e868] [cursor=pointer]:
+                              - /url: /in/jasonclaremp/
+                            - text: "speak a few times live, but I’m always impressed with how well he speaks and the raw emotion that accompanies his words about the value of education and teachers.Interestingly, this morning I found myself reflecting on something he said: “The reading wars are over. We know what works.”Now granted, it may well have just been a poor choice of words, but the message seemed absolute. It reminded me of teaching science, and how easy it is to present our current understanding as complete. Yes, sometimes the evidence banks up so strongly that we move from “I think this is how it is” to “I know this is how it is”. But this absolutist thinking worries me. Not because we shouldn’t have confidence when evidence is strong, but because certainty can close down an open mind. Do we become less curious about what we might not yet know? or become susceptible to confirmation bias?Interestingly, I also chatted with educational leaders from school settings considered ‘innovative’ in the past, and sensed some resistance — even a sense of loss — around the current shift towards more systematic explicit/direct instruction. Those conversations prompted me to think of the “sunk-cost fallacy”: our tendency to stick with an approach because we’ve already invested time and effort into it, even when new evidence emerges.For me, both reflections were a pertinent reminder: To not become so invested in a single approach that we struggle to accept emerging evidence.That we must HOLD OUR IDEAS LIGHTLY.Congratulations to all the awardees - truly inspiring!"
+                            - link "Diane Pashen" [ref=f16e870] [cursor=pointer]:
+                              - /url: /in/diane-pashen-a92111129/
+                            - text: ","
+                            - link "Kate O'Donnell" [ref=f16e872] [cursor=pointer]:
+                              - /url: /in/kate-o-donnell-1285512a7/
+                            - text: ", Andrew Clifton, Joshua Basford, Eloise Boyd, Tammy Anderson, Olivia Watson,"
+                            - link "Steve Kanowski" [ref=f16e874] [cursor=pointer]:
+                              - /url: /in/stevekanowski/
+                            - text: ","
+                            - link "Brad Headlam" [ref=f16e876] [cursor=pointer]:
+                              - /url: /in/brad-headlam-99445a72/
+                            - text: ", Samuel Charlton,"
+                            - link "Kaylene Mladenovic" [ref=f16e878] [cursor=pointer]:
+                              - /url: /in/kaylene-mladenovic-653a6b182/
+                            - text: ","
+                            - link "Steph Insanally" [ref=f16e880] [cursor=pointer]:
+                              - /url: /in/steph-insanally-3252832a4/
+                            - text: ","
+                            - link "Dr Dawn Grant-Skiba" [ref=f16e882] [cursor=pointer]:
+                              - /url: /in/dr-dawn-grant-skiba-7a4ab173/
+                            - text: Deeply grateful for the reflections that have come from the evening.Thank you
+                            - link "Australian Schools Plus" [ref=f16e883] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/company/australian-schools-plus/
+                            - text: ","
+                            - link "Sherrill Nixon" [ref=f16e887] [cursor=pointer]:
+                              - /url: /in/sherrill-nixon-21275745/
+                            - text: and others for putting on a fantastic evening. And so lovely to connect with new and old friends
+                            - link "Kelly Borg" [ref=f16e889] [cursor=pointer]:
+                              - /url: /in/kellyborg/
+                            - text: ","
+                            - link "Kim Brady" [ref=f16e891] [cursor=pointer]:
+                              - /url: /in/kimbrady012/
+                            - text: ","
+                            - link "Michael Ha" [ref=f16e893] [cursor=pointer]:
+                              - /url: /in/michaelhaedu/
+                            - text: ","
+                            - link "Ben Duggan" [ref=f16e895] [cursor=pointer]:
+                              - /url: /in/benpduggan/
+                            - text: ","
+                            - link "Jackie Vaughan" [ref=f16e897] [cursor=pointer]:
+                              - /url: /in/jackie-vaughan-448699109/
+                            - text: ","
+                            - link "Kate Woods" [ref=f16e899] [cursor=pointer]:
+                              - /url: /in/katewoods00/
+                            - text: ","
+                            - link "Rachel Byrne" [ref=f16e901] [cursor=pointer]:
+                              - /url: /in/rachel-byrne-5903b4192/
+                            - text: ","
+                            - link "Kristie de Brenni" [ref=f16e903] [cursor=pointer]:
+                              - /url: /in/kristie-de-brenni-b8a1b239/
+                            - text: ", David Friedlander, Anthony Mackay AM,"
+                            - link "Melissa Planten" [ref=f16e905] [cursor=pointer]:
+                              - /url: /in/melissa-planten-7392a7b3/
+                            - text: ","
+                            - link "Dr Andrea Stringer" [ref=f16e907] [cursor=pointer]:
+                              - /url: /in/dr-andrea-stringer-68220b66/
+                            - text: ","
+                            - link "Hayley Dureau" [ref=f16e909] [cursor=pointer]:
+                              - /url: /in/hayleydureau/
+                            - text: ","
+                            - link "Andrew Batchelor" [ref=f16e911] [cursor=pointer]:
+                              - /url: /in/andrew-batchelor-5426492b1/
+                            - text: and many others.
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f16e912] [cursor=pointer]:
+                            - generic [ref=f16e913]: …more
+                        - generic [ref=f16e915]:
+                          - button "Activate to view larger image, text, letter" [ref=f16e917] [cursor=pointer]:
+                            - generic [ref=f16e918]: Activate to view larger image,
+                            - img "text, letter" [ref=f16e921]
+                          - generic [aria-hidden] [ref=f16e922]: Activate to view larger image,
+                        - generic [ref=f16e923]:
+                          - list [ref=f16e927]:
+                            - listitem [ref=f16e928]:
+                              - button "Michelle Scheibner and 54 others" [ref=f16e929] [cursor=pointer]:
+                                - img "like" [ref=f16e930]
+                                - img "love" [ref=f16e931]
+                                - img "insightful" [ref=f16e932]
+                                - generic [ref=f16e933]:
+                                  - generic [aria-hidden] [ref=f16e934]: "55"
+                                  - generic [ref=f16e935]: Michelle Scheibner and 54 others
+                            - listitem [ref=f16e936]:
+                              - list [ref=f16e937]:
+                                - listitem [ref=f16e938]:
+                                  - button "17 comments on Dr Shyam Barr’s post" [ref=f16e939] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f16e940]: 17 comments
+                          - generic [ref=f16e941]:
+                            - generic [ref=f16e942]:
+                              - button "React Like" [ref=f16e943] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f16e948]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f16e949] [cursor=pointer]
+                            - button "Comment" [ref=f16e954] [cursor=pointer]
+                            - button "Repost" [ref=f16e960] [cursor=pointer]
+                            - button "Send in a private message" [ref=f16e966] [cursor=pointer]:
+                              - generic [ref=f16e969]: Send
+                - listitem [ref=f16e971]
+                - listitem [ref=f16e975]
+                - listitem [ref=f16e979]
+                - listitem [ref=f16e983]
+                - listitem [ref=f16e987]
+                - listitem [ref=f16e991]
+                - listitem [ref=f16e995]
+                - listitem [ref=f16e999]
+                - listitem [ref=f16e1003]
+                - listitem [ref=f16e1007]
+                - listitem [ref=f16e1011]
+                - listitem [ref=f16e1015]
+                - listitem [ref=f16e1019]
+                - listitem [ref=f16e1023]
+                - listitem [ref=f16e1027]
+            - button "Show more results" [ref=f16e1033] [cursor=pointer]
+      - complementary "Interests" [ref=f16e188]:
+        - iframe [ref=f16e1036]:
+          - generic [ref=f17e2]:
+            - generic: Ad
+            - img "overflow-web-small" [ref=f17e6] [cursor=pointer]
+            - link "LinkedIn Ads" [ref=f17e10] [cursor=pointer]:
+              - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Ftraining.marketing.linkedin.com%2Fpage%2Fcertifications%3Fsrc%3Dli-dynamic%26veh%3DFxOS1xCUSTxDAxAPACxENxPDx202402xMarketingHelpCenterCertificationsxLMSActiveAdvertisersx1194xVisitsxv1a%26mcid%3D7387207745470369792%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg0q6dnggfri_StaQh3MfhI1DbZlROoza7BXCA8cV0WXNUYUsUHQCx9145KBrxRRq8lmpOnFbGfxx4apFzHyW_Ac8CYkUYf90czRluMUiLjI4W1SqiBHjfLljcq-BUqwvmnQ81Xr8zUayhGSqD6kTuyTzxn1uglHN3uj6XyoWhlPF0zz2zlKQ__W-FB4wvaOTM9nAZiPfgArQ4Ds4QgBJV-81GRpesZzfpyBGekfqOMyb_5Shd9BiPJs9G-kZdqSxKD6g0C4P-aWpD43yyNyZ-UN05AwVkSjGA9DMViqvtjqSHz48VVBftsqQE0-N6Krpzotqmy40HRT4_d6Eo-XKus1zUEzhgYjrPVBq8vrB1Vo6fY_ySuko65uY8vSKkzxtLdwx0SwO8KuoNYYeTwtlvWsr1ItEL18GTy7YJZeE5MHRd32QTWQTQMZ5pZZBfAC1JJycbSPeR4mFEqHbsObzq-kcXzby5gNUwFFBMukX4mMq_gb9dVKbUh3rVcV6ooK00TAPUq9iTs80BY7CfokA1PsddYyD9P4YB3YWgsPEDa3HofdHy3-bayi_NFBrCz-vVOzVTJjy816BA_eGrY601lkUg7dqmJNRsJ1Hk5PhDLFFERcdJBrTxAUSBL_kdHeS3rgBX8si0LS_U_ScyMSgosxtN4_j-RRHju2bPegnl0qXDx4VwzHyrywr7UCtRHS4neDtDhzztmnxdnLNMoVy_xckBE-nWbb-VJcZrnxD-eW9T8inRP8L-EM-uHBxi3g62aGOSrOz9w-XyuKSDo6vFOgZ5VApdtTaVNjBbg-2CStiIRMq6cIpfQTgYrphjEhv64MUX31foheoNC_j4si8kqCs-hiaJR4qH7Fnr3MeTyBOji_6Q5Mmp6MjEIsSqtznfYJSLuawDowV_09jGgmXyon7v6TFzpSvlfOEpFMjVmzgflvKs0QcZbuz5gkAzQCF2MTGonfItTMv05mZ23-EzCXyIs7XiKdN7tb7hDQLFuPsDeLMfTreA6pr9DVYjlFCa-bCvQBms7Wp5NqyRzorwWmqWaI_IzhcknaO7PbYB5OdBhN0kS8bEOl9gnjx9VrwdN50pi_GhbnVVlCu7eIz88LUdB6JBbD26kuIjGbrjo7ifrGA35mXivZdJxKxOFy5yVjBa8Lpg2AoJ5roiY0-rAbLRtGYz5coFwYz2G6FH%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%22%2C%22trackingId%22%3A%22d01b040b-ad57-430d-b53a-97f8f858cde0%22%7D%2C%22time%22%3A1790241054023%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_view_base_recent_activity_content_view%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+            - generic [ref=f17e11]:
+              - heading "Kelly, Get certified for your LinkedIn Ads skills - it's free!" [level=2] [ref=f17e14]
+              - generic [ref=f17e16]:
+                - img "Kelly" [ref=f17e17]
+                - generic [ref=f17e18]:
+                  - link [ref=f17e19] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Ftraining.marketing.linkedin.com%2Fpage%2Fcertifications%3Fsrc%3Dli-dynamic%26veh%3DFxOS1xCUSTxDAxAPACxENxPDx202402xMarketingHelpCenterCertificationsxLMSActiveAdvertisersx1194xVisitsxv1a%26mcid%3D7387207745470369792%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg0q6dnggfri_StaQh3MfhI1DbZlROoza7BXCA8cV0WXNUYUsUHQCx9145KBrxRRq8lmpOnFbGfxx4apFzHyW_Ac8CYkUYf90czRluMUiLjI4W1SqiBHjfLljcq-BUqwvmnQ81Xr8zUayhGSqD6kTuyTzxn1uglHN3uj6XyoWhlPF0zz2zlKQ__W-FB4wvaOTM9nAZiPfgArQ4Ds4QgBJV-81GRpesZzfpyBGekfqOMyb_5Shd9BiPJs9G-kZdqSxKD6g0C4P-aWpD43yyNyZ-UN05AwVkSjGA9DMViqvtjqSHz48VVBftsqQE0-N6Krpzotqmy40HRT4_d6Eo-XKus1zUEzhgYjrPVBq8vrB1Vo6fY_ySuko65uY8vSKkzxtLdwx0SwO8KuoNYYeTwtlvWsr1ItEL18GTy7YJZeE5MHRd32QTWQTQMZ5pZZBfAC1JJycbSPeR4mFEqHbsObzq-kcXzby5gNUwFFBMukX4mMq_gb9dVKbUh3rVcV6ooK00TAPUq9iTs80BY7CfokA1PsddYyD9P4YB3YWgsPEDa3HofdHy3-bayi_NFBrCz-vVOzVTJjy816BA_eGrY601lkUg7dqmJNRsJ1Hk5PhDLFFERcdJBrTxAUSBL_kdHeS3rgBX8si0LS_U_ScyMSgosxtN4_j-RRHju2bPegnl0qXDx4VwzHyrywr7UCtRHS4neDtDhzztmnxdnLNMoVy_xckBE-nWbb-VJcZrnxD-eW9T8inRP8L-EM-uHBxi3g62aGOSrOz9w-XyuKSDo6vFOgZ5VApdtTaVNjBbg-2CStiIRMq6cIpfQTgYrphjEhv64MUX31foheoNC_j4si8kqCs-hiaJR4qH7Fnr3MeTyBOji_6Q5Mmp6MjEIsSqtznfYJSLuawDowV_09jGgmXyon7v6TFzpSvlfOEpFMjVmzgflvKs0QcZbuz5gkAzQCF2MTGonfItTMv05mZ23-EzCXyIs7XiKdN7tb7hDQLFuPsDeLMfTreA6pr9DVYjlFCa-bCvQBms7Wp5NqyRzorwWmqWaI_IzhcknaO7PbYB5OdBhN0kS8bEOl9gnjx9VrwdN50pi_GhbnVVlCu7eIz88LUdB6JBbD26kuIjGbrjo7ifrGA35mXivZdJxKxOFy5yVjBa8Lpg2AoJ5roiY0-rAbLRtGYz5coFwYz2G6FH%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%22%2C%22trackingId%22%3A%22d01b040b-ad57-430d-b53a-97f8f858cde0%22%7D%2C%22time%22%3A1790241054023%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_view_base_recent_activity_content_view%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                    - img "LinkedIn Ads" [ref=f17e20]
+                  - tooltip "LinkedIn Ads" [ref=f17e21]
+              - generic [ref=f17e22]:
+                - heading "Earn up to 3 certifications with our free courses" [level=2] [ref=f17e25]
+                - link "Get Certified Now" [ref=f17e27] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Ftraining.marketing.linkedin.com%2Fpage%2Fcertifications%3Fsrc%3Dli-dynamic%26veh%3DFxOS1xCUSTxDAxAPACxENxPDx202402xMarketingHelpCenterCertificationsxLMSActiveAdvertisersx1194xVisitsxv1a%26mcid%3D7387207745470369792%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg0q6dnggfri_StaQh3MfhI1DbZlROoza7BXCA8cV0WXNUYUsUHQCx9145KBrxRRq8lmpOnFbGfxx4apFzHyW_Ac8CYkUYf90czRluMUiLjI4W1SqiBHjfLljcq-BUqwvmnQ81Xr8zUayhGSqD6kTuyTzxn1uglHN3uj6XyoWhlPF0zz2zlKQ__W-FB4wvaOTM9nAZiPfgArQ4Ds4QgBJV-81GRpesZzfpyBGekfqOMyb_5Shd9BiPJs9G-kZdqSxKD6g0C4P-aWpD43yyNyZ-UN05AwVkSjGA9DMViqvtjqSHz48VVBftsqQE0-N6Krpzotqmy40HRT4_d6Eo-XKus1zUEzhgYjrPVBq8vrB1Vo6fY_ySuko65uY8vSKkzxtLdwx0SwO8KuoNYYeTwtlvWsr1ItEL18GTy7YJZeE5MHRd32QTWQTQMZ5pZZBfAC1JJycbSPeR4mFEqHbsObzq-kcXzby5gNUwFFBMukX4mMq_gb9dVKbUh3rVcV6ooK00TAPUq9iTs80BY7CfokA1PsddYyD9P4YB3YWgsPEDa3HofdHy3-bayi_NFBrCz-vVOzVTJjy816BA_eGrY601lkUg7dqmJNRsJ1Hk5PhDLFFERcdJBrTxAUSBL_kdHeS3rgBX8si0LS_U_ScyMSgosxtN4_j-RRHju2bPegnl0qXDx4VwzHyrywr7UCtRHS4neDtDhzztmnxdnLNMoVy_xckBE-nWbb-VJcZrnxD-eW9T8inRP8L-EM-uHBxi3g62aGOSrOz9w-XyuKSDo6vFOgZ5VApdtTaVNjBbg-2CStiIRMq6cIpfQTgYrphjEhv64MUX31foheoNC_j4si8kqCs-hiaJR4qH7Fnr3MeTyBOji_6Q5Mmp6MjEIsSqtznfYJSLuawDowV_09jGgmXyon7v6TFzpSvlfOEpFMjVmzgflvKs0QcZbuz5gkAzQCF2MTGonfItTMv05mZ23-EzCXyIs7XiKdN7tb7hDQLFuPsDeLMfTreA6pr9DVYjlFCa-bCvQBms7Wp5NqyRzorwWmqWaI_IzhcknaO7PbYB5OdBhN0kS8bEOl9gnjx9VrwdN50pi_GhbnVVlCu7eIz88LUdB6JBbD26kuIjGbrjo7ifrGA35mXivZdJxKxOFy5yVjBa8Lpg2AoJ5roiY0-rAbLRtGYz5coFwYz2G6FH%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%22%2C%22trackingId%22%3A%22d01b040b-ad57-430d-b53a-97f8f858cde0%22%7D%2C%22time%22%3A1790241054023%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_view_base_recent_activity_content_view%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+        - generic [ref=f16e1037]:
+          - heading "People you may know" [level=2] [ref=f16e1042]
+          - generic [ref=f16e1044]:
+            - list [ref=f16e1045]:
+              - listitem [ref=f16e1046]:
+                - generic [ref=f16e1047]:
+                  - link [ref=f16e1049] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/nayantharapv
+                    - img "Nayan Thara P V is open to work" [ref=f16e1052]
+                  - generic [ref=f16e1053]:
+                    - link "Nayan Thara P V CMS Expert | Journalist | Writer | Content Creative & Strategist" [ref=f16e1055] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/nayantharapv?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADDsw-gBRkEAwEcNi-J7Vz7ZB5-5gUQ472U
+                      - generic [ref=f16e1056]: Nayan Thara P V
+                      - generic [ref=f16e1065]: CMS Expert | Journalist | Writer | Content Creative & Strategist
+                    - list [ref=f16e1071]:
+                      - listitem [ref=f16e1072]:
+                        - button "Invite Nayan Thara P V to connect" [ref=f16e1074] [cursor=pointer]:
+                          - generic [ref=f16e1077]: Connect
+              - listitem [ref=f16e1078]:
+                - generic [ref=f16e1079]:
+                  - link [ref=f16e1081] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/astryd-aniel-412837436
+                    - img "Astryd Aniel" [ref=f16e1084]
+                  - generic [ref=f16e1085]:
+                    - link "Astryd Aniel Author - Mentor - Member of the Collective Consciousness at Freelance | Self-Employed" [ref=f16e1087] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/astryd-aniel-412837436?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAG4dJI4BI_sazPzT-qYLQ9yw5UNqnqdmx4M
+                      - generic [ref=f16e1088]: Astryd Aniel
+                      - generic [ref=f16e1093]: Author - Mentor - Member of the Collective Consciousness at Freelance | Self-Employed
+                    - list [ref=f16e1099]:
+                      - listitem [ref=f16e1100]:
+                        - button "Invite Astryd Aniel to connect" [ref=f16e1102] [cursor=pointer]:
+                          - generic [ref=f16e1105]: Connect
+              - listitem [ref=f16e1106]:
+                - generic [ref=f16e1107]:
+                  - link [ref=f16e1109] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/anna-kosiedowski-312b95152
+                    - img "Anna Kosiedowski" [ref=f16e1112]
+                  - generic [ref=f16e1113]:
+                    - link "Anna Kosiedowski People & Culture Manager" [ref=f16e1115] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/anna-kosiedowski-312b95152?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACTWoH4BCmOerTfbTKQFdvaBmGBTxITf5Sk
+                      - generic [ref=f16e1116]: Anna Kosiedowski
+                      - generic [ref=f16e1125]: People & Culture Manager
+                    - list [ref=f16e1131]:
+                      - listitem [ref=f16e1132]:
+                        - button "Invite Anna Kosiedowski to connect" [ref=f16e1134] [cursor=pointer]:
+                          - generic [ref=f16e1137]: Connect
+              - listitem [ref=f16e1138]:
+                - generic [ref=f16e1139]:
+                  - link [ref=f16e1141] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/sonam-malhi-b00106436
+                    - img "Sonam Malhi" [ref=f16e1144]
+                  - generic [ref=f16e1145]:
+                    - link "Sonam Malhi 2IC at TeamKids" [ref=f16e1147] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/sonam-malhi-b00106436?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAG4BmrABmHYaA-HhYSbY-VAYqhCzBJfo8xY
+                      - generic [ref=f16e1148]: Sonam Malhi
+                      - generic [ref=f16e1153]: 2IC at TeamKids
+                    - list [ref=f16e1159]:
+                      - listitem [ref=f16e1160]:
+                        - button "Invite Sonam Malhi to connect" [ref=f16e1162] [cursor=pointer]:
+                          - generic [ref=f16e1165]: Connect
+              - listitem [ref=f16e1166]:
+                - generic [ref=f16e1167]:
+                  - link [ref=f16e1169] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/jimmy-hartanto-230757185
+                    - img "Jimmy Hartanto" [ref=f16e1172]
+                  - generic [ref=f16e1173]:
+                    - link "Jimmy Hartanto AI Automation Consultant & Engineer for recruitment firms | Most of your workflow doesn’t need AI. I find the part that does, build it, and keep it running | Discovery call first" [ref=f16e1175] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/jimmy-hartanto-230757185?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACu3KYQBWDUCuGn26KSLRwLO72cWck9KLYA
+                      - generic [ref=f16e1176]: Jimmy Hartanto
+                      - generic [ref=f16e1185]: AI Automation Consultant & Engineer for recruitment firms | Most of your workflow doesn’t need AI. I find the part that does, build it, and keep it running | Discovery call first
+                    - list [ref=f16e1191]:
+                      - listitem [ref=f16e1192]:
+                        - button "Invite Jimmy Hartanto to connect" [ref=f16e1194] [cursor=pointer]:
+                          - generic [ref=f16e1197]: Connect
+            - button "Show more" [ref=f16e1200] [cursor=pointer]
+        - generic "LinkedIn Footer Content" [ref=f16e250]:
+          - generic [ref=f16e251]:
+            - list [ref=f16e1205]:
+              - listitem [ref=f16e1206]:
+                - link "About" [ref=f16e1207] [cursor=pointer]:
+                  - /url: https://about.linkedin.com/
+              - listitem [ref=f16e1209]:
+                - link "Accessibility" [ref=f16e1210] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/accessibility
+              - listitem [ref=f16e1212]:
+                - link "Help Center" [ref=f16e1213] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin?trk=footer_d_flagship3_profile_view_base_recent_activity_content_view
+              - listitem [ref=f16e1215]:
+                - button "Privacy & Terms" [ref=f16e1217] [cursor=pointer]
+              - listitem [ref=f16e1222]:
+                - link "Ad Choices" [ref=f16e1223] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin/answer/62931
+              - listitem [ref=f16e1225]:
+                - link "Advertising" [ref=f16e1226] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/ad/start?trk=n_nav_ads_rr
+              - listitem [ref=f16e1228]:
+                - button "Business Services" [ref=f16e1230] [cursor=pointer]
+              - listitem [ref=f16e1235]:
+                - button "Get the LinkedIn app" [ref=f16e1238] [cursor=pointer]
+              - listitem [ref=f16e1239]:
+                - button "More options" [ref=f16e1240] [cursor=pointer]: More
+            - generic [ref=f16e252]:
+              - img "LinkedIn" [ref=f16e253]
+              - text: LinkedIn Corporation © 2026
+    - generic:
+      - generic:
+        - complementary:
+          - generic [ref=f16e256]:
+            - generic [ref=f16e257]:
+              - generic [ref=f16e259] [cursor=pointer]:
+                - img "Kelly Irving" [ref=f16e261]
+                - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f16e262]:
+                  - generic [ref=f16e263]:
+                    - generic [aria-hidden] [ref=f16e264]: Messaging
+                    - generic [ref=f16e265]: You are on the messaging overlay. Press enter to open the list of conversations.
+                - mark [aria-hidden] [ref=f16e266]:
+                  - generic [ref=f16e267]: "2"
+              - generic [ref=f16e268]:
+                - button [ref=f16e270] [cursor=pointer]:
+                  - img "Open messenger dropdown menu" [ref=f16e271]
+                - button "Compose message" [ref=f16e274] [cursor=pointer]
+                - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f16e278] [cursor=pointer]
+            - generic [ref=f16e1241]:
+              - heading "Page inboxes" [level=3] [ref=f16e1243]
+              - generic [ref=f16e1244] [cursor=pointer]:
+                - generic [ref=f16e1245]: Click to see affiliated inboxes
+                - button "Page inboxes" [ref=f16e1246]
+        - complementary "AI-powered assistant to get help with your career, jobs etc"
+  - region [ref=f16e282]
