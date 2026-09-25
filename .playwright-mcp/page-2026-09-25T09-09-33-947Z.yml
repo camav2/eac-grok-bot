@@ -1,0 +1,504 @@
+- generic [ref=f55e2]:
+  - heading "0 notifications" [level=2] [ref=f55e3]
+  - generic [ref=f55e4]:
+    - generic:
+      - generic "Skip navigation menu":
+        - button "Close jump menu" [ref=f55e6] [cursor=pointer]
+    - generic [ref=f55e9]:
+      - banner [ref=f55e11]:
+        - generic [ref=f55e14]:
+          - button [ref=f55e15] [cursor=pointer]
+          - generic [ref=f55e17]:
+            - status [ref=f55e18]
+            - search [ref=f55e19]:
+              - textbox "I'm looking for…" [ref=f55e23]
+          - generic [ref=f55e25]:
+            - navigation [ref=f55e29]:
+              - list [ref=f55e30]:
+                - listitem [ref=f55e31]:
+                  - button "Home, 1 new notification" [ref=f55e32] [cursor=pointer]:
+                    - generic [ref=f55e36]: Home
+                - listitem [ref=f55e38]:
+                  - link "My Network, 29 new notifications" [ref=f55e39] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork
+                    - generic [ref=f55e40]: "29"
+                    - generic [ref=f55e44]: My Network
+                - listitem [ref=f55e46]:
+                  - link "Jobs, 0 new notifications" [ref=f55e47] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/
+                    - generic [ref=f55e51]: Jobs
+                - listitem [ref=f55e53]:
+                  - link "Messaging, 2 new notifications" [ref=f55e54] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/messaging/
+                    - generic [ref=f55e55]: "2"
+                    - generic [ref=f55e59]: Messaging
+                - listitem [ref=f55e61]:
+                  - link "Notifications, 22 new notifications" [ref=f55e62] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/notifications/
+                    - generic [ref=f55e63]: "22"
+                    - generic [ref=f55e67]: Notifications
+                - listitem [ref=f55e69]:
+                  - button "Me" [ref=f55e70] [cursor=pointer]:
+                    - figure [aria-hidden] [ref=f55e72]
+            - navigation [ref=f55e78]:
+              - list [ref=f55e79]:
+                - listitem [ref=f55e80]:
+                  - button "For Business" [ref=f55e81] [cursor=pointer]
+                - listitem [ref=f55e88]:
+                  - link "Advertise, 3 new notifications" [ref=f55e89] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/campaignmanager/accounts/
+                    - generic [ref=f55e90]: "3"
+                    - generic [ref=f55e93]: Advertise
+      - main [ref=f55e97]:
+        - generic [ref=f55e99]:
+          - complementary "Sidebar" [ref=f55e100]:
+            - generic [ref=f55e103]:
+              - generic [ref=f55e107]:
+                - link [ref=f55e108] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/kelly-irving/
+                  - generic [ref=f55e109]:
+                    - generic [ref=f55e110]:
+                      - figure [aria-hidden] [ref=f55e111]
+                      - paragraph [ref=f55e113]: Premium
+                    - figure [ref=f55e116]
+                - generic [ref=f55e117]:
+                  - link [ref=f55e118] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic "Kelly Irving, Book coach and editor for changemakers and trailblazers / Publishing gymnast, Anglesea, Victoria, Premium profile" [ref=f55e119]:
+                      - paragraph [ref=f55e122]: Kelly Irving
+                      - paragraph [ref=f55e125]: Book coach and editor for changemakers and trailblazers / Publishing gymnast
+                      - paragraph [ref=f55e126]: Anglesea, Victoria
+                  - link [ref=f55e127] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic [ref=f55e128]:
+                      - figure [aria-hidden] [ref=f55e129]
+                      - paragraph [ref=f55e130]: Expert Author Community
+              - generic [ref=f55e132]:
+                - menu [ref=f55e133]:
+                  - link [ref=f55e135] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/me/profile-views/
+                    - generic "Profile viewers 293" [ref=f55e136]:
+                      - paragraph [ref=f55e138]: Profile viewers
+                      - paragraph [ref=f55e139]: "293"
+                  - link [ref=f55e141] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/analytics/creator/content/
+                    - generic "Post impressions 1,096" [ref=f55e142]:
+                      - paragraph [ref=f55e144]: Post impressions
+                      - paragraph [ref=f55e145]: 1,096
+                - menu [ref=f55e146]:
+                  - link [ref=f55e148] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/premium/my-premium/
+                    - paragraph [ref=f55e151]: Your Premium features
+          - region "Primary content" [ref=f55e152]:
+            - generic [ref=f55e158]:
+              - listitem [ref=f55e163]:
+                - generic [ref=f55e165]:
+                  - heading "Feed post" [level=2]
+                  - generic [ref=f55e167]:
+                    - link [ref=f55e168] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/clintrahe/
+                      - figure [ref=f55e169]
+                    - generic [ref=f55e171]:
+                      - link [ref=f55e174] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/clintrahe/
+                        - generic "Clint Rahe Premium Profile 1st" [ref=f55e176]:
+                          - paragraph [ref=f55e179]: Clint Rahe
+                          - paragraph [ref=f55e181]:
+                            - generic [ref=f55e182]: • 1st
+                      - paragraph [ref=f55e186]: Most organisations have upgraded their technology. Not their Leadership Operating System. | Helping organisations redesign leadership for the knowledge age| Keynote Speaker | Author of The Cognitive Athlete
+                      - paragraph [ref=f55e188]: 1mo
+                      - link "Clint Rahe Premium Profile 1st":
+                        - /url: https://www.linkedin.com/in/clintrahe/
+                    - button "Open control menu for post by Clint Rahe" [ref=f55e189] [cursor=pointer]
+                  - paragraph [ref=f55e192]:
+                    - generic [ref=f55e193]:
+                      - text: I thought writing the book would be the hard part.It wasn’t.The hard part has been everything that came after it.Trying to work out what to do myself, what to outsource, how often to talk about the book without feeling like a broken record, where to show up, who to speak to and what people should do after they finish reading it.Reaching 1,000 copies sold made me stop and think about the things I’ve learned along the way.Some I got right.Some I learned the hard way.I’ve shared five of them in this week’s newsletter.A big thank you to
+                      - link "View Jordon Lott’s profile" [ref=f55e195] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/jordonlott/
+                        - strong [ref=f55e196]: Jordon Lott
+                      - text: ", my commissioning editor, and the"
+                      - 'link "View company: Wiley" [ref=f55e198] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/company/john-wiley-and-sons/
+                        - strong [ref=f55e199]: Wiley
+                      - text: team for backing the book and helping me get it into the world.Thanks also to the
+                      - 'link "View company: Expert Author Community" [ref=f55e201] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/company/expert-author-community/
+                        - strong [ref=f55e202]: Expert Author Community
+                      - text: . Being part of that group while I was writing made a huge difference.And to everyone who has bought it, recommended it, interviewed me, invited me to speak, stocked it, shared it or simply had a conversation with me about it, thank you.The 1,000 copies matter.But the conversations they have started matter more.
+                  - generic [ref=f55e203]:
+                    - button "Play video" [ref=f55e209] [cursor=pointer]
+                    - link:
+                      - /url: https://www.linkedin.com/pulse/5-lessons-from-selling-my-first-1000-books-clint-rahe-jmjec/
+                    - generic [ref=f55e212]:
+                      - link:
+                        - /url: https://www.linkedin.com/pulse/5-lessons-from-selling-my-first-1000-books-clint-rahe-jmjec/
+                      - link [ref=f55e213] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/newsletters/the-cognitive-athlete-7328907119942946816/
+                        - generic [ref=f55e214]:
+                          - figure [aria-hidden] [ref=f55e215]
+                          - paragraph [ref=f55e217]: The Cognitive Athlete
+                          - button "Subscribe to The Cognitive Athlete newsletter" [ref=f55e219]:
+                            - generic [ref=f55e220]: Subscribe
+                      - paragraph [ref=f55e224]: 5 Lessons from Selling My First 1,000 Books
+                      - paragraph [ref=f55e226]: Clint Rahe
+                  - generic [ref=f55e227]:
+                    - link [ref=f55e228] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "Switch to different account" [ref=f55e229]:
+                        - figure [aria-hidden] [ref=f55e230]
+                    - generic [ref=f55e232]:
+                      - 'button "Reaction button state: no reaction" [ref=f55e235] [cursor=pointer]':
+                        - generic [ref=f55e236]: "71"
+                      - button "Open reactions menu"
+                    - button "Comment" [ref=f55e241] [cursor=pointer]:
+                      - generic [ref=f55e242]: "27"
+                    - button "Repost" [ref=f55e247] [cursor=pointer]
+                    - link "Send" [ref=f55e250] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                    - link [ref=f55e253] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "71 reactions" [ref=f55e254]
+                - generic [ref=f55e263]:
+                  - status [ref=f55e266]
+                  - generic [ref=f55e267]:
+                    - button "Show Emoji Picker" [ref=f55e268] [cursor=pointer]
+                    - button "Open GIF picker" [ref=f55e273] [cursor=pointer]
+                    - button "Share photo" [ref=f55e276] [cursor=pointer]
+              - generic [ref=f55e279]:
+                - link:
+                  - /url: https://www.linkedin.com/
+                - generic [ref=f55e280]:
+                  - link:
+                    - /url: https://www.linkedin.com/
+                  - generic [ref=f55e281]:
+                    - link:
+                      - /url: https://www.linkedin.com/
+                    - link [ref=f55e282] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/renee-aurish-199369b1/
+                      - generic "Renee Aurish reacted with Love" [ref=f55e283]:
+                        - figure [aria-hidden] [ref=f55e284]
+                    - link [ref=f55e286] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/lisa-taylor-83226195/
+                      - generic "Lisa Taylor reacted with Celebrate" [ref=f55e287]:
+                        - figure [aria-hidden] [ref=f55e288]
+                    - link [ref=f55e290] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/saoriordan/
+                      - generic "Siobhán O'Riordan reacted with Like" [ref=f55e291]:
+                        - figure [aria-hidden] [ref=f55e292]
+                    - link [ref=f55e294] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/drkenhudson/
+                      - generic "Dr Ken Hudson reacted with Like" [ref=f55e295]:
+                        - figure [aria-hidden] [ref=f55e296]
+                    - link [ref=f55e298] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/rebeccacattran/
+                      - generic "Rebecca Cattran 🧡 Change. Leadership. Coach. reacted with Support" [ref=f55e299]:
+                        - figure [aria-hidden] [ref=f55e300]
+                    - link [ref=f55e302] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/emma-rahe-63968033/
+                      - generic "Emma Rahe reacted with Like" [ref=f55e303]:
+                        - figure [aria-hidden] [ref=f55e304]
+                    - link [ref=f55e306] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/taural/
+                      - generic "Taural Rhoden reacted with Like" [ref=f55e307]:
+                        - figure [aria-hidden] [ref=f55e308]
+                    - link [ref=f55e310] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/sarah-gray-gaicd/
+                      - generic "Sarah Gray GAICD reacted with Like" [ref=f55e311]:
+                        - figure [aria-hidden] [ref=f55e312]
+                    - link "View all reactions" [ref=f55e314] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+              - button [ref=f55e319] [cursor=pointer]:
+                - paragraph [ref=f55e323]: Most relevant
+              - generic [ref=f55e329]:
+                - link [ref=f55e331] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/clintrahe/
+                  - figure [ref=f55e332]
+                - generic [ref=f55e333]:
+                  - generic [ref=f55e335]:
+                    - link [ref=f55e336] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/clintrahe/
+                      - generic [ref=f55e337]:
+                        - generic [ref=f55e338]:
+                          - paragraph [ref=f55e341]: Clint Rahe
+                          - paragraph [ref=f55e342]: Author
+                        - paragraph [ref=f55e344]: Most organisations have upgraded their technology. Not their Leadership Operating System. | Helping organisations redesign leadership for the knowledge age| Keynote Speaker | Author of The Cognitive Athlete
+                    - paragraph [ref=f55e346]: 2mo
+                    - button "View more options for Clint Rahe’s comment." [ref=f55e347] [cursor=pointer]
+                  - paragraph [ref=f55e353]:
+                    - generic [ref=f55e354]: One thing I'd love to know from other authors... What's the one thing you wish someone had told you before you published? I'm sure there are plenty of lessons I haven't learned yet.
+                  - generic [ref=f55e358]:
+                    - generic [ref=f55e359]:
+                      - button "0" [ref=f55e362] [cursor=pointer]:
+                        - generic [ref=f55e363]:
+                          - generic:
+                            - paragraph:
+                              - generic: "0"
+                      - button "Open reactions menu"
+                    - button "Reply" [ref=f55e367] [cursor=pointer]
+              - generic [ref=f55e374]:
+                - link [ref=f55e376] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/lisa-taylor-83226195/
+                  - figure [ref=f55e377]
+                - generic [ref=f55e378]:
+                  - generic [ref=f55e380]:
+                    - link "Lisa Taylor Verified Profile 1st Leadership & Relationships Consultant | Family Therapist | Educator | Keynote Speaker | Author of The Perfect Parent Trap | Helping leaders, teams and families understand the patterns beneath behaviour" [ref=f55e381] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/lisa-taylor-83226195/
+                      - generic [ref=f55e382]:
+                        - paragraph [ref=f55e386]:
+                          - generic [ref=f55e387]:
+                            - generic [ref=f55e388]: Lisa Taylor Verified Profile 1st
+                            - generic [aria-hidden] [ref=f55e389]:
+                              - text: Lisa Taylor
+                              - generic [ref=f55e392]: • 1st
+                        - paragraph [ref=f55e394]: Leadership & Relationships Consultant | Family Therapist | Educator | Keynote Speaker | Author of The Perfect Parent Trap | Helping leaders, teams and families understand the patterns beneath behaviour
+                    - paragraph [ref=f55e396]: 2mo
+                    - button "View more options for Lisa Taylor’s comment." [ref=f55e397] [cursor=pointer]
+                  - paragraph [ref=f55e403]:
+                    - generic [ref=f55e404]:
+                      - text: Congratulation
+                      - link "View Clint Rahe’s profile" [ref=f55e406] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/clintrahe/
+                        - strong [ref=f55e407]: Clint Rahe
+                      - text: . that is brilliant. Similarly to you, get clear on the purpose of writing your book, we can get pulled in so many different directions if we are not clear. I'm so happy for you.
+                  - generic [ref=f55e409]:
+                    - generic [ref=f55e410]:
+                      - generic [ref=f55e411]:
+                        - button "1 reaction" [ref=f55e414] [cursor=pointer]:
+                          - paragraph [ref=f55e418]:
+                            - generic [ref=f55e419]:
+                              - generic [ref=f55e420]: 1 reaction
+                              - text: "1"
+                        - button "Open reactions menu"
+                      - generic [ref=f55e421]:
+                        - button "Reply" [ref=f55e422] [cursor=pointer]
+                        - paragraph [ref=f55e426]:
+                          - generic [ref=f55e427]:
+                            - generic [ref=f55e428]: "1"
+                            - text: "1"
+                    - link [ref=f55e430] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "Reacted to by the author" [ref=f55e431]:
+                        - figure [aria-hidden] [ref=f55e432]
+              - generic [ref=f55e439]:
+                - link [ref=f55e441] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/clintrahe/
+                  - figure [ref=f55e442]
+                - generic [ref=f55e443]:
+                  - generic [ref=f55e445]:
+                    - link [ref=f55e446] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/clintrahe/
+                      - generic [ref=f55e447]:
+                        - generic [ref=f55e448]:
+                          - paragraph [ref=f55e451]: Clint Rahe
+                          - paragraph [ref=f55e452]: Author
+                        - paragraph [ref=f55e454]: Most organisations have upgraded their technology. Not their Leadership Operating System. | Helping organisations redesign leadership for the knowledge age| Keynote Speaker | Author of The Cognitive Athlete
+                    - paragraph [ref=f55e456]: 2mo
+                    - button "View more options for Clint Rahe’s comment." [ref=f55e457] [cursor=pointer]
+                  - paragraph [ref=f55e463]:
+                    - generic [ref=f55e464]:
+                      - text: Spot on,
+                      - link "View Lisa Taylor’s profile" [ref=f55e466] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/lisa-taylor-83226195/
+                        - strong [ref=f55e467]: Lisa
+                      - text: . Having a clear purpose is what keeps you grounded when all the opportunities, advice and distractions start pulling you in different directions. I know you’ve experienced that journey too, so I really appreciate your support.
+                  - generic [ref=f55e470]:
+                    - generic [ref=f55e471]:
+                      - button "0" [ref=f55e474] [cursor=pointer]:
+                        - generic [ref=f55e475]:
+                          - generic:
+                            - paragraph:
+                              - generic: "0"
+                      - button "Open reactions menu"
+                    - button "Reply" [ref=f55e479] [cursor=pointer]
+              - generic [ref=f55e486]:
+                - link [ref=f55e488] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/dave-edward-touchpointsales/
+                  - figure [ref=f55e489]
+                - generic [ref=f55e490]:
+                  - generic [ref=f55e492]:
+                    - link "Dave Edward Verified Profile 2nd Customers don’t want to be sold to, They want to be certain | Creator of ‘from Prospects to Profits’ framework | 40 years in sales" [ref=f55e493] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/dave-edward-touchpointsales/
+                      - generic [ref=f55e494]:
+                        - paragraph [ref=f55e498]:
+                          - generic [ref=f55e499]:
+                            - generic [ref=f55e500]: Dave Edward Verified Profile 2nd
+                            - generic [aria-hidden] [ref=f55e501]:
+                              - text: Dave Edward
+                              - generic [ref=f55e504]: • 2nd
+                        - paragraph [ref=f55e506]: Customers don’t want to be sold to, They want to be certain | Creator of ‘from Prospects to Profits’ framework | 40 years in sales
+                    - paragraph [ref=f55e508]: 2mo
+                    - button [ref=f55e510] [cursor=pointer]:
+                      - generic "Follow Dave Edward" [ref=f55e511]:
+                        - paragraph [ref=f55e513]: Follow
+                    - button "View more options for Dave Edward’s comment." [ref=f55e514] [cursor=pointer]
+                  - paragraph [ref=f55e520]:
+                    - generic [ref=f55e521]:
+                      - text: It's one thing I've been thinking about for a while, whether to write a book. Now you are a published author, what advice would you give to someone like me
+                      - link "View Clint Rahe’s profile" [ref=f55e523] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/clintrahe/
+                        - strong [ref=f55e524]: Clint
+                      - text: "?"
+                  - generic [ref=f55e526]:
+                    - generic [ref=f55e527]:
+                      - generic [ref=f55e528]:
+                        - button "1 reaction" [ref=f55e531] [cursor=pointer]:
+                          - paragraph [ref=f55e535]:
+                            - generic [ref=f55e536]:
+                              - generic [ref=f55e537]: 1 reaction
+                              - text: "1"
+                        - button "Open reactions menu"
+                      - generic [ref=f55e538]:
+                        - button "Reply" [ref=f55e539] [cursor=pointer]
+                        - paragraph [ref=f55e543]:
+                          - generic [ref=f55e544]:
+                            - generic [ref=f55e545]: "2"
+                            - text: "2"
+                    - link [ref=f55e547] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "Reacted to by the author" [ref=f55e548]:
+                        - figure [aria-hidden] [ref=f55e549]
+              - button [ref=f55e555] [cursor=pointer]:
+                - paragraph [ref=f55e556]: See previous replies
+              - generic [ref=f55e561]:
+                - link [ref=f55e563] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/dave-edward-touchpointsales/
+                  - figure [ref=f55e564]
+                - generic [ref=f55e565]:
+                  - generic [ref=f55e567]:
+                    - link "Dave Edward Verified Profile 2nd Customers don’t want to be sold to, They want to be certain | Creator of ‘from Prospects to Profits’ framework | 40 years in sales" [ref=f55e568] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/dave-edward-touchpointsales/
+                      - generic [ref=f55e569]:
+                        - paragraph [ref=f55e573]:
+                          - generic [ref=f55e574]:
+                            - generic [ref=f55e575]: Dave Edward Verified Profile 2nd
+                            - generic [aria-hidden] [ref=f55e576]:
+                              - text: Dave Edward
+                              - generic [ref=f55e579]: • 2nd
+                        - paragraph [ref=f55e581]: Customers don’t want to be sold to, They want to be certain | Creator of ‘from Prospects to Profits’ framework | 40 years in sales
+                    - paragraph [ref=f55e583]: 2mo
+                    - button [ref=f55e585] [cursor=pointer]:
+                      - generic "Follow Dave Edward" [ref=f55e586]:
+                        - paragraph [ref=f55e588]: Follow
+                    - button "View more options for Dave Edward’s comment." [ref=f55e589] [cursor=pointer]
+                  - paragraph [ref=f55e595]:
+                    - generic [ref=f55e596]:
+                      - link "View Clint Rahe’s profile" [ref=f55e598] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/clintrahe/
+                        - strong [ref=f55e599]: Clint
+                      - text: ", thanks for your response. I can make the time to write it, just need to find out what the budget would be for publishing and promoting it.I read a lot about books being used for credibility, whilst I can see how that would work, I also like the idea of the book standing on it's own two feet and need to understand how that affects the whole project.Thanks again."
+                  - generic [ref=f55e601]:
+                    - generic [ref=f55e602]:
+                      - generic [ref=f55e603]:
+                        - button "1 reaction" [ref=f55e606] [cursor=pointer]:
+                          - paragraph [ref=f55e610]:
+                            - generic [ref=f55e611]:
+                              - generic [ref=f55e612]: 1 reaction
+                              - text: "1"
+                        - button "Open reactions menu"
+                      - button "Reply" [ref=f55e614] [cursor=pointer]
+                    - link [ref=f55e618] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "Reacted to by the author" [ref=f55e619]:
+                        - figure [aria-hidden] [ref=f55e620]
+              - generic [ref=f55e627]:
+                - link [ref=f55e629] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/chrisschwagervideoproduction/
+                  - figure [ref=f55e630]
+                - generic [ref=f55e631]:
+                  - generic [ref=f55e633]:
+                    - link "Chris Schwager Verified Profile 2nd Video holding you back? I help coaches and consultants show up with clarity, confidence, and a studio setup that positions them as the authority. Neuroencoding Specialist | Video Coach" [ref=f55e634] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/chrisschwagervideoproduction/
+                      - generic [ref=f55e635]:
+                        - paragraph [ref=f55e639]:
+                          - generic [ref=f55e640]:
+                            - generic [ref=f55e641]: Chris Schwager Verified Profile 2nd
+                            - generic [aria-hidden] [ref=f55e642]:
+                              - text: Chris Schwager
+                              - generic [ref=f55e645]: • 2nd
+                        - paragraph [ref=f55e647]: Video holding you back? I help coaches and consultants show up with clarity, confidence, and a studio setup that positions them as the authority. Neuroencoding Specialist | Video Coach
+                    - paragraph [ref=f55e649]: 2mo
+                    - button [ref=f55e651] [cursor=pointer]:
+                      - generic "Follow Chris Schwager" [ref=f55e652]:
+                        - paragraph [ref=f55e654]: Follow
+                    - button "View more options for Chris Schwager’s comment." [ref=f55e655] [cursor=pointer]
+                  - paragraph [ref=f55e661]:
+                    - generic [ref=f55e662]: The number gets you noticed. It's the conversations afterwards that actually build the trust.
+                  - generic [ref=f55e664]:
+                    - generic [ref=f55e665]:
+                      - generic [ref=f55e666]:
+                        - button "1 reaction" [ref=f55e669] [cursor=pointer]:
+                          - paragraph [ref=f55e673]:
+                            - generic [ref=f55e674]:
+                              - generic [ref=f55e675]: 1 reaction
+                              - text: "1"
+                        - button "Open reactions menu"
+                      - generic [ref=f55e676]:
+                        - button "Reply" [ref=f55e677] [cursor=pointer]
+                        - paragraph [ref=f55e681]:
+                          - generic [ref=f55e682]:
+                            - generic [ref=f55e683]: "1"
+                            - text: "1"
+                    - link [ref=f55e685] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "Reacted to by the author" [ref=f55e686]:
+                        - figure [aria-hidden] [ref=f55e687]
+              - generic [ref=f55e694]:
+                - link [ref=f55e696] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/clintrahe/
+                  - figure [ref=f55e697]
+                - generic [ref=f55e698]:
+                  - generic [ref=f55e700]:
+                    - link [ref=f55e701] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/clintrahe/
+                      - generic [ref=f55e702]:
+                        - generic [ref=f55e703]:
+                          - paragraph [ref=f55e706]: Clint Rahe
+                          - paragraph [ref=f55e707]: Author
+                        - paragraph [ref=f55e709]: Most organisations have upgraded their technology. Not their Leadership Operating System. | Helping organisations redesign leadership for the knowledge age| Keynote Speaker | Author of The Cognitive Athlete
+                    - paragraph [ref=f55e711]: 2mo
+                    - button "View more options for Clint Rahe’s comment." [ref=f55e712] [cursor=pointer]
+                  - paragraph [ref=f55e718]:
+                    - generic [ref=f55e719]:
+                      - text: 100%
+                      - link "View Chris Schwager’s profile" [ref=f55e721] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/chrisschwagervideoproduction/
+                        - strong [ref=f55e722]: Chris
+                      - text: ", it is all in the conversations"
+                  - generic [ref=f55e725]:
+                    - generic [ref=f55e726]:
+                      - button "0" [ref=f55e729] [cursor=pointer]:
+                        - generic [ref=f55e730]:
+                          - generic:
+                            - paragraph:
+                              - generic: "0"
+                      - button "Open reactions menu"
+                    - button "Reply" [ref=f55e734] [cursor=pointer]
+          - complementary "Aside" [ref=f55e864]:
+            - generic [ref=f55e870]:
+              - generic [ref=f55e871]:
+                - link [ref=f55e872] [cursor=pointer]:
+                  - /url: https://about.linkedin.com/
+                  - paragraph [ref=f55e873]: About
+                - link [ref=f55e874] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/accessibility/
+                  - paragraph [ref=f55e875]: Accessibility
+                - link [ref=f55e876] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin/
+                  - paragraph [ref=f55e877]: Help Center
+                - button [ref=f55e878] [cursor=pointer]:
+                  - paragraph [ref=f55e880]: Privacy & Terms
+                - link [ref=f55e882] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin/answer/62931/
+                  - paragraph [ref=f55e883]: Ad Choices
+                - link [ref=f55e884] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/ad/start/?trk=n_nav_ads_rr
+                  - paragraph [ref=f55e885]: Advertising
+                - button [ref=f55e886] [cursor=pointer]:
+                  - paragraph [ref=f55e888]: Business Services
+                - link [ref=f55e890] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/mobile/
+                  - paragraph [ref=f55e891]: Get the LinkedIn app
+                - link [ref=f55e892] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/
+                  - paragraph [ref=f55e893]: More
+              - paragraph [ref=f55e896]: LinkedIn Corporation © 2026

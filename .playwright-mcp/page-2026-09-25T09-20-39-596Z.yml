@@ -1,0 +1,378 @@
+- generic [ref=f230e2]:
+  - heading "0 notifications" [level=2] [ref=f230e3]
+  - generic [ref=f230e4]:
+    - generic:
+      - generic "Skip navigation menu":
+        - button "Close jump menu" [ref=f230e6] [cursor=pointer]
+    - generic [ref=f230e9]:
+      - banner [ref=f230e11]:
+        - generic [ref=f230e14]:
+          - button [ref=f230e15] [cursor=pointer]
+          - generic [ref=f230e17]:
+            - status [ref=f230e18]
+            - search [ref=f230e19]:
+              - textbox "I'm looking for…" [ref=f230e23]
+          - generic [ref=f230e25]:
+            - navigation [ref=f230e29]:
+              - list [ref=f230e30]:
+                - listitem [ref=f230e31]:
+                  - button "Home, 1 new notification" [ref=f230e32] [cursor=pointer]:
+                    - generic [ref=f230e36]: Home
+                - listitem [ref=f230e38]:
+                  - link "My Network, 29 new notifications" [ref=f230e39] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork
+                    - generic [ref=f230e40]: "29"
+                    - generic [ref=f230e44]: My Network
+                - listitem [ref=f230e46]:
+                  - link "Jobs, 0 new notifications" [ref=f230e47] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/
+                    - generic [ref=f230e51]: Jobs
+                - listitem [ref=f230e53]:
+                  - link "Messaging, 2 new notifications" [ref=f230e54] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/messaging/
+                    - generic [ref=f230e55]: "2"
+                    - generic [ref=f230e59]: Messaging
+                - listitem [ref=f230e61]:
+                  - link "Notifications, 22 new notifications" [ref=f230e62] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/notifications/
+                    - generic [ref=f230e63]: "22"
+                    - generic [ref=f230e67]: Notifications
+                - listitem [ref=f230e69]:
+                  - button "Me" [ref=f230e70] [cursor=pointer]:
+                    - figure [aria-hidden] [ref=f230e72]
+            - navigation [ref=f230e78]:
+              - list [ref=f230e79]:
+                - listitem [ref=f230e80]:
+                  - button "For Business" [ref=f230e81] [cursor=pointer]
+                - listitem [ref=f230e88]:
+                  - link "Advertise, 3 new notifications" [ref=f230e89] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/campaignmanager/accounts/
+                    - generic [ref=f230e90]: "3"
+                    - generic [ref=f230e93]: Advertise
+      - main [ref=f230e97]:
+        - generic [ref=f230e99]:
+          - complementary "Sidebar" [ref=f230e100]:
+            - generic [ref=f230e103]:
+              - generic [ref=f230e107]:
+                - link [ref=f230e108] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/kelly-irving/
+                  - generic [ref=f230e109]:
+                    - generic [ref=f230e110]:
+                      - figure [aria-hidden] [ref=f230e111]
+                      - paragraph [ref=f230e113]: Premium
+                    - figure [ref=f230e116]
+                - generic [ref=f230e117]:
+                  - link [ref=f230e118] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic "Kelly Irving, Book coach and editor for changemakers and trailblazers / Publishing gymnast, Anglesea, Victoria, Premium profile" [ref=f230e119]:
+                      - paragraph [ref=f230e122]: Kelly Irving
+                      - paragraph [ref=f230e125]: Book coach and editor for changemakers and trailblazers / Publishing gymnast
+                      - paragraph [ref=f230e126]: Anglesea, Victoria
+                  - link [ref=f230e127] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic [ref=f230e128]:
+                      - figure [aria-hidden] [ref=f230e129]
+                      - paragraph [ref=f230e130]: Expert Author Community
+              - generic [ref=f230e132]:
+                - menu [ref=f230e133]:
+                  - link [ref=f230e135] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/me/profile-views/
+                    - generic "Profile viewers 293" [ref=f230e136]:
+                      - paragraph [ref=f230e138]: Profile viewers
+                      - paragraph [ref=f230e139]: "293"
+                  - link [ref=f230e141] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/analytics/creator/content/
+                    - generic "Post impressions 1,102" [ref=f230e142]:
+                      - paragraph [ref=f230e144]: Post impressions
+                      - paragraph [ref=f230e145]: 1,102
+                - menu [ref=f230e146]:
+                  - link [ref=f230e148] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/premium/my-premium/
+                    - paragraph [ref=f230e151]: Your Premium features
+          - region "Primary content" [ref=f230e152]:
+            - generic [ref=f230e158]:
+              - listitem [ref=f230e163]:
+                - generic [ref=f230e165]:
+                  - heading "Feed post" [level=2]
+                  - generic [ref=f230e167]:
+                    - link [ref=f230e168] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/seri-renkin-oam/
+                      - figure [ref=f230e169]
+                    - generic [ref=f230e171]:
+                      - link [ref=f230e174] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/seri-renkin-oam/
+                        - generic "Seri Renkin OAM Premium Profile 1st" [ref=f230e176]:
+                          - paragraph [ref=f230e179]: Seri Renkin OAM
+                          - paragraph [ref=f230e181]:
+                            - generic [ref=f230e182]: • 1st
+                      - paragraph [ref=f230e186]: Co-founder/ED The Dea Network |Women’s Wealth Community • Values Aligned Stewardship Ecosystem for Women | Catalyst for women and wealth | Women’s Wealth Health | Changing the narrative on women and money
+                      - link [ref=f230e190] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/safety/go/?url=http%3A%2F%2Fwww%2Ethedeanetwork%2Ecom&urlhash=Q2w6&mt=fRKjnJGSAXP0w9hQ48fZ_Ej_UznzidCn-hg16VAkoZtCIuG4t49jGjjyOVLd2ZF_8W-JO5NkDI7Wo8XR9jGuoLs9WWDewXQj3WDuZyc7&isSdui=true
+                        - paragraph [ref=f230e191]: Visit my website
+                      - paragraph [ref=f230e193]: 1d
+                      - link "Seri Renkin OAM Premium Profile 1st":
+                        - /url: https://www.linkedin.com/in/seri-renkin-oam/
+                    - button "Open control menu for post by Seri Renkin OAM" [ref=f230e194] [cursor=pointer]
+                  - paragraph [ref=f230e197]:
+                    - generic [ref=f230e198]:
+                      - text: Our lunchtime salon in Perth 🤩this week Wealth is moving into women's hands faster than the systems around them were built for. That's why capability and judgement matter now, not later. That was the starting point for a brilliant
+                      - strong [ref=f230e199]: The Dea Network
+                      - text: "lunchtime salon in Perth this week, with forty women who came curious, values-led, and willing to ask: what is my actual relationship with money? We spoke about the money patterns we inherit; who manages wealth in our family; who participates in stewardship decisions and who doesn't, and why. We talked about where we get our financial and investment information, whom we turn to when a big decision lands: an exit, a death, a divorce, a windfall. And we discussed what becomes possible if we capitalise on this moment. More women than any generation before will hold decision-making power over wealth. Not just ownership but agency. The confidence, the access, the community and the structures to direct where that capital goes. Perth carries its own version of this story: a city built on resources, mining, property, family business, private enterprise and philanthropy. The opportunity for women stewards has its own unique flavour and story. What struck me was the energy in the room, women of all ages, mothers and daughters speaking at tables, openly sharing, offering each other names, experience, and lessons. That's what a community can do, and that's what we're building with Dea. A place for women to explore identity, purpose and action through stewardship, and have a real say in where capital goes next. Perth, thank you for being a part of this journey with us. We look forward to more conversations with you and are excited that Dea is now in the West! We're very grateful to the team at"
+                      - 'link "View company: Lipman Burgon" [ref=f230e201] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/company/lipman-burgon/
+                        - strong [ref=f230e202]: Lipman Burgon
+                      - text: for hosting the event as part of their Women, Wealth & Wisdom series, and to our fabulous Perth-based Advisory Board member,
+                      - link "View Bree Fraser’s profile" [ref=f230e204] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/bree-michelle-fraser/
+                        - strong [ref=f230e205]: Bree Fraser
+                      - text: founder of
+                      - 'link "View company: Theá Advisory" [ref=f230e207] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/company/thea-advisory/
+                        - strong [ref=f230e208]: Theá Advisory
+                      - text: ", for curating such a great group of women."
+                      - strong [ref=f230e209]: "#womenandwealh"
+                      - strong [ref=f230e210]: "#womenmovingcapital"
+                      - strong [ref=f230e211]: Lillian Kline
+                      - strong [ref=f230e212]: Rebecca Rozencwajg
+                      - strong [ref=f230e213]: Wendy Bonnici
+                      - link "View Deborah Harbrow’s profile" [ref=f230e215] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/deborah-harbrow-33a079a6/
+                        - strong [ref=f230e216]: Deborah Harbrow
+                      - link "View Ashlen Morelli’s profile" [ref=f230e218] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/ashlen-morelli/
+                        - strong [ref=f230e219]: Ashlen Morelli
+                  - link [ref=f230e221] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/
+                    - figure [ref=f230e222]:
+                      - img "View image" [ref=f230e223]
+                  - generic [ref=f230e224]:
+                    - link [ref=f230e225] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "Switch to different account" [ref=f230e226]:
+                        - figure [aria-hidden] [ref=f230e227]
+                    - generic [ref=f230e229]:
+                      - 'button "Reaction button state: Like" [ref=f230e232] [cursor=pointer]':
+                        - generic [ref=f230e233]: "95"
+                      - button "Open reactions menu"
+                    - button "Comment" [ref=f230e238] [cursor=pointer]:
+                      - generic [ref=f230e239]: "6"
+                    - button "Repost" [ref=f230e244] [cursor=pointer]
+                    - link "Send" [ref=f230e247] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                    - link [ref=f230e250] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "95 reactions" [ref=f230e251]
+                - generic [ref=f230e260]:
+                  - status [ref=f230e263]
+                  - generic [ref=f230e264]:
+                    - button "Show Emoji Picker" [ref=f230e265] [cursor=pointer]
+                    - button "Open GIF picker" [ref=f230e270] [cursor=pointer]
+                    - button "Share photo" [ref=f230e273] [cursor=pointer]
+              - generic [ref=f230e276]:
+                - link:
+                  - /url: https://www.linkedin.com/
+                - generic [ref=f230e277]:
+                  - link:
+                    - /url: https://www.linkedin.com/
+                  - generic [ref=f230e278]:
+                    - link:
+                      - /url: https://www.linkedin.com/
+                    - link [ref=f230e279] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/kelly-irving/
+                      - generic "Kelly Irving reacted with Like" [ref=f230e280]:
+                        - figure [aria-hidden] [ref=f230e281]
+                    - link [ref=f230e283] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/monicabradley/
+                      - generic "Monica Bradley reacted with Celebrate" [ref=f230e284]:
+                        - figure [aria-hidden] [ref=f230e285]
+                    - link [ref=f230e287] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/sallyrhill/
+                      - generic "Sally Hill reacted with Love" [ref=f230e288]:
+                        - figure [aria-hidden] [ref=f230e289]
+                    - link [ref=f230e291] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/lanajohnston/
+                      - generic "Lana Johnston reacted with Like" [ref=f230e292]:
+                        - figure [aria-hidden] [ref=f230e293]
+                    - link [ref=f230e295] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/jacquiclarke/
+                      - generic "Jacqui Clarke reacted with Like" [ref=f230e296]:
+                        - figure [aria-hidden] [ref=f230e297]
+                    - link [ref=f230e299] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/elizabeth-williamson-au/
+                      - generic "Elizabeth Williamson reacted with Love" [ref=f230e300]:
+                        - figure [aria-hidden] [ref=f230e301]
+                    - link [ref=f230e303] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/wendypavey/
+                      - generic "Wendy Pavey reacted with Celebrate" [ref=f230e304]:
+                        - figure [aria-hidden] [ref=f230e305]
+                    - link [ref=f230e307] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/amy-sutton-39902422/
+                      - generic "Amy Sutton reacted with Like" [ref=f230e308]:
+                        - figure [aria-hidden] [ref=f230e309]
+                    - link "View all reactions" [ref=f230e311] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+              - button [ref=f230e316] [cursor=pointer]:
+                - paragraph [ref=f230e320]: Most relevant
+              - generic [ref=f230e326]:
+                - link [ref=f230e328] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/kate-reardon-8a70141a/
+                  - figure [ref=f230e329]
+                - generic [ref=f230e330]:
+                  - generic [ref=f230e332]:
+                    - link "Kate Reardon Verified Profile 2nd Internal Capacity Expert | Advising & Supporting High-Performing Leaders Navigate Change, Growth & Greater Responsibility Without Losing Themselves In The Process | Keynote Speaker | Executive Leadership Advisor | Author" [ref=f230e333] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/kate-reardon-8a70141a/
+                      - generic [ref=f230e334]:
+                        - paragraph [ref=f230e338]:
+                          - generic [ref=f230e339]:
+                            - generic [ref=f230e340]: Kate Reardon Verified Profile 2nd
+                            - generic [aria-hidden] [ref=f230e341]:
+                              - text: Kate Reardon
+                              - generic [ref=f230e344]: • 2nd
+                        - paragraph [ref=f230e346]: Internal Capacity Expert | Advising & Supporting High-Performing Leaders Navigate Change, Growth & Greater Responsibility Without Losing Themselves In The Process | Keynote Speaker | Executive Leadership Advisor | Author
+                    - paragraph [ref=f230e348]: 5h
+                    - button [ref=f230e350] [cursor=pointer]:
+                      - generic "Follow Kate Reardon" [ref=f230e351]:
+                        - paragraph [ref=f230e353]: Follow
+                    - button "View more options for Kate Reardon’s comment." [ref=f230e354] [cursor=pointer]
+                  - paragraph [ref=f230e360]:
+                    - generic [ref=f230e361]: this sounds wonderful. bravo
+                  - generic [ref=f230e364]:
+                    - generic [ref=f230e365]:
+                      - button "0" [ref=f230e368] [cursor=pointer]:
+                        - generic [ref=f230e369]:
+                          - generic:
+                            - paragraph:
+                              - generic: "0"
+                      - button "Open reactions menu"
+                    - button "Reply" [ref=f230e373] [cursor=pointer]
+              - generic [ref=f230e380]:
+                - link [ref=f230e382] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/nimdeswardt/
+                  - figure [ref=f230e383]
+                - generic [ref=f230e384]:
+                  - generic [ref=f230e386]:
+                    - link "Nim de Swardt Premium Profile 2nd Family Adviser, Storyteller & Non-Exec Director 𖤓 Founder, RE-CONNECT - Home Of Narrative Capital™" [ref=f230e387] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/nimdeswardt/
+                      - generic [ref=f230e388]:
+                        - paragraph [ref=f230e392]:
+                          - generic [ref=f230e393]:
+                            - generic [ref=f230e394]: Nim de Swardt Premium Profile 2nd
+                            - generic [aria-hidden] [ref=f230e395]:
+                              - text: Nim de Swardt
+                              - generic [ref=f230e398]: • 2nd
+                        - paragraph [ref=f230e400]: Family Adviser, Storyteller & Non-Exec Director 𖤓 Founder, RE-CONNECT - Home Of Narrative Capital™
+                    - paragraph [ref=f230e402]: 1d
+                    - button [ref=f230e404] [cursor=pointer]:
+                      - generic "Follow Nim de Swardt" [ref=f230e405]:
+                        - paragraph [ref=f230e407]: Follow
+                    - button "View more options for Nim de Swardt’s comment." [ref=f230e408] [cursor=pointer]
+                  - paragraph [ref=f230e414]:
+                    - generic [ref=f230e415]: Two of the greats 🫶🏻 go girls
+                  - generic [ref=f230e417]:
+                    - generic [ref=f230e418]:
+                      - generic [ref=f230e419]:
+                        - button "1 reaction" [ref=f230e422] [cursor=pointer]:
+                          - paragraph [ref=f230e426]:
+                            - generic [ref=f230e427]:
+                              - generic [ref=f230e428]: 1 reaction
+                              - text: "1"
+                        - button "Open reactions menu"
+                      - button "Reply" [ref=f230e430] [cursor=pointer]
+                    - link [ref=f230e433] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+              - generic [ref=f230e439]:
+                - link [ref=f230e441] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/kate-temby-b24723101/
+                  - figure [ref=f230e442]
+                - generic [ref=f230e443]:
+                  - generic [ref=f230e445]:
+                    - 'link "Kate Temby 2nd Board member: Netwealth (ASX: NWL) & Conscious Investment Management" [ref=f230e446] [cursor=pointer]':
+                      - /url: https://www.linkedin.com/in/kate-temby-b24723101/
+                      - generic [ref=f230e447]:
+                        - paragraph [ref=f230e451]:
+                          - generic [ref=f230e452]:
+                            - generic [ref=f230e453]: Kate Temby 2nd
+                            - generic [aria-hidden] [ref=f230e454]:
+                              - text: Kate Temby
+                              - generic [ref=f230e455]: • 2nd
+                        - paragraph [ref=f230e457]: "Board member: Netwealth (ASX: NWL) & Conscious Investment Management"
+                    - paragraph [ref=f230e459]: 1d
+                    - button [ref=f230e461] [cursor=pointer]:
+                      - generic "Follow Kate Temby" [ref=f230e462]:
+                        - paragraph [ref=f230e464]: Follow
+                    - button "View more options for Kate Temby’s comment." [ref=f230e465] [cursor=pointer]
+                  - paragraph [ref=f230e471]:
+                    - generic [ref=f230e472]: Fabulous
+                  - generic [ref=f230e474]:
+                    - generic [ref=f230e475]:
+                      - generic [ref=f230e476]:
+                        - button "1 reaction" [ref=f230e479] [cursor=pointer]:
+                          - paragraph [ref=f230e483]:
+                            - generic [ref=f230e484]:
+                              - generic [ref=f230e485]: 1 reaction
+                              - text: "1"
+                        - button "Open reactions menu"
+                      - button "Reply" [ref=f230e487] [cursor=pointer]
+                    - link [ref=f230e490] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+              - generic [ref=f230e496]:
+                - link [ref=f230e498] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/valerie-formby-06b48b58/
+                  - figure [ref=f230e499]
+                - generic [ref=f230e500]:
+                  - generic [ref=f230e502]:
+                    - link "Valerie Formby 2nd Founder at HUB Interiors Australia" [ref=f230e503] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/valerie-formby-06b48b58/
+                      - generic [ref=f230e504]:
+                        - paragraph [ref=f230e508]:
+                          - generic [ref=f230e509]:
+                            - generic [ref=f230e510]: Valerie Formby 2nd
+                            - generic [aria-hidden] [ref=f230e511]:
+                              - text: Valerie Formby
+                              - generic [ref=f230e512]: • 2nd
+                        - paragraph [ref=f230e514]: Founder at HUB Interiors Australia
+                    - paragraph [ref=f230e516]: 8h
+                    - button [ref=f230e518] [cursor=pointer]:
+                      - generic "Follow Valerie Formby" [ref=f230e519]:
+                        - paragraph [ref=f230e521]: Follow
+                    - button "View more options for Valerie Formby’s comment." [ref=f230e522] [cursor=pointer]
+                  - paragraph [ref=f230e528]:
+                    - generic [ref=f230e529]: Thank you for a wonderful afternoon, filled with thought provoking conversations. It was great to meet so many dynamic women.
+                  - generic [ref=f230e532]:
+                    - generic [ref=f230e533]:
+                      - button "0" [ref=f230e536] [cursor=pointer]:
+                        - generic [ref=f230e537]:
+                          - generic:
+                            - paragraph:
+                              - generic: "0"
+                      - button "Open reactions menu"
+                    - button "Reply" [ref=f230e541] [cursor=pointer]
+          - complementary "Aside" [ref=f230e671]:
+            - generic [ref=f230e677]:
+              - generic [ref=f230e678]:
+                - link [ref=f230e679] [cursor=pointer]:
+                  - /url: https://about.linkedin.com/
+                  - paragraph [ref=f230e680]: About
+                - link [ref=f230e681] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/accessibility/
+                  - paragraph [ref=f230e682]: Accessibility
+                - link [ref=f230e683] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin/
+                  - paragraph [ref=f230e684]: Help Center
+                - button [ref=f230e685] [cursor=pointer]:
+                  - paragraph [ref=f230e687]: Privacy & Terms
+                - link [ref=f230e689] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin/answer/62931/
+                  - paragraph [ref=f230e690]: Ad Choices
+                - link [ref=f230e691] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/ad/start/?trk=n_nav_ads_rr
+                  - paragraph [ref=f230e692]: Advertising
+                - button [ref=f230e693] [cursor=pointer]:
+                  - paragraph [ref=f230e695]: Business Services
+                - link [ref=f230e697] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/mobile/
+                  - paragraph [ref=f230e698]: Get the LinkedIn app
+                - link [ref=f230e699] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/
+                  - paragraph [ref=f230e700]: More
+              - paragraph [ref=f230e703]: LinkedIn Corporation © 2026

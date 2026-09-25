@@ -1,0 +1,394 @@
+- generic [ref=f211e2]:
+  - heading "0 notifications" [level=2] [ref=f211e3]
+  - generic [ref=f211e4]:
+    - generic:
+      - generic "Skip navigation menu":
+        - generic [ref=f211e340]:
+          - button "Skip to search" [ref=f211e341] [cursor=pointer]
+          - button "Skip to main content" [ref=f211e344] [cursor=pointer]
+          - button "Skip to primary content" [ref=f211e347] [cursor=pointer]
+          - button "Close jump menu" [ref=f211e6] [cursor=pointer]
+    - generic [ref=f211e9]:
+      - banner [ref=f211e11]:
+        - generic [ref=f211e14]:
+          - button [ref=f211e352] [cursor=pointer]:
+            - img "LinkedIn" [ref=f211e353]
+          - generic [ref=f211e17]:
+            - status [ref=f211e18]
+            - search [ref=f211e19]:
+              - textbox "I'm looking for…" [ref=f211e23]: "\"Our lunchtime salon in Perth\""
+          - generic [ref=f211e25]:
+            - figure [aria-hidden] [ref=f211e361]
+            - navigation [ref=f211e29]:
+              - list [ref=f211e30]:
+                - listitem [ref=f211e31]:
+                  - button "Home, 1 new notification" [ref=f211e32] [cursor=pointer]:
+                    - generic: Home
+                - listitem [ref=f211e38]:
+                  - link "My Network, 29 new notifications" [ref=f211e39] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork
+                    - generic [ref=f211e40]: "29"
+                    - generic: My Network
+                - listitem [ref=f211e46]:
+                  - link "Jobs, 0 new notifications" [ref=f211e47] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/
+                    - generic: Jobs
+                - listitem [ref=f211e53]:
+                  - link "Messaging, 2 new notifications" [ref=f211e54] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/messaging/
+                    - generic [ref=f211e55]: "2"
+                    - generic: Messaging
+                - listitem [ref=f211e61]:
+                  - link "Notifications, 22 new notifications" [ref=f211e62] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/notifications/
+                    - generic [ref=f211e63]: "22"
+                    - generic: Notifications
+                - listitem [ref=f211e69]:
+                  - button [ref=f211e70] [cursor=pointer]:
+                    - figure [aria-hidden] [ref=f211e72]
+            - navigation [ref=f211e78]:
+              - list [ref=f211e79]:
+                - listitem [ref=f211e80]:
+                  - button "For Business" [ref=f211e81] [cursor=pointer]
+                - listitem [ref=f211e88]:
+                  - link "Advertise, 3 new notifications" [ref=f211e89] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/campaignmanager/accounts/
+                    - generic [ref=f211e90]: "3"
+                    - generic: Advertise
+      - generic [ref=f211e95]:
+        - toolbar [ref=f211e96]:
+          - generic [ref=f211e372]:
+            - radiogroup [ref=f211e373]:
+              - radio "Filter by Posts" [checked] [ref=f211e374] [cursor=pointer]:
+                - generic "Filter by Posts" [ref=f211e375]:
+                  - checkbox "Posts" [checked]
+                  - generic [ref=f211e376]: Posts
+            - button [ref=f211e380] [cursor=pointer]:
+              - generic "Filter by Sort by" [ref=f211e381]:
+                - checkbox "Sort by"
+                - generic [ref=f211e382]: Sort by
+            - button [ref=f211e386] [cursor=pointer]:
+              - generic "Filter by Date posted" [ref=f211e387]:
+                - checkbox "Date posted"
+                - generic [ref=f211e388]: Date posted
+            - button [ref=f211e392] [cursor=pointer]:
+              - generic "Filter by Content type" [ref=f211e393]:
+                - checkbox "Content type"
+                - generic [ref=f211e394]: Content type
+            - button [ref=f211e398] [cursor=pointer]:
+              - generic "Filter by From member" [ref=f211e399]:
+                - checkbox "From member"
+                - generic [ref=f211e400]: From member
+            - button "All filters" [ref=f211e403] [cursor=pointer]
+        - main [ref=f211e110]:
+          - region "Primary content" [ref=f211e114]:
+            - generic [ref=f211e115]:
+              - generic [ref=f211e117]:
+                - listitem [ref=f211e121]:
+                  - generic [ref=f211e123]:
+                    - heading "Feed post" [level=2]
+                    - generic [ref=f211e125]:
+                      - link [ref=f211e126] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/seri-renkin-oam/
+                        - figure [ref=f211e127]:
+                          - img "View Seri Renkin OAM’s profile" [ref=f211e406]
+                      - generic [ref=f211e129]:
+                        - link [ref=f211e132] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/seri-renkin-oam/
+                          - generic "Seri Renkin OAM Premium Profile 1st" [ref=f211e134]:
+                            - paragraph [ref=f211e137]: Seri Renkin OAM
+                            - paragraph [ref=f211e139]:
+                              - generic [ref=f211e140]: • 1st
+                        - paragraph [ref=f211e144]: Co-founder/ED The Dea Network |Women’s Wealth Community • Values Aligned Stewardship Ecosystem for Women | Catalyst for women and wealth | Women’s Wealth Health | Changing the narrative on women and money
+                        - link [ref=f211e148] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/safety/go/?url=http%3A%2F%2Fwww%2Ethedeanetwork%2Ecom&urlhash=Q2w6&mt=W8Ad6Nk_GRD-MbaNspdfmKN-lbtP_tCs0dNybdeWmXxgindY0CFL4Vdyr1wQP9tdc7pquAxH12pEVKquSN6pt83-yjoa1DJJkIZ6sccn&isSdui=true
+                          - paragraph [ref=f211e149]: Visit my website
+                        - paragraph [ref=f211e151]: 1d
+                        - link "Seri Renkin OAM Premium Profile 1st":
+                          - /url: https://www.linkedin.com/in/seri-renkin-oam/
+                      - button "Open control menu for post by Seri Renkin OAM" [ref=f211e152] [cursor=pointer]
+                    - paragraph [ref=f211e155]:
+                      - generic [active] [ref=f211e156]:
+                        - text: Our lunchtime salon in Perth 🤩this week Wealth is moving into women's hands faster than the systems around them were built for. That's why capability and judgement matter now, not later. That was the starting point for a brilliant
+                        - strong [ref=f211e157]: The Dea Network
+                        - text: "lunchtime salon in Perth this week, with forty women who came curious, values-led, and willing to ask: what is my actual relationship with money? We spoke about the money patterns we inherit; who manages wealth in our family; who participates in stewardship decisions and who doesn't, and why. We talked about where we get our financial and investment information, whom we turn to when a big decision lands: an exit, a death, a divorce, a windfall. And we discussed what becomes possible if we capitalise on this moment. More women than any generation before will hold decision-making power over wealth. Not just ownership but agency. The confidence, the access, the community and the structures to direct where that capital goes. Perth carries its own version of this story: a city built on resources, mining, property, family business, private enterprise and philanthropy. The opportunity for women stewards has its own unique flavour and story. What struck me was the energy in the room, women of all ages, mothers and daughters speaking at tables, openly sharing, offering each other names, experience, and lessons. That's what a community can do, and that's what we're building with Dea. A place for women to explore identity, purpose and action through stewardship, and have a real say in where capital goes next. Perth, thank you for being a part of this journey with us. We look forward to more conversations with you and are excited that Dea is now in the West! We're very grateful to the team at"
+                        - 'link "View company: Lipman Burgon" [ref=f211e159] [cursor=pointer]':
+                          - /url: https://www.linkedin.com/company/lipman-burgon/
+                          - strong [ref=f211e160]: Lipman Burgon
+                        - text: for hosting the event as part of their Women, Wealth & Wisdom series, and to our fabulous Perth-based Advisory Board member,
+                        - link "View Bree Fraser’s profile" [ref=f211e162] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/bree-michelle-fraser/
+                          - strong [ref=f211e163]: Bree Fraser
+                        - text: founder of
+                        - 'link "View company: Theá Advisory" [ref=f211e165] [cursor=pointer]':
+                          - /url: https://www.linkedin.com/company/thea-advisory/
+                          - strong [ref=f211e166]: Theá Advisory
+                        - text: ", for curating such a great group of women."
+                        - strong [ref=f211e167]: "#womenandwealh"
+                        - strong [ref=f211e168]: "#womenmovingcapital"
+                        - strong [ref=f211e169]: Lillian Kline
+                        - strong [ref=f211e170]: Rebecca Rozencwajg
+                        - strong [ref=f211e171]: Wendy Bonnici
+                        - link "View Deborah Harbrow’s profile" [ref=f211e173] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/deborah-harbrow-33a079a6/
+                          - strong [ref=f211e174]: Deborah Harbrow
+                        - link "View Ashlen Morelli’s profile" [ref=f211e176] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/ashlen-morelli/
+                          - strong [ref=f211e177]: Ashlen Morelli
+                        - button [aria-hidden] [ref=f211e411] [cursor=pointer]:
+                          - generic [ref=f211e412]: … more
+                    - link [ref=f211e179] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - figure [ref=f211e180]:
+                        - img "View image" [ref=f211e181]
+                    - generic [ref=f211e182]:
+                      - link [ref=f211e183] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/
+                        - generic "Switch to different account" [ref=f211e184]:
+                          - figure [aria-hidden] [ref=f211e185]
+                      - generic [ref=f211e187]:
+                        - 'button "Reaction button state: Like" [ref=f211e190] [cursor=pointer]':
+                          - generic [ref=f211e191]: "95"
+                        - button "Open reactions menu":
+                          - generic [ref=f211e421] [cursor=pointer]
+                      - button "Comment" [ref=f211e196] [cursor=pointer]:
+                        - generic [ref=f211e197]: "6"
+                      - button "Repost" [ref=f211e202] [cursor=pointer]
+                      - link "Send" [ref=f211e205] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/
+                      - link [ref=f211e208] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/
+                        - generic "95 reactions" [ref=f211e209]
+                - listitem [ref=f211e217]:
+                  - generic [ref=f211e219]:
+                    - heading "Feed post" [level=2]
+                    - generic [ref=f211e221]:
+                      - link [ref=f211e222] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/company/the-dea-network/
+                        - figure [ref=f211e223]:
+                          - 'img "View company: The Dea Network" [ref=f211e456]'
+                      - generic [ref=f211e225]:
+                        - link [ref=f211e228] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/company/the-dea-network/
+                          - generic "The Dea Network Premium" [ref=f211e230]:
+                            - paragraph [ref=f211e233]: The Dea Network
+                            - paragraph [ref=f211e235]
+                        - paragraph [ref=f211e240]: 1d • Edited
+                        - link "The Dea Network Premium":
+                          - /url: https://www.linkedin.com/company/the-dea-network/
+                      - button "Follow The Dea Network" [ref=f211e244] [cursor=pointer]:
+                        - generic [ref=f211e245]: Follow
+                      - button "Open control menu for post by The Dea Network" [ref=f211e249] [cursor=pointer]
+                    - paragraph [ref=f211e252]:
+                      - generic [ref=f211e253]:
+                        - text: Our lunchtime salon in Perth 🤩this week Wealth is moving into women's hands faster than the systems around them were built for. That's why capability and judgement matter now, not later. That was the starting point for a brilliant
+                        - 'link "View company: The Dea Network" [ref=f211e255] [cursor=pointer]':
+                          - /url: https://www.linkedin.com/company/the-dea-network/
+                          - strong [ref=f211e256]: The Dea Network
+                        - text: "lunchtime salon in Perth this week, with forty women who came curious, values-led, and willing to ask the question: what is my actual relationship with money? We spoke about the money patterns we inherit, who manages wealth in our family, who is participating in stewardship decisions and who is not, and why. We talked about where we get our financial and investment information, who we turn to when a big decision lands: an exit, a death, a divorce, a windfall. And we discussed what becomes possible if we capitalise on this moment. More women than any generation before will hold decision-making power over wealth. Not just ownership but agency. The confidence, the access, the community and the structures to direct where that capital goes. Perth carries its own version of this story: a city built on resources, mining, property, family business, private enterprise and philanthropy. The opportunity for women stewards has its own unique flavour and story. What struck me was the energy in the room, women of all ages, mothers and daughters speaking at tables openly sharing, offering each other names, experience, and lessons. That's what a community can do, and that's what we're building with Dea. A place for women to explore identity, purpose and action through stewardship, and have a real say in where capital goes next. Perth, thank you for being a part of this journey with us. We look forward to more conversations with you and are excited that Dea is now in the West! Very grateful to the team at"
+                        - 'link "View company: Lipman Burgon" [ref=f211e258] [cursor=pointer]':
+                          - /url: https://www.linkedin.com/company/lipman-burgon/
+                          - strong [ref=f211e259]: Lipman Burgon
+                        - text: for hosting the event as part of their Women, Wealth & Wisdom series, and to our fabulous Perth based Advisory Board member
+                        - link "View Bree Fraser’s profile" [ref=f211e261] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/bree-michelle-fraser/
+                          - strong [ref=f211e262]: Bree Fraser
+                        - text: at
+                        - 'link "View company: Theá Advisory" [ref=f211e264] [cursor=pointer]':
+                          - /url: https://www.linkedin.com/company/thea-advisory/
+                          - strong [ref=f211e265]: Theá Advisory
+                        - text: ", for curating such a great group of women."
+                        - link "View Deborah Harbrow’s profile" [ref=f211e267] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/deborah-harbrow-33a079a6/
+                          - strong [ref=f211e268]: Deborah Harbrow
+                        - link "View Ashlen Morelli’s profile" [ref=f211e270] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/ashlen-morelli/
+                          - strong [ref=f211e271]: Ashlen Morelli
+                        - 'link "View hashtag: #womenandwealh" [ref=f211e273] [cursor=pointer]':
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23womenandwealh&origin=HASH_TAG_FROM_FEED
+                          - strong [ref=f211e274]: "#womenandwealh"
+                        - 'link "View hashtag: #womenmovingcapital" [ref=f211e276] [cursor=pointer]':
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23womenmovingcapital&origin=HASH_TAG_FROM_FEED
+                          - strong [ref=f211e277]: "#womenmovingcapital"
+                        - link "View Lillian Kline’s profile" [ref=f211e279] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/lillian-kline/
+                          - strong [ref=f211e280]: Lillian Kline
+                        - link "View Rebecca Rozencwajg’s profile" [ref=f211e282] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/rebecca-rozencwajg/
+                          - strong [ref=f211e283]: Rebecca Rozencwajg
+                        - link "View Wendy Bonnici’s profile" [ref=f211e285] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/wendybonnici/
+                          - strong [ref=f211e286]: Wendy Bonnici
+                        - button [aria-hidden] [ref=f211e463] [cursor=pointer]:
+                          - generic [ref=f211e464]: … more
+                    - link [ref=f211e288] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - figure [ref=f211e289]:
+                        - img "View image" [ref=f211e290]
+                    - generic [ref=f211e291]:
+                      - link [ref=f211e292] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/
+                        - generic "Switch to different account" [ref=f211e293]:
+                          - figure [aria-hidden] [ref=f211e294]
+                      - generic [ref=f211e296]:
+                        - 'button "Reaction button state: no reaction" [ref=f211e299] [cursor=pointer]':
+                          - generic [ref=f211e300]: "72"
+                        - button "Open reactions menu":
+                          - generic [ref=f211e470] [cursor=pointer]
+                      - button "Comment" [ref=f211e305] [cursor=pointer]:
+                        - generic [ref=f211e306]: "3"
+                      - button "Repost" [ref=f211e311] [cursor=pointer]:
+                        - generic [ref=f211e312]: "4"
+                      - link "Send" [ref=f211e317] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/
+                      - link [ref=f211e320] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/
+                        - generic "72 reactions" [ref=f211e321]
+                - generic [ref=f211e328]:
+                  - generic [ref=f211e329]:
+                    - paragraph [ref=f211e330]: Are these results helpful?
+                    - paragraph [ref=f211e331]: Your feedback helps us improve search results
+                  - generic [ref=f211e332]:
+                    - button "Are these results helpful? Yes, these search results are helpful" [ref=f211e333] [cursor=pointer]
+                    - button "Are these results helpful? No, these search results are not helpful" [ref=f211e336] [cursor=pointer]
+              - generic [ref=f211e511]:
+                - iframe [ref=f211e512]:
+                  - generic [ref=f212e3]:
+                    - banner [ref=f212e4]:
+                      - link [ref=f212e15] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=http%3A%2F%2Fwww.linkedin.com%2Fcompany%2F3843&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg19ve82qJ3gGyxg-z6huov4vOeDvmuBo9kLwNQT8R9X9kmSE9wu9IhhMP3UFB7Dsfo9awFxepPoZkr4U6gQxyzoRD1W50avRxxMLgD3x3lZ-j05aRGoP6WGGLX8EfJ9aIDXtJxdK9denaAAB-jUXZMkVdoW46oOekq-7io3Rq79VbxxScK1JQiyXzUcuyn7hJcaU87ZsiNOAdgQGsqGYGS0ChT0lvUAtxKy7MZ8mWS2XK-tMNEl1aHADX7OicBCpmhIw9VWV4aMW-3T1ru2f-vQo9g3YZu7l9CaABlmEOZxxrFiiC0FBFw4qdzp_um_6q2KBD1FlGuqpyg6kcmqaTKG9ifOoO5ybp2a5nt7oAdARs7rCAFGJqSMZCog57Qf-Rv2Sc3CLT7igP4ZAvuaMaI6mLQCxeP-ptERAc8WGDwoaBGDA8AyOE3MZei55PlyhLeWFX5YLkjT4ajO7DPXx4MscCdPvz1ihFea2GogLNvqmz_MDJoVhErSBALaXLzu_E56jZPO8aAJsJFwcShnHxQJPM_Z0bkTBEN_BroxRuiH7Non7AubWkLqU8kH83k3qksKDPtu4xoMSufFe_CHAAbBHmK5Bx2ZhUw6jHxyFT6IEx9NfozjCX63o9K3gtEPGma2EC--5H2uo453pGxnjc0SU4yRuSLmF-MwGVMkNwWlqdFDFzXQfu0Uep4BLKxXeDNbAbtbuWpmhl9i0lNcZFSp4Vcskmf4820AicrqHLC1oLnE4h5ZI1bJf2jkRA2Fsbc0B24Zbny2kLNS-RFaPP7QLlhbEMtEy5l8Qarro5v7G1JNCiHySAFwvTDr8eeN61zH-NaQ2WV1zO507v_WuMe1OyHvcJ0FyM4ruDL8RZK26XkwTe4MvyP4rBt1Ca6F-ttbJd1YDKq8kjfs2yHkhgWsWjdwwkDeextg5HxgShZGCFWkUHnPlidImsaeT9sWqbg5F7sUB1uyXd51HHRVqIWF4zxa4f0i5Q9Eo69OqG-_4M-Xds976dr3uSPylgFY88xD-scEG7AhRFs2wbulsuxaxMaMIEI1LsJgbCJ1iIBm8AsbwzUGUDP-hrg6hrXDHxw26aUgge1LlQLGacMstMV-azs19fay0ExVW_svnoM8HbbDsWav6mZES6pfPo1UZKz4O77g_DXike2DRHP-1Mj7h8TFSApBYwgpTsg5ZgqRa0gR9QCGRuTDwN-1LWbnY%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_search_srp_content%22%2C%22trackingId%22%3A%226888396e-041e-4b0d-8cef-864d7a1187f3%22%7D%2C%22time%22%3A1790327905973%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_search_srp_content%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                        - img "Hitachi" [ref=f212e16]
+                      - generic [ref=f212e17]:
+                        - paragraph [ref=f212e18]: Promoted
+                        - button "Ad Options" [ref=f212e19] [cursor=pointer]
+                    - generic [ref=f212e25]:
+                      - link [ref=f212e26] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=http%3A%2F%2Fwww.linkedin.com%2Fcompany%2F3843&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg19ve82qJ3gGyxg-z6huov4vOeDvmuBo9kLwNQT8R9X9kmSE9wu9IhhMP3UFB7Dsfo9awFxepPoZkr4U6gQxyzoRD1W50avRxxMLgD3x3lZ-j05aRGoP6WGGLX8EfJ9aIDXtJxdK9denaAAB-jUXZMkVdoW46oOekq-7io3Rq79VbxxScK1JQiyXzUcuyn7hJcaU87ZsiNOAdgQGsqGYGS0ChT0lvUAtxKy7MZ8mWS2XK-tMNEl1aHADX7OicBCpmhIw9VWV4aMW-3T1ru2f-vQo9g3YZu7l9CaABlmEOZxxrFiiC0FBFw4qdzp_um_6q2KBD1FlGuqpyg6kcmqaTKG9ifOoO5ybp2a5nt7oAdARs7rCAFGJqSMZCog57Qf-Rv2Sc3CLT7igP4ZAvuaMaI6mLQCxeP-ptERAc8WGDwoaBGDA8AyOE3MZei55PlyhLeWFX5YLkjT4ajO7DPXx4MscCdPvz1ihFea2GogLNvqmz_MDJoVhErSBALaXLzu_E56jZPO8aAJsJFwcShnHxQJPM_Z0bkTBEN_BroxRuiH7Non7AubWkLqU8kH83k3qksKDPtu4xoMSufFe_CHAAbBHmK5Bx2ZhUw6jHxyFT6IEx9NfozjCX63o9K3gtEPGma2EC--5H2uo453pGxnjc0SU4yRuSLmF-MwGVMkNwWlqdFDFzXQfu0Uep4BLKxXeDNbAbtbuWpmhl9i0lNcZFSp4Vcskmf4820AicrqHLC1oLnE4h5ZI1bJf2jkRA2Fsbc0B24Zbny2kLNS-RFaPP7QLlhbEMtEy5l8Qarro5v7G1JNCiHySAFwvTDr8eeN61zH-NaQ2WV1zO507v_WuMe1OyHvcJ0FyM4ruDL8RZK26XkwTe4MvyP4rBt1Ca6F-ttbJd1YDKq8kjfs2yHkhgWsWjdwwkDeextg5HxgShZGCFWkUHnPlidImsaeT9sWqbg5F7sUB1uyXd51HHRVqIWF4zxa4f0i5Q9Eo69OqG-_4M-Xds976dr3uSPylgFY88xD-scEG7AhRFs2wbulsuxaxMaMIEI1LsJgbCJ1iIBm8AsbwzUGUDP-hrg6hrXDHxw26aUgge1LlQLGacMstMV-azs19fay0ExVW_svnoM8HbbDsWav6mZES6pfPo1UZKz4O77g_DXike2DRHP-1Mj7h8TFSApBYwgpTsg5ZgqRa0gR9QCGRuTDwN-1LWbnY%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_search_srp_content%22%2C%22trackingId%22%3A%226888396e-041e-4b0d-8cef-864d7a1187f3%22%7D%2C%22time%22%3A1790327905973%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_search_srp_content%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                        - heading "Hitachi" [level=2] [ref=f212e27]
+                      - paragraph [ref=f212e29]: Hitachi is driving what’s next in the U.S.
+                      - paragraph [ref=f212e31]: Follow to see how we're shaping what's next.
+                      - generic [ref=f212e32]:
+                        - generic [ref=f212e33]:
+                          - img "👽Kimberly" [ref=f212e34]
+                          - img "Eve" [ref=f212e35]
+                          - img "Jenny" [ref=f212e36]
+                        - paragraph [ref=f212e37]: 👽Kimberly & 400 other connections also follow
+                      - link "Follow" [ref=f212e38] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=http%3A%2F%2Fwww.linkedin.com%2Fcompany%2F3843%3FisFollowingPage%3Dtrue&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg19ve9EgbqMglLWk1ryMTClxZO5sECFhXo3OKAJj_M5dy8b-ta6_ge59EdQnPTLnrXfZmyMzXNRMs7H1huRNINYQNXDDdwNsA26LvLHZ0AG4GVbFPhsfpYdSVRiKUZ8wLR1ebGCprRuPYNsI8x_2t9XKcdpDCaAS-ukp0FdhpbIeJVt2uZdsZWP0RIL8NSyurIpIsPpSzurFRr_eKFfOyAEqA7VMEBPhVgzd3X40_3vS7YUFBPq-95xbP4ChJQavASLssYSBlSGv7lri2sX9YQrtxzBdj8iXFNaVYo0A3pgNRdQ-hpu1_QnsBUNJNLJN3sTr9-yH1BveMz9HLS9-59S8bEzNf9MFGfPg8fOVdwX3TfxIkZPW3lukA-PfOS-qC1KlcBzjl0iaObwLgg0pFPx8pyGnQq0p54grrOF9YJ4H4Ax3A2_1ojVrjgRJBnHZhNMsRsqutDgzahJC277Ily5hMS85e1Hti2sgBXVEJabGQoQcio3LZPPPa_qnNPIyFFud_vv2wqSN8Q1adwIwIPhg58tdocR3YhhcriBb538QDpN7LVkArdJyYTQ-m0mz5xSt1hBUDguA_Xa9Fvbi0vTMOBzNWJZxh_qGVa6OIo5VlTfYmzRAZf_NwrG7CSPuu6YRn9b6UNz_7XQ7SGiB62Mk4ZULrQ0ZgSUSOPquLXLMbcUxiUSrvmStLC8ZLdCU-ng861fuV5EuuAT4wXVmNwnxZyDT7yaiOKMjeP34rY9j84sVk34p0eyWe-x5zHD2e0SgX-AfwRGp-B9X5aW2dY-irsJMyku7VG0V22O88VwTFJUFi2oTdpUOne1X3o_RfpBtD3_FidqNBIFwohPi-DhB_IO5HBtUACdfUZQYgsZwDorEo20HjIk6764t_-SsxAWqGUVkbClVvwNNVHI4lqydPPNar5b4XyV6V3AJgCwijw-MgRcoTM52mA90FbO6Ow2qATKZK6sQJoNSeTtmINe1kLg9YR3lv5r-gf3PQZ4BPNK9GV74rAy5elhG2kGs61vejUkIQW34122wZON3mRvD6D60ouX_Fh47-_9s-SYAsbbcfBmCwCLXmI8QQxpV03EzweDcZHONXG6-zRD3qFZfdV3ITy-F0JEWCYzotoZS_yOZrQuL95odFmoZW3LePg2e4oxByBXVT_X0OJ2ldfPGkk1MgQYMt-NB34_RgnOc9tsF47FnBmMmFKaAJsV8icmGbsaS71FE0snczrQ4tBiJUvxfIJziTPy-NTQ%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_search_srp_content%22%2C%22trackingId%22%3A%22ce8442ba-f635-4d20-a543-21682d999cf2%22%7D%2C%22time%22%3A1790327905973%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_search_srp_content%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                - generic [ref=f211e513]:
+                  - generic [ref=f211e514]:
+                    - link [ref=f211e515] [cursor=pointer]:
+                      - /url: https://about.linkedin.com/
+                      - paragraph [ref=f211e516]: About
+                    - link [ref=f211e517] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/accessibility/
+                      - paragraph [ref=f211e518]: Accessibility
+                    - link [ref=f211e519] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/help/linkedin/
+                      - paragraph [ref=f211e520]: Help Center
+                    - button [ref=f211e521] [cursor=pointer]:
+                      - paragraph [ref=f211e523]: Privacy & Terms
+                    - link [ref=f211e526] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/help/linkedin/answer/62931/
+                      - paragraph [ref=f211e527]: Ad Choices
+                    - link [ref=f211e528] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/ad/start/?trk=n_nav_ads_rr
+                      - paragraph [ref=f211e529]: Advertising
+                    - button [ref=f211e530] [cursor=pointer]:
+                      - paragraph [ref=f211e532]: Business Services
+                    - link [ref=f211e535] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/mobile/
+                      - paragraph [ref=f211e536]: Get the LinkedIn app
+                    - link [ref=f211e537] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/search/results/content/?keywords=%22Our%20lunchtime%20salon%20in%20Perth%22
+                      - paragraph [ref=f211e538]: More
+                  - paragraph [ref=f211e542]: LinkedIn Corporation © 2026
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - complementary:
+            - generic [ref=f211e543]:
+              - generic [ref=f211e544]:
+                - generic [ref=f211e546] [cursor=pointer]:
+                  - img "Kelly Irving" [ref=f211e548]
+                  - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f211e549]:
+                    - generic [ref=f211e550]:
+                      - generic [aria-hidden] [ref=f211e551]: Messaging
+                      - generic [ref=f211e552]: You are on the messaging overlay. Press enter to open the list of conversations.
+                  - mark [aria-hidden] [ref=f211e553]:
+                    - generic [ref=f211e554]: "2"
+                - generic [ref=f211e555]:
+                  - button [ref=f211e557] [cursor=pointer]:
+                    - img "Open messenger dropdown menu" [ref=f211e558]
+                  - button "Compose message" [ref=f211e561] [cursor=pointer]
+                  - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f211e565] [cursor=pointer]
+              - generic [ref=f211e569]:
+                - heading "Page inboxes" [level=3] [ref=f211e571]
+                - generic [ref=f211e572] [cursor=pointer]:
+                  - generic [ref=f211e573]: Click to see affiliated inboxes
+                  - button "Page inboxes" [ref=f211e574]
+          - complementary "AI-powered assistant to get help with your career, jobs etc"
+  - iframe [ref=f211e577]:
+    - generic [ref=f213e1]:
+      - generic:
+        - region "Toast message":
+          - heading "0 notifications total" [level=2] [ref=f213e3]
+          - alert
+      - region [ref=f213e4]
+      - generic [ref=f213e5]:
+        - generic [ref=f213e7]:
+          - button "Skip to search" [ref=f213e8] [cursor=pointer]
+          - button "Skip to main content" [ref=f213e10] [cursor=pointer]
+          - button "Keyboard shortcuts" [ref=f213e12] [cursor=pointer]
+          - button "Close jump menu" [ref=f213e14] [cursor=pointer]
+        - banner "Global Navigation" [ref=f213e18]:
+          - generic [ref=f213e19]:
+            - link [ref=f213e20] [cursor=pointer]:
+              - /url: https://www.linkedin.com/feed/
+              - img "LinkedIn" [ref=f213e23]
+            - combobox "I’m looking for..." [ref=f213e29]
+            - navigation "Primary Navigation" [ref=f213e30]:
+              - list [ref=f213e31]:
+                - listitem [ref=f213e32]:
+                  - link "new feed updates notifications Home" [ref=f213e33] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/feed/
+                    - generic [ref=f213e34]: new feed updates notifications
+                    - generic "Home" [ref=f213e43]
+                - listitem [ref=f213e44]:
+                  - link "29 new network updates notifications My Network" [ref=f213e45] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork/?
+                    - generic [ref=f213e47]:
+                      - generic [aria-hidden] [ref=f213e48]: "29"
+                      - generic [ref=f213e49]: 29 new network updates notifications
+                    - generic "My Network" [ref=f213e55]
+                - listitem [ref=f213e56]:
+                  - link "Jobs" [ref=f213e57] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/?
+                - listitem [ref=f213e64]:
+                  - link "2 new messages notifications Messaging" [ref=f213e65] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/messaging/?
+                    - generic [ref=f213e67]:
+                      - generic [aria-hidden] [ref=f213e68]: "2"
+                      - generic [ref=f213e69]: 2 new messages notifications
+                    - generic "Messaging" [ref=f213e75]
+                - listitem [ref=f213e76]:
+                  - link "22 new notifications Notifications" [ref=f213e77] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/notifications/?
+                    - generic [ref=f213e79]:
+                      - generic [aria-hidden] [ref=f213e80]: "22"
+                      - generic [ref=f213e81]: 22 new notifications
+                    - generic "Notifications" [ref=f213e87]
+                - listitem [ref=f213e88]:
+                  - button [ref=f213e90] [cursor=pointer]:
+                    - img "Kelly Irving" [ref=f213e91]
+                    - generic [ref=f213e92]: Me
+                - listitem [ref=f213e95]:
+                  - button "For Business" [ref=f213e97] [cursor=pointer]
+                - listitem [ref=f213e106]:
+                  - link "3 new Campaign Manager notifications Advertise" [ref=f213e107] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/campaignmanager/accounts?shouldShowNotificationPanelOnRender=true
+                    - generic [ref=f213e109]:
+                      - generic [aria-hidden] [ref=f213e110]: "3"
+                      - generic [ref=f213e111]: 3 new Campaign Manager notifications
+                    - generic "Advertise" [ref=f213e118]

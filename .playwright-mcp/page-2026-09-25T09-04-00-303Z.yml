@@ -1,0 +1,681 @@
+- generic [ref=f12e2]:
+  - heading "0 notifications" [level=2] [ref=f12e3]
+  - generic [ref=f12e4]:
+    - generic:
+      - generic "Skip navigation menu":
+        - generic [ref=f12e5]:
+          - button "Skip to search" [ref=f12e6] [cursor=pointer]
+          - button "Skip to main content" [ref=f12e9] [cursor=pointer]
+          - button "Skip to primary content" [ref=f12e12] [cursor=pointer]
+          - button "Skip to aside" [ref=f12e15] [cursor=pointer]
+          - button "Skip to footer" [ref=f12e18] [cursor=pointer]
+          - button "Close jump menu" [ref=f12e22] [cursor=pointer]
+    - generic [ref=f12e26]:
+      - banner [ref=f12e28]:
+        - generic [ref=f12e31]:
+          - button [ref=f12e32] [cursor=pointer]:
+            - img "LinkedIn" [ref=f12e33]
+          - generic [ref=f12e35]:
+            - status [ref=f12e36]
+            - search [ref=f12e37]:
+              - textbox "I'm looking for…" [ref=f12e42]
+          - generic [ref=f12e44]:
+            - figure [aria-hidden] [ref=f12e49]
+            - navigation [ref=f12e53]:
+              - list [ref=f12e54]:
+                - listitem [ref=f12e55]:
+                  - button "Home, 1 new notification" [ref=f12e56] [cursor=pointer]:
+                    - generic [ref=f12e61]: Home
+                - listitem [ref=f12e63]:
+                  - link "My Network, 29 new notifications" [ref=f12e64] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork
+                    - generic [ref=f12e65]: "29"
+                    - generic [ref=f12e69]: My Network
+                - listitem [ref=f12e71]:
+                  - link "Jobs, 0 new notifications" [ref=f12e72] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/
+                    - generic [ref=f12e76]: Jobs
+                - listitem [ref=f12e78]:
+                  - link "Messaging, 2 new notifications" [ref=f12e79] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/messaging/
+                    - generic [ref=f12e80]: "2"
+                    - generic [ref=f12e84]: Messaging
+                - listitem [ref=f12e86]:
+                  - link "Notifications, 22 new notifications" [ref=f12e87] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/notifications/
+                    - generic [ref=f12e88]: "22"
+                    - generic [ref=f12e92]: Notifications
+                - listitem [ref=f12e94]:
+                  - button "Me" [ref=f12e95] [cursor=pointer]:
+                    - figure [aria-hidden] [ref=f12e97]
+            - navigation [ref=f12e104]:
+              - list [ref=f12e105]:
+                - listitem [ref=f12e106]:
+                  - button "For Business" [ref=f12e107] [cursor=pointer]
+                - listitem [ref=f12e115]:
+                  - link "Advertise, 3 new notifications" [ref=f12e116] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/campaignmanager/accounts/
+                    - generic [ref=f12e117]: "3"
+                    - generic [ref=f12e122]: Advertise
+      - generic [ref=f12e124]:
+        - toolbar [aria-hidden] [ref=f12e125]:
+          - generic [ref=f12e129]:
+            - generic [ref=f12e130]:
+              - generic [ref=f12e131]:
+                - figure [aria-hidden] [ref=f12e132]
+                - paragraph [ref=f12e136]: The Community Collective
+              - button [ref=f12e137] [cursor=pointer]
+              - button [ref=f12e142] [cursor=pointer]:
+                - generic [ref=f12e143]: Following
+              - button [ref=f12e148] [cursor=pointer]:
+                - generic [ref=f12e149]: Message
+            - navigation [ref=f12e155]:
+              - list [ref=f12e156]:
+                - listitem [ref=f12e157]:
+                  - link [ref=f12e158] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/the-community-collective/home/
+                    - generic [ref=f12e159]: Home
+                - listitem [ref=f12e161]:
+                  - link [ref=f12e162] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/the-community-collective/about/
+                    - generic [ref=f12e163]: About
+                - listitem [ref=f12e165]:
+                  - link [ref=f12e166] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/the-community-collective/posts/
+                    - generic [ref=f12e167]: Posts
+                - listitem [ref=f12e169]:
+                  - link [ref=f12e170] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/the-community-collective/jobs/
+                    - generic [ref=f12e171]: Jobs
+                - listitem [ref=f12e173]:
+                  - link [ref=f12e174] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/the-community-collective/people/
+                    - generic [ref=f12e175]: People
+                - listitem [ref=f12e177]:
+                  - link [ref=f12e178] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/the-community-collective/insights/
+                    - generic [ref=f12e179]: Insights
+        - main [ref=f12e181]:
+          - generic [ref=f12e183]:
+            - region "Primary content" [ref=f12e184]:
+              - generic [ref=f12e185]:
+                - generic [ref=f12e187]:
+                  - generic [ref=f12e192]:
+                    - generic [ref=f12e193]:
+                      - link [ref=f12e196] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/company/the-community-collective/posts/
+                        - figure [ref=f12e197]:
+                          - img "Cover photo" [ref=f12e198]
+                      - generic "Page photo" [ref=f12e199]:
+                        - figure [aria-hidden] [ref=f12e201]
+                      - link "Manage notifications about The Community Collective" [ref=f12e203] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/company/the-community-collective/posts/
+                    - generic [ref=f12e207]:
+                      - generic [ref=f12e208]:
+                        - heading "The Community Collective" [level=2] [ref=f12e209]
+                        - paragraph [ref=f12e210]: We are a community for community builders. We serve businesses to build the most impactful communities of our time.
+                        - generic [ref=f12e211]:
+                          - paragraph [ref=f12e212]: Professional Services
+                          - paragraph [aria-hidden] [ref=f12e213]: ·
+                          - paragraph [ref=f12e214]: Melbourne, VIC
+                          - paragraph [aria-hidden] [ref=f12e215]: ·
+                          - paragraph [ref=f12e216]: 10K followers
+                          - paragraph [aria-hidden] [ref=f12e217]: ·
+                          - paragraph [ref=f12e218]:
+                            - link "Search more employees" [ref=f12e219] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/people/?currentCompany=%5B%2275023406%22%5D&origin=COMPANY_PAGE_CANNED_SEARCH
+                              - text: 2-10 employees
+                      - generic [ref=f12e221]:
+                        - figure [aria-hidden] [ref=f12e222]
+                        - paragraph [ref=f12e224]:
+                          - link "Open http://www.linkedin.com/search/results/people/?origin=COMPANY_PAGE_CANNED_SEARCH&network=%5B%22F%22%5D&currentCompany=%5B%2275023406%22%5D" [ref=f12e226] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/search/results/people/?origin=COMPANY_PAGE_CANNED_SEARCH&network=%5B%22F%22%5D&currentCompany=%5B%2275023406%22%5D
+                            - text: Lea & 15 other connections work here
+                      - generic [ref=f12e228]:
+                        - button "Message" [ref=f12e229] [cursor=pointer]
+                        - button "Following, click to unfollow The Community Collective" [ref=f12e236] [cursor=pointer]:
+                          - generic [ref=f12e237]: Following
+                        - button "More actions for The Community Collective" [ref=f12e242] [cursor=pointer]
+                  - navigation [ref=f12e248]:
+                    - list [ref=f12e249]:
+                      - listitem [ref=f12e250]:
+                        - link "Home" [ref=f12e251] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/company/the-community-collective/home/
+                      - listitem [ref=f12e254]:
+                        - link "About" [ref=f12e255] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/company/the-community-collective/about/
+                      - listitem [ref=f12e258]:
+                        - link "Posts" [ref=f12e259] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/company/the-community-collective/posts/
+                      - listitem [ref=f12e262]:
+                        - link "Jobs" [ref=f12e263] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/company/the-community-collective/jobs/
+                      - listitem [ref=f12e266]:
+                        - link "People" [ref=f12e267] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/company/the-community-collective/people/
+                      - listitem [ref=f12e270]:
+                        - link "Insights" [ref=f12e271] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/company/the-community-collective/insights/
+                - generic [ref=f12e276]:
+                  - generic [ref=f12e280]:
+                    - paragraph [ref=f12e281]: See a collection of active or past ads by The Community Collective.
+                    - link "View ad library" [ref=f12e282] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/ad-library/search/?companyIds=75023406
+                  - generic [ref=f12e288]:
+                    - navigation [ref=f12e290]:
+                      - list [ref=f12e291]:
+                        - listitem [ref=f12e292]:
+                          - link "All" [ref=f12e293] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/company/the-community-collective/posts/?feedView=all
+                        - listitem [ref=f12e296]:
+                          - link "Images" [ref=f12e297] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/company/the-community-collective/posts/?feedView=images
+                        - listitem [ref=f12e300]:
+                          - link "Videos" [ref=f12e301] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/company/the-community-collective/posts/?feedView=videos
+                        - listitem [ref=f12e304]:
+                          - link "Articles" [ref=f12e305] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/company/the-community-collective/posts/?feedView=articles
+                        - listitem [ref=f12e308]:
+                          - link "Documents" [ref=f12e309] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/company/the-community-collective/posts/?feedView=documents
+                    - list [ref=f12e315]:
+                      - listitem [ref=f12e317]:
+                        - button [ref=f12e318] [cursor=pointer]:
+                          - paragraph [ref=f12e320]:
+                            - text: "Sort by:"
+                            - strong [ref=f12e321]: Top
+                      - listitem [ref=f12e328]:
+                        - generic [ref=f12e330]:
+                          - heading "Feed post" [level=2]
+                          - generic [ref=f12e332]:
+                            - link [ref=f12e333] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/company/the-community-collective/
+                              - figure [ref=f12e334]:
+                                - 'img "View company: The Community Collective" [ref=f12e335]'
+                            - generic [ref=f12e337]:
+                              - link [ref=f12e340] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/company/the-community-collective/
+                                - generic "The Community Collective" [ref=f12e342]:
+                                  - paragraph [ref=f12e345]: The Community Collective
+                              - paragraph [ref=f12e347]: 7h
+                              - link "The Community Collective":
+                                - /url: https://www.linkedin.com/company/the-community-collective/
+                            - button "Open control menu for post by The Community Collective" [ref=f12e348] [cursor=pointer]
+                          - paragraph [ref=f12e352]:
+                            - generic [ref=f12e353]:
+                              - text: How good is this community snap feat. our Ambassador
+                              - link "View Alex Shiell’s profile" [ref=f12e355] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/in/alex-shiell-a1513117b/
+                                - strong [ref=f12e356]: Alex Shiell
+                              - text: + our Co-Founder
+                              - link "View Paz Pisarski 🏵’s profile" [ref=f12e358] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/in/paz-pisarski/
+                                - strong [ref=f12e359]: Paz Pisarski 🏵
+                              - text: "in Melbourne for our Community Dinner? 🤩Wish you joined us in Cohort #9? Submit a late application:"
+                              - link "Open https://lnkd.in/g534S2Ru" [ref=f12e362] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2Fg534S2Ru&urlhash=NTfK&mt=ljAvEM_EwRUd5cWzxFW-iDW13NoNK9kOIiMixyMwJrJ5FBPhIW7x3nSgHS9zISFF57JNoWQIS4gnUvate6HM3GJ1X-chFscLUk8G1PPSPrrhMjqQ9Cy9_hkM&isSdui=true
+                                - strong [ref=f12e363]: https://lnkd.in/g534S2Ru
+                              - button [aria-hidden] [ref=f12e364] [cursor=pointer]:
+                                - generic [ref=f12e365]: … more
+                          - link [ref=f12e368] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/company/the-community-collective/posts/
+                            - figure [ref=f12e369]:
+                              - img "View image" [ref=f12e370]
+                          - generic [ref=f12e371]:
+                            - link [ref=f12e372] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/company/the-community-collective/posts/
+                              - generic "Switch to different account" [ref=f12e373]:
+                                - figure [aria-hidden] [ref=f12e374]
+                            - generic [ref=f12e377]:
+                              - 'button "Reaction button state: no reaction" [ref=f12e380] [cursor=pointer]':
+                                - generic [ref=f12e381]: "2"
+                              - button "Open reactions menu":
+                                - generic [ref=f12e387] [cursor=pointer]
+                            - button "Comment" [ref=f12e390] [cursor=pointer]
+                            - button "Repost" [ref=f12e394] [cursor=pointer]
+                            - link "Send" [ref=f12e398] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/company/the-community-collective/posts/
+                            - link [ref=f12e402] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/company/the-community-collective/posts/
+                              - generic "2 reactions" [ref=f12e403]
+                      - listitem [ref=f12e414]:
+                        - generic [ref=f12e416]:
+                          - heading "Feed post" [level=2]
+                          - generic [ref=f12e418]:
+                            - generic [ref=f12e419]:
+                              - paragraph [ref=f12e422]: Refine your ad targeting
+                              - paragraph [ref=f12e423]: Kelly, get clarity on when and how to optimize your campaign setup
+                              - link "Book a call" [ref=f12e424] [cursor=pointer]:
+                                - /url: https://business.linkedin.com/marketing-solutions/cx/21/09/schedule-a-consultation-vb?mcid=7430238558369509380&src=li-gmp&cid=701Kf000000xRccIAE
+                            - generic [ref=f12e427]:
+                              - button "View more options" [ref=f12e428] [cursor=pointer]
+                              - link [ref=f12e432] [cursor=pointer]:
+                                - /url: https://business.linkedin.com/marketing-solutions/cx/21/09/schedule-a-consultation-vb?mcid=7430238558369509380&src=li-gmp&cid=701Kf000000xRccIAE
+                                - figure [ref=f12e433]:
+                                  - img "Book a call" [ref=f12e434]
+                      - listitem [ref=f12e439]:
+                        - generic [ref=f12e441]:
+                          - heading "Feed post" [level=2]
+                          - generic [ref=f12e443]:
+                            - link [ref=f12e444] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/company/the-community-collective/
+                              - figure [ref=f12e445]:
+                                - 'img "View company: The Community Collective" [ref=f12e446]'
+                            - generic [ref=f12e448]:
+                              - link [ref=f12e451] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/company/the-community-collective/
+                                - generic "The Community Collective" [ref=f12e453]:
+                                  - paragraph [ref=f12e456]: The Community Collective
+                              - paragraph [ref=f12e458]: 8h
+                              - link "The Community Collective":
+                                - /url: https://www.linkedin.com/company/the-community-collective/
+                            - button "Open control menu for post by The Community Collective" [ref=f12e459] [cursor=pointer]
+                          - paragraph [ref=f12e463]:
+                            - generic [ref=f12e464]:
+                              - text: "Thanks for joining our Cohort #9 Week 3 Cohort Coworking: Start Your Community Strategy with"
+                              - link "View Hilary Callaghan’s profile" [ref=f12e466] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/in/hilarycallaghan/
+                                - strong [ref=f12e467]: Hilary Callaghan
+                              - text: "&"
+                              - link "View Paz Pisarski 🏵’s profile" [ref=f12e469] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/in/paz-pisarski/
+                                - strong [ref=f12e470]: Paz Pisarski 🏵
+                              - text: in Australia 🎉Loved bringing our cohort together to turn big community visions into actionable community strategies 🔥 The purpose of this session was to come together to make progress on our strategies and get pen to paper! We'd love to hear what everyone got done in this time?!Shout out to
+                              - link "View Dylan Lamb’s profile" [ref=f12e473] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/in/dylanlamby/
+                                - strong [ref=f12e474]: Dylan Lamb
+                              - text: for running the Check In from Japan and
+                              - link "View Grace Kessels’ profile" [ref=f12e476] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/in/grace-kessels/
+                                - strong [ref=f12e477]: Grace Kessels
+                              - text: "for bringing the vibes!Wish you joined us? Submit a late application for Cohort #9"
+                              - link "Open https://lnkd.in/g534S2Ru" [ref=f12e479] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2Fg534S2Ru&urlhash=NTfK&mt=sVIC2Jjsh2RjJgqTlO5fcirzq385ujKe7fsBLrW3ngqF8qer6S2_kZDtxrQjGawx9QPb9HDElPA8xpqTw5I7XAWWE_IUHQhO6orlogOon_jPUgCnxq9VGPHR&isSdui=true
+                                - strong [ref=f12e480]: https://lnkd.in/g534S2Ru
+                              - button [aria-hidden] [ref=f12e481] [cursor=pointer]:
+                                - generic [ref=f12e482]: … more
+                          - generic [ref=f12e484]:
+                            - link [ref=f12e485] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/company/the-community-collective/posts/
+                              - figure [ref=f12e486]:
+                                - img "View image" [ref=f12e487]
+                            - button "View tagged entities" [ref=f12e488] [cursor=pointer]
+                          - generic [ref=f12e492]:
+                            - link [ref=f12e493] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/company/the-community-collective/posts/
+                              - generic "Switch to different account" [ref=f12e494]:
+                                - figure [aria-hidden] [ref=f12e495]
+                            - generic [ref=f12e498]:
+                              - 'button "Reaction button state: no reaction" [ref=f12e501] [cursor=pointer]':
+                                - generic [ref=f12e502]: "9"
+                              - button "Open reactions menu":
+                                - generic [ref=f12e508] [cursor=pointer]
+                            - button "Comment" [ref=f12e511] [cursor=pointer]:
+                              - generic [ref=f12e512]: "2"
+                            - button "Repost" [ref=f12e518] [cursor=pointer]:
+                              - generic [ref=f12e519]: "2"
+                            - link "Send" [ref=f12e525] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/company/the-community-collective/posts/
+                            - link [ref=f12e529] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/company/the-community-collective/posts/
+                              - generic "9 reactions" [ref=f12e530]
+            - complementary "Aside" [ref=f12e557]:
+              - generic [ref=f12e558]:
+                - iframe [ref=f12e561]:
+                  - generic [ref=f15e2]:
+                    - generic: Ad
+                    - img "overflow-web-small" [ref=f15e6] [cursor=pointer]
+                    - link "LinkedIn for Marketing" [ref=f15e10] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Fbusiness.linkedin.com%2Fadvertise%2Fcx%2F22%2F06%2Frequest-a-strategy-call%3Fmcid%3D7503488571140616212%26src%3Dli-dynamic%26cid%3D701hh0000077UsqAAE%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg186kUiHPSMJLGyjgCKcXucR_Nfb-xwc_QBdWJCcK2aeGvaQUW3XJAGTIZZJdXNwIodZjoysiYF3iEoqftEsFvVVm-sTahpDKco-kruKaHNruqkYTkizHooJ6tuGik9QObIDcM869nutTIQ7AyoF-13uzryB3TLJ4yhI5_LP9Tno9G26MAFuQ3fVwjPSDxV-vwSaS6Ovfi7CCRAZx4uYSs1Ddqy0tt2Wy0wCNpfvWk40WyQQErOQDPRW-9X9qSNcg5fDBSICKdKbOAF7NrcLPBSPRsVPk4RbvLIHFSZLIULSS_L1MwBArLSE1BZeFhbGT3_GfdZVi7783UO0U3CgCIks0Unlg0cfayz_48_K_KUryWLM3RYTqwbTBVEUygEUEgcPoJb53L6LE_pJfovqYReH162LncsT_DuMgpOMNSAoc6rsstVUaNra5-ZQSws15Z14uIiZYmNn9y4zZlzWnd08TNPWJtyQKkhy6lex9EYpCp3sCE9Tv27JbZRumPrjH1qpDAFSHABcdZTWsagG7jysB-U1tfkY6AjJquvcshNSZmic3jK21trWWGNKa8cjc6MTaNz-W44iupmEzsRlx3fRk4PubVIbY0bIHMjKKtBq-fL77XPR6tvxS23mMPETp52oXyW_CrOW_uXgZxD2vCgH5UI7OhPxNlVjSjHZ0kiqN8_dBl_t4kbtaq9z261CAulWly3wwgq1qSGIJqft6mfrmmTN84bQ7IguFmVqTaJ9_m3WIU5CO0sVQcL0V_3VnlgXa1p5kNKSKWKnc9npOvtA5ftgt5LSet3O6J8wZdI6O0BLO37yUn888335OSdYeaH_qXT7IwgK55Pb14zoBQsQf_62tOxMSkle5hk3UMcOa4FwS5tVolp3mdEfUipeffp5eKtdajMpt8wsI3aByDUy6Es63VWzqY03_ntAIPFtJz1X5dQMftlss5UEciAt0Mt_4OYFooH1vXkC-yjJUg3r802g4nkqqn3EfJ6rNeJv_OErqkYxz7iX_8DC5YTqIq4VFRYCy_zhlZ3V6XtsT0Pz3NxTM5HVajkinL3J7bDs24dJZPul_Y7FSmgMZI3AkvkJhsdKsYu6xj4NnBcKsBRwXaQV9fbQx-ILi7Q15EN8fg7Dwa9BGhUiYAOuxh41gycUbedSJKgyB-4OAoG0ZDg%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_company%22%2C%22trackingId%22%3A%22fbb304ef-eba4-41eb-8dc6-1a69b9eb17c8%22%7D%2C%22time%22%3A1790327038966%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_company%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                    - generic [ref=f15e11]:
+                      - heading "Kelly, prove ROI with help from a LinkedIn Ads expert" [level=2] [ref=f15e14]
+                      - generic [ref=f15e16]:
+                        - img "Kelly" [ref=f15e17]
+                        - generic [ref=f15e18]:
+                          - link [ref=f15e19] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Fbusiness.linkedin.com%2Fadvertise%2Fcx%2F22%2F06%2Frequest-a-strategy-call%3Fmcid%3D7503488571140616212%26src%3Dli-dynamic%26cid%3D701hh0000077UsqAAE%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg186kUiHPSMJLGyjgCKcXucR_Nfb-xwc_QBdWJCcK2aeGvaQUW3XJAGTIZZJdXNwIodZjoysiYF3iEoqftEsFvVVm-sTahpDKco-kruKaHNruqkYTkizHooJ6tuGik9QObIDcM869nutTIQ7AyoF-13uzryB3TLJ4yhI5_LP9Tno9G26MAFuQ3fVwjPSDxV-vwSaS6Ovfi7CCRAZx4uYSs1Ddqy0tt2Wy0wCNpfvWk40WyQQErOQDPRW-9X9qSNcg5fDBSICKdKbOAF7NrcLPBSPRsVPk4RbvLIHFSZLIULSS_L1MwBArLSE1BZeFhbGT3_GfdZVi7783UO0U3CgCIks0Unlg0cfayz_48_K_KUryWLM3RYTqwbTBVEUygEUEgcPoJb53L6LE_pJfovqYReH162LncsT_DuMgpOMNSAoc6rsstVUaNra5-ZQSws15Z14uIiZYmNn9y4zZlzWnd08TNPWJtyQKkhy6lex9EYpCp3sCE9Tv27JbZRumPrjH1qpDAFSHABcdZTWsagG7jysB-U1tfkY6AjJquvcshNSZmic3jK21trWWGNKa8cjc6MTaNz-W44iupmEzsRlx3fRk4PubVIbY0bIHMjKKtBq-fL77XPR6tvxS23mMPETp52oXyW_CrOW_uXgZxD2vCgH5UI7OhPxNlVjSjHZ0kiqN8_dBl_t4kbtaq9z261CAulWly3wwgq1qSGIJqft6mfrmmTN84bQ7IguFmVqTaJ9_m3WIU5CO0sVQcL0V_3VnlgXa1p5kNKSKWKnc9npOvtA5ftgt5LSet3O6J8wZdI6O0BLO37yUn888335OSdYeaH_qXT7IwgK55Pb14zoBQsQf_62tOxMSkle5hk3UMcOa4FwS5tVolp3mdEfUipeffp5eKtdajMpt8wsI3aByDUy6Es63VWzqY03_ntAIPFtJz1X5dQMftlss5UEciAt0Mt_4OYFooH1vXkC-yjJUg3r802g4nkqqn3EfJ6rNeJv_OErqkYxz7iX_8DC5YTqIq4VFRYCy_zhlZ3V6XtsT0Pz3NxTM5HVajkinL3J7bDs24dJZPul_Y7FSmgMZI3AkvkJhsdKsYu6xj4NnBcKsBRwXaQV9fbQx-ILi7Q15EN8fg7Dwa9BGhUiYAOuxh41gycUbedSJKgyB-4OAoG0ZDg%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_company%22%2C%22trackingId%22%3A%22fbb304ef-eba4-41eb-8dc6-1a69b9eb17c8%22%7D%2C%22time%22%3A1790327038966%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_company%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                            - img "LinkedIn for Marketing" [ref=f15e20]
+                          - tooltip "LinkedIn for Marketing" [ref=f15e21]
+                      - generic [ref=f15e22]:
+                        - heading "Get clarity on your campaign ROI" [level=2] [ref=f15e25]
+                        - link "Book a 1:1 call" [ref=f15e27] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Fbusiness.linkedin.com%2Fadvertise%2Fcx%2F22%2F06%2Frequest-a-strategy-call%3Fmcid%3D7503488571140616212%26src%3Dli-dynamic%26cid%3D701hh0000077UsqAAE%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg186kUiHPSMJLGyjgCKcXucR_Nfb-xwc_QBdWJCcK2aeGvaQUW3XJAGTIZZJdXNwIodZjoysiYF3iEoqftEsFvVVm-sTahpDKco-kruKaHNruqkYTkizHooJ6tuGik9QObIDcM869nutTIQ7AyoF-13uzryB3TLJ4yhI5_LP9Tno9G26MAFuQ3fVwjPSDxV-vwSaS6Ovfi7CCRAZx4uYSs1Ddqy0tt2Wy0wCNpfvWk40WyQQErOQDPRW-9X9qSNcg5fDBSICKdKbOAF7NrcLPBSPRsVPk4RbvLIHFSZLIULSS_L1MwBArLSE1BZeFhbGT3_GfdZVi7783UO0U3CgCIks0Unlg0cfayz_48_K_KUryWLM3RYTqwbTBVEUygEUEgcPoJb53L6LE_pJfovqYReH162LncsT_DuMgpOMNSAoc6rsstVUaNra5-ZQSws15Z14uIiZYmNn9y4zZlzWnd08TNPWJtyQKkhy6lex9EYpCp3sCE9Tv27JbZRumPrjH1qpDAFSHABcdZTWsagG7jysB-U1tfkY6AjJquvcshNSZmic3jK21trWWGNKa8cjc6MTaNz-W44iupmEzsRlx3fRk4PubVIbY0bIHMjKKtBq-fL77XPR6tvxS23mMPETp52oXyW_CrOW_uXgZxD2vCgH5UI7OhPxNlVjSjHZ0kiqN8_dBl_t4kbtaq9z261CAulWly3wwgq1qSGIJqft6mfrmmTN84bQ7IguFmVqTaJ9_m3WIU5CO0sVQcL0V_3VnlgXa1p5kNKSKWKnc9npOvtA5ftgt5LSet3O6J8wZdI6O0BLO37yUn888335OSdYeaH_qXT7IwgK55Pb14zoBQsQf_62tOxMSkle5hk3UMcOa4FwS5tVolp3mdEfUipeffp5eKtdajMpt8wsI3aByDUy6Es63VWzqY03_ntAIPFtJz1X5dQMftlss5UEciAt0Mt_4OYFooH1vXkC-yjJUg3r802g4nkqqn3EfJ6rNeJv_OErqkYxz7iX_8DC5YTqIq4VFRYCy_zhlZ3V6XtsT0Pz3NxTM5HVajkinL3J7bDs24dJZPul_Y7FSmgMZI3AkvkJhsdKsYu6xj4NnBcKsBRwXaQV9fbQx-ILi7Q15EN8fg7Dwa9BGhUiYAOuxh41gycUbedSJKgyB-4OAoG0ZDg%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_company%22%2C%22trackingId%22%3A%22fbb304ef-eba4-41eb-8dc6-1a69b9eb17c8%22%7D%2C%22time%22%3A1790327038966%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_company%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                - generic [ref=f12e563]:
+                  - generic [ref=f12e567]:
+                    - heading "People also viewed" [level=2] [ref=f12e569]
+                    - list [ref=f12e570]:
+                      - listitem [ref=f12e571]:
+                        - generic [ref=f12e573]:
+                          - link [ref=f12e574] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/company/ledbycommunity/
+                            - generic [ref=f12e575]:
+                              - figure [aria-hidden] [ref=f12e576]
+                              - generic [ref=f12e577]:
+                                - paragraph [ref=f12e580]:
+                                  - link "View Led by Community C.I.C page" [ref=f12e582]:
+                                    - /url: https://www.linkedin.com/company/ledbycommunity/
+                                    - text: Led by Community C.I.C
+                                - paragraph [ref=f12e584]: Education
+                                - paragraph [ref=f12e585]: 5,066 followers
+                          - generic [ref=f12e586]:
+                            - generic [ref=f12e587]:
+                              - figure [aria-hidden] [ref=f12e588]
+                              - paragraph [ref=f12e590]:
+                                - link "Open http://www.linkedin.com/in/frankopazo" [ref=f12e592] [cursor=pointer]:
+                                  - /url: https://www.linkedin.com/in/frankopazo/
+                                  - text: Francisco works here
+                            - button "Follow Led by Community C.I.C" [ref=f12e595] [cursor=pointer]:
+                              - generic [ref=f12e596]: Follow
+                      - separator [aria-hidden] [ref=f12e601]
+                      - listitem [ref=f12e602]:
+                        - generic [ref=f12e604]:
+                          - link [ref=f12e605] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/company/cmx-media/
+                            - generic [ref=f12e606]:
+                              - figure [aria-hidden] [ref=f12e607]
+                              - generic [ref=f12e608]:
+                                - paragraph [ref=f12e611]:
+                                  - link "View CMX page" [ref=f12e613]:
+                                    - /url: https://www.linkedin.com/company/cmx-media/
+                                    - text: CMX
+                                - paragraph [ref=f12e615]: Professional Training and Coaching
+                                - paragraph [ref=f12e616]: 9,870 followers
+                          - generic [ref=f12e617]:
+                            - generic [ref=f12e618]:
+                              - figure [aria-hidden] [ref=f12e619]
+                              - paragraph [ref=f12e621]:
+                                - link "Open http://www.linkedin.com/in/tanyrc" [ref=f12e623] [cursor=pointer]:
+                                  - /url: https://www.linkedin.com/in/tanyrc/
+                                  - text: Tany works here
+                            - button "Follow CMX" [ref=f12e626] [cursor=pointer]:
+                              - generic [ref=f12e627]: Follow
+                      - separator [aria-hidden] [ref=f12e632]
+                      - listitem [ref=f12e633]:
+                        - generic [ref=f12e635]:
+                          - link [ref=f12e636] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/company/communitycollective/
+                            - generic [ref=f12e637]:
+                              - figure [aria-hidden] [ref=f12e638]
+                              - generic [ref=f12e639]:
+                                - paragraph [ref=f12e642]:
+                                  - link "View Community Collective page" [ref=f12e644]:
+                                    - /url: https://www.linkedin.com/company/communitycollective/
+                                    - text: Community Collective
+                                - paragraph [ref=f12e646]: Advertising Services
+                                - paragraph [ref=f12e647]: 557 followers
+                          - generic [ref=f12e648]:
+                            - link [ref=f12e649] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/company/the-community-collective/posts/
+                              - generic [ref=f12e650]:
+                                - figure [aria-hidden] [ref=f12e651]
+                                - paragraph [ref=f12e653]:
+                                  - link "Nimmity & 22 other connections follow this page" [ref=f12e655]:
+                                    - /url: https://www.linkedin.com/company/the-community-collective/posts/
+                            - button "Follow Community Collective" [ref=f12e658] [cursor=pointer]:
+                              - generic [ref=f12e659]: Follow
+                    - link "Show all similar pages" [ref=f12e665] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/the-community-collective/posts/
+                      - generic [ref=f12e666]: Show all
+                  - generic [ref=f12e673]:
+                    - heading "People also follow" [level=2] [ref=f12e675]
+                    - list [ref=f12e676]:
+                      - listitem [ref=f12e677]:
+                        - generic [ref=f12e679]:
+                          - link [ref=f12e680] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/company/freelance-football-opps/
+                            - generic [ref=f12e681]:
+                              - figure [aria-hidden] [ref=f12e682]
+                              - generic [ref=f12e683]:
+                                - paragraph [ref=f12e686]:
+                                  - link "View Freelance Football Opps page" [ref=f12e688]:
+                                    - /url: https://www.linkedin.com/company/freelance-football-opps/
+                                    - text: Freelance Football Opps
+                                - paragraph [ref=f12e690]: Internet Publishing
+                                - paragraph [ref=f12e691]: 1,247 followers
+                          - generic [ref=f12e692]:
+                            - link [ref=f12e693] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/company/the-community-collective/posts/
+                              - generic [ref=f12e694]:
+                                - figure [aria-hidden] [ref=f12e695]
+                                - paragraph [ref=f12e703]:
+                                  - link "José Manuel Félix & 2 other connections follow this page" [ref=f12e705]:
+                                    - /url: https://www.linkedin.com/company/the-community-collective/posts/
+                            - button "Follow Freelance Football Opps" [ref=f12e708] [cursor=pointer]:
+                              - generic [ref=f12e709]: Follow
+                      - separator [aria-hidden] [ref=f12e714]
+                      - listitem [ref=f12e715]:
+                        - generic [ref=f12e717]:
+                          - link [ref=f12e718] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/company/nswruralpressclub/
+                            - generic [ref=f12e719]:
+                              - figure [aria-hidden] [ref=f12e720]
+                              - generic [ref=f12e721]:
+                                - paragraph [ref=f12e724]:
+                                  - link "View NSW Rural Press Club page" [ref=f12e726]:
+                                    - /url: https://www.linkedin.com/company/nswruralpressclub/
+                                    - text: NSW Rural Press Club
+                                - paragraph [ref=f12e728]: Public Policy Offices
+                                - paragraph [ref=f12e729]: 1,724 followers
+                          - generic [ref=f12e730]:
+                            - link [ref=f12e731] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/company/the-community-collective/posts/
+                              - generic [ref=f12e732]:
+                                - figure [aria-hidden] [ref=f12e733]
+                                - paragraph [ref=f12e735]:
+                                  - link "Michael & 32 other connections follow this page" [ref=f12e737]:
+                                    - /url: https://www.linkedin.com/company/the-community-collective/posts/
+                            - button "Follow NSW Rural Press Club" [ref=f12e740] [cursor=pointer]:
+                              - generic [ref=f12e741]: Follow
+                      - separator [aria-hidden] [ref=f12e746]
+                      - listitem [ref=f12e747]:
+                        - generic [ref=f12e749]:
+                          - link [ref=f12e750] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/company/australian-academy-of-the-humanities/
+                            - generic [ref=f12e751]:
+                              - figure [aria-hidden] [ref=f12e752]
+                              - generic [ref=f12e753]:
+                                - paragraph [ref=f12e756]:
+                                  - link "View Australian Academy of the Humanities page" [ref=f12e758]:
+                                    - /url: https://www.linkedin.com/company/australian-academy-of-the-humanities/
+                                    - text: Australian Academy of the Humanities
+                                - paragraph [ref=f12e760]: Research Services
+                                - paragraph [ref=f12e761]: 7,418 followers
+                          - generic [ref=f12e762]:
+                            - link [ref=f12e763] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/company/the-community-collective/posts/
+                              - generic [ref=f12e764]:
+                                - figure [aria-hidden] [ref=f12e765]
+                                - paragraph [ref=f12e767]:
+                                  - link "Nick & 108 other connections follow this page" [ref=f12e769]:
+                                    - /url: https://www.linkedin.com/company/the-community-collective/posts/
+                            - button "Follow Australian Academy of the Humanities" [ref=f12e772] [cursor=pointer]:
+                              - generic [ref=f12e773]: Follow
+                    - link "Show all recommended pages" [ref=f12e779] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/the-community-collective/posts/
+                      - generic [ref=f12e780]: Show all
+                  - generic [ref=f12e787]:
+                    - heading "Connections who work here" [level=2] [ref=f12e789]
+                    - list [ref=f12e790]:
+                      - listitem [ref=f12e791]:
+                        - generic [ref=f12e793]:
+                          - link [ref=f12e795] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/in/ilana-kosakiewicz/
+                            - generic [ref=f12e796]:
+                              - figure [aria-hidden] [ref=f12e797]
+                              - generic [ref=f12e798]:
+                                - generic [ref=f12e799]:
+                                  - paragraph [ref=f12e801]: Ilana Kosakiewicz
+                                  - paragraph [ref=f12e802]: · 1st
+                                - paragraph [ref=f12e804]: Kinesiologist, Energy Mentor, Retreat Facilitator and Workplace Wellbeing Facilitator
+                          - link "Message Ilana Kosakiewicz" [ref=f12e808] [cursor=pointer]:
+                            - /url: /messaging/compose/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAAgMuzgBsTH_7K23xhHf4ShX5iBqDv1czcI&recipient=ACoAAAgMuzgBsTH_7K23xhHf4ShX5iBqDv1czcI&screenContext=NON_SELF_PROFILE_VIEW&interop=msgOverlay
+                            - generic [ref=f12e809]: Message
+                      - separator [aria-hidden] [ref=f12e813]
+                      - listitem [ref=f12e814]:
+                        - generic [ref=f12e816]:
+                          - link [ref=f12e818] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/in/tanyrc/
+                            - generic [ref=f12e819]:
+                              - figure [aria-hidden] [ref=f12e820]
+                              - generic [ref=f12e821]:
+                                - generic [ref=f12e822]:
+                                  - paragraph [ref=f12e824]:
+                                    - generic [ref=f12e825]:
+                                      - text: Tany R. Castro
+                                      - img "Premium" [ref=f12e826]
+                                  - paragraph [ref=f12e829]: · 1st
+                                - paragraph [ref=f12e831]: Creating Events, Building Community, and Leading with a Designer’s Eye
+                          - link "Message Tany R. Castro" [ref=f12e835] [cursor=pointer]:
+                            - /url: /messaging/compose/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAABX_JaUB6uaEvf22Oyv3qr2Cx_c8Uay9MNc&recipient=ACoAABX_JaUB6uaEvf22Oyv3qr2Cx_c8Uay9MNc&screenContext=NON_SELF_PROFILE_VIEW&interop=msgOverlay
+                            - generic [ref=f12e836]: Message
+                      - separator [aria-hidden] [ref=f12e840]
+                      - listitem [ref=f12e841]:
+                        - generic [ref=f12e843]:
+                          - link [ref=f12e845] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/in/learausch/
+                            - generic [ref=f12e846]:
+                              - figure [aria-hidden] [ref=f12e847]
+                              - generic [ref=f12e848]:
+                                - generic [ref=f12e849]:
+                                  - paragraph [ref=f12e851]:
+                                    - generic [ref=f12e852]:
+                                      - text: Lea Rausch
+                                      - img "Verified" [ref=f12e853]
+                                  - paragraph [ref=f12e856]: · 1st
+                                - paragraph [ref=f12e858]: Strategy & Operations Leader | Chief of Staff | Startup Operator | Community Enthusiast | Writer & Consultant
+                          - link "Message Lea Rausch" [ref=f12e862] [cursor=pointer]:
+                            - /url: /messaging/compose/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAApippYB5WXZhoVxW3TbdupdVghDOGp-OW4&recipient=ACoAAApippYB5WXZhoVxW3TbdupdVghDOGp-OW4&screenContext=NON_SELF_PROFILE_VIEW&interop=msgOverlay
+                            - generic [ref=f12e863]: Message
+                    - link "Show all connections" [ref=f12e868] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/the-community-collective/posts/
+                      - generic [ref=f12e869]: Show all
+                - iframe [ref=f12e876]:
+                  - generic [ref=f16e3]:
+                    - banner [ref=f16e4]:
+                      - generic [ref=f16e5]:
+                        - link "Promoted" [ref=f16e6] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/ads/start?src=en-all-ad-li-ads_by_li&trk=ads_by_li&utm_medium=ad&utm_source=li&utm_campaign=ads_by_li
+                        - button [ref=f16e7] [cursor=pointer]
+                    - generic [ref=f16e13]:
+                      - link [ref=f16e14] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Faicoursecreator.eskilled.io%2F%3Futm_source%3Dlinkedin%26utm_medium%3Dtext-ads%26utm_campaign%3Daicc_sidebar-feb26-ed-v2%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg186kRq5FsvuORIZ4hmHCwEWCrzOOJtY9I9eCdD1jBDJy_oB-d2k2CbhFm75rNirNzi2Z-cyaRA9_FcKdu85X-3xF3Uu57jeW1HDbrWwuOrGb1HhfQsWLFeDigN-JwAE3QAOKMFYxY5XO6h_SUQJQKgQtGrI85K1fxn-LM7KNKl1KrptlDvAtSaAo4VIVfRw_m5WrJixSLPm5mPp78B8vsJ6O5Rmn_gpr-kSbQ9GZSxKGRRRRH_rjlBfoBtFAQW3NqTAnx3fMZOkGH0jT61uGfvBy7ZdIZ4IEicNR2QbmMi58Zcj6bpZ5CNPVQUILQ6GAPc4Y9ckvou1GT_nZsGo7HRF9ZvOoKwvUAegs9gDLnjaon7qsiCT66dEuIXGVpy3V3MpwRjhHGX606WcWzVJQe0UUdiHUB8P7xBy0SvpTAbd8KXbncafntXikU8j4PF-NqBcTYzsqmBn_L1O7X840AS43o6QHcsepY0RbKfAS-LZC6NV82TcUa031W_NtoNbO2iAa3AEHxopGE3KAlX16mDwgD1SjL0hw-fUnuCCbzui6z4D0s2OAbWUPChFH81cCB7fPiwWY7GKrnyW1O8qVDkIRB8v8lyYzV0ItRvodzekk5J2MCGOFiDM2pzVahD6Www4bjj3fyyMRH4iU0tiQPK085kTwTmXOiKjplGDUj0Lg_ppqYwM6xK2FYaiTepkFVzeWwtwoWLIlOsK6AVUV_GjyW8hHmFnfJSwxwEeDYorJwsN-U93GrwYcUZZK81xvbIdyy_Wbk3y000sdVVDCJDafnHyG2rG72YLvtA5UUveKrgnwZ8bbqrvdBgyajQsbO-YuuljilsZN-_YnHmX9ROuCBNdlEy-ObUQe1HW0leOxX7fJUO_Do7f1a47C3WE1KiN2xQ2HNn8F-NVYfveXt4MH3-_vj2XTI_jbUrOCUcoqu-BVBrdLQqH7HhZt7s2rGi5go6vy4S5lE8wrGlk4w2Q14pXffoLju6NG1APKqG14CpF9t0hn0JXBm1Cok42gyDlQETbNNKX3yCuA%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_company%22%2C%22trackingId%22%3A%225e237af4-a02d-43b8-82cb-619ef04ab8dc%22%7D%2C%22time%22%3A1790327039046%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_company%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                        - img "Ad Image 720,359,966" [ref=f16e16]
+                        - generic [ref=f16e17]:
+                          - heading "Full, Interactive Courses" [level=4] [ref=f16e18]
+                          - paragraph [ref=f16e19]: Create Ready-to-Deliver Courses Instantly. Try It For FREE!
+                          - generic [ref=f16e20]:
+                            - img "Arno" [ref=f16e22]
+                            - paragraph [ref=f16e23]: Arno & 77 other connections also follow eSkilled AI Course Creator
+                      - link [ref=f16e24] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Fsubscribe.washingtonpost.com%2Fcheckout%2Fpayment%2F%3Fs_l%3DOFFSITE_LINKEDIN%26p%3DUS_0626_DTP%26pricingStrategy%3Dmonthly%26product%3Dcore%26utm_source%3Dlinkedin%26utm_medium%3Dacq-nat%26utm_campaign%3Devgn0626%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg186kSWL0VZQNUwr4SdxAMMNbVGfDJ0F7rtSae3bV1rb0GD-pwJAkz1Ho01kQd8-PyiNakntCybAA5xHJrhaMNGpQgidWGM6xUEjdNFrC0-A0q-sMfn9S9kQFSEe6KGaQIJYL9I9v3bt7vxoYAflJKhsmuhse-JwrMFAySck-YM0dyOytMhC13IyISta-w9VlZU_-9wD1bSyBqt0rqSB9HzJUYN-aHwLgA1ZGi-5eBSeLlO-t-njiEmnng9USrCNioTdMIh7iIYEBKNIQaDqLlIUOjaswjXAxB8uTT_YvnEK30yMZDP6hWKuObEzo0LPr41Fo0uMRnpiGkNRTPrAOxD-SmT24WkvOEzICLl7gujF9kpFqGzlsvQARkOwO2Ix_IL9aNImmza44qPNJ9b9vjv1ulwB0cBelp-wsMPIRuN5vzNWNpdhmsRBqgOJKlWrO93RwB_v7WB1VAHW71iEjcnJnzNa3jRPRVkC_sHI1EooEoG4GlLDitywZHVgma3TIwcT2C6zvJ05JFMiAUDkcSrVOQjP7ztPCB_DPr_1mIvw2ch8Aq7f8HyfsMKpWdod_CaaVMs-l0FEnclwN3JAXtkg3VD889Yyp_GmYeq_BEhyHYTbKU6agnGHDuL_V_3tv_UNr9eqOUgwi1m7AFrnDQeX5hN8Au6CJOXI4VttZmo6VHit4cOmwlc7DQUN12FNLOfRzzV1KWfehOMiIHbGC3It_ctFjpx37j0ai4BJ2t5PjYNiCE_kxBbNE0qxCIv25kWeV3isvegRm1O9d5TlwBNsOGkbpeXTNmPMdxmV-y7qskUQIbZ-O-QpfpxqlYSsuy0yGP_pQ0GznpQbR08kE_a8GOkKCqo_WWqe99k7hika2VOSuAUnKMmIyvDcVLii-PA7GRB3Pig9QmL_OWqK6lMMxJMxJZN-vR7TC_PTuh7OzGDhVrire7szoROW-yuKNAzcoJC2HLtP7k9tsqYl2jPxmXLNVT_H2tpOM0MzKRQIQP2AbIyyzpRIagLia3voO8wiv22dYLrD7ssc%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_company%22%2C%22trackingId%22%3A%22ba1e8d9c-16a8-4e86-9771-142d3ed2bc1e%22%7D%2C%22time%22%3A1790327039048%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_company%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                        - img "Ad Image 1,444,837,904" [ref=f16e26]
+                        - generic [ref=f16e27]:
+                          - heading "Reporting Beyond D.C." [level=4] [ref=f16e28]
+                          - paragraph [ref=f16e29]: Subscribe for $4/four weeks for the first year. After intro, $14/four weeks
+                          - generic [ref=f16e30]:
+                            - img "Joyce" [ref=f16e32]
+                            - paragraph [ref=f16e33]: Joyce & 736 other connections also follow The Washington Post
+            - generic "Footer" [ref=f12e877]:
+              - generic [ref=f12e880]:
+                - generic [ref=f12e881]:
+                  - navigation [ref=f12e882]:
+                    - link [ref=f12e883] [cursor=pointer]:
+                      - /url: https://about.linkedin.com/
+                      - paragraph [ref=f12e884]: About
+                    - link [ref=f12e885] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/accessibility/
+                      - paragraph [ref=f12e886]: Accessibility
+                    - link [ref=f12e888] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/talent/post-a-job/?trk=footer_jobs_home&src=li-footer
+                      - paragraph [ref=f12e889]: Talent Solutions
+                    - link [ref=f12e890] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/legal/professional-community-policies/
+                      - paragraph [ref=f12e891]: Community Guidelines
+                    - link [ref=f12e892] [cursor=pointer]:
+                      - /url: https://careers.linkedin.com/
+                      - paragraph [ref=f12e893]: Careers
+                    - link [ref=f12e894] [cursor=pointer]:
+                      - /url: https://business.linkedin.com/advertise?trk=n_nav_lms_f&src=li-footer
+                      - paragraph [ref=f12e895]: Marketing Solutions
+                    - button [ref=f12e896] [cursor=pointer]:
+                      - paragraph [ref=f12e898]: Privacy & Terms
+                    - link [ref=f12e901] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/help/linkedin/answer/62931/
+                      - paragraph [ref=f12e902]: Ad Choices
+                    - link [ref=f12e903] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/ad/start/?trk=n_nav_ads_rr
+                      - paragraph [ref=f12e904]: Advertising
+                    - link [ref=f12e905] [cursor=pointer]:
+                      - /url: https://business.linkedin.com/sales-solutions?trk=flagship_nav&veh=li-footer-lss-control&src=li-footer
+                      - paragraph [ref=f12e906]: Sales Solutions
+                    - link [ref=f12e907] [cursor=pointer]:
+                      - /url: https://mobile.linkedin.com/
+                      - paragraph [ref=f12e908]: Mobile
+                    - link [ref=f12e909] [cursor=pointer]:
+                      - /url: https://business.linkedin.com/grow?src=li-footer
+                      - paragraph [ref=f12e910]: Small Business
+                    - link [ref=f12e911] [cursor=pointer]:
+                      - /url: https://safety.linkedin.com/
+                      - paragraph [ref=f12e912]: Safety Center
+                  - paragraph [ref=f12e914]: LinkedIn Corporation © 2026
+                - generic [ref=f12e915]:
+                  - list [ref=f12e916]:
+                    - listitem [ref=f12e917]:
+                      - generic [ref=f12e921]:
+                        - link [ref=f12e922] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/help/linkedin/
+                          - paragraph [ref=f12e923]: Questions?
+                        - paragraph [ref=f12e924]: Visit our Help Center.
+                    - listitem [ref=f12e925]:
+                      - generic [ref=f12e929]:
+                        - link [ref=f12e930] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/mypreferences/d/
+                          - paragraph [ref=f12e931]: Manage your account and privacy
+                        - paragraph [ref=f12e932]: Go to your Settings.
+                    - listitem [ref=f12e933]:
+                      - generic [ref=f12e937]:
+                        - link [ref=f12e938] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/help/linkedin/answer/a1339724/
+                          - paragraph [ref=f12e939]: Recommendation transparency
+                        - paragraph [ref=f12e940]: Learn more about Recommended Content.
+                  - generic [ref=f12e942]:
+                    - paragraph [ref=f12e944]: Select language
+                    - combobox "Select language" [ref=f12e946] [cursor=pointer]:
+                      - option "العربية (Arabic)"
+                      - option "বাংলা (Bangla)"
+                      - option "Čeština (Czech)"
+                      - option "Dansk (Danish)"
+                      - option "Deutsch (German)"
+                      - option "Ελληνικά (Greek)"
+                      - option "English (English)" [selected]
+                      - option "Español (Spanish)"
+                      - option "فارسی (Persian)"
+                      - option "Suomi (Finnish)"
+                      - option "Français (French)"
+                      - option "हिंदी (Hindi)"
+                      - option "Magyar (Hungarian)"
+                      - option "Bahasa Indonesia (Indonesian)"
+                      - option "Italiano (Italian)"
+                      - option "עברית (Hebrew)"
+                      - option "日本語 (Japanese)"
+                      - option "한국어 (Korean)"
+                      - option "मराठी (Marathi)"
+                      - option "Bahasa Malaysia (Malay)"
+                      - option "Nederlands (Dutch)"
+                      - option "Norsk (Norwegian)"
+                      - option "ਪੰਜਾਬੀ (Punjabi)"
+                      - option "Polski (Polish)"
+                      - option "Português (Portuguese)"
+                      - option "Română (Romanian)"
+                      - option "Русский (Russian)"
+                      - option "Svenska (Swedish)"
+                      - option "తెలుగు (Telugu)"
+                      - option "ภาษาไทย (Thai)"
+                      - option "Tagalog (Tagalog)"
+                      - option "Türkçe (Turkish)"
+                      - option "Українська (Ukrainian)"
+                      - option "Tiếng Việt (Vietnamese)"
+                      - option "简体中文 (Chinese (Simplified))"
+                      - option "正體中文 (Chinese (Traditional))"
+  - iframe [ref=f12e947]
