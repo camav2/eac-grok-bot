@@ -1,0 +1,109 @@
+- generic [active] [ref=f200e1]:
+  - generic:
+    - region "Toast message":
+      - heading "0 notifications total" [level=2] [ref=f200e3]
+      - alert
+  - generic [ref=f200e4]:
+    - generic [ref=f200e6]:
+      - button "Skip to search" [ref=f200e7] [cursor=pointer]
+      - button "Skip to main content" [ref=f200e9] [cursor=pointer]
+      - button "Keyboard shortcuts" [ref=f200e11] [cursor=pointer]
+      - button "Close jump menu" [ref=f200e13] [cursor=pointer]
+    - banner "Global Navigation" [ref=f200e17]:
+      - generic [ref=f200e18]:
+        - link [ref=f200e19] [cursor=pointer]:
+          - /url: https://www.linkedin.com/feed/?nis=true
+          - img "LinkedIn" [ref=f200e22]
+        - combobox "I’m looking for..." [ref=f200e28]
+        - navigation "Primary Navigation" [ref=f200e29]:
+          - list [ref=f200e30]:
+            - listitem [ref=f200e31]:
+              - link "new feed updates notifications Home" [ref=f200e32] [cursor=pointer]:
+                - /url: https://www.linkedin.com/feed/?nis=true&
+                - generic [ref=f200e33]: new feed updates notifications
+                - generic "Home" [ref=f200e42]
+            - listitem [ref=f200e43]:
+              - link "29 new network updates notifications My Network" [ref=f200e44] [cursor=pointer]:
+                - /url: https://www.linkedin.com/mynetwork/?
+                - generic [ref=f200e46]:
+                  - generic [aria-hidden] [ref=f200e47]: "29"
+                  - generic [ref=f200e48]: 29 new network updates notifications
+                - generic "My Network" [ref=f200e54]
+            - listitem [ref=f200e55]:
+              - link "Jobs" [ref=f200e56] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/?
+            - listitem [ref=f200e63]:
+              - link "2 new messages notifications Messaging" [ref=f200e64] [cursor=pointer]:
+                - /url: https://www.linkedin.com/messaging/?
+                - generic [ref=f200e66]:
+                  - generic [aria-hidden] [ref=f200e67]: "2"
+                  - generic [ref=f200e68]: 2 new messages notifications
+                - generic "Messaging" [ref=f200e74]
+            - listitem [ref=f200e75]:
+              - link "25 new notifications Notifications" [ref=f200e76] [cursor=pointer]:
+                - /url: https://www.linkedin.com/notifications/?
+                - generic [ref=f200e78]:
+                  - generic [aria-hidden] [ref=f200e79]: "25"
+                  - generic [ref=f200e80]: 25 new notifications
+                - generic "Notifications" [ref=f200e86]
+            - listitem [ref=f200e87]:
+              - button [ref=f200e89] [cursor=pointer]:
+                - img "Kelly Irving" [ref=f200e90]
+                - generic [ref=f200e91]: Me
+            - listitem [ref=f200e94]:
+              - button "For Business" [ref=f200e96] [cursor=pointer]
+            - listitem [ref=f200e105]:
+              - link "3 new Campaign Manager notifications Advertise" [ref=f200e106] [cursor=pointer]:
+                - /url: https://www.linkedin.com/campaignmanager/accounts?shouldShowNotificationPanelOnRender=true
+                - generic [ref=f200e108]:
+                  - generic [aria-hidden] [ref=f200e109]: "3"
+                  - generic [ref=f200e110]: 3 new Campaign Manager notifications
+                - generic "Advertise" [ref=f200e117]
+    - generic [ref=f200e123]:
+      - complementary [ref=f200e124]:
+        - generic [ref=f200e127]:
+          - img "PREMIUM" [ref=f200e132]
+          - link [ref=f200e136] [cursor=pointer]:
+            - /url: /in/ashakayla/
+            - img "Asha Kayla" [ref=f200e137]
+          - generic [ref=f200e138]:
+            - link [ref=f200e139] [cursor=pointer]:
+              - /url: /in/ashakayla/
+              - heading [level=3] [ref=f200e140]:
+                - text: Asha Kayla
+                - img "Asha Kayla is a Premium member" [ref=f200e142]
+            - heading "Turning Sustainability into Business Value | Fractional Chief Sustainable Value Officer/Chief Impact Officer | Designing Impact Accelerators | Writer, The Future of Impact" [level=4] [ref=f200e145]
+          - generic [ref=f200e147]:
+            - generic [ref=f200e148]:
+              - generic [ref=f200e149]: Followers
+              - generic [ref=f200e150]: 8,928
+            - button "Message Asha" [ref=f200e153] [cursor=pointer]:
+              - generic [ref=f200e154]: Message
+      - main [ref=f200e155]:
+        - separator [ref=f200e180]
+      - complementary "Interests" [ref=f200e188]:
+        - generic "LinkedIn Footer Content" [ref=f200e250]:
+          - generic [ref=f200e251]:
+            - list
+            - generic [ref=f200e252]:
+              - img "LinkedIn" [ref=f200e253]
+              - text: LinkedIn Corporation © 2026
+    - generic:
+      - generic:
+        - complementary:
+          - generic [ref=f200e257]:
+            - generic [ref=f200e259] [cursor=pointer]:
+              - img "Kelly Irving" [ref=f200e261]
+              - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f200e262]:
+                - generic [ref=f200e263]:
+                  - generic [aria-hidden] [ref=f200e264]: Messaging
+                  - generic [ref=f200e265]: You are on the messaging overlay. Press enter to open the list of conversations.
+              - mark [aria-hidden] [ref=f200e266]:
+                - generic [ref=f200e267]: "2"
+            - generic [ref=f200e268]:
+              - button [ref=f200e270] [cursor=pointer]:
+                - img "Open messenger dropdown menu" [ref=f200e271]
+              - button "Compose message" [ref=f200e274] [cursor=pointer]
+              - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f200e278] [cursor=pointer]
+        - complementary "AI-powered assistant to get help with your career, jobs etc"
+  - region [ref=f200e282]

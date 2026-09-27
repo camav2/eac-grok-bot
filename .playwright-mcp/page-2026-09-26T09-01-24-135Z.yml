@@ -1,0 +1,571 @@
+- generic [ref=f35e1]:
+  - generic [ref=f35e2]:
+    - heading "0 notifications" [level=2] [ref=f35e3]
+    - generic [ref=f35e4]:
+      - generic:
+        - generic "Skip navigation menu":
+          - generic [ref=f35e655]:
+            - button "Skip to search" [ref=f35e656] [cursor=pointer]
+            - button "Skip to main content" [ref=f35e659] [cursor=pointer]
+            - button "Skip to sidebar" [ref=f35e662] [cursor=pointer]
+            - button "Skip to primary content" [ref=f35e665] [cursor=pointer]
+            - button "Skip to aside" [ref=f35e668] [cursor=pointer]
+            - button "Close jump menu" [ref=f35e6] [cursor=pointer]
+      - generic [ref=f35e9]:
+        - banner [ref=f35e11]:
+          - generic [ref=f35e14]:
+            - button [ref=f35e673] [cursor=pointer]:
+              - img "LinkedIn" [ref=f35e674]
+            - generic [ref=f35e17]:
+              - status [ref=f35e18]
+              - search [ref=f35e19]:
+                - textbox "I'm looking for…" [ref=f35e23]
+            - generic [ref=f35e25]:
+              - figure [aria-hidden] [ref=f35e682]
+              - navigation [ref=f35e29]:
+                - list [ref=f35e30]:
+                  - listitem [ref=f35e31]:
+                    - button "Home, 1 new notification" [ref=f35e32] [cursor=pointer]:
+                      - generic [ref=f35e36]: Home
+                  - listitem [ref=f35e38]:
+                    - link "My Network, 29 new notifications" [ref=f35e39] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/mynetwork
+                      - generic [ref=f35e40]: "29"
+                      - generic [ref=f35e44]: My Network
+                  - listitem [ref=f35e46]:
+                    - link "Jobs, 0 new notifications" [ref=f35e47] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/jobs/
+                      - generic [ref=f35e51]: Jobs
+                  - listitem [ref=f35e53]:
+                    - link "Messaging, 2 new notifications" [ref=f35e54] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/messaging/
+                      - generic [ref=f35e55]: "2"
+                      - generic [ref=f35e59]: Messaging
+                  - listitem [ref=f35e61]:
+                    - link "Notifications, 25 new notifications" [ref=f35e62] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/notifications/
+                      - generic [ref=f35e63]: "25"
+                      - generic [ref=f35e67]: Notifications
+                  - listitem [ref=f35e69]:
+                    - button "Me" [ref=f35e70] [cursor=pointer]:
+                      - figure [aria-hidden] [ref=f35e72]
+              - navigation [ref=f35e78]:
+                - list [ref=f35e79]:
+                  - listitem [ref=f35e80]:
+                    - button "For Business" [ref=f35e81] [cursor=pointer]
+                  - listitem [ref=f35e88]:
+                    - link "Advertise, 3 new notifications" [ref=f35e89] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/campaignmanager/accounts/
+                      - generic [ref=f35e90]: "3"
+                      - generic [ref=f35e93]: Advertise
+        - main [ref=f35e1812]:
+          - generic [ref=f35e1814]:
+            - complementary "Sidebar" [ref=f35e1815]:
+              - generic [ref=f35e1818]:
+                - generic [ref=f35e1822]:
+                  - link [ref=f35e1823] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic [ref=f35e1824]:
+                      - generic [ref=f35e1825]:
+                        - figure [aria-hidden] [ref=f35e1826]
+                        - paragraph [ref=f35e1833]: Premium
+                      - figure [ref=f35e1836]:
+                        - img "Kelly Irving" [ref=f35e2320]
+                  - generic [ref=f35e1843]:
+                    - link [ref=f35e1844] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/kelly-irving/
+                      - generic "Kelly Irving, Book coach and editor for changemakers and trailblazers / Publishing gymnast, Anglesea, Victoria, Premium profile" [ref=f35e1845]:
+                        - generic [ref=f35e1846]:
+                          - paragraph [ref=f35e1848]: Kelly Irving
+                          - img "Premium profile" [ref=f35e1849]
+                        - paragraph [ref=f35e1852]: Book coach and editor for changemakers and trailblazers / Publishing gymnast
+                        - paragraph [ref=f35e1853]: Anglesea, Victoria
+                    - link [ref=f35e1854] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/kelly-irving/
+                      - generic [ref=f35e1855]:
+                        - figure [aria-hidden] [ref=f35e1856]
+                        - paragraph [ref=f35e1863]: Expert Author Community
+                - generic [ref=f35e1865]:
+                  - menu [ref=f35e1866]:
+                    - link [ref=f35e1868] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/me/profile-views/
+                      - generic "Profile viewers 296" [ref=f35e1869]:
+                        - paragraph [ref=f35e1871]: Profile viewers
+                        - paragraph [ref=f35e1872]: "296"
+                    - link [ref=f35e1874] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/analytics/creator/content/
+                      - generic "Post impressions 1,109" [ref=f35e1875]:
+                        - paragraph [ref=f35e1877]: Post impressions
+                        - paragraph [ref=f35e1878]: 1,109
+                  - menu [ref=f35e1879]:
+                    - link [ref=f35e1881] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/premium/my-premium/
+                      - paragraph [ref=f35e1886]: Your Premium features
+                - menu [ref=f35e1890]:
+                  - paragraph [ref=f35e1892]: My pages (3)
+                  - link [ref=f35e1894] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/89798536/admin/
+                    - generic [ref=f35e1896]:
+                      - figure [ref=f35e1897]:
+                        - img "Expert Author Community logo" [ref=f35e2321]
+                      - paragraph [ref=f35e1907]:
+                        - generic [ref=f35e1908]: Expert Author Community
+                  - link [ref=f35e1912] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/89798536/admin/notifications/
+                    - generic [ref=f35e1913]:
+                      - paragraph [ref=f35e1914]: Activity
+                      - paragraph [ref=f35e1915]: "0"
+                  - link [ref=f35e1917] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/14424344/admin/
+                    - generic [ref=f35e1919]:
+                      - figure [ref=f35e1920]:
+                        - img "Kelly Irving logo" [ref=f35e2322]
+                      - paragraph [ref=f35e1930]: Kelly Irving
+                  - link [ref=f35e1931] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/14424344/admin/notifications/
+                    - generic [ref=f35e1932]:
+                      - paragraph [ref=f35e1933]: Activity
+                      - paragraph [ref=f35e1934]: "0"
+                  - link [ref=f35e1936] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/showcase/108996937/admin/
+                    - generic [ref=f35e1938]:
+                      - figure [ref=f35e1939]:
+                        - img "EAC Books logo" [ref=f35e2323]
+                      - paragraph [ref=f35e1949]: EAC Books
+                  - link [ref=f35e1950] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/showcase/108996937/admin/notifications/
+                    - generic [ref=f35e1951]:
+                      - paragraph [ref=f35e1952]: Activity
+                      - paragraph [ref=f35e1953]: "7"
+                  - paragraph [ref=f35e1956]: Grow your business faster
+                  - button [ref=f35e1958] [cursor=pointer]:
+                    - paragraph [ref=f35e1963]:
+                      - strong [ref=f35e1964]: Try Premium Page
+                  - link [ref=f35e1965] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/campaignmanager/accounts/
+                    - paragraph [ref=f35e1969]: Advertise on LinkedIn
+                - menu [ref=f35e1972]:
+                  - link [ref=f35e1973] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/my-items/saved-posts/
+                    - paragraph [ref=f35e1977]: Saved items
+                  - link [ref=f35e1978] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/groups/
+                    - paragraph [ref=f35e1986]: Groups
+                  - link [ref=f35e1987] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork/network-manager/newsletters/
+                    - paragraph [ref=f35e1991]: Newsletters
+                  - link [ref=f35e1992] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/events/
+                    - paragraph [ref=f35e1996]: Events
+            - region "Primary content" [ref=f35e1997]:
+              - list [ref=f35e1998]:
+                - listitem [ref=f35e2000]:
+                  - generic [ref=f35e2001]:
+                    - generic [ref=f35e2002]:
+                      - link [ref=f35e2004] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/kelly-irving/
+                        - figure [aria-hidden] [ref=f35e2005]
+                      - button [ref=f35e2013] [cursor=pointer]:
+                        - generic "Start a post" [ref=f35e2014]:
+                          - generic [ref=f35e2016]:
+                            - paragraph [ref=f35e2017]: Start a post
+                            - generic:
+                              - paragraph
+                    - generic [ref=f35e2018]:
+                      - button [ref=f35e2019] [cursor=pointer]:
+                        - paragraph [ref=f35e2023]: Video
+                      - button [ref=f35e2024] [cursor=pointer]:
+                        - paragraph [ref=f35e2028]: Photo
+                      - link [ref=f35e2029] [cursor=pointer]:
+                        - /url: /article/new/
+                        - paragraph [ref=f35e2033]: Write article
+                - listitem [ref=f35e2035]:
+                  - button [ref=f35e2036] [cursor=pointer]:
+                    - paragraph [ref=f35e2038]:
+                      - text: "Sort by:"
+                      - strong [ref=f35e2039]: Recent
+                - listitem [ref=f35e2046]:
+                  - generic [ref=f35e2048]:
+                    - heading "Feed post" [level=2]
+                    - generic [ref=f35e2050]:
+                      - link [ref=f35e2051] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/mostynwilson/
+                        - figure [ref=f35e2052]:
+                          - img "View Mostyn Wilson’s profile" [ref=f35e2324]
+                      - generic [ref=f35e2060]:
+                        - link [ref=f35e2063] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/mostynwilson/
+                          - generic "Mostyn Wilson Premium Profile 1st" [ref=f35e2065]:
+                            - paragraph [ref=f35e2068]: Mostyn Wilson
+                            - paragraph [ref=f35e2070]:
+                              - generic [ref=f35e2071]: • 1st
+                        - paragraph [ref=f35e2076]: Leadership Development & Keynotes for Financial and Professional Services | Ex-KPMG Partner, COO and Head of People | Over 1,000 Leaders Developed Since 2023
+                        - link [ref=f35e2080] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fwww%2Emostynwilson%2Ecom%2F&urlhash=jUnc&mt=rR9vLgcIiPAtO7xZ_YGAmJclIRa8XPwKMIn4QUsb0uIneZ2f4KD5odpYh_ENmMXLfY9iUvDA3D2pxuEfDZzFFaiQsraQ-e8hxSqo&isSdui=true
+                          - paragraph [ref=f35e2081]: Visit my website
+                        - paragraph [ref=f35e2083]: 5m
+                        - link "Mostyn Wilson Premium Profile 1st":
+                          - /url: https://www.linkedin.com/in/mostynwilson/
+                      - button "Open control menu for post by Mostyn Wilson" [expanded] [ref=f35e2084] [cursor=pointer]
+                      - menu [ref=f35e2495]:
+                        - menuitem [ref=f35e2496] [cursor=pointer]:
+                          - paragraph [ref=f35e2501]: Save
+                        - menuitem [ref=f35e2502] [cursor=pointer]:
+                          - paragraph [ref=f35e2507]: Copy link to post
+                        - menuitem [ref=f35e2508] [cursor=pointer]:
+                          - paragraph [ref=f35e2513]: Embed this post
+                        - menuitem [ref=f35e2514] [cursor=pointer]:
+                          - paragraph [ref=f35e2519]: Unfollow Mostyn Wilson
+                        - menuitem [ref=f35e2520] [cursor=pointer]:
+                          - paragraph [ref=f35e2525]: Not interested
+                        - menuitem [ref=f35e2526] [cursor=pointer]:
+                          - paragraph [ref=f35e2531]: Seems like AI slop
+                        - menuitem [ref=f35e2532] [cursor=pointer]:
+                          - paragraph [ref=f35e2537]: Report post
+                      - button "Hide post by Mostyn Wilson" [ref=f35e2088] [cursor=pointer]
+                    - paragraph [ref=f35e2092]:
+                      - generic [ref=f35e2093]:
+                        - text: "I used to do my most important work at the worst possible time of day. Not because I planned it that way.It just ended up there.My days were full of meetings and calls, so the work that actually mattered – like sitting down and properly reviewing what my teams had produced – kept getting pushed to the evenings and weekends.So I was doing the most important part of my job when I was tired and would rather have been doing almost anything else. What I eventually realised, after 20 years around senior leaders, is that the people who succeed aren't working more than everyone else. They've just figured out a few small things about where their effort goes. Three of them stood out: ✅ They do the work that matters first, before the day has a chance to take it from them ✅ They don't treat every message like it needs an instant reply – they decide in advance what actually deserves a fast response ✅ They know when something is finished, instead of polishing the final 5% that doesn't change the outcome None of these are dramatic, and they're almost boring.Which is probably why most people overlook them for years. I break down all three in the video, including the one most high performers really don't want to hear. Watch the full 7-minute video on YouTube:"
+                        - link "Open https://lnkd.in/eh2N-tYq" [ref=f35e2096] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2Feh2N-tYq&urlhash=1-Yu&mt=tDFvGkSvN4iR3sdJUE4vVBqD8UhPhKhY3Q_E1ESYX34PEs0eD8l_kUVo9wzAo1aqoJz2xRRaMjDasIvpp3JcIqLFaG77k-YzKIJbGsO04sg5m9amA6i_En6t&isSdui=true
+                          - strong [ref=f35e2097]: https://lnkd.in/eh2N-tYq
+                        - text: 📌 Save this for later if you can't watch it now Follow me for real advice on succeeding at senior levels.
+                        - button [aria-hidden] [ref=f35e2098] [cursor=pointer]:
+                          - generic [ref=f35e2099]: … more
+                    - region "Video Player" [ref=f35e2325]:              
+                    - generic [ref=f35e2105]:
+                      - link [ref=f35e2106] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/feed/
+                        - generic "Switch to different account" [ref=f35e2107]:
+                          - figure [aria-hidden] [ref=f35e2108]
+                      - generic [ref=f35e2117]:
+                        - 'button "Reaction button state: no reaction" [ref=f35e2120] [cursor=pointer]':
+                          - generic [ref=f35e2121]: "1"
+                        - button "Open reactions menu":
+                          - generic [ref=f35e2127] [cursor=pointer]
+                      - button "Comment" [ref=f35e2130] [cursor=pointer]
+                      - button "Repost" [ref=f35e2134] [cursor=pointer]
+                      - link "Send" [ref=f35e2138] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/feed/
+                      - link [ref=f35e2142] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/feed/
+                        - generic "1 reaction" [ref=f35e2143]
+                - listitem [ref=f35e2331]:
+                  - generic [ref=f35e2333]:
+                    - heading "Feed post" [level=2]
+                    - generic [ref=f35e2335]:
+                      - link [ref=f35e2336] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/alifetimeofmoments/
+                        - figure [ref=f35e2337]:
+                          - img "View Keith Budden’s profile" [ref=f35e2338]
+                      - generic [ref=f35e2340]:
+                        - link [ref=f35e2343] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/alifetimeofmoments/
+                          - generic "Keith Budden Premium Profile 1st" [ref=f35e2345]:
+                            - paragraph [ref=f35e2348]: Keith Budden
+                            - paragraph [ref=f35e2350]:
+                              - generic [ref=f35e2351]: • 1st
+                        - paragraph [ref=f35e2356]: Stop Networking. Start Connecting. | Helping people build stronger relationships, create opportunities & make networking work | Creator of CONNECT, GROW & Networking MOT | Speaker | Author | Podcaster
+                        - link [ref=f35e2360] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fcalendar%2Eapp%2Egoogle%2FxH8fKfNASSxS9G6cA&urlhash=QlK6&mt=zd6Ru6_EiJqBJp0aNuOPimjcP72O-3bNrkY7qj7O8dNZZcgkDRJGOaJqW9_W8n9ncRp74dxTjcke0A3t60mDpHXeGj5NNTzPtEbi0kA&isSdui=true
+                          - paragraph [ref=f35e2361]: Book an appointment
+                        - paragraph [ref=f35e2363]: 8m
+                        - link "Keith Budden Premium Profile 1st":
+                          - /url: https://www.linkedin.com/in/alifetimeofmoments/
+                      - button "Open control menu for post by Keith Budden" [ref=f35e2364] [cursor=pointer]
+                      - button "Hide post by Keith Budden" [ref=f35e2368] [cursor=pointer]
+                    - paragraph [ref=f35e2372]:
+                      - generic [ref=f35e2373]:
+                        - text: "When did we become so reluctant to be mediocre at things we enjoy? 😂Start running and someone asks your time.Take photographs and eventually somebody wonders whether you could sell them.Bake a decent Victoria sponge and apparently you're only three strategic decisions away from launching a hospitality business.Even hobbies can start acquiring performance reviews. And possibly a spreadsheet. With conditional formatting.But perhaps not everything we enjoy needs to become something we're good at. Or something we improve. Or measure. Or monetise. Or even show anybody else.Sometimes “I enjoy doing this” is a perfectly complete reason to keep doing it.Children seem to understand this rather well.Give a child some Lego and they'll build something because building it is fun.They're unlikely to pause halfway through and ask “Have you considered monetising the castle?”As adults, though, we can become uncomfortable with being beginners.We try something new and announce “I'm not very good at this.”Well...you've been doing it for eleven minutes. 😂Perhaps being good at something and enjoying something don't have to be connected.You can sing loudly in the car without troubling the recording industry.Play golf while exploring parts of the course the designer never intended.Paint something that appears to belong to an entirely different biological kingdom from the thing you were attempting to paint.Walk without turning it into a step target.Read without setting a reading goal.Cook something without photographing it.Write something nobody else will ever read.Learn three chords on a guitar and remain perfectly content with those three chords.There's a lovely word we don't use enough as adults - Play.Doing something because we enjoy the experience of doing it.Not because we're trying to become impressive at it.One question from today's Lighter Than You Started is:Instead of asking “Am I good at this?” try “Do I enjoy myself while I'm doing it?”Maybe that's enough.Perhaps this weekend we could all have one thing we're allowed to be thoroughly average at. No targets. No performance review. No personal-development plan.Just “Did I enjoy that?”🎙️ Episode 269: You Don't Need to Be Good at Something to Enjoy It🎧 You can listen to today’s episode at Apple Podcasts, Spotify, Audible and all major podcast platforms or on Alexa just say “Alexa, play the Lighter Than You Started podcast”.Today's thought:Some things are worth doing simply because you like who you are while you're doing them."
+                        - button [aria-hidden] [ref=f35e2375] [cursor=pointer]:
+                          - generic [ref=f35e2376]: … more
+                    - link [ref=f35e2379] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/feed/
+                      - figure [ref=f35e2380]:
+                        - img "You don't need to be good at something to enjoy it." [ref=f35e2381]
+                    - generic [ref=f35e2382]:
+                      - link [ref=f35e2383] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/feed/
+                        - generic "Switch to different account" [ref=f35e2384]:
+                          - figure [aria-hidden] [ref=f35e2385]
+                      - generic [ref=f35e2388]:
+                        - 'button "Reaction button state: no reaction" [ref=f35e2391] [cursor=pointer]'
+                        - button "Open reactions menu":
+                          - generic [ref=f35e2395] [cursor=pointer]
+                      - button "Comment" [ref=f35e2398] [cursor=pointer]
+                      - button "Repost" [ref=f35e2402] [cursor=pointer]
+                      - link "Send" [ref=f35e2406] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/feed/
+                - listitem [ref=f35e2413]:
+                  - generic [ref=f35e2415]:
+                    - heading "Feed post" [level=2]
+                    - generic [ref=f35e2417]:
+                      - link [ref=f35e2418] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/lisa-newport-fab/
+                        - figure [ref=f35e2419]:
+                          - img "View Lisa Newport’s profile" [ref=f35e2420]
+                      - generic [ref=f35e2422]:
+                        - link [ref=f35e2425] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/lisa-newport-fab/
+                          - generic "Lisa Newport Verified Profile 1st" [ref=f35e2427]:
+                            - paragraph [ref=f35e2430]: Lisa Newport
+                            - paragraph [ref=f35e2432]:
+                              - generic [ref=f35e2433]: • 1st
+                        - paragraph [ref=f35e2438]: Founder of Funky Diva Vibes® | Speaker | Creator of the Sausage Machine of Conformity | Challenging the invisible rules that shape who we become | Workshops • Card Decks • 1:1 Bespoke Packages
+                        - paragraph [ref=f35e2440]: 8m
+                        - link "Lisa Newport Verified Profile 1st":
+                          - /url: https://www.linkedin.com/in/lisa-newport-fab/
+                      - button "Open control menu for post by Lisa Newport" [ref=f35e2441] [cursor=pointer]
+                      - button "Hide post by Lisa Newport" [ref=f35e2445] [cursor=pointer]
+                    - paragraph [ref=f35e2449]:
+                      - generic [ref=f35e2450]:
+                        - text: I'M MORE INTERESTED IN THE AFTER-AFTER.I've had a bit of a sabbatical from talking about my personal style work.Not because I stopped loving it. I just got fed up with the traditional idea of what a “stylist” does.Particularly the "makeover".Someone chooses your clothes, does your hair and make-up, there's a big TADAAAA! moment and everyone gasps at the transformation.But what happens three days later when you're getting dressed for work?❌️I don't want you to look fabulous because I've put an outfit together for you.✔️I want you to know what to do when I'm not there.One of my clients once described the result of our work together beautifully “My wardrobe just makes sense.” And because it made sense “I've got more brain space.”🩷 That's the AFTER-after I'm interested in.🩷✔️Knowing what you love. ✔️Shopping with more clarity. ✔️Making fewer expensive mistakes. ✔️Getting dressed without using so much bloody brain space. ✔️Knowing YES / NO / NOT ME without needing somebody else to decide for you.Clothes are a tool in my work. But the work is never really just about clothes.So I'm ready to talk about SPARKLE again.Four 90-minute 1:1 sessions (plus me in your pocket via WhatsApp for 6 months) using colour, clothes, proportion, personal style and self-expression to help you build something that still works when I'm nowhere bloody near you.No makeover. No “new you”. No "rules"SPARKLE is £1,000, if you'd like to know more get in touch to book a no obligation chat. I'm opening 3 spaces between now and Christmas.
+                        - button [aria-hidden] [ref=f35e2452] [cursor=pointer]:
+                          - generic [ref=f35e2453]: … more
+                    - link [ref=f35e2456] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/feed/
+                      - figure [ref=f35e2457]:
+                        - img "View image" [ref=f35e2458]
+                    - generic [ref=f35e2459]:
+                      - link [ref=f35e2460] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/feed/
+                        - generic "Switch to different account" [ref=f35e2461]:
+                          - figure [aria-hidden] [ref=f35e2462]
+                      - generic [ref=f35e2465]:
+                        - 'button "Reaction button state: no reaction" [ref=f35e2468] [cursor=pointer]'
+                        - button "Open reactions menu":
+                          - generic [ref=f35e2472] [cursor=pointer]
+                      - button "Comment" [ref=f35e2475] [cursor=pointer]
+                      - button "Repost" [ref=f35e2479] [cursor=pointer]
+                      - link "Send" [ref=f35e2483] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/feed/
+            - complementary "Aside" [ref=f35e2158]:
+              - generic [ref=f35e2159]:
+                - generic [ref=f35e2160]:
+                  - generic [ref=f35e2164]:
+                    - generic [ref=f35e2165]:
+                      - paragraph [ref=f35e2166]: LinkedIn News
+                      - button "Info tooltip" [ref=f35e2167] [cursor=pointer]
+                    - paragraph [ref=f35e2171]: Top stories
+                    - generic [ref=f35e2172]:
+                      - link [ref=f35e2174] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/news/story/bringing-iced-coffee-to-interviews-8667401/
+                        - generic [ref=f35e2176]:
+                          - paragraph [ref=f35e2178]: Bringing iced coffee to interviews?
+                          - generic [ref=f35e2179]:
+                            - paragraph [ref=f35e2180]: 1d ago
+                            - paragraph [ref=f35e2181]: •
+                            - paragraph [ref=f35e2182]: 2,722 readers
+                      - link [ref=f35e2184] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/news/story/openai-breach-spurs-new-ai-rules-9421602/
+                        - generic [ref=f35e2186]:
+                          - paragraph [ref=f35e2188]: OpenAI breach spurs new AI rules
+                          - generic [ref=f35e2189]:
+                            - paragraph [ref=f35e2190]: 1d ago
+                            - paragraph [ref=f35e2191]: •
+                            - paragraph [ref=f35e2192]: 950 readers
+                      - link [ref=f35e2194] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/news/story/australias-top-voices-to-follow-8648537/
+                        - generic [ref=f35e2196]:
+                          - paragraph [ref=f35e2198]: Australia's Top Voices to follow
+                          - generic [ref=f35e2199]:
+                            - paragraph [ref=f35e2200]: 1d ago
+                            - paragraph [ref=f35e2201]: •
+                            - paragraph [ref=f35e2202]: 487 readers
+                      - link [ref=f35e2204] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/news/story/big-four-banks-tip-sept-rate-hike-8644321/
+                        - generic [ref=f35e2206]:
+                          - paragraph [ref=f35e2208]: Big four banks tip Sept rate hike
+                          - generic [ref=f35e2209]:
+                            - paragraph [ref=f35e2210]: 1d ago
+                            - paragraph [ref=f35e2211]: •
+                            - paragraph [ref=f35e2212]: 2,745 readers
+                      - link [ref=f35e2214] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/news/story/heidi-is-australias-newest-unicorn-9406210/
+                        - generic [ref=f35e2216]:
+                          - paragraph [ref=f35e2218]: Heidi is Australia's newest unicorn
+                          - generic [ref=f35e2219]:
+                            - paragraph [ref=f35e2220]: 1d ago
+                            - paragraph [ref=f35e2221]: •
+                            - paragraph [ref=f35e2222]: 2,414 readers
+                      - button "Show more news" [ref=f35e2223] [cursor=pointer]
+                  - generic [ref=f35e2233]:
+                    - paragraph [ref=f35e2234]: Today’s puzzles
+                    - generic [ref=f35e2235]:
+                      - link [ref=f35e2237] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/games/zip/
+                        - generic "Play Zip" [ref=f35e2238]:
+                          - generic [ref=f35e2239]:
+                            - figure [aria-hidden] [ref=f35e2240]
+                            - generic [ref=f35e2241]:
+                              - paragraph [ref=f35e2242]:
+                                - strong [ref=f35e2243]: Zip
+                                - text: "#558"
+                              - paragraph [ref=f35e2244]: 54 connections played
+                      - link [ref=f35e2248] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/games/wend/
+                        - generic "Play Wend" [ref=f35e2249]:
+                          - generic [ref=f35e2250]:
+                            - figure [aria-hidden] [ref=f35e2251]
+                            - generic [ref=f35e2252]:
+                              - paragraph [ref=f35e2253]:
+                                - strong [ref=f35e2254]: Wend
+                                - text: "#110"
+                              - paragraph [ref=f35e2255]: 40 connections played
+                      - link [ref=f35e2259] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/games/patches/
+                        - generic "Play Patches" [ref=f35e2260]:
+                          - generic [ref=f35e2261]:
+                            - figure [aria-hidden] [ref=f35e2262]
+                            - generic [ref=f35e2263]:
+                              - paragraph [ref=f35e2264]:
+                                - strong [ref=f35e2265]: Patches
+                                - text: "#193"
+                              - paragraph [ref=f35e2266]: 41 connections played
+                      - link [ref=f35e2270] [cursor=pointer]:
+                        - /url: /games/mini-sudoku/
+                        - generic "Play MiniSudoku" [ref=f35e2271]:
+                          - generic [ref=f35e2272]:
+                            - figure [aria-hidden] [ref=f35e2273]
+                            - generic [ref=f35e2274]:
+                              - paragraph [ref=f35e2275]:
+                                - strong [ref=f35e2276]: Mini Sudoku
+                                - text: "#411"
+                              - paragraph [ref=f35e2277]: 33 connections played
+                      - button "Show more" [ref=f35e2281] [cursor=pointer]
+                - generic [ref=f35e2287]:
+                  - iframe [ref=f35e2487]:
+                    - generic [ref=f50e2]:
+                      - generic: Ad
+                      - img "overflow-web-small" [ref=f50e6] [cursor=pointer]
+                      - link "Robert Half" [ref=f50e10] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Fwww.roberthalf.com%2Fus%2Fen%2Fc%2Fhire-with-robert-half%3Futm_medium%3Dpaid-social%26utm_source%3Dlinkedin%26utm_campaign%3Dv2_client_brand-awareness_n%252Fa-us_all%26utm_content%3D%26unique_id%3Dkxvrkfolddil%26dclid%3DCjgKEAjwhNbTBhDL9JrSiq_cix0SJABItwLJ_Xl7lbdfgssy8Jb12gXpA3mkSs4ksZRCwqvWiLRRwvD_BwE%26gad_source%3D7%26gad_campaignid%3D24116685994%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg3PJ-aPBU58ZYJoX9Cw9nU7MQ_4JYiwtU5yy4DPkyEw_1RzFc0NEqxT-DLGOnWa_iwv35ypfuLxXqrrjRWB9tcmzH-DSCR--XesDO_ANi8bysEF4OPVPhEYjspu0bBlCRu600q_pmLbntt7klxJzvGnKWFsmIlyDcCG8pRJs3OnGFA6FSDxwC4nLNh6euVYi70mJfW1VeVvtHZD4HdT9ErNIbT3IcWYlVbCdJ3LyBk3Ijdy1n217rePDnl4Bj5u5bmJtv3rdpfhhmQXic50rgRR3ipOU5JrBMXs3OmNLwXXBS_Xn_8phy54kvNnvbIZCur1JwqHrro_gFZ10oA5WwzPOn_EeR2hwMV0_C_GGRHspqRWHceJgwbOGYmMvI2Wdt1snYig-vVTn4EChN9blXPT8p_7M4B1LByQzsxCjStVUfBsI8wEfUAKieROpFfiSAUHEdm1qQvj-K1neUuvhBmU9rttKXMwM8zT25XHKjRKZA4FjEcgPsAZDMGIajmiMQ0UCPHx_FYtY3hehmg1FB0JLkjIGeP3XudbVXflUvAIbmIXiIgobuSy-iTYMaQqfGn9Bm_3BgUURAGoU6pROq-Xk_mIuOEWxYzWlK8Mqm2yIh-dg0oVVG9XMpOmWCAmLEAS2M80iITFmqgUgI1YHvb7iuyFrfgqhoHgg9S-PukQ0O4ynQQJMzCO64ztA7mElfxgNdKBlo_u9MRDXZHOkepfSfTG-OEIB9CfrZAW6Cfyo5B3-VF5zUytzj_hDe_kNWwjtSuOMzkAiUbae18hvHFXEmI8Bf17J8Fmn6EE7xfufV-frnmcZrjowCHdBwcd_yvQRTTXvVzJCuRpVAjZfuh0__Z_ZE8UGJvh5h3Y0BIsc4XCFsCL5UIQ0L3VRQ7_6_eX1u5M4c-weHPSugXXfp5e1hxoIP3VfrK7bu31N2TVgaqXPBapLYSNDhKFa-WLS7iIuki4A62ciW7c-67hF031Bb8SYVy9oA79wbcStG-3DEaGNPQqYf9J_1Js84QGmtdjQkF7kBWcJgpux0bTQw9VCtZKeFp3ijCo3SXqkL_eGNKx95bdShu8ARQK_FbyTwKDhvtTKXCsduGtpZqVC8Uv7eCLNi-Y2DntCPv4Tv1CLMrg5P2EafArJzXe4QhY_Pnp6rbNTUu1rUFPn3sO7QrxyL9JiopYSUbg%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_feed%22%2C%22trackingId%22%3A%229eaead2a-3895-4be7-8188-9f6edd857e02%22%7D%2C%22time%22%3A1790413274648%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_feed%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                      - generic [ref=f50e11]:
+                        - heading "Need to staff a role quickly? We make hiring easier." [level=2] [ref=f50e14]
+                        - generic [ref=f50e16]:
+                          - img "Kelly" [ref=f50e17]
+                          - generic [ref=f50e18]:
+                            - link [ref=f50e19] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Fwww.roberthalf.com%2Fus%2Fen%2Fc%2Fhire-with-robert-half%3Futm_medium%3Dpaid-social%26utm_source%3Dlinkedin%26utm_campaign%3Dv2_client_brand-awareness_n%252Fa-us_all%26utm_content%3D%26unique_id%3Dkxvrkfolddil%26dclid%3DCjgKEAjwhNbTBhDL9JrSiq_cix0SJABItwLJ_Xl7lbdfgssy8Jb12gXpA3mkSs4ksZRCwqvWiLRRwvD_BwE%26gad_source%3D7%26gad_campaignid%3D24116685994%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg3PJ-aPBU58ZYJoX9Cw9nU7MQ_4JYiwtU5yy4DPkyEw_1RzFc0NEqxT-DLGOnWa_iwv35ypfuLxXqrrjRWB9tcmzH-DSCR--XesDO_ANi8bysEF4OPVPhEYjspu0bBlCRu600q_pmLbntt7klxJzvGnKWFsmIlyDcCG8pRJs3OnGFA6FSDxwC4nLNh6euVYi70mJfW1VeVvtHZD4HdT9ErNIbT3IcWYlVbCdJ3LyBk3Ijdy1n217rePDnl4Bj5u5bmJtv3rdpfhhmQXic50rgRR3ipOU5JrBMXs3OmNLwXXBS_Xn_8phy54kvNnvbIZCur1JwqHrro_gFZ10oA5WwzPOn_EeR2hwMV0_C_GGRHspqRWHceJgwbOGYmMvI2Wdt1snYig-vVTn4EChN9blXPT8p_7M4B1LByQzsxCjStVUfBsI8wEfUAKieROpFfiSAUHEdm1qQvj-K1neUuvhBmU9rttKXMwM8zT25XHKjRKZA4FjEcgPsAZDMGIajmiMQ0UCPHx_FYtY3hehmg1FB0JLkjIGeP3XudbVXflUvAIbmIXiIgobuSy-iTYMaQqfGn9Bm_3BgUURAGoU6pROq-Xk_mIuOEWxYzWlK8Mqm2yIh-dg0oVVG9XMpOmWCAmLEAS2M80iITFmqgUgI1YHvb7iuyFrfgqhoHgg9S-PukQ0O4ynQQJMzCO64ztA7mElfxgNdKBlo_u9MRDXZHOkepfSfTG-OEIB9CfrZAW6Cfyo5B3-VF5zUytzj_hDe_kNWwjtSuOMzkAiUbae18hvHFXEmI8Bf17J8Fmn6EE7xfufV-frnmcZrjowCHdBwcd_yvQRTTXvVzJCuRpVAjZfuh0__Z_ZE8UGJvh5h3Y0BIsc4XCFsCL5UIQ0L3VRQ7_6_eX1u5M4c-weHPSugXXfp5e1hxoIP3VfrK7bu31N2TVgaqXPBapLYSNDhKFa-WLS7iIuki4A62ciW7c-67hF031Bb8SYVy9oA79wbcStG-3DEaGNPQqYf9J_1Js84QGmtdjQkF7kBWcJgpux0bTQw9VCtZKeFp3ijCo3SXqkL_eGNKx95bdShu8ARQK_FbyTwKDhvtTKXCsduGtpZqVC8Uv7eCLNi-Y2DntCPv4Tv1CLMrg5P2EafArJzXe4QhY_Pnp6rbNTUu1rUFPn3sO7QrxyL9JiopYSUbg%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_feed%22%2C%22trackingId%22%3A%229eaead2a-3895-4be7-8188-9f6edd857e02%22%7D%2C%22time%22%3A1790413274648%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_feed%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                              - img "Robert Half" [ref=f50e20]
+                            - tooltip "Robert Half" [ref=f50e21]
+                        - generic [ref=f50e22]:
+                          - heading "At Robert Half, we know talent." [level=2] [ref=f50e25]
+                          - link "Learn More" [ref=f50e27] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Fwww.roberthalf.com%2Fus%2Fen%2Fc%2Fhire-with-robert-half%3Futm_medium%3Dpaid-social%26utm_source%3Dlinkedin%26utm_campaign%3Dv2_client_brand-awareness_n%252Fa-us_all%26utm_content%3D%26unique_id%3Dkxvrkfolddil%26dclid%3DCjgKEAjwhNbTBhDL9JrSiq_cix0SJABItwLJ_Xl7lbdfgssy8Jb12gXpA3mkSs4ksZRCwqvWiLRRwvD_BwE%26gad_source%3D7%26gad_campaignid%3D24116685994%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg3PJ-aPBU58ZYJoX9Cw9nU7MQ_4JYiwtU5yy4DPkyEw_1RzFc0NEqxT-DLGOnWa_iwv35ypfuLxXqrrjRWB9tcmzH-DSCR--XesDO_ANi8bysEF4OPVPhEYjspu0bBlCRu600q_pmLbntt7klxJzvGnKWFsmIlyDcCG8pRJs3OnGFA6FSDxwC4nLNh6euVYi70mJfW1VeVvtHZD4HdT9ErNIbT3IcWYlVbCdJ3LyBk3Ijdy1n217rePDnl4Bj5u5bmJtv3rdpfhhmQXic50rgRR3ipOU5JrBMXs3OmNLwXXBS_Xn_8phy54kvNnvbIZCur1JwqHrro_gFZ10oA5WwzPOn_EeR2hwMV0_C_GGRHspqRWHceJgwbOGYmMvI2Wdt1snYig-vVTn4EChN9blXPT8p_7M4B1LByQzsxCjStVUfBsI8wEfUAKieROpFfiSAUHEdm1qQvj-K1neUuvhBmU9rttKXMwM8zT25XHKjRKZA4FjEcgPsAZDMGIajmiMQ0UCPHx_FYtY3hehmg1FB0JLkjIGeP3XudbVXflUvAIbmIXiIgobuSy-iTYMaQqfGn9Bm_3BgUURAGoU6pROq-Xk_mIuOEWxYzWlK8Mqm2yIh-dg0oVVG9XMpOmWCAmLEAS2M80iITFmqgUgI1YHvb7iuyFrfgqhoHgg9S-PukQ0O4ynQQJMzCO64ztA7mElfxgNdKBlo_u9MRDXZHOkepfSfTG-OEIB9CfrZAW6Cfyo5B3-VF5zUytzj_hDe_kNWwjtSuOMzkAiUbae18hvHFXEmI8Bf17J8Fmn6EE7xfufV-frnmcZrjowCHdBwcd_yvQRTTXvVzJCuRpVAjZfuh0__Z_ZE8UGJvh5h3Y0BIsc4XCFsCL5UIQ0L3VRQ7_6_eX1u5M4c-weHPSugXXfp5e1hxoIP3VfrK7bu31N2TVgaqXPBapLYSNDhKFa-WLS7iIuki4A62ciW7c-67hF031Bb8SYVy9oA79wbcStG-3DEaGNPQqYf9J_1Js84QGmtdjQkF7kBWcJgpux0bTQw9VCtZKeFp3ijCo3SXqkL_eGNKx95bdShu8ARQK_FbyTwKDhvtTKXCsduGtpZqVC8Uv7eCLNi-Y2DntCPv4Tv1CLMrg5P2EafArJzXe4QhY_Pnp6rbNTUu1rUFPn3sO7QrxyL9JiopYSUbg%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_feed%22%2C%22trackingId%22%3A%229eaead2a-3895-4be7-8188-9f6edd857e02%22%7D%2C%22time%22%3A1790413274648%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_feed%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                  - generic [ref=f35e2290]:
+                    - generic [ref=f35e2291]:
+                      - link [ref=f35e2292] [cursor=pointer]:
+                        - /url: https://about.linkedin.com/
+                        - paragraph [ref=f35e2293]: About
+                      - link [ref=f35e2294] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/accessibility/
+                        - paragraph [ref=f35e2295]: Accessibility
+                      - link [ref=f35e2296] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/help/linkedin/
+                        - paragraph [ref=f35e2297]: Help Center
+                      - button [ref=f35e2298] [cursor=pointer]:
+                        - paragraph [ref=f35e2300]: Privacy & Terms
+                      - link [ref=f35e2303] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/help/linkedin/answer/62931/
+                        - paragraph [ref=f35e2304]: Ad Choices
+                      - link [ref=f35e2305] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/ad/start/?trk=n_nav_ads_rr
+                        - paragraph [ref=f35e2306]: Advertising
+                      - button [ref=f35e2307] [cursor=pointer]:
+                        - paragraph [ref=f35e2309]: Business Services
+                      - link [ref=f35e2312] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/mobile/
+                        - paragraph [ref=f35e2313]: Get the LinkedIn app
+                      - link [ref=f35e2314] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/feed/
+                        - paragraph [ref=f35e2315]: More
+                    - paragraph [ref=f35e2319]: LinkedIn Corporation © 2026
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - complementary:
+              - generic [ref=f35e1499]:
+                - generic [ref=f35e1500]:
+                  - generic [ref=f35e1502] [cursor=pointer]:
+                    - img "Kelly Irving" [ref=f35e1504]
+                    - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f35e1505]:
+                      - generic [ref=f35e1506]:
+                        - generic [aria-hidden] [ref=f35e1507]: Messaging
+                        - generic [ref=f35e1508]: You are on the messaging overlay. Press enter to open the list of conversations.
+                    - mark [aria-hidden] [ref=f35e1509]:
+                      - generic [ref=f35e1510]: "2"
+                  - generic [ref=f35e1511]:
+                    - button [ref=f35e1513] [cursor=pointer]:
+                      - img "Open messenger dropdown menu" [ref=f35e1514]
+                    - button "Compose message" [ref=f35e1517] [cursor=pointer]
+                    - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f35e1521] [cursor=pointer]
+                - generic [ref=f35e1525]:
+                  - heading "Page inboxes" [level=3] [ref=f35e1527]
+                  - generic [ref=f35e1528] [cursor=pointer]:
+                    - generic [ref=f35e1529]: Click to see affiliated inboxes
+                    - button "Page inboxes" [ref=f35e1530]
+            - complementary "AI-powered assistant to get help with your career, jobs etc"
+    - iframe [ref=f35e902]:
+      - generic [ref=f37e12]:
+        - generic:
+          - region "Toast message":
+            - heading "0 notifications total" [level=2] [ref=f37e14]
+            - alert
+        - region [ref=f37e15]
+        - generic [ref=f37e16]:
+          - generic [ref=f37e18]:
+            - button "Skip to search" [ref=f37e19] [cursor=pointer]
+            - button "Skip to main content" [ref=f37e21] [cursor=pointer]
+            - button "Keyboard shortcuts" [ref=f37e23] [cursor=pointer]
+            - button "Close jump menu" [ref=f37e25] [cursor=pointer]
+          - banner "Global Navigation" [ref=f37e29]:
+            - generic [ref=f37e30]:
+              - link [ref=f37e31] [cursor=pointer]:
+                - /url: https://www.linkedin.com/feed/
+                - img "LinkedIn" [ref=f37e34]
+              - combobox "I’m looking for..." [ref=f37e40]
+              - navigation "Primary Navigation" [ref=f37e41]:
+                - list [ref=f37e42]:
+                  - listitem [ref=f37e43]:
+                    - link "Home" [ref=f37e44] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/feed/
+                  - listitem [ref=f37e51]:
+                    - link "29 new network updates notifications My Network" [ref=f37e52] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/mynetwork/?
+                      - generic [ref=f37e54]:
+                        - generic [aria-hidden] [ref=f37e55]: "29"
+                        - generic [ref=f37e56]: 29 new network updates notifications
+                      - generic "My Network" [ref=f37e62]
+                  - listitem [ref=f37e63]:
+                    - link "Jobs" [ref=f37e64] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/jobs/?
+                  - listitem [ref=f37e71]:
+                    - link "2 new messages notifications Messaging" [ref=f37e72] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/messaging/?
+                      - generic [ref=f37e74]:
+                        - generic [aria-hidden] [ref=f37e75]: "2"
+                        - generic [ref=f37e76]: 2 new messages notifications
+                      - generic "Messaging" [ref=f37e82]
+                  - listitem [ref=f37e83]:
+                    - link "25 new notifications Notifications" [ref=f37e84] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/notifications/?
+                      - generic [ref=f37e86]:
+                        - generic [aria-hidden] [ref=f37e87]: "25"
+                        - generic [ref=f37e88]: 25 new notifications
+                      - generic "Notifications" [ref=f37e94]
+                  - listitem [ref=f37e95]:
+                    - button [ref=f37e97] [cursor=pointer]:
+                      - img "Kelly Irving" [ref=f37e98]
+                      - generic [ref=f37e99]: Me
+                  - listitem [ref=f37e102]:
+                    - button "For Business" [ref=f37e104] [cursor=pointer]
+                  - listitem [ref=f37e113]:
+                    - link "3 new Campaign Manager notifications Advertise" [ref=f37e114] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/campaignmanager/accounts?shouldShowNotificationPanelOnRender=true
+                      - generic [ref=f37e116]:
+                        - generic [aria-hidden] [ref=f37e117]: "3"
+                        - generic [ref=f37e118]: 3 new Campaign Manager notifications
+                      - generic "Advertise" [ref=f37e125]
+  - status [ref=f35e1807]: Scrolled to top of feed

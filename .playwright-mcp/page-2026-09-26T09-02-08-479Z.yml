@@ -1,0 +1,190 @@
+- generic [ref=f51e2]:
+  - heading "0 notifications" [level=2] [ref=f51e3]
+  - generic [ref=f51e4]:
+    - generic:
+      - generic "Skip navigation menu":
+        - button "Close jump menu" [ref=f51e6] [cursor=pointer]
+    - generic [ref=f51e9]:
+      - banner [ref=f51e11]:
+        - generic [ref=f51e14]:
+          - button [ref=f51e15] [cursor=pointer]
+          - generic [ref=f51e17]:
+            - status [ref=f51e18]
+            - search [ref=f51e19]:
+              - textbox "I'm looking for…" [ref=f51e23]
+          - generic [ref=f51e25]:
+            - navigation [ref=f51e29]:
+              - list [ref=f51e30]:
+                - listitem [ref=f51e31]:
+                  - button "Home, 1 new notification" [ref=f51e32] [cursor=pointer]:
+                    - generic [ref=f51e36]: Home
+                - listitem [ref=f51e38]:
+                  - link "My Network, 29 new notifications" [ref=f51e39] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork
+                    - generic [ref=f51e40]: "29"
+                    - generic [ref=f51e44]: My Network
+                - listitem [ref=f51e46]:
+                  - link "Jobs, 0 new notifications" [ref=f51e47] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/
+                    - generic [ref=f51e51]: Jobs
+                - listitem [ref=f51e53]:
+                  - link "Messaging, 2 new notifications" [ref=f51e54] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/messaging/
+                    - generic [ref=f51e55]: "2"
+                    - generic [ref=f51e59]: Messaging
+                - listitem [ref=f51e61]:
+                  - link "Notifications, 25 new notifications" [ref=f51e62] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/notifications/
+                    - generic [ref=f51e63]: "25"
+                    - generic [ref=f51e67]: Notifications
+                - listitem [ref=f51e69]:
+                  - button "Me" [ref=f51e70] [cursor=pointer]:
+                    - figure [aria-hidden] [ref=f51e72]
+            - navigation [ref=f51e78]:
+              - list [ref=f51e79]:
+                - listitem [ref=f51e80]:
+                  - button "For Business" [ref=f51e81] [cursor=pointer]
+                - listitem [ref=f51e88]:
+                  - link "Advertise, 3 new notifications" [ref=f51e89] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/campaignmanager/accounts/
+                    - generic [ref=f51e90]: "3"
+                    - generic [ref=f51e93]: Advertise
+      - main [ref=f51e97]:
+        - generic [ref=f51e99]:
+          - complementary "Sidebar" [ref=f51e100]:
+            - generic [ref=f51e103]:
+              - generic [ref=f51e107]:
+                - link [ref=f51e108] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/kelly-irving/
+                  - generic [ref=f51e109]:
+                    - generic [ref=f51e110]:
+                      - figure [aria-hidden] [ref=f51e111]
+                      - paragraph [ref=f51e113]: Premium
+                    - figure [ref=f51e116]
+                - generic [ref=f51e117]:
+                  - link [ref=f51e118] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic "Kelly Irving, Book coach and editor for changemakers and trailblazers / Publishing gymnast, Anglesea, Victoria, Premium profile" [ref=f51e119]:
+                      - paragraph [ref=f51e122]: Kelly Irving
+                      - paragraph [ref=f51e125]: Book coach and editor for changemakers and trailblazers / Publishing gymnast
+                      - paragraph [ref=f51e126]: Anglesea, Victoria
+                  - link [ref=f51e127] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic [ref=f51e128]:
+                      - figure [aria-hidden] [ref=f51e129]
+                      - paragraph [ref=f51e130]: Expert Author Community
+              - generic [ref=f51e132]:
+                - menu [ref=f51e133]:
+                  - link [ref=f51e135] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/me/profile-views/
+                    - generic "Profile viewers 296" [ref=f51e136]:
+                      - paragraph [ref=f51e138]: Profile viewers
+                      - paragraph [ref=f51e139]: "296"
+                  - link [ref=f51e141] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/analytics/creator/content/
+                    - generic "Post impressions 1,109" [ref=f51e142]:
+                      - paragraph [ref=f51e144]: Post impressions
+                      - paragraph [ref=f51e145]: 1,109
+                - menu [ref=f51e146]:
+                  - link [ref=f51e148] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/premium/my-premium/
+                    - paragraph [ref=f51e151]: Your Premium features
+          - region "Primary content" [ref=f51e152]:
+            - generic [ref=f51e158]:
+              - listitem [ref=f51e162]:
+                - generic [ref=f51e164]:
+                  - heading "Feed post" [level=2]
+                  - generic [ref=f51e166]:
+                    - link [ref=f51e167] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/mostynwilson/
+                      - figure [ref=f51e168]
+                    - generic [ref=f51e170]:
+                      - link [ref=f51e173] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/mostynwilson/
+                        - generic "Mostyn Wilson Premium Profile 1st" [ref=f51e175]:
+                          - paragraph [ref=f51e178]: Mostyn Wilson
+                          - paragraph [ref=f51e180]:
+                            - generic [ref=f51e181]: • 1st
+                      - paragraph [ref=f51e185]: Leadership Development & Keynotes for Financial and Professional Services | Ex-KPMG Partner, COO and Head of People | Over 1,000 Leaders Developed Since 2023
+                      - link [ref=f51e189] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fwww%2Emostynwilson%2Ecom%2F&urlhash=jUnc&mt=_0y_ZH9aginzyYriO2tVFg2h35XXgWFLAKySsLE-vpuEhM-iEtZWu8hhl2de3-LU4Q1j2u4fKX8nwcHGCJX7rmJ3MKPThxT6hWk_&isSdui=true
+                        - paragraph [ref=f51e190]: Visit my website
+                      - paragraph [ref=f51e192]: 7m
+                      - link "Mostyn Wilson Premium Profile 1st":
+                        - /url: https://www.linkedin.com/in/mostynwilson/
+                    - button "Open control menu for post by Mostyn Wilson" [ref=f51e193] [cursor=pointer]
+                  - paragraph [ref=f51e196]:
+                    - generic [ref=f51e197]:
+                      - text: "I used to do my most important work at the worst possible time of day. Not because I planned it that way.It just ended up there.My days were full of meetings and calls, so the work that actually mattered – like sitting down and properly reviewing what my teams had produced – kept getting pushed to the evenings and weekends.So I was doing the most important part of my job when I was tired and would rather have been doing almost anything else. What I eventually realised, after 20 years around senior leaders, is that the people who succeed aren't working more than everyone else. They've just figured out a few small things about where their effort goes. Three of them stood out: ✅ They do the work that matters first, before the day has a chance to take it from them ✅ They don't treat every message like it needs an instant reply – they decide in advance what actually deserves a fast response ✅ They know when something is finished, instead of polishing the final 5% that doesn't change the outcome None of these are dramatic, and they're almost boring.Which is probably why most people overlook them for years. I break down all three in the video, including the one most high performers really don't want to hear. Watch the full 7-minute video on YouTube:"
+                      - link "Open https://lnkd.in/eh2N-tYq" [ref=f51e199] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2Feh2N-tYq&urlhash=1-Yu&mt=JJ0BaeLoIUr3zKlvhy_khzdjBA2jp4aIRGUx6AZvY_Scp5amVT6ehW1QKgp3lTY-XtdNkMYC16LOdO5IPwLa2Faf0NK2_9twrd3eRhvBPvd6GMsYg_R1Wcs&isSdui=true
+                        - strong [ref=f51e200]: https://lnkd.in/eh2N-tYq
+                      - text: 📌 Save this for later if you can't watch it now Follow me for real advice on succeeding at senior levels.
+                  - button "Play video" [ref=f51e205] [cursor=pointer]
+                  - generic [ref=f51e208]:
+                    - link [ref=f51e209] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "Switch to different account" [ref=f51e210]:
+                        - figure [aria-hidden] [ref=f51e211]
+                    - generic [ref=f51e213]:
+                      - 'button "Reaction button state: no reaction" [ref=f51e216] [cursor=pointer]':
+                        - generic [ref=f51e217]: "2"
+                      - button "Open reactions menu"
+                    - button "Comment" [ref=f51e222] [cursor=pointer]
+                    - button "Repost" [ref=f51e225] [cursor=pointer]
+                    - link "Send" [ref=f51e228] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                    - link [ref=f51e231] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "2 reactions" [ref=f51e232]
+                - generic [ref=f51e240]:
+                  - status [ref=f51e243]
+                  - generic [ref=f51e244]:
+                    - button "Show Emoji Picker" [ref=f51e245] [cursor=pointer]
+                    - button "Open GIF picker" [ref=f51e250] [cursor=pointer]
+                    - button "Share photo" [ref=f51e253] [cursor=pointer]
+              - link:
+                - /url: https://www.linkedin.com/
+              - generic [ref=f51e256]:
+                - link:
+                  - /url: https://www.linkedin.com/
+                - generic [ref=f51e257]:
+                  - link:
+                    - /url: https://www.linkedin.com/
+                  - link [ref=f51e258] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/salleepoinsettenash/
+                    - generic "Sallee Poinsette-Nash reacted with Like" [ref=f51e259]:
+                      - figure [aria-hidden] [ref=f51e260]
+                  - link [ref=f51e262] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/fatimazubair/
+                    - generic "Fatima Zubair reacted with Insightful" [ref=f51e263]:
+                      - figure [aria-hidden] [ref=f51e264]
+          - complementary "Aside" [ref=f51e345]:
+            - generic [ref=f51e351]:
+              - generic [ref=f51e352]:
+                - link [ref=f51e353] [cursor=pointer]:
+                  - /url: https://about.linkedin.com/
+                  - paragraph [ref=f51e354]: About
+                - link [ref=f51e355] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/accessibility/
+                  - paragraph [ref=f51e356]: Accessibility
+                - link [ref=f51e357] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin/
+                  - paragraph [ref=f51e358]: Help Center
+                - button [ref=f51e359] [cursor=pointer]:
+                  - paragraph [ref=f51e361]: Privacy & Terms
+                - link [ref=f51e363] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin/answer/62931/
+                  - paragraph [ref=f51e364]: Ad Choices
+                - link [ref=f51e365] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/ad/start/?trk=n_nav_ads_rr
+                  - paragraph [ref=f51e366]: Advertising
+                - button [ref=f51e367] [cursor=pointer]:
+                  - paragraph [ref=f51e369]: Business Services
+                - link [ref=f51e371] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/mobile/
+                  - paragraph [ref=f51e372]: Get the LinkedIn app
+                - link [ref=f51e373] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/
+                  - paragraph [ref=f51e374]: More
+              - paragraph [ref=f51e377]: LinkedIn Corporation © 2026

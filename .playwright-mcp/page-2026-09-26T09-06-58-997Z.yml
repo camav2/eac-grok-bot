@@ -1,0 +1,290 @@
+- generic [ref=f154e2]:
+  - heading "0 notifications" [level=2] [ref=f154e3]
+  - generic [ref=f154e4]:
+    - generic:
+      - generic "Skip navigation menu":
+        - button "Close jump menu" [ref=f154e6] [cursor=pointer]
+    - generic [ref=f154e9]:
+      - banner [ref=f154e11]:
+        - generic [ref=f154e14]:
+          - button [ref=f154e15] [cursor=pointer]
+          - generic [ref=f154e17]:
+            - status [ref=f154e18]
+            - search [ref=f154e19]:
+              - textbox "I'm looking for…" [ref=f154e23]
+          - generic [ref=f154e25]:
+            - navigation [ref=f154e29]:
+              - list [ref=f154e30]:
+                - listitem [ref=f154e31]:
+                  - button "Home, 1 new notification" [ref=f154e32] [cursor=pointer]:
+                    - generic [ref=f154e36]: Home
+                - listitem [ref=f154e38]:
+                  - link "My Network, 29 new notifications" [ref=f154e39] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork
+                    - generic [ref=f154e40]: "29"
+                    - generic [ref=f154e44]: My Network
+                - listitem [ref=f154e46]:
+                  - link "Jobs, 0 new notifications" [ref=f154e47] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/
+                    - generic [ref=f154e51]: Jobs
+                - listitem [ref=f154e53]:
+                  - link "Messaging, 2 new notifications" [ref=f154e54] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/messaging/
+                    - generic [ref=f154e55]: "2"
+                    - generic [ref=f154e59]: Messaging
+                - listitem [ref=f154e61]:
+                  - link "Notifications, 25 new notifications" [ref=f154e62] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/notifications/
+                    - generic [ref=f154e63]: "25"
+                    - generic [ref=f154e67]: Notifications
+                - listitem [ref=f154e69]:
+                  - button "Me" [ref=f154e70] [cursor=pointer]:
+                    - figure [aria-hidden] [ref=f154e72]
+            - navigation [ref=f154e78]:
+              - list [ref=f154e79]:
+                - listitem [ref=f154e80]:
+                  - button "For Business" [ref=f154e81] [cursor=pointer]
+                - listitem [ref=f154e88]:
+                  - link "Advertise, 3 new notifications" [ref=f154e89] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/campaignmanager/accounts/
+                    - generic [ref=f154e90]: "3"
+                    - generic [ref=f154e93]: Advertise
+      - main [ref=f154e97]:
+        - generic [ref=f154e99]:
+          - complementary "Sidebar" [ref=f154e100]:
+            - generic [ref=f154e103]:
+              - generic [ref=f154e107]:
+                - link [ref=f154e108] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/kelly-irving/
+                  - generic [ref=f154e109]:
+                    - generic [ref=f154e110]:
+                      - figure [aria-hidden] [ref=f154e111]
+                      - paragraph [ref=f154e113]: Premium
+                    - figure [ref=f154e116]
+                - generic [ref=f154e117]:
+                  - link [ref=f154e118] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic "Kelly Irving, Book coach and editor for changemakers and trailblazers / Publishing gymnast, Anglesea, Victoria, Premium profile" [ref=f154e119]:
+                      - paragraph [ref=f154e122]: Kelly Irving
+                      - paragraph [ref=f154e125]: Book coach and editor for changemakers and trailblazers / Publishing gymnast
+                      - paragraph [ref=f154e126]: Anglesea, Victoria
+                  - link [ref=f154e127] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic [ref=f154e128]:
+                      - figure [aria-hidden] [ref=f154e129]
+                      - paragraph [ref=f154e130]: Expert Author Community
+              - generic [ref=f154e132]:
+                - menu [ref=f154e133]:
+                  - link [ref=f154e135] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/me/profile-views/
+                    - generic "Profile viewers 296" [ref=f154e136]:
+                      - paragraph [ref=f154e138]: Profile viewers
+                      - paragraph [ref=f154e139]: "296"
+                  - link [ref=f154e141] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/analytics/creator/content/
+                    - generic "Post impressions 1,109" [ref=f154e142]:
+                      - paragraph [ref=f154e144]: Post impressions
+                      - paragraph [ref=f154e145]: 1,109
+                - menu [ref=f154e146]:
+                  - link [ref=f154e148] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/premium/my-premium/
+                    - paragraph [ref=f154e151]: Your Premium features
+          - region "Primary content" [ref=f154e152]:
+            - generic [ref=f154e158]:
+              - listitem [ref=f154e162]:
+                - generic [ref=f154e164]:
+                  - heading "Feed post" [level=2]
+                  - generic [ref=f154e166]:
+                    - link [ref=f154e167] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/chris-g-smith/
+                      - figure [ref=f154e168]
+                    - generic [ref=f154e170]:
+                      - link [ref=f154e173] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/chris-g-smith/
+                        - generic "Chris Smith 1st" [ref=f154e175]:
+                          - paragraph [ref=f154e178]: Chris Smith
+                          - paragraph [ref=f154e180]: • 1st
+                      - paragraph [ref=f154e182]: Author | Founder ‘aculturalleadership.com’ | Speaker | the Books | the Leadership Presentations | Counsellor | Adjunct Lecturer
+                      - paragraph [ref=f154e184]: 3mo
+                      - link "Chris Smith 1st":
+                        - /url: https://www.linkedin.com/in/chris-g-smith/
+                    - button "Open control menu for post by Chris Smith" [ref=f154e185] [cursor=pointer]
+                  - paragraph [ref=f154e188]:
+                    - generic [ref=f154e189]: Thank you to all at HR Leader and for our continuing publishing relationship. This latest article is actually an extract from my forthcoming book.
+                  - link "4 words every manager should say to their staff – but don’t hrleader.com.au" [ref=f154e190] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fwww%2Ehrleader%2Ecom%2Eau%2Flearning%2F28192-4-words-every-manager-should-say-to-their-staff-but-don-t&urlhash=r19t&mt=Zc2rnJ2CHKiADT3GR-9KNQsT_9bgSu_A3HMv12M6r9Eq6KqEkbCWO25VtKG8GQ3slBmmJsnQ8Fp5C0o4Phog-P_XdCw7uWwONNDj8cjLi9Kgv_qalvI_HeGR&isSdui=true
+                    - generic [ref=f154e191]:
+                      - figure [aria-hidden] [ref=f154e192]
+                      - generic [ref=f154e193]:
+                        - paragraph [ref=f154e195]:
+                          - generic [ref=f154e196]:
+                            - generic [ref=f154e197]: 4 words every manager should say to their staff – but don’t
+                            - text: 4 words every manager should say to their staff – but don’t
+                        - paragraph [ref=f154e199]: hrleader.com.au
+                  - generic [ref=f154e200]:
+                    - link [ref=f154e201] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "Switch to different account" [ref=f154e202]:
+                        - figure [aria-hidden] [ref=f154e203]
+                    - generic [ref=f154e205]:
+                      - 'button "Reaction button state: no reaction" [ref=f154e208] [cursor=pointer]':
+                        - generic [ref=f154e209]: "24"
+                      - button "Open reactions menu"
+                    - button "Comment" [ref=f154e214] [cursor=pointer]:
+                      - generic [ref=f154e215]: "2"
+                    - button "Repost" [ref=f154e220] [cursor=pointer]
+                    - link "Send" [ref=f154e223] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                    - link [ref=f154e226] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "24 reactions" [ref=f154e227]
+                - generic [ref=f154e236]:
+                  - status [ref=f154e239]
+                  - generic [ref=f154e240]:
+                    - button "Show Emoji Picker" [ref=f154e241] [cursor=pointer]
+                    - button "Open GIF picker" [ref=f154e246] [cursor=pointer]
+                    - button "Share photo" [ref=f154e249] [cursor=pointer]
+              - link:
+                - /url: https://www.linkedin.com/
+              - generic [ref=f154e252]:
+                - link:
+                  - /url: https://www.linkedin.com/
+                - generic [ref=f154e253]:
+                  - link:
+                    - /url: https://www.linkedin.com/
+                  - link [ref=f154e254] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kerry-s-75186726a/
+                    - generic "Kerry S. reacted with Like" [ref=f154e255]:
+                      - figure [aria-hidden] [ref=f154e256]
+                  - link [ref=f154e258] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/alexander-groh-/
+                    - generic "Alex Groh reacted with Like" [ref=f154e259]:
+                      - figure [aria-hidden] [ref=f154e260]
+                  - link [ref=f154e262] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/swaraj-choudhary/
+                    - generic "Swaraj Choudhary reacted with Like" [ref=f154e263]:
+                      - figure [aria-hidden] [ref=f154e264]
+                  - link [ref=f154e266] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/jacinda-jac-cottee-957a382a/
+                    - generic "Jacinda (Jac) Cottee reacted with Love" [ref=f154e267]:
+                      - figure [aria-hidden] [ref=f154e268]
+                  - link [ref=f154e270] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kylie-b-16648b28/
+                    - generic "Kylie B. reacted with Like" [ref=f154e271]:
+                      - figure [aria-hidden] [ref=f154e272]
+                  - link [ref=f154e274] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/emma-swift-9145911ab/
+                    - generic "Emma Swift reacted with Like" [ref=f154e275]:
+                      - figure [aria-hidden] [ref=f154e276]
+                  - link [ref=f154e278] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/rosina-helbig-699963136/
+                    - generic "Rosina Helbig reacted with Like" [ref=f154e279]:
+                      - figure [aria-hidden] [ref=f154e280]
+                  - link [ref=f154e282] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/leonardo-trejo-roa/
+                    - generic "Leonardo Trejo Roa reacted with Like" [ref=f154e283]:
+                      - figure [aria-hidden] [ref=f154e284]
+                  - link "View all reactions" [ref=f154e286] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/
+              - button [ref=f154e290] [cursor=pointer]:
+                - paragraph [ref=f154e294]: Most relevant
+              - generic [ref=f154e300]:
+                - link [ref=f154e302] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/jacinda-jac-cottee-957a382a/
+                  - figure [ref=f154e303]
+                - generic [ref=f154e304]:
+                  - generic [ref=f154e306]:
+                    - link "Jacinda (Jac) Cottee 2nd Operational Human Performance Specialist - Neuroscience, Nutrition and NTS | PhD(c) | Grad Dip Nutr (Deakin) | MSS (ISU) | ATPL (Retired) | BAv (Swinburne) | NASA Brain AWG | Founder | Keynote Speaker" [ref=f154e307] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/jacinda-jac-cottee-957a382a/
+                      - generic [ref=f154e308]:
+                        - paragraph [ref=f154e312]:
+                          - generic [ref=f154e313]:
+                            - generic [ref=f154e314]: Jacinda (Jac) Cottee 2nd
+                            - generic [aria-hidden] [ref=f154e315]:
+                              - text: Jacinda (Jac) Cottee
+                              - generic [ref=f154e316]: • 2nd
+                        - paragraph [ref=f154e318]: Operational Human Performance Specialist - Neuroscience, Nutrition and NTS | PhD(c) | Grad Dip Nutr (Deakin) | MSS (ISU) | ATPL (Retired) | BAv (Swinburne) | NASA Brain AWG | Founder | Keynote Speaker
+                    - paragraph [ref=f154e320]: 3mo
+                    - button [ref=f154e322] [cursor=pointer]:
+                      - generic "Follow Jacinda (Jac) Cottee" [ref=f154e323]:
+                        - paragraph [ref=f154e325]: Follow
+                    - button "View more options for Jacinda (Jac) Cottee’s comment." [ref=f154e326] [cursor=pointer]
+                  - paragraph [ref=f154e332]:
+                    - generic [ref=f154e333]: Pity so few captains are like this however when you do co e across them it makes them stand out even more.
+                  - generic [ref=f154e335]:
+                    - generic [ref=f154e336]:
+                      - generic [ref=f154e337]:
+                        - button "1 reaction" [ref=f154e340] [cursor=pointer]:
+                          - paragraph [ref=f154e344]:
+                            - generic [ref=f154e345]:
+                              - generic [ref=f154e346]: 1 reaction
+                              - text: "1"
+                        - button "Open reactions menu"
+                      - generic [ref=f154e347]:
+                        - button "Reply" [ref=f154e348] [cursor=pointer]
+                        - paragraph [ref=f154e352]:
+                          - generic [ref=f154e353]:
+                            - generic [ref=f154e354]: "1"
+                            - text: "1"
+                    - link [ref=f154e356] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "Reacted to by the author" [ref=f154e357]:
+                        - figure [aria-hidden] [ref=f154e358]
+              - generic [ref=f154e365]:
+                - link [ref=f154e367] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/chris-g-smith/
+                  - figure [ref=f154e368]
+                - generic [ref=f154e369]:
+                  - generic [ref=f154e371]:
+                    - link [ref=f154e372] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/chris-g-smith/
+                      - generic [ref=f154e373]:
+                        - generic [ref=f154e374]:
+                          - paragraph [ref=f154e377]: Chris Smith
+                          - paragraph [ref=f154e378]: Author
+                        - paragraph [ref=f154e380]: Author | Founder ‘aculturalleadership.com’ | Speaker | the Books | the Leadership Presentations | Counsellor | Adjunct Lecturer
+                    - paragraph [ref=f154e382]: 3mo
+                    - button "View more options for Chris Smith’s comment." [ref=f154e383] [cursor=pointer]
+                  - paragraph [ref=f154e389]:
+                    - generic [ref=f154e390]: Absolutely agree Jac. It’s a rarity.
+                  - generic [ref=f154e392]:
+                    - generic [ref=f154e393]:
+                      - generic [ref=f154e394]:
+                        - button "1 reaction" [ref=f154e397] [cursor=pointer]:
+                          - paragraph [ref=f154e401]:
+                            - generic [ref=f154e402]:
+                              - generic [ref=f154e403]: 1 reaction
+                              - text: "1"
+                        - button "Open reactions menu"
+                      - button "Reply" [ref=f154e405] [cursor=pointer]
+                    - link [ref=f154e408] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+          - complementary "Aside" [ref=f154e489]:
+            - generic [ref=f154e495]:
+              - generic [ref=f154e496]:
+                - link [ref=f154e497] [cursor=pointer]:
+                  - /url: https://about.linkedin.com/
+                  - paragraph [ref=f154e498]: About
+                - link [ref=f154e499] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/accessibility/
+                  - paragraph [ref=f154e500]: Accessibility
+                - link [ref=f154e501] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin/
+                  - paragraph [ref=f154e502]: Help Center
+                - button [ref=f154e503] [cursor=pointer]:
+                  - paragraph [ref=f154e505]: Privacy & Terms
+                - link [ref=f154e507] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin/answer/62931/
+                  - paragraph [ref=f154e508]: Ad Choices
+                - link [ref=f154e509] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/ad/start/?trk=n_nav_ads_rr
+                  - paragraph [ref=f154e510]: Advertising
+                - button [ref=f154e511] [cursor=pointer]:
+                  - paragraph [ref=f154e513]: Business Services
+                - link [ref=f154e515] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/mobile/
+                  - paragraph [ref=f154e516]: Get the LinkedIn app
+                - link [ref=f154e517] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/
+                  - paragraph [ref=f154e518]: More
+              - paragraph [ref=f154e521]: LinkedIn Corporation © 2026

@@ -1,0 +1,329 @@
+- generic [ref=f139e2]:
+  - heading "0 notifications" [level=2] [ref=f139e3]
+  - generic [ref=f139e4]:
+    - generic:
+      - generic "Skip navigation menu":
+        - button "Close jump menu" [ref=f139e6] [cursor=pointer]
+    - generic [ref=f139e9]:
+      - banner [ref=f139e11]:
+        - generic [ref=f139e14]:
+          - button [ref=f139e15] [cursor=pointer]
+          - generic [ref=f139e17]:
+            - status [ref=f139e18]
+            - search [ref=f139e19]:
+              - textbox "I'm looking for…" [ref=f139e23]
+          - generic [ref=f139e25]:
+            - navigation [ref=f139e29]:
+              - list [ref=f139e30]:
+                - listitem [ref=f139e31]:
+                  - button "Home, 1 new notification" [ref=f139e32] [cursor=pointer]:
+                    - generic [ref=f139e36]: Home
+                - listitem [ref=f139e38]:
+                  - link "My Network, 29 new notifications" [ref=f139e39] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork
+                    - generic [ref=f139e40]: "29"
+                    - generic [ref=f139e44]: My Network
+                - listitem [ref=f139e46]:
+                  - link "Jobs, 0 new notifications" [ref=f139e47] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/
+                    - generic [ref=f139e51]: Jobs
+                - listitem [ref=f139e53]:
+                  - link "Messaging, 2 new notifications" [ref=f139e54] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/messaging/
+                    - generic [ref=f139e55]: "2"
+                    - generic [ref=f139e59]: Messaging
+                - listitem [ref=f139e61]:
+                  - link "Notifications, 25 new notifications" [ref=f139e62] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/notifications/
+                    - generic [ref=f139e63]: "25"
+                    - generic [ref=f139e67]: Notifications
+                - listitem [ref=f139e69]:
+                  - button "Me" [ref=f139e70] [cursor=pointer]:
+                    - figure [aria-hidden] [ref=f139e72]
+            - navigation [ref=f139e78]:
+              - list [ref=f139e79]:
+                - listitem [ref=f139e80]:
+                  - button "For Business" [ref=f139e81] [cursor=pointer]
+                - listitem [ref=f139e88]:
+                  - link "Advertise, 3 new notifications" [ref=f139e89] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/campaignmanager/accounts/
+                    - generic [ref=f139e90]: "3"
+                    - generic [ref=f139e93]: Advertise
+      - main [ref=f139e97]:
+        - generic [ref=f139e99]:
+          - complementary "Sidebar" [ref=f139e100]:
+            - generic [ref=f139e103]:
+              - generic [ref=f139e107]:
+                - link [ref=f139e108] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/kelly-irving/
+                  - generic [ref=f139e109]:
+                    - generic [ref=f139e110]:
+                      - figure [aria-hidden] [ref=f139e111]
+                      - paragraph [ref=f139e113]: Premium
+                    - figure [ref=f139e116]
+                - generic [ref=f139e117]:
+                  - link [ref=f139e118] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic "Kelly Irving, Book coach and editor for changemakers and trailblazers / Publishing gymnast, Anglesea, Victoria, Premium profile" [ref=f139e119]:
+                      - paragraph [ref=f139e122]: Kelly Irving
+                      - paragraph [ref=f139e125]: Book coach and editor for changemakers and trailblazers / Publishing gymnast
+                      - paragraph [ref=f139e126]: Anglesea, Victoria
+                  - link [ref=f139e127] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic [ref=f139e128]:
+                      - figure [aria-hidden] [ref=f139e129]
+                      - paragraph [ref=f139e130]: Expert Author Community
+              - generic [ref=f139e132]:
+                - menu [ref=f139e133]:
+                  - link [ref=f139e135] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/me/profile-views/
+                    - generic "Profile viewers 296" [ref=f139e136]:
+                      - paragraph [ref=f139e138]: Profile viewers
+                      - paragraph [ref=f139e139]: "296"
+                  - link [ref=f139e141] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/analytics/creator/content/
+                    - generic "Post impressions 1,109" [ref=f139e142]:
+                      - paragraph [ref=f139e144]: Post impressions
+                      - paragraph [ref=f139e145]: 1,109
+                - menu [ref=f139e146]:
+                  - link [ref=f139e148] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/premium/my-premium/
+                    - paragraph [ref=f139e151]: Your Premium features
+          - region "Primary content" [ref=f139e152]:
+            - generic [ref=f139e158]:
+              - listitem [ref=f139e162]:
+                - generic [ref=f139e164]:
+                  - heading "Feed post" [level=2]
+                  - generic [ref=f139e166]:
+                    - link [ref=f139e167] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/chris-g-smith/
+                      - figure [ref=f139e168]
+                    - generic [ref=f139e170]:
+                      - link [ref=f139e173] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/chris-g-smith/
+                        - generic "Chris Smith 1st" [ref=f139e175]:
+                          - paragraph [ref=f139e178]: Chris Smith
+                          - paragraph [ref=f139e180]: • 1st
+                      - paragraph [ref=f139e182]: Author | Founder ‘aculturalleadership.com’ | Speaker | the Books | the Leadership Presentations | Counsellor | Adjunct Lecturer
+                      - paragraph [ref=f139e184]: 1mo
+                      - link "Chris Smith 1st":
+                        - /url: https://www.linkedin.com/in/chris-g-smith/
+                    - button "Open control menu for post by Chris Smith" [ref=f139e185] [cursor=pointer]
+                  - paragraph [ref=f139e188]:
+                    - generic [ref=f139e189]: And a real pleasure to work with you and the students again Som, as always.
+                  - generic [ref=f139e190]:
+                    - generic [ref=f139e191]:
+                      - link [ref=f139e192] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/maneerat-t-243142110/
+                        - figure [ref=f139e193]
+                      - generic [ref=f139e195]:
+                        - link [ref=f139e198] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/maneerat-t-243142110/
+                          - generic "Dr Maneerat T. Verified Profile 2nd" [ref=f139e200]:
+                            - paragraph [ref=f139e203]: Dr Maneerat T.
+                            - paragraph [ref=f139e205]:
+                              - generic [ref=f139e206]: • 2nd
+                        - paragraph [ref=f139e210]: Lecturer (Aviation) at University of Southern Queensland
+                        - paragraph [ref=f139e212]: 1mo
+                        - link "Dr Maneerat T. Verified Profile 2nd":
+                          - /url: https://www.linkedin.com/in/maneerat-t-243142110/
+                      - link "Invite Dr Maneerat T. to connect" [ref=f139e216] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/
+                        - generic [ref=f139e217]: Connect
+                    - link:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:ugcPost:7493461773639991296/
+                    - paragraph [ref=f139e221]:
+                      - link [ref=f139e222] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/feed/update/urn:li:ugcPost:7493461773639991296/
+                        - generic [ref=f139e223]: ✈️ Bringing Aviation Safety Management to Life Through Industry ExpertiseOne of the most rewarding aspects of teaching within
+                      - 'link "View company: UniSQ Aviation | School of Business, Law, Humanities and Pathways (BLHP)" [ref=f139e224] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/company/unisq-aviation/
+                        - strong [ref=f139e225]: UniSQ Aviation | School of Business, Law, Humanities and Pathways (BLHP)
+                      - text: is creating opportunities for students to learn not only from academic content, but also from professionals who apply those principles every day in operational aviation environments.As Course Coordinator and Lecturer for AVN3102 Advanced Aviation Safety Management Systems, I was pleased to provide UniSQ Aviation students with the opportunity to engage directly with highly experienced aviation professionals who shared real-world perspectives on safety leadership, operational decision-making, regulatory compliance and contemporary aviation practices.Students had the opportunity to learn from:✈️
+                      - link "View Chris Smith’s profile" [ref=f139e227] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/chris-g-smith/
+                        - strong [ref=f139e228]: Chris Smith
+                      - text: ", former Jetstar Captain, who shared insights from airline flight operations and demonstrated how ICAO competencies contribute to safe decision-making, teamwork and operational performance.✈️ Greg Kemp, Safety Manager and Grade 1 Flight Instructor at Air Gold Coast, who explored the practical implementation of Safety Management Systems, ICAO Annex 19 requirements and contemporary safety culture within flight training organisations.✈️ Captain"
+                      - link "View Gavin Haslemore’s profile" [ref=f139e230] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/gavin-haslemore/
+                        - strong [ref=f139e231]: Gavin Haslemore
+                      - text: ", Director of Flight Operations at Air Hong Kong and former Chief Pilot (Airbus and Boeing) at Cathay Pacific, who provided valuable insights into Just Culture, airline safety leadership and organisational learning.✈️"
+                      - link "View Chanika Mannawaduge’s profile" [ref=f139e233] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/chanika-mannawaduge-ab379232/
+                        - strong [ref=f139e234]: Chanika Mannawaduge
+                      - text: ", former aviation regulator and current researcher specialising in Fatigue Risk Management, who demonstrated how fatigue risk management and Safety Management Systems are applied to manage operational risk across the aviation sector.These sessions enabled students attending both in-person and online to connect theoretical concepts with contemporary aviation practice while learning from professionals who have led safety, training and operational functions across airlines, regulatory bodies and flight training organisations.A sincere thank you to all our guest speakers for investing their time and expertise in supporting UniSQ Aviation students and helping develop the next generation of aviation professionals. Industry engagement remains one of the most effective ways to bridge the gap between classroom learning and professional practice.Which aviation professional, mentor or industry leader has had the greatest influence on your career journey?"
+                      - 'link "View hashtag: #unisq" [ref=f139e236] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23unisq&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=f139e237]: "#UniSQ"
+                      - 'link "View hashtag: #unisqaviation" [ref=f139e239] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23unisqaviation&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=f139e240]: "#UniSQAviation"
+                      - 'link "View hashtag: #aviation" [ref=f139e242] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23aviation&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=f139e243]: "#Aviation"
+                      - 'link "View hashtag: #aviationsafety" [ref=f139e245] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23aviationsafety&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=f139e246]: "#AviationSafety"
+                      - 'link "View hashtag: #safetymanagementsystems" [ref=f139e248] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23safetymanagementsystems&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=f139e249]: "#SafetyManagementSystems"
+                      - 'link "View hashtag: #icao" [ref=f139e251] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23icao&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=f139e252]: "#ICAO"
+                      - 'link "View hashtag: #aviationeducation" [ref=f139e254] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23aviationeducation&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=f139e255]: "#AviationEducation"
+                      - 'link "View hashtag: #industryengagement" [ref=f139e257] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23industryengagement&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=f139e258]: "#IndustryEngagement"
+                      - 'link "View hashtag: #futureaviators" [ref=f139e260] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23futureaviators&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=f139e261]: "#FutureAviators"
+                      - 'link "View hashtag: #studentsuccess" [ref=f139e263] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23studentsuccess&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=f139e264]: "#StudentSuccess"
+                    - generic [ref=f139e267]:
+                      - link [ref=f139e268] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/
+                        - img "View image" [ref=f139e269]
+                      - generic [ref=f139e270]:
+                        - link [ref=f139e272] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/
+                          - img "View image" [ref=f139e273]
+                        - link [ref=f139e275] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/
+                          - img "View image" [ref=f139e276]
+                        - generic [ref=f139e277]:
+                          - link [ref=f139e278] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/
+                            - img "View image" [ref=f139e279]
+                          - link [ref=f139e280] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/
+                            - generic "2 more images" [ref=f139e281]:
+                              - paragraph [ref=f139e282]: "+2"
+                  - generic [ref=f139e283]:
+                    - link [ref=f139e284] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "Switch to different account" [ref=f139e285]:
+                        - figure [aria-hidden] [ref=f139e286]
+                    - generic [ref=f139e288]:
+                      - 'button "Reaction button state: no reaction" [ref=f139e291] [cursor=pointer]':
+                        - generic [ref=f139e292]: "8"
+                      - button "Open reactions menu"
+                    - button "Comment" [ref=f139e297] [cursor=pointer]:
+                      - generic [ref=f139e298]: "1"
+                    - button "Repost" [ref=f139e303] [cursor=pointer]
+                    - link "Send" [ref=f139e306] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                    - link [ref=f139e309] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "8 reactions" [ref=f139e310]
+                - generic [ref=f139e319]:
+                  - status [ref=f139e322]
+                  - generic [ref=f139e323]:
+                    - button "Show Emoji Picker" [ref=f139e324] [cursor=pointer]
+                    - button "Open GIF picker" [ref=f139e329] [cursor=pointer]
+                    - button "Share photo" [ref=f139e332] [cursor=pointer]
+              - link:
+                - /url: https://www.linkedin.com/
+              - generic [ref=f139e335]:
+                - link:
+                  - /url: https://www.linkedin.com/
+                - generic [ref=f139e336]:
+                  - link:
+                    - /url: https://www.linkedin.com/
+                  - link [ref=f139e337] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/elitah/
+                    - generic "Elita H. reacted with Celebrate" [ref=f139e338]:
+                      - figure [aria-hidden] [ref=f139e339]
+                  - link [ref=f139e341] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/leonardo-trejo-roa/
+                    - generic "Leonardo Trejo Roa reacted with Like" [ref=f139e342]:
+                      - figure [aria-hidden] [ref=f139e343]
+                  - link [ref=f139e345] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/timothy-j-smith/
+                    - generic "Timothy Smith reacted with Like" [ref=f139e346]:
+                      - figure [aria-hidden] [ref=f139e347]
+                  - link [ref=f139e349] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/edwin-maza-a5848b312/
+                    - generic "Edwin Maza reacted with Love" [ref=f139e350]:
+                      - figure [aria-hidden] [ref=f139e351]
+                  - link [ref=f139e353] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/lorenzo-forte/
+                    - generic "Lorenzo Forte reacted with Like" [ref=f139e354]:
+                      - figure [aria-hidden] [ref=f139e355]
+                  - link [ref=f139e357] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kiah-w-7051b9240/
+                    - generic "Kiah W. reacted with Love" [ref=f139e358]:
+                      - figure [aria-hidden] [ref=f139e359]
+                  - link [ref=f139e361] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/jacinda-jac-cottee-957a382a/
+                    - generic "Jacinda (Jac) Cottee reacted with Love" [ref=f139e362]:
+                      - figure [aria-hidden] [ref=f139e363]
+              - generic [ref=f139e369]:
+                - link [ref=f139e371] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/maneerat-t-243142110/
+                  - figure [ref=f139e372]
+                - generic [ref=f139e373]:
+                  - generic [ref=f139e375]:
+                    - link "Dr Maneerat T. Verified Profile 2nd Lecturer (Aviation) at University of Southern Queensland" [ref=f139e376] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/maneerat-t-243142110/
+                      - generic [ref=f139e377]:
+                        - paragraph [ref=f139e381]:
+                          - generic [ref=f139e382]:
+                            - generic [ref=f139e383]: Dr Maneerat T. Verified Profile 2nd
+                            - generic [aria-hidden] [ref=f139e384]:
+                              - text: Dr Maneerat T.
+                              - generic [ref=f139e387]: • 2nd
+                        - paragraph [ref=f139e389]: Lecturer (Aviation) at University of Southern Queensland
+                    - paragraph [ref=f139e391]: 1mo
+                    - button "View more options for Dr Maneerat T.’s comment." [ref=f139e392] [cursor=pointer]
+                  - paragraph [ref=f139e398]:
+                    - generic [ref=f139e399]:
+                      - link "View Chris Smith’s profile" [ref=f139e401] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/chris-g-smith/
+                        - strong [ref=f139e402]: Chris Smith
+                      - text: ", you have been very supportive as always. Your contributions help bridge the gap between theory and practice, and UniSQ students gain invaluable insights into aviation safety from a very experienced airline pilot. 👨‍✈️"
+                  - generic [ref=f139e404]:
+                    - generic [ref=f139e405]:
+                      - generic [ref=f139e406]:
+                        - button "1 reaction" [ref=f139e409] [cursor=pointer]:
+                          - paragraph [ref=f139e413]:
+                            - generic [ref=f139e414]:
+                              - generic [ref=f139e415]: 1 reaction
+                              - text: "1"
+                        - button "Open reactions menu"
+                      - button "Reply" [ref=f139e417] [cursor=pointer]
+                    - link [ref=f139e421] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "Reacted to by the author" [ref=f139e422]:
+                        - figure [aria-hidden] [ref=f139e423]
+          - complementary "Aside" [ref=f139e505]:
+            - generic [ref=f139e511]:
+              - generic [ref=f139e512]:
+                - link [ref=f139e513] [cursor=pointer]:
+                  - /url: https://about.linkedin.com/
+                  - paragraph [ref=f139e514]: About
+                - link [ref=f139e515] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/accessibility/
+                  - paragraph [ref=f139e516]: Accessibility
+                - link [ref=f139e517] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin/
+                  - paragraph [ref=f139e518]: Help Center
+                - button [ref=f139e519] [cursor=pointer]:
+                  - paragraph [ref=f139e521]: Privacy & Terms
+                - link [ref=f139e523] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin/answer/62931/
+                  - paragraph [ref=f139e524]: Ad Choices
+                - link [ref=f139e525] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/ad/start/?trk=n_nav_ads_rr
+                  - paragraph [ref=f139e526]: Advertising
+                - button [ref=f139e527] [cursor=pointer]:
+                  - paragraph [ref=f139e529]: Business Services
+                - link [ref=f139e531] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/mobile/
+                  - paragraph [ref=f139e532]: Get the LinkedIn app
+                - link [ref=f139e533] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/
+                  - paragraph [ref=f139e534]: More
+              - paragraph [ref=f139e537]: LinkedIn Corporation © 2026

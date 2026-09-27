@@ -1,0 +1,538 @@
+- generic [ref=f65e1]:
+  - generic:
+    - region "Toast message":
+      - heading "0 notifications total" [level=2] [ref=f65e3]
+      - alert
+  - generic [ref=f65e4]:
+    - generic [ref=f65e6]:
+      - button "Skip to search" [ref=f65e7] [cursor=pointer]
+      - button "Skip to main content" [ref=f65e9] [cursor=pointer]
+      - button "Keyboard shortcuts" [ref=f65e11] [cursor=pointer]
+      - button "Close jump menu" [ref=f65e13] [cursor=pointer]
+    - banner "Global Navigation" [ref=f65e17]:
+      - generic [ref=f65e18]:
+        - link [ref=f65e19] [cursor=pointer]:
+          - /url: https://www.linkedin.com/feed/?nis=true
+          - img "LinkedIn" [ref=f65e22]
+        - combobox "I’m looking for..." [ref=f65e28]
+        - navigation "Primary Navigation" [ref=f65e29]:
+          - list [ref=f65e30]:
+            - listitem [ref=f65e31]:
+              - link "new feed updates notifications Home" [ref=f65e32] [cursor=pointer]:
+                - /url: https://www.linkedin.com/feed/?nis=true&
+                - generic [ref=f65e33]: new feed updates notifications
+                - generic "Home" [ref=f65e42]
+            - listitem [ref=f65e43]:
+              - link "29 new network updates notifications My Network" [ref=f65e44] [cursor=pointer]:
+                - /url: https://www.linkedin.com/mynetwork/?
+                - generic [ref=f65e46]:
+                  - generic [aria-hidden] [ref=f65e47]: "29"
+                  - generic [ref=f65e48]: 29 new network updates notifications
+                - generic "My Network" [ref=f65e54]
+            - listitem [ref=f65e55]:
+              - link "Jobs" [ref=f65e56] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/?
+            - listitem [ref=f65e63]:
+              - link "2 new messages notifications Messaging" [ref=f65e64] [cursor=pointer]:
+                - /url: https://www.linkedin.com/messaging/?
+                - generic [ref=f65e66]:
+                  - generic [aria-hidden] [ref=f65e67]: "2"
+                  - generic [ref=f65e68]: 2 new messages notifications
+                - generic "Messaging" [ref=f65e74]
+            - listitem [ref=f65e75]:
+              - link "25 new notifications Notifications" [ref=f65e76] [cursor=pointer]:
+                - /url: https://www.linkedin.com/notifications/?
+                - generic [ref=f65e78]:
+                  - generic [aria-hidden] [ref=f65e79]: "25"
+                  - generic [ref=f65e80]: 25 new notifications
+                - generic "Notifications" [ref=f65e86]
+            - listitem [ref=f65e87]:
+              - button [ref=f65e89] [cursor=pointer]:
+                - img "Kelly Irving" [ref=f65e90]
+                - generic [ref=f65e91]: Me
+            - listitem [ref=f65e94]:
+              - button "For Business" [ref=f65e96] [cursor=pointer]
+            - listitem [ref=f65e105]:
+              - link "3 new Campaign Manager notifications Advertise" [ref=f65e106] [cursor=pointer]:
+                - /url: https://www.linkedin.com/campaignmanager/accounts?shouldShowNotificationPanelOnRender=true
+                - generic [ref=f65e108]:
+                  - generic [aria-hidden] [ref=f65e109]: "3"
+                  - generic [ref=f65e110]: 3 new Campaign Manager notifications
+                - generic "Advertise" [ref=f65e117]
+    - generic [ref=f65e123]:
+      - complementary [ref=f65e124]:
+        - generic [ref=f65e127]:
+          - link [ref=f65e130] [cursor=pointer]:
+            - /url: /in/donnamcgeorge/
+            - img "Donna McGeorge" [ref=f65e131]
+          - generic [ref=f65e132]:
+            - link [ref=f65e133] [cursor=pointer]:
+              - /url: /in/donnamcgeorge/
+              - heading "Donna McGeorge" [level=3] [ref=f65e134]
+            - heading "Speaker, author and expert in productive leadership | Helping leaders create space to think, focus and act on what matters most" [level=4] [ref=f65e135]
+          - generic [ref=f65e137]:
+            - generic [ref=f65e138]:
+              - generic [ref=f65e139]: Followers
+              - generic [ref=f65e140]: 11,425
+            - button "Message Donna" [ref=f65e143] [cursor=pointer]:
+              - generic [ref=f65e144]: Message
+      - main [ref=f65e145]:
+        - generic [ref=f65e273]:
+          - heading "All activity" [level=2] [ref=f65e274]
+          - group "Select type of recent activity" [ref=f65e277]:
+            - button "Posts" [pressed] [ref=f65e278] [cursor=pointer]
+            - button "Comments" [ref=f65e280] [cursor=pointer]
+            - button "Videos" [ref=f65e282] [cursor=pointer]
+            - button "Images" [ref=f65e284] [cursor=pointer]
+            - button "More" [ref=f65e286] [cursor=pointer]
+          - generic [ref=f65e292]:
+            - generic [ref=f65e293]:
+              - generic [ref=f65e294]: Loaded 20 Posts posts
+              - list [ref=f65e295]:
+                - listitem [ref=f65e296]:
+                  - article [ref=f65e301]:
+                    - generic [ref=f65e303]:
+                      - heading "Feed post number 1" [level=2] [ref=f65e304]
+                      - generic [ref=f65e305]:
+                        - generic [ref=f65e306]:
+                          - generic [ref=f65e308]:
+                            - link "View Donna McGeorge’s graphic link" [ref=f65e309] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/donnamcgeorge?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAABtEREBaQsbsXreP8m40wgJbKlXtSaKAAU
+                              - img "View Donna McGeorge’s graphic link" [ref=f65e313]
+                            - generic [ref=f65e314]:
+                              - 'link "View: Donna McGeorge Verified • 1st Speaker, author and expert in productive leadership | Helping leaders create space to think, focus and act on what matters most" [ref=f65e315] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/donnamcgeorge?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAABtEREBaQsbsXreP8m40wgJbKlXtSaKAAU
+                                - generic [ref=f65e316]:
+                                  - generic [ref=f65e317]: Donna McGeorge
+                                  - generic [ref=f65e320]: • 1st
+                                - generic [ref=f65e324]: Speaker, author and expert in productive leadership | Helping leaders create space to think, focus and act on what matters most
+                              - generic [ref=f65e326]: 2d •
+                          - button "Open control menu for post by Donna McGeorge" [ref=f65e334] [cursor=pointer]
+                        - generic [ref=f65e338]:
+                          - generic [ref=f65e339]: "Most of what people call a productivity problem isn't one, and it has a lot more to do with leadership than time management.My program, The Productive Leader, speaks to this. Sing out if you want to know more.**********Hi, I'm Donna McGeorge, based in Geelong, and I've spent decades helping leaders and teams get to the heart of what actually makes work productive. These days that means rethinking productivity altogether: the real issue in most organisations isn't a shortage of hacks, it's a shortage of trust, clarity, and good decision-making, and that's the conversation I bring into every room I work in.If you'd like to be part of that conversation, here's where to start:* Subscribe to my newsletter here on LinkedIn via my profile* Message me about in-house training and keynote speaking"
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f65e342] [cursor=pointer]:
+                            - generic [ref=f65e343]: …more
+                        - region "Video player" [ref=f65e348]:
+                          - generic: Media is loading
+                          - generic [ref=f65e352]:
+                            - button "Pause" [ref=f65e353] [cursor=pointer]
+                            - slider "Playback progress" [ref=f65e355] [cursor=pointer]:
+                              - generic: "Loaded: 0%"
+                            - generic [ref=f65e357]:
+                              - text: Remaining time
+                              - generic [ref=f65e358]: 0:00
+                            - generic [ref=f65e359]:
+                              - generic [aria-hidden]: 1x
+                              - button "Playback speed" [ref=f65e360] [cursor=pointer]
+                            - generic [ref=f65e362]:
+                              - button "Unmute" [ref=f65e363] [cursor=pointer]
+                              - generic:
+                                - slider "Volume":
+                                  - generic [ref=f65e365] [cursor=pointer]
+                            - button "Turn fullscreen on" [ref=f65e366] [cursor=pointer]
+                        - generic [ref=f65e368]:
+                          - list [ref=f65e372]:
+                            - listitem [ref=f65e373]:
+                              - button "Ishan Galapathy and 10 others" [ref=f65e374] [cursor=pointer]:
+                                - img "like" [ref=f65e375]
+                                - generic [ref=f65e376]:
+                                  - generic [aria-hidden] [ref=f65e377]: "11"
+                                  - generic [ref=f65e378]: Ishan Galapathy and 10 others
+                          - generic [ref=f65e379]:
+                            - generic [ref=f65e380]:
+                              - button "React Like" [ref=f65e381] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f65e386]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f65e387] [cursor=pointer]
+                            - button "Comment" [ref=f65e392] [cursor=pointer]
+                            - button "Repost" [ref=f65e398] [cursor=pointer]
+                            - button "Send in a private message" [ref=f65e404] [cursor=pointer]:
+                              - generic [ref=f65e407]: Send
+                - listitem [ref=f65e409]:
+                  - article [ref=f65e414]:
+                    - generic [ref=f65e416]:
+                      - heading "Feed post number 2" [level=2] [ref=f65e417]
+                      - generic [ref=f65e418]:
+                        - generic [ref=f65e419]:
+                          - generic [ref=f65e421]:
+                            - link "View Donna McGeorge’s graphic link" [ref=f65e422] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/donnamcgeorge?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAABtEREBaQsbsXreP8m40wgJbKlXtSaKAAU
+                              - img "View Donna McGeorge’s graphic link" [ref=f65e426]
+                            - generic [ref=f65e427]:
+                              - 'link "View: Donna McGeorge Verified • 1st Speaker, author and expert in productive leadership | Helping leaders create space to think, focus and act on what matters most" [ref=f65e428] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/donnamcgeorge?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAABtEREBaQsbsXreP8m40wgJbKlXtSaKAAU
+                                - generic [ref=f65e429]:
+                                  - generic [ref=f65e430]: Donna McGeorge
+                                  - generic [ref=f65e433]: • 1st
+                                - generic [ref=f65e437]: Speaker, author and expert in productive leadership | Helping leaders create space to think, focus and act on what matters most
+                              - generic [ref=f65e439]: 3d •
+                          - button "Open control menu for post by Donna McGeorge" [ref=f65e447] [cursor=pointer]
+                        - generic [ref=f65e451]:
+                          - generic [ref=f65e452]: "A leader told me last week that the moment she stopped checking in on everything, her team got faster. She also said she'd got her evenings back for the first time in about two years.I wasn't really surprised because when people aren't spending energy managing how busy they look, that energy goes into the actual work instead.Trust buys speed, clarity buys focus, and when you make a decision on the spot instead of booking it for next week, nobody has to chase the momentum down later.The Productive Leaders Program builds all three. Send me a message and we'll talk it through.**********Hi, I'm Donna McGeorge, based in Geelong, and I've spent decades helping leaders and teams get to the heart of what actually makes work productive. These days that means rethinking productivity altogether: the real issue in most organisations isn't a shortage of hacks, it's a shortage of trust, clarity, and good decision-making, and that's the conversation I bring into every room I work in.If you'd like to be part of that conversation, here's where to start:* Subscribe to my newsletter here on LinkedIn via my profile* Message me about in-house training and keynote speaking"
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f65e455] [cursor=pointer]:
+                            - generic [ref=f65e456]: …more
+                        - generic [ref=f65e458]:
+                          - button "Activate to view larger image, View image" [ref=f65e460] [cursor=pointer]:
+                            - generic [ref=f65e461]: Activate to view larger image,
+                            - img "View image" [ref=f65e464]
+                          - generic [aria-hidden] [ref=f65e465]: Activate to view larger image,
+                        - generic [ref=f65e466]:
+                          - list [ref=f65e470]:
+                            - listitem [ref=f65e471]:
+                              - button "Rohan Dredge and 17 others" [ref=f65e472] [cursor=pointer]:
+                                - img "like" [ref=f65e473]
+                                - img "love" [ref=f65e474]
+                                - img "celebrate" [ref=f65e475]
+                                - generic [ref=f65e476]:
+                                  - generic [aria-hidden] [ref=f65e477]: "18"
+                                  - generic [ref=f65e478]: Rohan Dredge and 17 others
+                          - generic [ref=f65e479]:
+                            - generic [ref=f65e480]:
+                              - button "React Like" [ref=f65e481] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f65e486]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f65e487] [cursor=pointer]
+                            - button "Comment" [ref=f65e492] [cursor=pointer]
+                            - button "Repost" [ref=f65e498] [cursor=pointer]
+                            - button "Send in a private message" [ref=f65e504] [cursor=pointer]:
+                              - generic [ref=f65e507]: Send
+                - listitem [ref=f65e509]:
+                  - article [ref=f65e514]:
+                    - generic [ref=f65e516]:
+                      - heading "Feed post number 3" [level=2] [ref=f65e517]
+                      - generic [ref=f65e518]:
+                        - generic [ref=f65e519]:
+                          - generic [ref=f65e521]:
+                            - link "View Donna McGeorge’s graphic link" [ref=f65e522] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/donnamcgeorge?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAABtEREBaQsbsXreP8m40wgJbKlXtSaKAAU
+                              - img "View Donna McGeorge’s graphic link" [ref=f65e526]
+                            - generic [ref=f65e527]:
+                              - 'link "View: Donna McGeorge Verified • 1st Speaker, author and expert in productive leadership | Helping leaders create space to think, focus and act on what matters most" [ref=f65e528] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/donnamcgeorge?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAABtEREBaQsbsXreP8m40wgJbKlXtSaKAAU
+                                - generic [ref=f65e529]:
+                                  - generic [ref=f65e530]: Donna McGeorge
+                                  - generic [ref=f65e533]: • 1st
+                                - generic [ref=f65e537]: Speaker, author and expert in productive leadership | Helping leaders create space to think, focus and act on what matters most
+                              - generic [ref=f65e539]: 4d •
+                          - button "Open control menu for post by Donna McGeorge" [ref=f65e547] [cursor=pointer]
+                        - generic [ref=f65e551]:
+                          - generic [ref=f65e552]: "I've spent this month in more rooms than I can count, delivering productivity sessions, and one thing keeps coming up. Almost none of it is actually a productivity problem.It's trust, clarity and decisions travelling further up the organisation than they need to. We call it a productivity problem because that's easy.Read on . . . *********Hi, I'm Donna McGeorge, based in Geelong, and I've spent decades helping leaders and teams get to the heart of what actually makes work productive. These days that means rethinking productivity altogether: the real issue in most organisations isn't a shortage of hacks, it's a shortage of trust, clarity, and good decision-making, and that's the conversation I bring into every room I work in.If you'd like to be part of that conversation, here's where to start:* Subscribe to my newsletter here on LinkedIn via my profile* Message me about in-house training and keynote speaking"
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f65e555] [cursor=pointer]:
+                            - generic [ref=f65e556]: …more
+                        - article [ref=f65e557]:
+                          - generic [ref=f65e558]:
+                            - 'link "Open article: When a productivity problem isn''t a productivity problem by Donna McGeorge • 3 min read" [ref=f65e560] [cursor=pointer]':
+                              - /url: https://www.linkedin.com/pulse/when-productivity-problem-isnt-donna-mcgeorge-f9upc?trackingId=LJhUHbIy7VEK6Ntr2ihNpg%3D%3D
+                            - 'link "Open article: When a productivity problem isn''t a productivity problem by Donna McGeorge • 3 min read" [ref=f65e564] [cursor=pointer]':
+                              - /url: https://www.linkedin.com/pulse/when-productivity-problem-isnt-donna-mcgeorge-f9upc?trackingId=LJhUHbIy7VEK6Ntr2ihNpg%3D%3D
+                              - generic [ref=f65e565]:
+                                - generic [ref=f65e566]:
+                                  - link "Red Brick Thinking (TM), graphic." [ref=f65e567]:
+                                    - /url: https://www.linkedin.com/newsletters/red-brick-thinking-tm-6995547533439635456
+                                  - generic [ref=f65e570]:
+                                    - link "Red Brick Thinking (TM)" [ref=f65e571]:
+                                      - /url: https://www.linkedin.com/newsletters/red-brick-thinking-tm-6995547533439635456
+                                    - button "Subscribe" [ref=f65e576]:
+                                      - generic [aria-hidden] [ref=f65e579]: Subscribe
+                                      - generic [ref=f65e580]: "Subscribe to {:entityName}"
+                                - generic [ref=f65e581]:
+                                  - generic [ref=f65e582]: When a productivity problem isn't a productivity problem
+                                  - generic [ref=f65e584]: Donna McGeorge
+                        - generic [ref=f65e585]:
+                          - list [ref=f65e589]:
+                            - listitem [ref=f65e590]:
+                              - button "Nimarta Verma and 16 others" [ref=f65e591] [cursor=pointer]:
+                                - img "like" [ref=f65e592]
+                                - img "insightful" [ref=f65e593]
+                                - img "love" [ref=f65e594]
+                                - generic [ref=f65e595]:
+                                  - generic [aria-hidden] [ref=f65e596]: "17"
+                                  - generic [ref=f65e597]: Nimarta Verma and 16 others
+                            - listitem [ref=f65e598]:
+                              - list [ref=f65e599]:
+                                - listitem [ref=f65e600]:
+                                  - button "5 comments on Donna McGeorge’s post" [ref=f65e601] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f65e602]: 5 comments
+                          - generic [ref=f65e603]:
+                            - generic [ref=f65e604]:
+                              - button "React Like" [ref=f65e605] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f65e610]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f65e611] [cursor=pointer]
+                            - button "Comment" [ref=f65e616] [cursor=pointer]
+                            - button "Repost" [ref=f65e622] [cursor=pointer]
+                            - button "Send in a private message" [ref=f65e628] [cursor=pointer]:
+                              - generic [ref=f65e631]: Send
+                - listitem [ref=f65e633]:
+                  - article [ref=f65e638]:
+                    - generic [ref=f65e640]:
+                      - heading "Feed post number 4" [level=2] [ref=f65e641]
+                      - generic [ref=f65e642]:
+                        - generic [ref=f65e643]:
+                          - generic [ref=f65e645]:
+                            - link "View Donna McGeorge’s graphic link" [ref=f65e646] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/donnamcgeorge?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAABtEREBaQsbsXreP8m40wgJbKlXtSaKAAU
+                              - img "View Donna McGeorge’s graphic link" [ref=f65e650]
+                            - generic [ref=f65e651]:
+                              - 'link "View: Donna McGeorge Verified • 1st Speaker, author and expert in productive leadership | Helping leaders create space to think, focus and act on what matters most" [ref=f65e652] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/donnamcgeorge?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAABtEREBaQsbsXreP8m40wgJbKlXtSaKAAU
+                                - generic [ref=f65e653]:
+                                  - generic [ref=f65e654]: Donna McGeorge
+                                  - generic [ref=f65e657]: • 1st
+                                - generic [ref=f65e661]: Speaker, author and expert in productive leadership | Helping leaders create space to think, focus and act on what matters most
+                              - generic [ref=f65e663]: 5d •
+                          - button "Open control menu for post by Donna McGeorge" [ref=f65e671] [cursor=pointer]
+                        - generic [ref=f65e675]:
+                          - generic [ref=f65e676]: "I've been in the speaking, training, and facilitating game for a long time, and the patterns I'm noticing lately are becoming obvious. I get asked to deliver something on productivity, and it turns out the productivity problems aren't productivity problems.They're trust problems for example, a leader wants to be over everything and in every meeting because they don't trust people to get on with the work unless they can see it happening.Or they're clarity problems with everyone flat out doing stuff no one has said what actually matters this week.Or they're about a decision sitting with the wrong person, and stuck in an endless cycle of meetings.None of that gets fixed with a better calendar or a new productivity hack. It gets fixed when a leader looks at their own habits and works out what needs to stop.That's the basis of the Productive Leaders Program. Send me a message and we'll talk it through.**********Hi, I'm Donna McGeorge, based in Geelong, and I've spent decades helping leaders and teams get to the heart of what actually makes work productive. These days that means rethinking productivity altogether: the real issue in most organisations isn't a shortage of hacks, it's a shortage of trust, clarity, and good decision-making, and that's the conversation I bring into every room I work in.If you'd like to be part of that conversation, here's where to start:* Subscribe to my newsletter here on LinkedIn via my profile* Message me about in-house training and keynote speaking"
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f65e679] [cursor=pointer]:
+                            - generic [ref=f65e680]: …more
+                        - generic [ref=f65e682]:
+                          - button "Activate to view larger image, View image" [ref=f65e684] [cursor=pointer]:
+                            - generic [ref=f65e685]: Activate to view larger image,
+                            - img "View image" [ref=f65e688]
+                          - generic [aria-hidden] [ref=f65e689]: Activate to view larger image,
+                        - generic [ref=f65e690]:
+                          - list [ref=f65e694]:
+                            - listitem [ref=f65e695]:
+                              - button "Jane Anderson CSP and 28 others" [ref=f65e696] [cursor=pointer]:
+                                - img "like" [ref=f65e697]
+                                - img "support" [ref=f65e698]
+                                - img "love" [ref=f65e699]
+                                - generic [ref=f65e700]:
+                                  - generic [aria-hidden] [ref=f65e701]: "29"
+                                  - generic [ref=f65e702]: Jane Anderson CSP and 28 others
+                            - listitem [ref=f65e703]:
+                              - list [ref=f65e704]:
+                                - listitem [ref=f65e705]:
+                                  - button "7 comments on Donna McGeorge’s post" [ref=f65e706] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f65e707]: 7 comments
+                          - generic [ref=f65e708]:
+                            - generic [ref=f65e709]:
+                              - button "React Like" [ref=f65e710] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f65e715]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f65e716] [cursor=pointer]
+                            - button "Comment" [ref=f65e721] [cursor=pointer]
+                            - button "Repost" [ref=f65e727] [cursor=pointer]
+                            - button "Send in a private message" [ref=f65e733] [cursor=pointer]:
+                              - generic [ref=f65e736]: Send
+                - listitem [ref=f65e738]:
+                  - article [ref=f65e743]:
+                    - generic [ref=f65e745]:
+                      - heading "Feed post number 5" [level=2] [ref=f65e746]
+                      - generic [ref=f65e747]:
+                        - generic [ref=f65e748]:
+                          - generic [ref=f65e750]:
+                            - link "View Donna McGeorge’s graphic link" [ref=f65e751] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/donnamcgeorge?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAABtEREBaQsbsXreP8m40wgJbKlXtSaKAAU
+                              - img "View Donna McGeorge’s graphic link" [ref=f65e755]
+                            - generic [ref=f65e756]:
+                              - 'link "View: Donna McGeorge Verified • 1st Speaker, author and expert in productive leadership | Helping leaders create space to think, focus and act on what matters most" [ref=f65e757] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/donnamcgeorge?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAABtEREBaQsbsXreP8m40wgJbKlXtSaKAAU
+                                - generic [ref=f65e758]:
+                                  - generic [ref=f65e759]: Donna McGeorge
+                                  - generic [ref=f65e762]: • 1st
+                                - generic [ref=f65e766]: Speaker, author and expert in productive leadership | Helping leaders create space to think, focus and act on what matters most
+                              - generic [ref=f65e768]: 1w •
+                          - button "Open control menu for post by Donna McGeorge" [ref=f65e776] [cursor=pointer]
+                        - generic [ref=f65e780]:
+                          - generic [ref=f65e781]: "Productivity is a leadership practice. Is this a hot take?Productivity is too often handed down as an individual responsibility, as though people should manage themselves brilliantly inside systems that are overloaded, unclear and constantly interrupted. Then everyone acts surprised when capacity is stretched to breaking point.Productivity is shaped by leaders. They decide what gets attention, what feels urgent, and whether people ever get room to think. In a lot of workplaces, the problem is leadership settings that reward responsiveness over reflection, availability over judgement, motion over progress.A productive leader does more than drive output. They create the conditions for better thinking, protect focus where it matters, and treat strategic subtraction as part of the job. Every unnecessary demand placed on a team costs something well beyond time. Quality, energy, decision-making and leadership depth all take a hit.If senior leaders want more sustainable performance, they need to look past personal productivity tools and examine the leadership environment itself. What are we normalising? What are we interrupting too often? What's still sitting on the agenda that stopped earning its place months ago?The future of productivity will be built on leading with more clarity, more discernment, and more room to breathe.**********Hi, I'm Donna McGeorge, based in Geelong, and I've spent decades helping leaders and teams get to the heart of what actually makes work productive. These days that means rethinking productivity altogether: the real issue in most organisations isn't a shortage of hacks, it's a shortage of trust, clarity, and good decision-making, and that's the conversation I bring into every room I work in.If you'd like to be part of that conversation, here's where to start:* Subscribe to my newsletter here on LinkedIn via my profile* Message me about in-house training and keynote speaking"
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f65e784] [cursor=pointer]:
+                            - generic [ref=f65e785]: …more
+                        - region "Video player" [ref=f65e790]:
+                          - generic [ref=f65e794] [cursor=pointer]
+                          - button "Play" [ref=f65e795] [cursor=pointer]
+                        - generic [ref=f65e797]:
+                          - list [ref=f65e801]:
+                            - listitem [ref=f65e802]:
+                              - button "Ishan Galapathy and 18 others" [ref=f65e803] [cursor=pointer]:
+                                - img "like" [ref=f65e804]
+                                - img "insightful" [ref=f65e805]
+                                - img "support" [ref=f65e806]
+                                - generic [ref=f65e807]:
+                                  - generic [aria-hidden] [ref=f65e808]: "19"
+                                  - generic [ref=f65e809]: Ishan Galapathy and 18 others
+                            - listitem [ref=f65e810]:
+                              - list [ref=f65e811]:
+                                - listitem [ref=f65e812]:
+                                  - button "8 comments on Donna McGeorge’s post" [ref=f65e813] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f65e814]: 8 comments
+                                  - text: ·
+                                - listitem [ref=f65e815]:
+                                  - button "1 repost of Donna McGeorge’s post" [ref=f65e816] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f65e817]: 1 repost
+                          - generic [ref=f65e818]:
+                            - generic [ref=f65e819]:
+                              - button "React Like" [ref=f65e820] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f65e825]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f65e826] [cursor=pointer]
+                            - button "Comment" [ref=f65e831] [cursor=pointer]
+                            - button "Repost" [ref=f65e837] [cursor=pointer]
+                            - button "Send in a private message" [ref=f65e843] [cursor=pointer]:
+                              - generic [ref=f65e846]: Send
+                - listitem [ref=f65e848]
+                - listitem [ref=f65e852]
+                - listitem [ref=f65e856]
+                - listitem [ref=f65e860]
+                - listitem [ref=f65e864]
+                - listitem [ref=f65e868]
+                - listitem [ref=f65e872]
+                - listitem [ref=f65e876]
+                - listitem [ref=f65e880]
+                - listitem [ref=f65e884]
+                - listitem [ref=f65e888]
+                - listitem [ref=f65e892]
+                - listitem [ref=f65e896]
+                - listitem [ref=f65e900]
+                - listitem [ref=f65e904]
+            - button "Show more results" [ref=f65e910] [cursor=pointer]
+      - complementary "Interests" [ref=f65e178]:
+        - iframe [ref=f65e913]:
+          - generic [ref=f66e2]:
+            - generic: Ad
+            - img "overflow-web-small" [ref=f66e6] [cursor=pointer]
+            - link "LinkedIn for Marketing" [ref=f66e10] [cursor=pointer]:
+              - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Fbusiness.linkedin.com%2Fmarketing-solutions%2Fwebinars%2F25%2F06%2Fmeasure-and-optimize%3Fmcid%3D7418940837629227008%26src%3Dli-dynamic%26cid%3D701Kf000000UbVFIA0%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg4hbOOhdbggEox3gzoS9R9eyvfdq7jGjeJlMGFlvgMClrqehi2aOTZA2nyDW0tLY9F9ccWDdoqu8dKZC5TqiJuqYX6InOKnoxBaWj_5kQbgqdbEd1yXTtfA95ilcAYRet7pSQtgogVkB4wFeSgp_kfkk3gWK9qVviR2yBCDdqbvuhEf8I4ta3F1FEmIx9YUQMyfUj_0vqtvYwQ19OQSAScaP2-XVgAXxE7CDVEniWsprORlFTwDoOHxJIJTmLPo9E1becampwbLnUSqPyaf6qmoeRNtuqbO1q9qoUc7ZZ4E_memXJSVxdLmiuU6xWkFYK4EDgk28vsZ-6mazj32z-_1NTLYl7Oxc30-M4ud5qWZLK0StuTxEEOeiyexRh9lsiLPAQNORq96fbsxgHfgF96ThVwHoZAAmzyTdxrxOSQJooKXsql2D0ptoVnZYA_D6olFNG0QowkYG_noZ4h9cO32L5v37vIt3ORzEw7VUCzTggOoLIIeUqMRQnZQUY9Fxmz8c8Q651v6e3A8BCMKcrW3LQmvKwweRFsJzXCNRTRP_GqV5jfam2PKKxAvE9XMkT1gjsBRXWDhHgeenaV0jub1wocdUI0TfBM7-XaKm0nlgDXZrabtkZOQLtQgoFpyUWg_y9VwoLZ28fFC9nIjOe5en-n_3TeEk5bscrY8XhmST8MhfXvDcAJn7vZpr9QCQggKl0xkKzXsRvf8oLFOqj9sGqCGOlkTDckIkyqbBGjpGZ0bjdj1yUi-IovYxy1ZXB0FXXKQS-3xz0b9fjXiILaNubPDoiR2L7wa7M5Sj-M98qCZCDB3HbNsj1KNxG4WPv0sQq14BUAohitQNFNyFC8_Zi5isXg5IEEdRM3Cxwhtrg1nx5S9PCe48wQrtHf3sLdRxQ1Th95Ik7qepGeKynDU34gEmlZAsaoBC2Sb5HvFE3oAhieYxV8LxGKczOXwAjTjZ4v8d3DCOF8Iax2PmPn7df22XGSFskWClttRAs2Wz4hBiaIqOGr2JF1981me3fppi0t4IfY3fFhIIoLCKjKtla0bO2cSOtLfyA6Kaepq7BID8S8qZkbMagHzJKKqam0fy2PogcrXGbn6ts4hTIbgc7f8cuWofyzNy2mzmH8RO4ZXHFXZplm78qBa7XVpv9cxgKHPCh_6azGC_Z0WgOTPccBxJ6QU8p0Tt5MHNeWvOU%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%22%2C%22trackingId%22%3A%22467b6191-1148-4821-83a8-245dc171c8a8%22%7D%2C%22time%22%3A1790499540454%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_view_base_recent_activity_content_view%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+            - generic [ref=f66e11]:
+              - 'heading "Conversions API: One view of ROI across online and offline touchpoints" [level=2] [ref=f66e14]'
+              - generic [ref=f66e16]:
+                - img "Kelly" [ref=f66e17]
+                - generic [ref=f66e18]:
+                  - link [ref=f66e19] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Fbusiness.linkedin.com%2Fmarketing-solutions%2Fwebinars%2F25%2F06%2Fmeasure-and-optimize%3Fmcid%3D7418940837629227008%26src%3Dli-dynamic%26cid%3D701Kf000000UbVFIA0%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg4hbOOhdbggEox3gzoS9R9eyvfdq7jGjeJlMGFlvgMClrqehi2aOTZA2nyDW0tLY9F9ccWDdoqu8dKZC5TqiJuqYX6InOKnoxBaWj_5kQbgqdbEd1yXTtfA95ilcAYRet7pSQtgogVkB4wFeSgp_kfkk3gWK9qVviR2yBCDdqbvuhEf8I4ta3F1FEmIx9YUQMyfUj_0vqtvYwQ19OQSAScaP2-XVgAXxE7CDVEniWsprORlFTwDoOHxJIJTmLPo9E1becampwbLnUSqPyaf6qmoeRNtuqbO1q9qoUc7ZZ4E_memXJSVxdLmiuU6xWkFYK4EDgk28vsZ-6mazj32z-_1NTLYl7Oxc30-M4ud5qWZLK0StuTxEEOeiyexRh9lsiLPAQNORq96fbsxgHfgF96ThVwHoZAAmzyTdxrxOSQJooKXsql2D0ptoVnZYA_D6olFNG0QowkYG_noZ4h9cO32L5v37vIt3ORzEw7VUCzTggOoLIIeUqMRQnZQUY9Fxmz8c8Q651v6e3A8BCMKcrW3LQmvKwweRFsJzXCNRTRP_GqV5jfam2PKKxAvE9XMkT1gjsBRXWDhHgeenaV0jub1wocdUI0TfBM7-XaKm0nlgDXZrabtkZOQLtQgoFpyUWg_y9VwoLZ28fFC9nIjOe5en-n_3TeEk5bscrY8XhmST8MhfXvDcAJn7vZpr9QCQggKl0xkKzXsRvf8oLFOqj9sGqCGOlkTDckIkyqbBGjpGZ0bjdj1yUi-IovYxy1ZXB0FXXKQS-3xz0b9fjXiILaNubPDoiR2L7wa7M5Sj-M98qCZCDB3HbNsj1KNxG4WPv0sQq14BUAohitQNFNyFC8_Zi5isXg5IEEdRM3Cxwhtrg1nx5S9PCe48wQrtHf3sLdRxQ1Th95Ik7qepGeKynDU34gEmlZAsaoBC2Sb5HvFE3oAhieYxV8LxGKczOXwAjTjZ4v8d3DCOF8Iax2PmPn7df22XGSFskWClttRAs2Wz4hBiaIqOGr2JF1981me3fppi0t4IfY3fFhIIoLCKjKtla0bO2cSOtLfyA6Kaepq7BID8S8qZkbMagHzJKKqam0fy2PogcrXGbn6ts4hTIbgc7f8cuWofyzNy2mzmH8RO4ZXHFXZplm78qBa7XVpv9cxgKHPCh_6azGC_Z0WgOTPccBxJ6QU8p0Tt5MHNeWvOU%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%22%2C%22trackingId%22%3A%22467b6191-1148-4821-83a8-245dc171c8a8%22%7D%2C%22time%22%3A1790499540454%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_view_base_recent_activity_content_view%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                    - img "LinkedIn for Marketing" [ref=f66e20]
+                  - tooltip "LinkedIn for Marketing" [ref=f66e21]
+              - generic [ref=f66e22]:
+                - heading "Kelly, measure impact with LinkedIn Ads" [level=2] [ref=f66e25]
+                - link "Watch webinar now" [ref=f66e27] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Fbusiness.linkedin.com%2Fmarketing-solutions%2Fwebinars%2F25%2F06%2Fmeasure-and-optimize%3Fmcid%3D7418940837629227008%26src%3Dli-dynamic%26cid%3D701Kf000000UbVFIA0%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg4hbOOhdbggEox3gzoS9R9eyvfdq7jGjeJlMGFlvgMClrqehi2aOTZA2nyDW0tLY9F9ccWDdoqu8dKZC5TqiJuqYX6InOKnoxBaWj_5kQbgqdbEd1yXTtfA95ilcAYRet7pSQtgogVkB4wFeSgp_kfkk3gWK9qVviR2yBCDdqbvuhEf8I4ta3F1FEmIx9YUQMyfUj_0vqtvYwQ19OQSAScaP2-XVgAXxE7CDVEniWsprORlFTwDoOHxJIJTmLPo9E1becampwbLnUSqPyaf6qmoeRNtuqbO1q9qoUc7ZZ4E_memXJSVxdLmiuU6xWkFYK4EDgk28vsZ-6mazj32z-_1NTLYl7Oxc30-M4ud5qWZLK0StuTxEEOeiyexRh9lsiLPAQNORq96fbsxgHfgF96ThVwHoZAAmzyTdxrxOSQJooKXsql2D0ptoVnZYA_D6olFNG0QowkYG_noZ4h9cO32L5v37vIt3ORzEw7VUCzTggOoLIIeUqMRQnZQUY9Fxmz8c8Q651v6e3A8BCMKcrW3LQmvKwweRFsJzXCNRTRP_GqV5jfam2PKKxAvE9XMkT1gjsBRXWDhHgeenaV0jub1wocdUI0TfBM7-XaKm0nlgDXZrabtkZOQLtQgoFpyUWg_y9VwoLZ28fFC9nIjOe5en-n_3TeEk5bscrY8XhmST8MhfXvDcAJn7vZpr9QCQggKl0xkKzXsRvf8oLFOqj9sGqCGOlkTDckIkyqbBGjpGZ0bjdj1yUi-IovYxy1ZXB0FXXKQS-3xz0b9fjXiILaNubPDoiR2L7wa7M5Sj-M98qCZCDB3HbNsj1KNxG4WPv0sQq14BUAohitQNFNyFC8_Zi5isXg5IEEdRM3Cxwhtrg1nx5S9PCe48wQrtHf3sLdRxQ1Th95Ik7qepGeKynDU34gEmlZAsaoBC2Sb5HvFE3oAhieYxV8LxGKczOXwAjTjZ4v8d3DCOF8Iax2PmPn7df22XGSFskWClttRAs2Wz4hBiaIqOGr2JF1981me3fppi0t4IfY3fFhIIoLCKjKtla0bO2cSOtLfyA6Kaepq7BID8S8qZkbMagHzJKKqam0fy2PogcrXGbn6ts4hTIbgc7f8cuWofyzNy2mzmH8RO4ZXHFXZplm78qBa7XVpv9cxgKHPCh_6azGC_Z0WgOTPccBxJ6QU8p0Tt5MHNeWvOU%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%22%2C%22trackingId%22%3A%22467b6191-1148-4821-83a8-245dc171c8a8%22%7D%2C%22time%22%3A1790499540454%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_view_base_recent_activity_content_view%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+        - generic [ref=f65e914]:
+          - heading "People you may know" [level=2] [ref=f65e919]
+          - generic [ref=f65e921]:
+            - list [ref=f65e922]:
+              - listitem [ref=f65e923]:
+                - generic [ref=f65e924]:
+                  - link [ref=f65e926] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/tracey-wright-26002945
+                    - img "Tracey Wright" [ref=f65e929]
+                  - generic [ref=f65e930]:
+                    - link "Tracey Wright Founder & Lead Facilitator | Nature, challenge & human capacity | Leadership development, workplace wellbeing & regenerative systems | Take Shape Adventures + Impact Adventures | MAPP" [ref=f65e932] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/tracey-wright-26002945?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAlvsCgB0-d0dAdEEk2fevMuiSjLQcCxH60
+                      - generic [ref=f65e933]: Tracey Wright
+                      - generic [ref=f65e942]: Founder & Lead Facilitator | Nature, challenge & human capacity | Leadership development, workplace wellbeing & regenerative systems | Take Shape Adventures + Impact Adventures | MAPP
+                    - list [ref=f65e948]:
+                      - listitem [ref=f65e949]:
+                        - button "Invite Tracey Wright to connect" [ref=f65e951] [cursor=pointer]:
+                          - generic [ref=f65e954]: Connect
+              - listitem [ref=f65e955]:
+                - generic [ref=f65e956]:
+                  - link [ref=f65e958] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/elizabeth-fozard-834abb437
+                    - img "Elizabeth Fozard" [ref=f65e961]
+                  - generic [ref=f65e962]:
+                    - link "Elizabeth Fozard Manager" [ref=f65e964] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/elizabeth-fozard-834abb437?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAG5U8egBrO0Gi4kGLcr4vYz3qah5pDCZgzg
+                      - generic [ref=f65e965]: Elizabeth Fozard
+                      - generic [ref=f65e974]: Manager
+                    - list [ref=f65e980]:
+                      - listitem [ref=f65e981]:
+                        - button "Invite Elizabeth Fozard to connect" [ref=f65e983] [cursor=pointer]:
+                          - generic [ref=f65e986]: Connect
+              - listitem [ref=f65e987]:
+                - generic [ref=f65e988]:
+                  - link [ref=f65e990] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/leelacosgrove
+                    - img "Leela Cosgrove" [ref=f65e993]
+                  - generic [ref=f65e994]:
+                    - 'link "Leela Cosgrove CEO. Investor. Business Witch. High Priestess of the Marketing Rebellion: Stop Marketing Like a Boomer." [ref=f65e996] [cursor=pointer]':
+                      - /url: https://www.linkedin.com/in/leelacosgrove?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAABZC5kBMXj0gXPzPxC1yYe8SuIs_aLyaVc
+                      - generic [ref=f65e997]: Leela Cosgrove
+                      - generic [ref=f65e1002]: "CEO. Investor. Business Witch. High Priestess of the Marketing Rebellion: Stop Marketing Like a Boomer."
+                    - list [ref=f65e1008]:
+                      - listitem [ref=f65e1009]:
+                        - button "Invite Leela Cosgrove to connect" [ref=f65e1011] [cursor=pointer]:
+                          - generic [ref=f65e1014]: Connect
+              - listitem [ref=f65e1015]:
+                - generic [ref=f65e1016]:
+                  - link [ref=f65e1018] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/daniel-buckner-b15993432
+                    - img "Daniel Buckner" [ref=f65e1021]
+                  - generic [ref=f65e1022]:
+                    - link "Daniel Buckner Host of Episodes of Life | Real conversations about grief, mental health, resilience & what comes next | Gold Coast" [ref=f65e1024] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/daniel-buckner-b15993432?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAG1sf4EBJKd5kXjzl94whUq_1weQiNjB1uY
+                      - generic [ref=f65e1025]: Daniel Buckner
+                      - generic [ref=f65e1034]: Host of Episodes of Life | Real conversations about grief, mental health, resilience & what comes next | Gold Coast
+                    - list [ref=f65e1040]:
+                      - listitem [ref=f65e1041]:
+                        - button "Invite Daniel Buckner to connect" [ref=f65e1043] [cursor=pointer]:
+                          - generic [ref=f65e1046]: Connect
+              - listitem [ref=f65e1047]:
+                - generic [ref=f65e1048]:
+                  - link [ref=f65e1050] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/miles-rote
+                    - img "Miles Rote" [ref=f65e1053]
+                  - generic [ref=f65e1054]:
+                    - link "Miles Rote Co-Founder @ Author.Inc | 📍All-In Summit 2026 |Writing & Publishing for Founders & CEOs | 2,500+ Business Leaders Consulted | Forbes & Fast Company Contributor" [ref=f65e1056] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/miles-rote?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAdkT64BodR6WQGrIbh1rYBTc_qHaWYeFYw
+                      - generic [ref=f65e1057]: Miles Rote
+                      - generic [ref=f65e1067]: Co-Founder @ Author.Inc | 📍All-In Summit 2026 |Writing & Publishing for Founders & CEOs | 2,500+ Business Leaders Consulted | Forbes & Fast Company Contributor
+                    - list [ref=f65e1073]:
+                      - listitem [ref=f65e1074]:
+                        - button "Invite Miles Rote to connect" [ref=f65e1076] [cursor=pointer]:
+                          - generic [ref=f65e1079]: Connect
+            - button "Show more" [ref=f65e1082] [cursor=pointer]
+        - generic "LinkedIn Footer Content" [ref=f65e240]:
+          - generic [ref=f65e241]:
+            - list [ref=f65e1087]:
+              - listitem [ref=f65e1088]:
+                - link "About" [ref=f65e1089] [cursor=pointer]:
+                  - /url: https://about.linkedin.com/
+              - listitem [ref=f65e1091]:
+                - link "Accessibility" [ref=f65e1092] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/accessibility
+              - listitem [ref=f65e1094]:
+                - link "Help Center" [ref=f65e1095] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin?trk=footer_d_flagship3_profile_view_base_recent_activity_content_view
+              - listitem [ref=f65e1097]:
+                - button "Privacy & Terms" [ref=f65e1099] [cursor=pointer]
+              - listitem [ref=f65e1104]:
+                - link "Ad Choices" [ref=f65e1105] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin/answer/62931
+              - listitem [ref=f65e1107]:
+                - link "Advertising" [ref=f65e1108] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/ad/start?trk=n_nav_ads_rr
+              - listitem [ref=f65e1110]:
+                - button "Business Services" [ref=f65e1112] [cursor=pointer]
+              - listitem [ref=f65e1117]:
+                - button "Get the LinkedIn app" [ref=f65e1120] [cursor=pointer]
+              - listitem [ref=f65e1121]:
+                - button "More options" [ref=f65e1122] [cursor=pointer]: More
+            - generic [ref=f65e242]:
+              - img "LinkedIn" [ref=f65e243]
+              - text: LinkedIn Corporation © 2026
+    - generic:
+      - generic:
+        - complementary:
+          - generic [ref=f65e246]:
+            - generic [ref=f65e247]:
+              - generic [ref=f65e249] [cursor=pointer]:
+                - img "Kelly Irving" [ref=f65e251]
+                - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f65e252]:
+                  - generic [ref=f65e253]:
+                    - generic [aria-hidden] [ref=f65e254]: Messaging
+                    - generic [ref=f65e255]: You are on the messaging overlay. Press enter to open the list of conversations.
+                - mark [aria-hidden] [ref=f65e256]:
+                  - generic [ref=f65e257]: "2"
+              - generic [ref=f65e258]:
+                - button [ref=f65e260] [cursor=pointer]:
+                  - img "Open messenger dropdown menu" [ref=f65e261]
+                - button "Compose message" [ref=f65e264] [cursor=pointer]
+                - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f65e268] [cursor=pointer]
+            - generic [ref=f65e1123]:
+              - heading "Page inboxes" [level=3] [ref=f65e1125]
+              - generic [ref=f65e1126] [cursor=pointer]:
+                - generic [ref=f65e1127]: Click to see affiliated inboxes
+                - button "Page inboxes" [ref=f65e1128]
+        - complementary "AI-powered assistant to get help with your career, jobs etc"
+  - region [ref=f65e272]

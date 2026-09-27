@@ -1,0 +1,598 @@
+- generic [ref=f109e2]:
+  - heading "0 notifications" [level=2] [ref=f109e453]
+  - generic [ref=f109e454]:
+    - generic:
+      - generic "Skip navigation menu":
+        - generic [ref=f109e455]:
+          - button "Skip to search" [ref=f109e456] [cursor=pointer]
+          - button "Skip to main content" [ref=f109e459] [cursor=pointer]
+          - button "Close jump menu" [ref=f109e463] [cursor=pointer]
+    - generic [ref=f109e467]:
+      - banner [ref=f109e469]:
+        - generic [ref=f109e472]:
+          - button [ref=f109e473] [cursor=pointer]:
+            - img "LinkedIn" [ref=f109e474]
+          - generic [ref=f109e476]:
+            - status [ref=f109e477]
+            - search [ref=f109e478]:
+              - textbox "I'm looking for…" [ref=f109e483]: Chris Smith
+          - generic [ref=f109e485]:
+            - figure [aria-hidden] [ref=f109e490]
+            - navigation [ref=f109e494]:
+              - list [ref=f109e495]:
+                - listitem [ref=f109e496]:
+                  - button "Home, 1 new notification" [ref=f109e497] [cursor=pointer]:
+                    - generic: Home
+                - listitem [ref=f109e503]:
+                  - link "My Network, 29 new notifications" [ref=f109e504] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork
+                    - generic [ref=f109e505]: "29"
+                    - generic: My Network
+                - listitem [ref=f109e510]:
+                  - link "Jobs, 0 new notifications" [ref=f109e511] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/
+                    - generic: Jobs
+                - listitem [ref=f109e516]:
+                  - link "Messaging, 2 new notifications" [ref=f109e517] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/messaging/
+                    - generic [ref=f109e518]: "2"
+                    - generic: Messaging
+                - listitem [ref=f109e523]:
+                  - link "Notifications, 25 new notifications" [ref=f109e524] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/notifications/
+                    - generic [ref=f109e525]: "25"
+                    - generic: Notifications
+                - listitem [ref=f109e530]:
+                  - button [ref=f109e531] [cursor=pointer]:
+                    - figure [aria-hidden] [ref=f109e533]
+            - navigation [ref=f109e539]:
+              - list [ref=f109e540]:
+                - listitem [ref=f109e541]:
+                  - button "For Business" [ref=f109e542] [cursor=pointer]
+                - listitem [ref=f109e549]:
+                  - link "Advertise, 3 new notifications" [ref=f109e550] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/campaignmanager/accounts/
+                    - generic [ref=f109e551]: "3"
+                    - generic: Advertise
+      - generic [ref=f109e557]:
+        - toolbar [ref=f109e558]:
+          - generic [ref=f109e564]:
+            - radiogroup [ref=f109e565]:
+              - radio "Filter by People" [checked] [ref=f109e566] [cursor=pointer]:
+                - generic "Filter by People" [ref=f109e567]:
+                  - checkbox "People" [checked]
+                  - generic [ref=f109e568]: People
+            - button [ref=f109e572] [cursor=pointer]:
+              - generic "Premium Actively hiring" [ref=f109e573]:
+                - checkbox "Actively hiring"
+                - generic [ref=f109e574]: Actively hiring
+            - radio "Filter by 1st connections" [ref=f109e581] [cursor=pointer]:
+              - generic "Filter by 1st connections" [ref=f109e582]:
+                - checkbox "1st"
+                - generic [ref=f109e583]: 1st
+            - radio "Filter by 2nd connections" [ref=f109e585] [cursor=pointer]:
+              - generic "Filter by 2nd connections" [ref=f109e586]:
+                - checkbox "2nd"
+                - generic [ref=f109e587]: 2nd
+            - radio "Filter by 3rd+ connections" [ref=f109e589] [cursor=pointer]:
+              - generic "Filter by 3rd+ connections" [ref=f109e590]:
+                - checkbox "3rd+"
+                - generic [ref=f109e591]: 3rd+
+            - radio "Filter by Verified" [ref=f109e593] [cursor=pointer]:
+              - generic "Filter by Verified" [ref=f109e594]:
+                - checkbox "Verified"
+                - generic [ref=f109e595]: Verified
+            - button [ref=f109e597] [cursor=pointer]:
+              - generic "Filter by Locations" [ref=f109e598]:
+                - checkbox "Locations"
+                - generic [ref=f109e599]: Locations
+            - button [ref=f109e603] [cursor=pointer]:
+              - generic "Filter by Current companies" [ref=f109e604]:
+                - checkbox "Current companies"
+                - generic [ref=f109e605]: Current companies
+            - button "All filters" [ref=f109e608] [cursor=pointer]
+        - main [ref=f109e611]:
+          - generic [ref=f109e616]:
+            - generic [ref=f109e620]:
+              - generic [ref=f109e622]:
+                - generic [ref=f109e630]:
+                  - paragraph [ref=f109e631]: Hiring? Automatically find qualified people with advanced filters
+                  - paragraph [ref=f109e632]: Get 25 candidates daily matched to your criteria
+                  - link "Get started" [ref=f109e633] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/job-posting/?trk=linkedin-com-flagship-people-search-banner_postjob
+                - button "Dismiss verification card" [ref=f109e637] [cursor=pointer]
+              - list [ref=f109e642]:
+                - listitem [ref=f109e644]:
+                  - link "Chris Smith • 1st Author | Founder ‘aculturalleadership.com’ | Speaker | the Books | the Leadership Presentations | Counsellor | Adjunct Lecturer Greater Brisbane Area Send a message to Chris Smith Steve Simpson, Hamish Chadwick® & 44 other mutual connections" [ref=f109e646] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/chris-g-smith/
+                    - generic [ref=f109e647]:
+                      - generic [ref=f109e648]:
+                        - figure [ref=f109e649]:
+                          - img "Chris Smith" [ref=f109e650]
+                        - generic [ref=f109e651]:
+                          - paragraph [ref=f109e652]:
+                            - link "Chris Smith" [ref=f109e653]:
+                              - /url: https://www.linkedin.com/in/chris-g-smith/
+                            - generic [ref=f109e654]: • 1st
+                          - paragraph [ref=f109e656]: Author | Founder ‘aculturalleadership.com’ | Speaker | the Books | the Leadership Presentations | Counsellor | Adjunct Lecturer
+                          - paragraph [ref=f109e658]: Greater Brisbane Area
+                        - link "Send a message to Chris Smith" [ref=f109e664]:
+                          - /url: /messaging/compose/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAAqBUkgBQ60FQn2v3Pt4W7HaVSDiwHJZALo&recipient=ACoAAAqBUkgBQ60FQn2v3Pt4W7HaVSDiwHJZALo&screenContext=SEARCH&interop=msgOverlay
+                          - generic [ref=f109e665]: Message
+                      - generic [ref=f109e669]:
+                        - figure [aria-hidden] [ref=f109e670]
+                        - figure [aria-hidden] [ref=f109e671]
+                        - paragraph [ref=f109e673]:
+                          - generic [ref=f109e674]:
+                            - link "Steve Simpson" [ref=f109e675]:
+                              - /url: https://www.linkedin.com/in/workplaceculture/
+                            - text: ","
+                            - link "Hamish Chadwick®" [ref=f109e676]:
+                              - /url: https://www.linkedin.com/in/hamishchadwick/
+                            - text: "&"
+                            - link "44 other mutual connections" [ref=f109e677]:
+                              - /url: https://www.linkedin.com/search/results/people/?origin=SHARED_CONNECTIONS_CANNED_SEARCH&network=%5B%22F%22%5D&connectionOf=%5B%22ACoAAAqBUkgBQ60FQn2v3Pt4W7HaVSDiwHJZALo%22%5D
+                - listitem [ref=f109e679]:
+                  - link "Chris Smith Premium • 1st Innovation at ReadyTech (ASX:RDY) Sydney, New South Wales, Australia Send a message to Chris Smith Bill O'Connor, Craig Rispin CSP & 364 other mutual connections" [ref=f109e681] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/iamthechrissmith/
+                    - generic [ref=f109e682]:
+                      - generic [ref=f109e683]:
+                        - figure [aria-hidden] [ref=f109e684]
+                        - generic [ref=f109e685]:
+                          - paragraph [ref=f109e686]:
+                            - link [ref=f109e687]:
+                              - /url: https://www.linkedin.com/in/iamthechrissmith/
+                              - text: Chris Smith
+                              - img "Premium" [ref=f109e688]
+                            - generic [ref=f109e691]: • 1st
+                          - paragraph [ref=f109e693]: Innovation at ReadyTech (ASX:RDY)
+                          - paragraph [ref=f109e695]: Sydney, New South Wales, Australia
+                        - link "Send a message to Chris Smith" [ref=f109e701]:
+                          - /url: /messaging/compose/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAAx9dnEBMcOgIvtgmGTV9EY9pPAJ8t_H1Ak&recipient=ACoAAAx9dnEBMcOgIvtgmGTV9EY9pPAJ8t_H1Ak&screenContext=SEARCH&interop=msgOverlay
+                          - generic [ref=f109e702]: Message
+                      - generic [ref=f109e706]:
+                        - figure [aria-hidden] [ref=f109e707]
+                        - figure [aria-hidden] [ref=f109e708]
+                        - paragraph [ref=f109e710]:
+                          - generic [ref=f109e711]:
+                            - link "Bill O'Connor" [ref=f109e712]:
+                              - /url: https://www.linkedin.com/in/oconnoisseursf/
+                            - text: ","
+                            - link "Craig Rispin CSP" [ref=f109e713]:
+                              - /url: https://www.linkedin.com/in/craigrispin/
+                            - text: "&"
+                            - link "364 other mutual connections" [ref=f109e714]:
+                              - /url: https://www.linkedin.com/search/results/people/?origin=SHARED_CONNECTIONS_CANNED_SEARCH&network=%5B%22F%22%5D&connectionOf=%5B%22ACoAAAx9dnEBMcOgIvtgmGTV9EY9pPAJ8t_H1Ak%22%5D
+                - listitem [ref=f109e716]:
+                  - link "Chris Smith Verified • 2nd Marketing in Videogames & Tech - $500M TikTok Shop Yearly GMV Greater Melbourne Area Invite Chris Smith to connect Craig Rispin CSP, Bill Lang & 181 other mutual connections · 43K followers" [ref=f109e718] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/smithymayo/
+                    - generic [ref=f109e719]:
+                      - generic [ref=f109e720]:
+                        - figure [aria-hidden] [ref=f109e721]
+                        - generic [ref=f109e722]:
+                          - paragraph [ref=f109e723]:
+                            - link [ref=f109e724]:
+                              - /url: https://www.linkedin.com/in/smithymayo/
+                              - text: Chris Smith
+                              - img "Verified" [ref=f109e725]
+                            - generic [ref=f109e728]: • 2nd
+                          - paragraph [ref=f109e730]: Marketing in Videogames & Tech - $500M TikTok Shop Yearly GMV
+                          - paragraph [ref=f109e732]: Greater Melbourne Area
+                        - link "Invite Chris Smith to connect" [ref=f109e738]:
+                          - /url: /preload/search-custom-invite/?vanityName=smithymayo
+                          - generic [ref=f109e739]: Connect
+                      - generic [ref=f109e744]:
+                        - figure [aria-hidden] [ref=f109e745]
+                        - figure [aria-hidden] [ref=f109e746]
+                        - generic [ref=f109e747]:
+                          - paragraph [ref=f109e749]:
+                            - generic [ref=f109e750]:
+                              - link "Craig Rispin CSP" [ref=f109e751]:
+                                - /url: https://www.linkedin.com/in/craigrispin/
+                              - text: ","
+                              - link "Bill Lang" [ref=f109e752]:
+                                - /url: https://www.linkedin.com/in/bilbilllangsmallbusinessaustralia/
+                              - text: "&"
+                              - link "181 other mutual connections" [ref=f109e753]:
+                                - /url: https://www.linkedin.com/search/results/people/?origin=SHARED_CONNECTIONS_CANNED_SEARCH&network=%5B%22F%22%5D&connectionOf=%5B%22ACoAAAzJl_8B8xneR1zgO4lpndOKu1ZYqctPOGs%22%5D
+                          - paragraph [ref=f109e755]:
+                            - generic [ref=f109e756]:
+                              - text: ·
+                              - link "43K followers" [ref=f109e757]:
+                                - /url: https://www.linkedin.com/search/results/people/?origin=SHARED_FOLLOWERS_CANNED_SEARCH&followerOf=%5B%22ACoAAAzJl_8B8xneR1zgO4lpndOKu1ZYqctPOGs%22%5D
+                - listitem [ref=f109e759]:
+                  - link "Chris Smith • 2nd General Manager - Property at Australian Unity Greater Melbourne Area Invite Chris Smith to connect Rael Bricker CSP, Marie-Claire Ross, ACC, GAICD & 39 other mutual connections" [ref=f109e761] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/chris-smith-8331543/
+                    - generic [ref=f109e762]:
+                      - generic [ref=f109e763]:
+                        - figure [ref=f109e764]:
+                          - img "Chris Smith" [ref=f109e765]
+                        - generic [ref=f109e766]:
+                          - paragraph [ref=f109e767]:
+                            - link "Chris Smith" [ref=f109e768]:
+                              - /url: https://www.linkedin.com/in/chris-smith-8331543/
+                            - generic [ref=f109e769]: • 2nd
+                          - paragraph [ref=f109e771]: General Manager - Property at Australian Unity
+                          - paragraph [ref=f109e773]: Greater Melbourne Area
+                        - link "Invite Chris Smith to connect" [ref=f109e779]:
+                          - /url: /preload/search-custom-invite/?vanityName=chris-smith-8331543
+                          - generic [ref=f109e780]: Connect
+                      - generic [ref=f109e785]:
+                        - figure [aria-hidden] [ref=f109e786]
+                        - figure [aria-hidden] [ref=f109e787]
+                        - paragraph [ref=f109e789]:
+                          - generic [ref=f109e790]:
+                            - link "Rael Bricker CSP" [ref=f109e791]:
+                              - /url: https://www.linkedin.com/in/rael-bricker/
+                            - text: ","
+                            - link "Marie-Claire Ross, ACC, GAICD" [ref=f109e792]:
+                              - /url: https://www.linkedin.com/in/marieclaireross/
+                            - text: "&"
+                            - link "39 other mutual connections" [ref=f109e793]:
+                              - /url: https://www.linkedin.com/search/results/people/?origin=SHARED_CONNECTIONS_CANNED_SEARCH&network=%5B%22F%22%5D&connectionOf=%5B%22ACoAAACOMKcB-vO-DCkd3J90Ke29a34Ua5FOeyA%22%5D
+                - listitem [ref=f109e795]:
+                  - link "Chris Smith • 2nd Director at Destination Accessible. Greater Melbourne Area Invite Chris Smith to connect Mark Jones CSP, Les Watson & 22 other mutual connections" [ref=f109e797] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/chris-smith-4a807a34/
+                    - generic [ref=f109e798]:
+                      - generic [ref=f109e799]:
+                        - figure [ref=f109e800]:
+                          - img "Chris Smith is open to work" [ref=f109e801]
+                        - generic [ref=f109e802]:
+                          - paragraph [ref=f109e803]:
+                            - link "Chris Smith" [ref=f109e804]:
+                              - /url: https://www.linkedin.com/in/chris-smith-4a807a34/
+                            - generic [ref=f109e805]: • 2nd
+                          - paragraph [ref=f109e807]: Director at Destination Accessible.
+                          - paragraph [ref=f109e809]: Greater Melbourne Area
+                        - link "Invite Chris Smith to connect" [ref=f109e815]:
+                          - /url: /preload/search-custom-invite/?vanityName=chris-smith-4a807a34
+                          - generic [ref=f109e816]: Connect
+                      - generic [ref=f109e821]:
+                        - figure [aria-hidden] [ref=f109e822]
+                        - figure [aria-hidden] [ref=f109e823]
+                        - paragraph [ref=f109e825]:
+                          - generic [ref=f109e826]:
+                            - link "Mark Jones CSP" [ref=f109e827]:
+                              - /url: https://www.linkedin.com/in/markhjonesimpact/
+                            - text: ","
+                            - link "Les Watson" [ref=f109e828]:
+                              - /url: https://www.linkedin.com/in/les-watson/
+                            - text: "&"
+                            - link "22 other mutual connections" [ref=f109e829]:
+                              - /url: https://www.linkedin.com/search/results/people/?origin=SHARED_CONNECTIONS_CANNED_SEARCH&network=%5B%22F%22%5D&connectionOf=%5B%22ACoAAAcg_UAB8d_mF5A5c7IBcj8j4gP-nCwdbXE%22%5D
+                - listitem [ref=f109e831]:
+                  - link "Chris Smith Executive Top Voice • 2nd Managing Partner @ Playfair | Angel London, England, United Kingdom Send a message to Chris Smith Andrew Doe, Alexis Grabar & 50 other mutual connections · 48K followers Visit my website" [ref=f109e833] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/cdgsmith/
+                    - generic [ref=f109e834]:
+                      - generic [ref=f109e835]:
+                        - figure [aria-hidden] [ref=f109e836]
+                        - generic [ref=f109e837]:
+                          - paragraph [ref=f109e838]:
+                            - link [ref=f109e839]:
+                              - /url: https://www.linkedin.com/in/cdgsmith/
+                              - text: Chris Smith
+                              - img "Executive Top Voice" [ref=f109e840]
+                            - generic [ref=f109e843]: • 2nd
+                          - paragraph [ref=f109e845]: Managing Partner @ Playfair | Angel
+                          - paragraph [ref=f109e847]: London, England, United Kingdom
+                        - link "Send a message to Chris Smith" [ref=f109e853]:
+                          - /url: /messaging/compose/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAABPxZuMBpGhjyNXmUpYMGa9auZvoz0HRrGk&recipient=ACoAABPxZuMBpGhjyNXmUpYMGa9auZvoz0HRrGk&screenContext=SEARCH&interop=msgOverlay
+                          - generic [ref=f109e854]: Message
+                      - generic [ref=f109e858]:
+                        - figure [aria-hidden] [ref=f109e859]
+                        - figure [aria-hidden] [ref=f109e860]
+                        - generic [ref=f109e861]:
+                          - paragraph [ref=f109e863]:
+                            - generic [ref=f109e864]:
+                              - link "Andrew Doe" [ref=f109e865]:
+                                - /url: https://www.linkedin.com/in/andrewdoe/
+                              - text: ","
+                              - link "Alexis Grabar" [ref=f109e866]:
+                                - /url: https://www.linkedin.com/in/alexis-grabar-66a97/
+                              - text: "&"
+                              - link "50 other mutual connections" [ref=f109e867]:
+                                - /url: https://www.linkedin.com/search/results/people/?origin=SHARED_CONNECTIONS_CANNED_SEARCH&network=%5B%22F%22%5D&connectionOf=%5B%22ACoAABPxZuMBpGhjyNXmUpYMGa9auZvoz0HRrGk%22%5D
+                          - paragraph [ref=f109e869]:
+                            - generic [ref=f109e870]:
+                              - text: ·
+                              - link "48K followers" [ref=f109e871]:
+                                - /url: https://www.linkedin.com/search/results/people/?origin=SHARED_FOLLOWERS_CANNED_SEARCH&followerOf=%5B%22ACoAABPxZuMBpGhjyNXmUpYMGa9auZvoz0HRrGk%22%5D
+                      - paragraph [ref=f109e873]:
+                        - link "Visit my website" [ref=f109e874]:
+                          - /url: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fplayfair%2Evc%2F&urlhash=IUJz&mt=NaGNuVzeRqF52bgiXNtOyp83qEbZefZWIexgO5A8lsFWN2N7TdfDsQZXQcv6if7wLxB3B5nRfLapEQZZyiFPa8c6yQ&isSdui=true
+                - listitem [ref=f109e876]:
+                  - link "Chris Smith CeMAP CeRER Verified • 1st Mortgage & Protection Adviser Great Dunmow, England, United Kingdom Send a message to Chris Smith CeMAP CeRER Adrian Peck, Ruth Starsmeare & 1 other mutual connection" [ref=f109e878] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/chris-smith-cemap-cerer-073b1140/
+                    - generic [ref=f109e879]:
+                      - generic [ref=f109e880]:
+                        - figure [aria-hidden] [ref=f109e881]
+                        - generic [ref=f109e882]:
+                          - paragraph [ref=f109e883]:
+                            - link [ref=f109e884]:
+                              - /url: https://www.linkedin.com/in/chris-smith-cemap-cerer-073b1140/
+                              - text: Chris Smith CeMAP CeRER
+                              - img "Verified" [ref=f109e885]
+                            - generic [ref=f109e888]: • 1st
+                          - paragraph [ref=f109e890]: Mortgage & Protection Adviser
+                          - paragraph [ref=f109e892]: Great Dunmow, England, United Kingdom
+                        - link "Send a message to Chris Smith CeMAP CeRER" [ref=f109e898]:
+                          - /url: /messaging/compose/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAAi1HBcBmO8fkfdFCJ4pnniGX6os39kn0sw&recipient=ACoAAAi1HBcBmO8fkfdFCJ4pnniGX6os39kn0sw&screenContext=SEARCH&interop=msgOverlay
+                          - generic [ref=f109e899]: Message
+                      - generic [ref=f109e903]:
+                        - figure [aria-hidden] [ref=f109e904]
+                        - figure [aria-hidden] [ref=f109e905]
+                        - paragraph [ref=f109e907]:
+                          - generic [ref=f109e908]:
+                            - link "Adrian Peck" [ref=f109e909]:
+                              - /url: https://www.linkedin.com/in/adrianjpeck/
+                            - text: ","
+                            - link "Ruth Starsmeare" [ref=f109e910]:
+                              - /url: https://www.linkedin.com/in/starsmeareruth/
+                            - text: "&"
+                            - link "1 other mutual connection" [ref=f109e911]:
+                              - /url: https://www.linkedin.com/search/results/people/?origin=SHARED_CONNECTIONS_CANNED_SEARCH&network=%5B%22F%22%5D&connectionOf=%5B%22ACoAAAi1HBcBmO8fkfdFCJ4pnniGX6os39kn0sw%22%5D
+                - listitem [ref=f109e913]:
+                  - link "Chris S. • 2nd Senior Local Government roles in WA and SA. Strong engineering and construction bias with focus on utilities, civil works and advanced road building techniques….optimisation and performance specialist. Greater Perth Area Invite Chris S. to connect Justin Davies, Rael Bricker CSP & 168 other mutual connections" [ref=f109e915] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/chris-s-1249aa59/
+                    - generic [ref=f109e916]:
+                      - generic [ref=f109e917]:
+                        - figure [ref=f109e918]:
+                          - img "Chris S." [ref=f109e919]
+                        - generic [ref=f109e925]:
+                          - paragraph [ref=f109e926]:
+                            - link "Chris S." [ref=f109e927]:
+                              - /url: https://www.linkedin.com/in/chris-s-1249aa59/
+                            - generic [ref=f109e928]: • 2nd
+                          - paragraph [ref=f109e930]: Senior Local Government roles in WA and SA. Strong engineering and construction bias with focus on utilities, civil works and advanced road building techniques….optimisation and performance specialist.
+                          - paragraph [ref=f109e932]: Greater Perth Area
+                        - link "Invite Chris S. to connect" [ref=f109e938]:
+                          - /url: /preload/search-custom-invite/?vanityName=chris-s-1249aa59
+                          - generic [ref=f109e939]: Connect
+                      - generic [ref=f109e944]:
+                        - figure [aria-hidden] [ref=f109e945]
+                        - figure [aria-hidden] [ref=f109e946]
+                        - paragraph [ref=f109e948]:
+                          - generic [ref=f109e949]:
+                            - link "Justin Davies" [ref=f109e950]:
+                              - /url: https://www.linkedin.com/in/justinkdavies/
+                            - text: ","
+                            - link "Rael Bricker CSP" [ref=f109e951]:
+                              - /url: https://www.linkedin.com/in/rael-bricker/
+                            - text: "&"
+                            - link "168 other mutual connections" [ref=f109e952]:
+                              - /url: https://www.linkedin.com/search/results/people/?origin=SHARED_CONNECTIONS_CANNED_SEARCH&network=%5B%22F%22%5D&connectionOf=%5B%22ACoAAAxtaiwBUpNqC3ubxyyVv96klS-flZMCnoU%22%5D
+                - listitem [ref=f109e954]:
+                  - link "Chris S. • 2nd Web Developer | SEO | Dip. IT (Front-end & Back-end Development) Australia Invite Chris S. to connect Bill Lang, Kaisu Christie (she/her) & 44 other mutual connections" [ref=f109e956] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/chriscodes/
+                    - generic [ref=f109e957]:
+                      - generic [ref=f109e958]:
+                        - figure [ref=f109e959]:
+                          - img "Chris S." [ref=f109e960]
+                        - generic [ref=f109e966]:
+                          - paragraph [ref=f109e967]:
+                            - link "Chris S." [ref=f109e968]:
+                              - /url: https://www.linkedin.com/in/chriscodes/
+                            - generic [ref=f109e969]: • 2nd
+                          - paragraph [ref=f109e971]: Web Developer | SEO | Dip. IT (Front-end & Back-end Development)
+                          - paragraph [ref=f109e973]: Australia
+                        - link "Invite Chris S. to connect" [ref=f109e979]:
+                          - /url: /preload/search-custom-invite/?vanityName=chriscodes
+                          - generic [ref=f109e980]: Connect
+                      - generic [ref=f109e985]:
+                        - figure [aria-hidden] [ref=f109e986]
+                        - figure [aria-hidden] [ref=f109e987]
+                        - paragraph [ref=f109e989]:
+                          - generic [ref=f109e990]:
+                            - link "Bill Lang" [ref=f109e991]:
+                              - /url: https://www.linkedin.com/in/bilbilllangsmallbusinessaustralia/
+                            - text: ","
+                            - link "Kaisu Christie (she/her)" [ref=f109e992]:
+                              - /url: https://www.linkedin.com/in/kaisuchristie/
+                            - text: "&"
+                            - link "44 other mutual connections" [ref=f109e993]:
+                              - /url: https://www.linkedin.com/search/results/people/?origin=SHARED_CONNECTIONS_CANNED_SEARCH&network=%5B%22F%22%5D&connectionOf=%5B%22ACoAAAfiAgQBWK187Ox_63gCKyRBo2gxl4Zhxuo%22%5D
+                - listitem [ref=f109e995]:
+                  - link "Chris Smith Verified • 2nd Partner at Brandon Capital Greater Melbourne Area Invite Chris Smith to connect Jamie Conyngham, Anabela Correia & 29 other mutual connections" [ref=f109e997] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/chris-smith-4ab7105/
+                    - generic [ref=f109e998]:
+                      - generic [ref=f109e999]:
+                        - figure [aria-hidden] [ref=f109e1000]
+                        - generic [ref=f109e1001]:
+                          - paragraph [ref=f109e1002]:
+                            - link [ref=f109e1003]:
+                              - /url: https://www.linkedin.com/in/chris-smith-4ab7105/
+                              - text: Chris Smith
+                              - img "Verified" [ref=f109e1004]
+                            - generic [ref=f109e1007]: • 2nd
+                          - paragraph [ref=f109e1009]: Partner at Brandon Capital
+                          - paragraph [ref=f109e1011]: Greater Melbourne Area
+                        - link "Invite Chris Smith to connect" [ref=f109e1017]:
+                          - /url: /preload/search-custom-invite/?vanityName=chris-smith-4ab7105
+                          - generic [ref=f109e1018]: Connect
+                      - generic [ref=f109e1023]:
+                        - figure [aria-hidden] [ref=f109e1024]
+                        - figure [aria-hidden] [ref=f109e1025]
+                        - paragraph [ref=f109e1027]:
+                          - generic [ref=f109e1028]:
+                            - link "Jamie Conyngham" [ref=f109e1029]:
+                              - /url: https://www.linkedin.com/in/jamieconyngham/
+                            - text: ","
+                            - link "Anabela Correia" [ref=f109e1030]:
+                              - /url: https://www.linkedin.com/in/correiaanabela/
+                            - text: "&"
+                            - link "29 other mutual connections" [ref=f109e1031]:
+                              - /url: https://www.linkedin.com/search/results/people/?origin=SHARED_CONNECTIONS_CANNED_SEARCH&network=%5B%22F%22%5D&connectionOf=%5B%22ACoAAAD-t8MBZsqPbu9WBwxOg8C0TThPriN-2js%22%5D
+              - generic [ref=f109e1034]:
+                - generic [ref=f109e1035]:
+                  - paragraph [ref=f109e1036]: Are these results helpful?
+                  - paragraph [ref=f109e1037]: Your feedback helps us improve search results
+                - generic [ref=f109e1038]:
+                  - button "Are these results helpful? Yes, these search results are helpful" [ref=f109e1039] [cursor=pointer]
+                  - button "Are these results helpful? No, these search results are not helpful" [ref=f109e1043] [cursor=pointer]
+              - generic [ref=f109e1048]:
+                - list [ref=f109e1049]:
+                  - listitem [ref=f109e1050]:
+                    - button "Page 1" [ref=f109e1051] [cursor=pointer]:
+                      - generic [ref=f109e1052]: "1"
+                  - listitem [ref=f109e1053]:
+                    - button "Page 2" [ref=f109e1054] [cursor=pointer]:
+                      - generic [ref=f109e1055]: "2"
+                  - listitem [ref=f109e1056]:
+                    - button "Page 3" [ref=f109e1057] [cursor=pointer]:
+                      - generic [ref=f109e1058]: "3"
+                  - listitem [ref=f109e1059]:
+                    - button "Page 4" [ref=f109e1060] [cursor=pointer]:
+                      - generic [ref=f109e1061]: "4"
+                  - listitem [ref=f109e1062]:
+                    - button "Page 5" [ref=f109e1063] [cursor=pointer]:
+                      - generic [ref=f109e1064]: "5"
+                  - listitem [ref=f109e1065]:
+                    - button "Page 6" [ref=f109e1066] [cursor=pointer]:
+                      - generic [ref=f109e1067]: "6"
+                  - listitem [ref=f109e1068]:
+                    - button "Page 7" [ref=f109e1069] [cursor=pointer]:
+                      - generic [ref=f109e1070]: "7"
+                  - listitem [ref=f109e1071]:
+                    - button "Page 8" [ref=f109e1072] [cursor=pointer]:
+                      - generic [ref=f109e1073]: "8"
+                  - listitem [ref=f109e1074]:
+                    - button "Page 9" [ref=f109e1075] [cursor=pointer]:
+                      - generic [ref=f109e1076]: "9"
+                  - listitem [ref=f109e1077]:
+                    - button "Page 10" [ref=f109e1078] [cursor=pointer]:
+                      - generic [ref=f109e1079]: "10"
+                - button "Next" [ref=f109e1080] [cursor=pointer]
+            - generic [ref=f109e1091]:
+              - iframe [ref=f109e1092]:
+                - main "Work With Us Container" [ref=f110e3]:
+                  - generic [ref=f110e7]:
+                    - img "Kelly" [ref=f110e8]
+                    - link [ref=f110e9] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=http%3A%2F%2Fwww.linkedin.com%2Fcompany%2F14316%2Flife&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg3PbwukT2q8FyhnmJ_iuOibhTpanT9ZoMjFOtDonQ2xMTOdBVGzw6Tuc04ntpZLyvImCqXUU_GQouTCDg5yjEi0NfR3fag5dCijNtjqotG7t4Ch_1gn8O0lqB8jTBTRje8mx3zA8iGX9yGgL2po4rvE5DPTQWltwmtrK_rbwPXabwgzwoQl4MSCirNYhQhS6VhNHMRXqim3Yq3L2KtmM07K7xjF8AZqdjt6IwnJ3dwl82hITSCnXP0_B_lgewLr4qQjPnHQxdFbpzFjWXqbksmyury48Xcx2cRDwn2Akqh0erdBtuP9jYEx2tZSoqMBNwU8jRw-pwI2bREH3k4H5SIdtMWLaTyPZpVyoSe30vxzNsB0Wenwl2t2YKkOw0Cw8nkR3ESZLwN1z1VKP-CCN92wjL7h6p5OjIREjHaj_8UUWK-hdNZBm5d4FDb78ey1qMiRLnWpMmdLIYkNjnIkGYMsXNq8RJgwbJADP3b21EX3cpBsOU23BStkkQ7s1ceHntNHm0R2WjtKDAEAOoBHshjuqLUcz59LKg4VgqGCuR0nP7SOk1Q6XBvxnUTKbbaGY37pT8A6nMAyOU6G5DZQI1kSGF94VSWp6xvv1UKWQ1MsUuMCsK6aki6fOSkCYKM1mvmxwMKjBfTMUsxawi5p1kTJ2VFvBeapwVQth8vD-MrmD0kJPavNOEMHLrjdd6XQSAFxdV6ZAXd-KGw2Jh03kmhqf2C_dFZKnAPYnCyAa43n6SJRXaTGeGpE2rVpm_NqSGBIAYHfDxuRjh5n2uc5G-j4w-ZL2f2csgXH2wiBLqC2oVZv9DtngaSAAXo00OYqjobcZh4KI5lW7AQiXc26U_70zU_zr1FcL6HjLucRZZwyzQkeFKpaplzE4bStwddnQ9KBvsZFNzIVi-QahYE8TWt5w6FcUsS_9w9dKmssxNiEGM6PZQPmPCKZaXBGWtny_nKptYKSqCKbY6AXXfg9R9VLfWNWJKwfgH18rzGzG-jajXxKJFhioymTlT_1nHrNcsbLZ-fv96FC9L5eE-DiDmRcF6Q1NU9QYytSKkRguB7Eqi4OVeHRGzDBA-IJYb3OsRWy0ZtrWN8Go8ZMa5ZLtQrgVBz5AkpacxK2SLZ3j0RXYI41RE4lldxAjLMvndUTyqx68xPYiPCUlON6GooGWa8cz2nTlFl2iKAGdaQx3FsE5L3YU%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%22%2C%22trackingId%22%3A%22d79953f1-9afc-491a-9656-37c5bf3f9bc5%22%7D%2C%22time%22%3A1790413566080%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_search_srp_people%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                      - img "The Arnott's Group" [ref=f110e10]
+                  - generic [ref=f110e11]:
+                    - generic [ref=f110e12]:
+                      - paragraph [ref=f110e13]: Kelly, explore relevant opportunities with The Arnott's Group
+                      - paragraph [ref=f110e14]: Get the latest jobs and industry news
+                    - link "Follow" [ref=f110e15] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=http%3A%2F%2Fwww.linkedin.com%2Fcompany%2F14316%2Flife%3FisFollowingPage%3Dtrue&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg3Pbwuo-_FxqJ_JIje1tnb_s6vUmOCUTqx1GZ_RYwG1CYdLyaNIu0f6kWVpgfSSqNy45YwkGWb3QdF-gf9vAvXRqQC1ZWGPZZ4pDO_LIjuEev8IHTDpEvaGBJG7ip5jmOu6Jp-hF7MBNpQxV1zXXvZn1QxyNJJxL8AaKRreYUsjZVO8wGq0AXSsYkZ5C7a8f6NCVG95t9HsLAINEODRTtDxNEQ_YWR1vsbzHaW0hdQDo70Ad6sj8PvhZqqXiI_NS-mQ6qCpQFaMIYkgmCwsOEG1XYOBgkYeHu3JK1sOZSNhtrJy0DVWCLM66YuLX9ATIq6tKCk6MgOJHrxLjJSLom6yY9KF4MQZ429ars50h9lH15mUvWe9Gc8pXRSB52q_XChtAJc2oJkm8YwhYTRk6-RNCKLPIgqjxVKFix5wIuuaWtw_PZ_f4t82U5QUteQmUwFpz8Grcbey1ieBBwq77-VWgnH7GloT74nIl0UR0eyoYnkC4aN-ahrfY--woeUVqbLEpXylyZs39My43INDLMNMe0iQ38fpfsp8AGn9zcpkk5Nv-HI0bFOHN8rIqSsISe_flhiPKQd7UJGjWHBU0Sfh_kjhOz_yb10erohnEutYHtPTVe2AIhh4N8KiIOZQokNWqrybQgiWHAN3R_EXSchQhoHiNY3y5XUnuBdDAf34uPwTX_DNIjFglSN3o5QWImsQkvz5TcKchtKChEXE1P7qcU3kxywlX3BV6cizlU51amP9m5kz-k9SK6vieQgppF5T5y-z-wcpyMUlaGYC4re-7jX5dcqy1rvDs42CQtzZGref8hy3aPMqsjBGfAy5cht0KR4uk7zXuDIEb2_el7baKFtmtlaRDIRrJcQ2yPU11iZGMeZeeOwzE3UdBCaJRY-aeHTF0nSwiAcOS0om3kjCBm58FopgY3oVM15fhL0B3sdSfSwPVcaPrFYMKg92nbyZpiivkjpxozbUMWycmMVc5fgM-f7KEK0TxntIu_9GwluQUaIjA5IiE2CPrvJvoOSgFA1SHYSAa8y7U-QGVKMOA3XfRoHPtrv0kVOsf5Vy0-X2zZLEzK_bt65tPK6joWDppfQZ3rgw3Jy4hnsV0u173Uh1ji2FUQopR0Bgl2vfpKQJ9FEnZv7qSMkI_GGyNS9aiVHPe--rg7QMaPdtto2BIXzWC_25h5XUiSDSSL3Gn1x30wy1LbDUDFhcyYk_V3-izPk0yR4lKPOubztne-VpA%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%22%2C%22trackingId%22%3A%223dfd58dd-06fc-4d06-b5c2-d4a99fb086d2%22%7D%2C%22time%22%3A1790413566080%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_search_srp_people%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                  - generic [ref=f110e16]:
+                    - paragraph [ref=f110e17]: Promoted
+                    - button "Ad Options" [ref=f110e18] [cursor=pointer]
+              - generic [ref=f109e1093]:
+                - generic [ref=f109e1094]:
+                  - link [ref=f109e1095] [cursor=pointer]:
+                    - /url: https://about.linkedin.com/
+                    - paragraph [ref=f109e1096]: About
+                  - link [ref=f109e1097] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/accessibility/
+                    - paragraph [ref=f109e1098]: Accessibility
+                  - link [ref=f109e1099] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/help/linkedin/
+                    - paragraph [ref=f109e1100]: Help Center
+                  - button [ref=f109e1101] [cursor=pointer]:
+                    - paragraph [ref=f109e1103]: Privacy & Terms
+                  - link [ref=f109e1106] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/help/linkedin/answer/62931/
+                    - paragraph [ref=f109e1107]: Ad Choices
+                  - link [ref=f109e1108] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/ad/start/?trk=n_nav_ads_rr
+                    - paragraph [ref=f109e1109]: Advertising
+                  - button [ref=f109e1110] [cursor=pointer]:
+                    - paragraph [ref=f109e1112]: Business Services
+                  - link [ref=f109e1115] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mobile/
+                    - paragraph [ref=f109e1116]: Get the LinkedIn app
+                  - link [ref=f109e1117] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/search/results/people/?keywords=Chris%20Smith
+                    - paragraph [ref=f109e1118]: More
+                - paragraph [ref=f109e1122]: LinkedIn Corporation © 2026
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - complementary:
+            - generic [ref=f109e1124]:
+              - generic [ref=f109e1125]:
+                - generic [ref=f109e1127] [cursor=pointer]:
+                  - img "Kelly Irving" [ref=f109e1129]
+                  - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f109e1130]:
+                    - generic [ref=f109e1131]:
+                      - generic [aria-hidden] [ref=f109e1132]: Messaging
+                      - generic [ref=f109e1133]: You are on the messaging overlay. Press enter to open the list of conversations.
+                  - mark [aria-hidden] [ref=f109e1134]:
+                    - generic [ref=f109e1135]: "2"
+                - generic [ref=f109e1136]:
+                  - button [ref=f109e1138] [cursor=pointer]:
+                    - img "Open messenger dropdown menu" [ref=f109e1139]
+                  - button "Compose message" [ref=f109e1142] [cursor=pointer]
+                  - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f109e1146] [cursor=pointer]
+              - generic [ref=f109e1150]:
+                - heading "Page inboxes" [level=3] [ref=f109e1152]
+                - generic [ref=f109e1153] [cursor=pointer]:
+                  - generic [ref=f109e1154]: Click to see affiliated inboxes
+                  - button "Page inboxes" [ref=f109e1155]
+          - complementary "AI-powered assistant to get help with your career, jobs etc"
+  - iframe [ref=f109e1123]:
+    - generic [ref=f111e1]:
+      - generic:
+        - region "Toast message":
+          - heading "0 notifications total" [level=2] [ref=f111e3]
+          - alert
+      - region [ref=f111e4]
+      - generic [ref=f111e5]:
+        - generic [ref=f111e7]:
+          - button "Skip to search" [ref=f111e8] [cursor=pointer]
+          - button "Skip to main content" [ref=f111e10] [cursor=pointer]
+          - button "Keyboard shortcuts" [ref=f111e12] [cursor=pointer]
+          - button "Close jump menu" [ref=f111e14] [cursor=pointer]
+        - banner "Global Navigation" [ref=f111e18]:
+          - generic [ref=f111e19]:
+            - link [ref=f111e20] [cursor=pointer]:
+              - /url: https://www.linkedin.com/feed/
+              - img "LinkedIn" [ref=f111e98]
+            - combobox "I’m looking for..." [ref=f111e29]
+            - navigation "Primary Navigation" [ref=f111e30]:
+              - list [ref=f111e31]:
+                - listitem [ref=f111e101]:
+                  - link "new feed updates notifications Home" [ref=f111e102] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/feed/
+                    - generic [ref=f111e103]: new feed updates notifications
+                    - generic "Home" [ref=f111e112]
+                - listitem [ref=f111e113]:
+                  - link "29 new network updates notifications My Network" [ref=f111e114] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork/?
+                    - generic [ref=f111e116]:
+                      - generic [aria-hidden] [ref=f111e117]: "29"
+                      - generic [ref=f111e118]: 29 new network updates notifications
+                    - generic "My Network" [ref=f111e124]
+                - listitem [ref=f111e125]:
+                  - link "Jobs" [ref=f111e126] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/?
+                - listitem [ref=f111e133]:
+                  - link "2 new messages notifications Messaging" [ref=f111e134] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/messaging/?
+                    - generic [ref=f111e136]:
+                      - generic [aria-hidden] [ref=f111e137]: "2"
+                      - generic [ref=f111e138]: 2 new messages notifications
+                    - generic "Messaging" [ref=f111e144]
+                - listitem [ref=f111e145]:
+                  - link "25 new notifications Notifications" [ref=f111e146] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/notifications/?
+                    - generic [ref=f111e148]:
+                      - generic [aria-hidden] [ref=f111e149]: "25"
+                      - generic [ref=f111e150]: 25 new notifications
+                    - generic "Notifications" [ref=f111e156]
+                - listitem [ref=f111e157]:
+                  - button [ref=f111e159] [cursor=pointer]:
+                    - img "Kelly Irving" [ref=f111e160]
+                    - generic [ref=f111e161]: Me
+                - listitem [ref=f111e164]:
+                  - button "For Business" [ref=f111e166] [cursor=pointer]
+                - listitem [ref=f111e175]:
+                  - link "3 new Campaign Manager notifications Advertise" [ref=f111e176] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/campaignmanager/accounts?shouldShowNotificationPanelOnRender=true
+                    - generic [ref=f111e178]:
+                      - generic [aria-hidden] [ref=f111e179]: "3"
+                      - generic [ref=f111e180]: 3 new Campaign Manager notifications
+                    - generic "Advertise" [ref=f111e187]

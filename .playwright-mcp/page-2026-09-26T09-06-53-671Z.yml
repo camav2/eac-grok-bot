@@ -1,0 +1,591 @@
+- generic:
+  - generic:
+    - generic:
+      - heading "0 notifications" [level=2]
+    - generic:
+      - generic:
+        - generic "Skip navigation menu":
+          - generic:
+            - button "Skip to search"
+            - button "Skip to main content"
+            - button "Skip to sidebar"
+            - button "Skip to primary content"
+            - button "Skip to aside"
+            - generic:
+              - button "Close jump menu"
+      - generic:
+        - generic:
+          - banner:
+            - generic:
+              - generic:
+                - generic:
+                  - button "LinkedIn":
+                    - img "LinkedIn"
+                  - generic:
+                    - status
+                    - search:
+                      - generic:
+                        - textbox "I'm looking for…"
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - figure [aria-hidden]
+                      - generic:
+                        - generic:
+                          - generic:
+                            - navigation:
+                              - list:
+                                - listitem:
+                                  - button "Home, 1 new notification":
+                                    - generic: Home
+                                - listitem:
+                                  - link "My Network, 29 new notifications":
+                                    - /url: https://www.linkedin.com/mynetwork
+                                    - generic: "29"
+                                    - generic: My Network
+                                - listitem:
+                                  - link "Jobs, 0 new notifications":
+                                    - /url: https://www.linkedin.com/jobs/
+                                    - generic: Jobs
+                                - listitem:
+                                  - link "Messaging, 2 new notifications":
+                                    - /url: https://www.linkedin.com/messaging/
+                                    - generic: "2"
+                                    - generic: Messaging
+                                - listitem:
+                                  - link "Notifications, 25 new notifications":
+                                    - /url: https://www.linkedin.com/notifications/
+                                    - generic: "25"
+                                    - generic: Notifications
+                                - listitem:
+                                  - button "Me":
+                                    - generic:
+                                      - figure [aria-hidden]
+                      - generic:
+                        - generic:
+                          - navigation:
+                            - list:
+                              - listitem:
+                                - button "For Business"
+                              - listitem:
+                                - link "Advertise, 3 new notifications":
+                                  - /url: https://www.linkedin.com/campaignmanager/accounts/
+                                  - generic: "3"
+                                  - generic: Advertise
+        - generic:
+          - generic:
+            - main:
+              - generic:
+                - generic:
+                  - complementary "Sidebar":
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - link "Premium":
+                                    - /url: https://www.linkedin.com/in/kelly-irving/
+                                    - generic:
+                                      - generic:
+                                        - figure [aria-hidden]
+                                        - generic:
+                                          - paragraph: Premium
+                                      - generic:
+                                        - figure:
+                                          - img "Kelly Irving"
+                                  - generic:
+                                    - link "Kelly Irving, Book coach and editor for changemakers and trailblazers / Publishing gymnast, Anglesea, Victoria, Premium profile":
+                                      - /url: https://www.linkedin.com/in/kelly-irving/
+                                      - generic "Kelly Irving, Book coach and editor for changemakers and trailblazers / Publishing gymnast, Anglesea, Victoria, Premium profile":
+                                        - generic:
+                                          - generic:
+                                            - paragraph: Kelly Irving
+                                          - img "Premium profile"
+                                        - generic:
+                                          - paragraph: Book coach and editor for changemakers and trailblazers / Publishing gymnast
+                                        - paragraph: Anglesea, Victoria
+                                    - link "Expert Author Community":
+                                      - /url: https://www.linkedin.com/in/kelly-irving/
+                                      - generic:
+                                        - figure [aria-hidden]
+                                        - paragraph: Expert Author Community
+                          - generic:
+                            - generic:
+                              - menu:
+                                - generic:
+                                  - link "Profile viewers 296":
+                                    - /url: https://www.linkedin.com/me/profile-views/
+                                    - generic "Profile viewers 296":
+                                      - generic:
+                                        - paragraph: Profile viewers
+                                      - paragraph: "296"
+                                - generic:
+                                  - link "Post impressions 1,109":
+                                    - /url: https://www.linkedin.com/analytics/creator/content/
+                                    - generic "Post impressions 1,109":
+                                      - generic:
+                                        - paragraph: Post impressions
+                                      - paragraph: 1,109
+                              - menu:
+                                - generic:
+                                  - link "Your Premium features":
+                                    - /url: https://www.linkedin.com/premium/my-premium/
+                                    - generic:
+                                      - paragraph: Your Premium features
+                  - region "Primary content":
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - listitem:
+                                        - generic:
+                                          - generic:
+                                            - heading "Feed post" [level=2]
+                                            - generic:
+                                              - link:
+                                                - /url: https://www.linkedin.com/in/chris-g-smith/
+                                                - figure:
+                                                  - img "View Chris Smith’s profile"
+                                              - generic:
+                                                - generic:
+                                                  - generic:
+                                                    - generic:
+                                                      - link "Chris Smith 1st":
+                                                        - /url: https://www.linkedin.com/in/chris-g-smith/
+                                                        - generic:
+                                                          - generic "Chris Smith 1st":
+                                                            - generic:
+                                                              - generic:
+                                                                - paragraph: Chris Smith
+                                                            - generic:
+                                                              - paragraph: • 1st
+                                                  - generic:
+                                                    - paragraph: Author | Founder ‘aculturalleadership.com’ | Speaker | the Books | the Leadership Presentations | Counsellor | Adjunct Lecturer
+                                                  - generic:
+                                                    - paragraph: 1mo
+                                                  - link "Chris Smith 1st":
+                                                    - /url: https://www.linkedin.com/in/chris-g-smith/
+                                              - button "Open control menu for post by Chris Smith"
+                                            - paragraph:
+                                              - generic: And a real pleasure to work with you and the students again Som, as always.
+                                            - generic:
+                                              - generic:
+                                                - link:
+                                                  - /url: https://www.linkedin.com/in/maneerat-t-243142110/
+                                                  - figure:
+                                                    - img "View Dr Maneerat T.’s profile"
+                                                - generic:
+                                                  - generic:
+                                                    - generic:
+                                                      - generic:
+                                                        - link "Dr Maneerat T. Verified Profile 2nd":
+                                                          - /url: https://www.linkedin.com/in/maneerat-t-243142110/
+                                                          - generic:
+                                                            - generic "Dr Maneerat T. Verified Profile 2nd":
+                                                              - generic:
+                                                                - generic:
+                                                                  - paragraph: Dr Maneerat T.
+                                                              - generic:
+                                                                - paragraph:
+                                                                  - generic: • 2nd
+                                                    - generic:
+                                                      - paragraph: Lecturer (Aviation) at University of Southern Queensland
+                                                    - generic:
+                                                      - paragraph: 1mo
+                                                    - link "Dr Maneerat T. Verified Profile 2nd":
+                                                      - /url: https://www.linkedin.com/in/maneerat-t-243142110/
+                                                - generic:
+                                                  - generic:
+                                                    - generic:
+                                                      - link "Invite Dr Maneerat T. to connect":
+                                                        - /url: https://www.linkedin.com/feed/update/urn:li:activity:7493490957489745920/
+                                                        - generic: Connect
+                                              - link:
+                                                - /url: https://www.linkedin.com/feed/update/urn:li:ugcPost:7493461773639991296/
+                                                - paragraph:
+                                                  - generic:
+                                                    - text: ✈️ Bringing Aviation Safety Management to Life Through Industry ExpertiseOne of the most rewarding aspects of teaching within
+                                                    - generic:
+                                                      - 'link "View company: UniSQ Aviation | School of Business, Law, Humanities and Pathways (BLHP)"':
+                                                        - /url: https://www.linkedin.com/company/unisq-aviation/
+                                                        - strong: UniSQ Aviation | School of Business, Law, Humanities and Pathways (BLHP)
+                                                    - text: is creating opportunities for students to learn not only from academic content, but also from professionals who apply those principles every day in operational aviation environments.As Course Coordinator and Lecturer for AVN3102 Advanced Aviation Safety Management Systems, I was pleased to provide UniSQ Aviation students with the opportunity to engage directly with highly experienced aviation professionals who shared real-world perspectives on safety leadership, operational decision-making, regulatory compliance and contemporary aviation practices.Students had the opportunity to learn from:✈️
+                                                    - generic:
+                                                      - link "View Chris Smith’s profile":
+                                                        - /url: https://www.linkedin.com/in/chris-g-smith/
+                                                        - strong: Chris Smith
+                                                    - text: ", former Jetstar Captain, who shared insights from airline flight operations and demonstrated how ICAO competencies contribute to safe decision-making, teamwork and operational performance.✈️ Greg Kemp, Safety Manager and Grade 1 Flight Instructor at Air Gold Coast, who explored the practical implementation of Safety Management Systems, ICAO Annex 19 requirements and contemporary safety culture within flight training organisations.✈️ Captain"
+                                                    - generic:
+                                                      - link "View Gavin Haslemore’s profile":
+                                                        - /url: https://www.linkedin.com/in/gavin-haslemore/
+                                                        - strong: Gavin Haslemore
+                                                    - text: ", Director of Flight Operations at Air Hong Kong and former Chief Pilot (Airbus and Boeing) at Cathay Pacific, who provided valuable insights into Just Culture, airline safety leadership and organisational learning.✈️"
+                                                    - generic:
+                                                      - link "View Chanika Mannawaduge’s profile":
+                                                        - /url: https://www.linkedin.com/in/chanika-mannawaduge-ab379232/
+                                                        - strong: Chanika Mannawaduge
+                                                    - text: ", former aviation regulator and current researcher specialising in Fatigue Risk Management, who demonstrated how fatigue risk management and Safety Management Systems are applied to manage operational risk across the aviation sector.These sessions enabled students attending both in-person and online to connect theoretical concepts with contemporary aviation practice while learning from professionals who have led safety, training and operational functions across airlines, regulatory bodies and flight training organisations.A sincere thank you to all our guest speakers for investing their time and expertise in supporting UniSQ Aviation students and helping develop the next generation of aviation professionals. Industry engagement remains one of the most effective ways to bridge the gap between classroom learning and professional practice.Which aviation professional, mentor or industry leader has had the greatest influence on your career journey?"
+                                                    - generic:
+                                                      - 'link "View hashtag: #unisq"':
+                                                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23unisq&origin=HASH_TAG_FROM_FEED
+                                                        - strong: "#UniSQ"
+                                                    - generic:
+                                                      - 'link "View hashtag: #unisqaviation"':
+                                                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23unisqaviation&origin=HASH_TAG_FROM_FEED
+                                                        - strong: "#UniSQAviation"
+                                                    - generic:
+                                                      - 'link "View hashtag: #aviation"':
+                                                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23aviation&origin=HASH_TAG_FROM_FEED
+                                                        - strong: "#Aviation"
+                                                    - generic:
+                                                      - 'link "View hashtag: #aviationsafety"':
+                                                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23aviationsafety&origin=HASH_TAG_FROM_FEED
+                                                        - strong: "#AviationSafety"
+                                                    - generic:
+                                                      - 'link "View hashtag: #safetymanagementsystems"':
+                                                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23safetymanagementsystems&origin=HASH_TAG_FROM_FEED
+                                                        - strong: "#SafetyManagementSystems"
+                                                    - generic:
+                                                      - 'link "View hashtag: #icao"':
+                                                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23icao&origin=HASH_TAG_FROM_FEED
+                                                        - strong: "#ICAO"
+                                                    - generic:
+                                                      - 'link "View hashtag: #aviationeducation"':
+                                                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23aviationeducation&origin=HASH_TAG_FROM_FEED
+                                                        - strong: "#AviationEducation"
+                                                    - generic:
+                                                      - 'link "View hashtag: #industryengagement"':
+                                                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23industryengagement&origin=HASH_TAG_FROM_FEED
+                                                        - strong: "#IndustryEngagement"
+                                                    - generic:
+                                                      - 'link "View hashtag: #futureaviators"':
+                                                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23futureaviators&origin=HASH_TAG_FROM_FEED
+                                                        - strong: "#FutureAviators"
+                                                    - generic:
+                                                      - 'link "View hashtag: #studentsuccess"':
+                                                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23studentsuccess&origin=HASH_TAG_FROM_FEED
+                                                        - strong: "#StudentSuccess"
+                                                    - button [aria-hidden]:
+                                                      - generic: … more
+                                              - generic:
+                                                - generic:
+                                                  - generic:
+                                                    - link:
+                                                      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7493490957489745920/
+                                                      - figure:
+                                                        - img "View image"
+                                                    - generic:
+                                                      - generic:
+                                                        - link:
+                                                          - /url: https://www.linkedin.com/feed/update/urn:li:activity:7493490957489745920/
+                                                          - figure:
+                                                            - img "View image"
+                                                      - generic:
+                                                        - link:
+                                                          - /url: https://www.linkedin.com/feed/update/urn:li:activity:7493490957489745920/
+                                                          - figure:
+                                                            - img "View image"
+                                                      - generic:
+                                                        - link:
+                                                          - /url: https://www.linkedin.com/feed/update/urn:li:activity:7493490957489745920/
+                                                          - figure:
+                                                            - img "View image"
+                                                        - link "2 more images":
+                                                          - /url: https://www.linkedin.com/feed/update/urn:li:activity:7493490957489745920/
+                                                          - generic "2 more images":
+                                                            - paragraph: "+2"
+                                            - generic:
+                                              - link "Switch to different account":
+                                                - /url: https://www.linkedin.com/feed/update/urn:li:activity:7493490957489745920/
+                                                - generic "Switch to different account":
+                                                  - figure [aria-hidden]
+                                              - generic:
+                                                - 'button "Reaction button state: Like" [active] [ref=f139e1223] [cursor=pointer]':
+                                                  - generic [ref=f139e859]: "9"
+                                                - button "Open reactions menu" [expanded]
+                                              - button "Comment":
+                                                - generic: "1"
+                                              - button "Repost"
+                                              - link "Send":
+                                                - /url: https://www.linkedin.com/feed/update/urn:li:activity:7493490957489745920/
+                                              - link:
+                                                - /url: https://www.linkedin.com/feed/update/urn:li:activity:7493490957489745920/
+                                                - generic "9 reactions"
+                                        - generic:
+                                          - generic:
+                                            - generic:
+                                              - generic:
+                                                - generic:
+                                                  - generic:
+                                                    - generic:
+                                                      - generic:
+                                                        - status
+                                                        - generic:
+                                                          - generic:
+                                                            - textbox "Text editor for creating comment":
+                                                              - paragraph: Add a comment...
+                                                    - generic:
+                                                      - button "Show Emoji Picker"
+                                                      - generic:
+                                                        - generic:
+                                                          - button "Open GIF picker"
+                                                      - button "Share photo"
+                                - link "Kelly Irving reacted with Like Elita H. reacted with Celebrate Leonardo Trejo Roa reacted with Like Timothy Smith reacted with Like Edwin Maza reacted with Love Lorenzo Forte reacted with Like Kiah W. reacted with Love Jacinda (Jac) Cottee reacted with Love":
+                                  - /url: https://www.linkedin.com/feed/update/urn:li:activity:7493490957489745920/
+                                  - generic:
+                                    - generic:
+                                      - link "Kelly Irving reacted with Like":
+                                        - /url: https://www.linkedin.com/in/kelly-irving/
+                                        - generic "Kelly Irving reacted with Like":
+                                          - figure [aria-hidden]
+                                      - link "Elita H. reacted with Celebrate":
+                                        - /url: https://www.linkedin.com/in/elitah/
+                                        - generic "Elita H. reacted with Celebrate":
+                                          - figure [aria-hidden]
+                                      - link "Leonardo Trejo Roa reacted with Like":
+                                        - /url: https://www.linkedin.com/in/leonardo-trejo-roa/
+                                        - generic "Leonardo Trejo Roa reacted with Like":
+                                          - figure [aria-hidden]
+                                      - link "Timothy Smith reacted with Like":
+                                        - /url: https://www.linkedin.com/in/timothy-j-smith/
+                                        - generic "Timothy Smith reacted with Like":
+                                          - figure [aria-hidden]
+                                      - link "Edwin Maza reacted with Love":
+                                        - /url: https://www.linkedin.com/in/edwin-maza-a5848b312/
+                                        - generic "Edwin Maza reacted with Love":
+                                          - figure [aria-hidden]
+                                      - link "Lorenzo Forte reacted with Like":
+                                        - /url: https://www.linkedin.com/in/lorenzo-forte/
+                                        - generic "Lorenzo Forte reacted with Like":
+                                          - figure [aria-hidden]
+                                      - link "Kiah W. reacted with Love":
+                                        - /url: https://www.linkedin.com/in/kiah-w-7051b9240/
+                                        - generic "Kiah W. reacted with Love":
+                                          - figure [aria-hidden]
+                                      - link "Jacinda (Jac) Cottee reacted with Love":
+                                        - /url: https://www.linkedin.com/in/jacinda-jac-cottee-957a382a/
+                                        - generic "Jacinda (Jac) Cottee reacted with Love":
+                                          - figure [aria-hidden]
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - link:
+                                              - /url: https://www.linkedin.com/in/maneerat-t-243142110/
+                                              - figure:
+                                                - img "View Dr Maneerat T.’s profile"
+                                          - generic:
+                                            - generic:
+                                              - generic:
+                                                - link "Dr Maneerat T. Verified Profile 2nd Lecturer (Aviation) at University of Southern Queensland":
+                                                  - /url: https://www.linkedin.com/in/maneerat-t-243142110/
+                                                  - generic:
+                                                    - generic:
+                                                      - generic:
+                                                        - generic:
+                                                          - paragraph:
+                                                            - generic:
+                                                              - generic: Dr Maneerat T. Verified Profile 2nd
+                                                              - generic [aria-hidden]:
+                                                                - text: Dr Maneerat T.
+                                                                - generic: • 2nd
+                                                    - generic:
+                                                      - paragraph: Lecturer (Aviation) at University of Southern Queensland
+                                                - generic:
+                                                  - paragraph: 1mo
+                                                - button "View more options for Dr Maneerat T.’s comment."
+                                            - generic:
+                                              - generic:
+                                                - generic:
+                                                  - paragraph:
+                                                    - generic:
+                                                      - generic:
+                                                        - link "View Chris Smith’s profile":
+                                                          - /url: https://www.linkedin.com/in/chris-g-smith/
+                                                          - strong: Chris Smith
+                                                      - text: ", you have been very supportive as always. Your contributions help bridge the gap between theory and practice, and UniSQ students gain invaluable insights into aviation safety from a very experienced airline pilot. 👨‍✈️"
+                                            - generic:
+                                              - generic:
+                                                - generic:
+                                                  - generic:
+                                                    - generic:
+                                                      - generic:
+                                                        - 'button "Reaction button state: no reaction 1 reaction"':
+                                                          - generic:
+                                                            - 'img "Reaction button state: no reaction"'
+                                                            - generic:
+                                                              - paragraph:
+                                                                - generic:
+                                                                  - generic: 1 reaction
+                                                                  - text: "1"
+                                                    - button "Open reactions menu"
+                                                  - generic:
+                                                    - button "Reply"
+                                                - generic:
+                                                  - link "Reacted to by the author":
+                                                    - /url: https://www.linkedin.com/feed/update/urn:li:activity:7493490957489745920/
+                                                    - generic "Reacted to by the author":
+                                                      - figure [aria-hidden]
+                  - complementary "Aside":
+                    - generic:
+                      - generic:
+                        - generic:
+                          - iframe [ref=f139e1000]:
+                            - generic [ref=f141e2]:
+                              - generic: Ad
+                              - img "overflow-web-small" [ref=f141e6] [cursor=pointer]
+                              - link "LinkedIn Ads" [ref=f141e10] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Ftraining.marketing.linkedin.com%2Fpage%2Fcertifications%3Fsrc%3Dli-dynamic%26veh%3DFxOS1xCUSTxDAxAPACxENxPDx202402xMarketingHelpCenterCertificationsxLMSActiveAdvertisersx1194xVisitsxv3a%26mcid%3D7387207741095956480%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg3Pd8q87DtbsO4wz3aO2CbuJE8W007MiDMwYiwWUKtfLpRQ5VKLanJCg7M6yy-1W9uhclUmSyAnKBTVzbpGXJot_Oh-ElLxr1OeO2gLeKGX4BbstqxUN7Y6GMQsz3tjAgb3iXxEwFQ_GCYyctZqa1AFhGtOdsKxozM91x_8is6_0ZXsvJCcgoX8ydqjiHAstcbPBYN6z1gR94DdscgBROK2f90_DkV9UYW4jAYFNQANPhnmPA6jgJkgvaCurN2sLe1ve6LqW9appFfEvUW622845Prdh2i8Xt-ifG2EaR7snqOf8UTmTBjyyFL9qxxlw1ZVtaAy6qpXzRzx1e-vG3SAmVQ-pL8cE6o2OZ8xtz_KQPv-u3KGHYBYb9ZOm23NfA_ulumXEnDdxYUZ49ifJA0SBvHt9NXX4YRbILLKrYDea6iVX4OnFT--eBi3X_3ax6qc_tnYXnDecNbxdhKZcvQ9JxaPOoRYd-50r1XR1RymbS9XdAJVOLCess1P9s8KE3K3NGdLgnWD2dorsXrfphDk8bhE_UNbNcbOdSHEiq3eIY_zRdUir7sIcacvGOcwXxo9WrBn3kPyCQHeoxzH6agsXYmC8PjC4JGVL-2W4sJ5ObEnuWWBnNhrSG3I3cUG8N-UB4Teq9SKAaUkal5RCWaCx9I6lC7o1UJsG64N9sV6nVWr80z_JLzCxAt47OBbJCy1pf6SNWCjXvknwHOKoPO5KMZvP9VKVkFLIali4BNYPLDWys9Hc9_1YkF12dZJ4-M98kaJ3b6wzxyJSFRwoUCckIK-uIHdeG-ztl0l_AwUi_prWnvQENqgvOXDYX6VmhBGmunZkcHm-5KlG2qjO9Ru9cANjPOp2i_vPbktUycurk1YujZObJoV2XnaSDGPdnrlaBrWvhHvrM_Q_V06NZ-s-Yd_V1t11e0qbFm9vZkrLZUSlP2B_Iuy0osR0U4zp_wiU_3-GOga83z4TN5poqrr375MEwIDjoeuA8iQ-x0_xegW228IN0KkJBfrm8JnIQ_1476M-XFDTzMkh-UR9b9e6OH0uCqZuGg3rOVExkJU75Y63wgH7p5Nix1L-RsQRZIo0DDVwtIiRgpfKpiVR4tKUtYEd4XYlnubXyS60DMKz7QTpNG6Ks9gktp3JkQ5nTk_Fe-6jdpU-M96oTlG5NLnTpAZXDYiudd-NkMpr2%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_detail_base%22%2C%22trackingId%22%3A%226e4f3015-1b0b-4f69-ab57-dbd2a10f3858%22%7D%2C%22time%22%3A1790413601858%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_detail_base%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                              - generic [ref=f141e11]:
+                                - heading "Kelly, showcase your proficiency in LinkedIn Ads" [level=2] [ref=f141e14]
+                                - generic [ref=f141e16]:
+                                  - img "Kelly" [ref=f141e17]
+                                  - generic [ref=f141e18]:
+                                    - link [ref=f141e19] [cursor=pointer]:
+                                      - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Ftraining.marketing.linkedin.com%2Fpage%2Fcertifications%3Fsrc%3Dli-dynamic%26veh%3DFxOS1xCUSTxDAxAPACxENxPDx202402xMarketingHelpCenterCertificationsxLMSActiveAdvertisersx1194xVisitsxv3a%26mcid%3D7387207741095956480%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg3Pd8q87DtbsO4wz3aO2CbuJE8W007MiDMwYiwWUKtfLpRQ5VKLanJCg7M6yy-1W9uhclUmSyAnKBTVzbpGXJot_Oh-ElLxr1OeO2gLeKGX4BbstqxUN7Y6GMQsz3tjAgb3iXxEwFQ_GCYyctZqa1AFhGtOdsKxozM91x_8is6_0ZXsvJCcgoX8ydqjiHAstcbPBYN6z1gR94DdscgBROK2f90_DkV9UYW4jAYFNQANPhnmPA6jgJkgvaCurN2sLe1ve6LqW9appFfEvUW622845Prdh2i8Xt-ifG2EaR7snqOf8UTmTBjyyFL9qxxlw1ZVtaAy6qpXzRzx1e-vG3SAmVQ-pL8cE6o2OZ8xtz_KQPv-u3KGHYBYb9ZOm23NfA_ulumXEnDdxYUZ49ifJA0SBvHt9NXX4YRbILLKrYDea6iVX4OnFT--eBi3X_3ax6qc_tnYXnDecNbxdhKZcvQ9JxaPOoRYd-50r1XR1RymbS9XdAJVOLCess1P9s8KE3K3NGdLgnWD2dorsXrfphDk8bhE_UNbNcbOdSHEiq3eIY_zRdUir7sIcacvGOcwXxo9WrBn3kPyCQHeoxzH6agsXYmC8PjC4JGVL-2W4sJ5ObEnuWWBnNhrSG3I3cUG8N-UB4Teq9SKAaUkal5RCWaCx9I6lC7o1UJsG64N9sV6nVWr80z_JLzCxAt47OBbJCy1pf6SNWCjXvknwHOKoPO5KMZvP9VKVkFLIali4BNYPLDWys9Hc9_1YkF12dZJ4-M98kaJ3b6wzxyJSFRwoUCckIK-uIHdeG-ztl0l_AwUi_prWnvQENqgvOXDYX6VmhBGmunZkcHm-5KlG2qjO9Ru9cANjPOp2i_vPbktUycurk1YujZObJoV2XnaSDGPdnrlaBrWvhHvrM_Q_V06NZ-s-Yd_V1t11e0qbFm9vZkrLZUSlP2B_Iuy0osR0U4zp_wiU_3-GOga83z4TN5poqrr375MEwIDjoeuA8iQ-x0_xegW228IN0KkJBfrm8JnIQ_1476M-XFDTzMkh-UR9b9e6OH0uCqZuGg3rOVExkJU75Y63wgH7p5Nix1L-RsQRZIo0DDVwtIiRgpfKpiVR4tKUtYEd4XYlnubXyS60DMKz7QTpNG6Ks9gktp3JkQ5nTk_Fe-6jdpU-M96oTlG5NLnTpAZXDYiudd-NkMpr2%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_detail_base%22%2C%22trackingId%22%3A%226e4f3015-1b0b-4f69-ab57-dbd2a10f3858%22%7D%2C%22time%22%3A1790413601858%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_detail_base%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                                      - img "LinkedIn Ads" [ref=f141e20]
+                                    - tooltip "LinkedIn Ads" [ref=f141e21]
+                                - generic [ref=f141e22]:
+                                  - heading "Earn them through our free LinkedIn Ads courses" [level=2] [ref=f141e25]
+                                  - link "Get Certified Now" [ref=f141e27] [cursor=pointer]:
+                                    - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Ftraining.marketing.linkedin.com%2Fpage%2Fcertifications%3Fsrc%3Dli-dynamic%26veh%3DFxOS1xCUSTxDAxAPACxENxPDx202402xMarketingHelpCenterCertificationsxLMSActiveAdvertisersx1194xVisitsxv3a%26mcid%3D7387207741095956480%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg3Pd8q87DtbsO4wz3aO2CbuJE8W007MiDMwYiwWUKtfLpRQ5VKLanJCg7M6yy-1W9uhclUmSyAnKBTVzbpGXJot_Oh-ElLxr1OeO2gLeKGX4BbstqxUN7Y6GMQsz3tjAgb3iXxEwFQ_GCYyctZqa1AFhGtOdsKxozM91x_8is6_0ZXsvJCcgoX8ydqjiHAstcbPBYN6z1gR94DdscgBROK2f90_DkV9UYW4jAYFNQANPhnmPA6jgJkgvaCurN2sLe1ve6LqW9appFfEvUW622845Prdh2i8Xt-ifG2EaR7snqOf8UTmTBjyyFL9qxxlw1ZVtaAy6qpXzRzx1e-vG3SAmVQ-pL8cE6o2OZ8xtz_KQPv-u3KGHYBYb9ZOm23NfA_ulumXEnDdxYUZ49ifJA0SBvHt9NXX4YRbILLKrYDea6iVX4OnFT--eBi3X_3ax6qc_tnYXnDecNbxdhKZcvQ9JxaPOoRYd-50r1XR1RymbS9XdAJVOLCess1P9s8KE3K3NGdLgnWD2dorsXrfphDk8bhE_UNbNcbOdSHEiq3eIY_zRdUir7sIcacvGOcwXxo9WrBn3kPyCQHeoxzH6agsXYmC8PjC4JGVL-2W4sJ5ObEnuWWBnNhrSG3I3cUG8N-UB4Teq9SKAaUkal5RCWaCx9I6lC7o1UJsG64N9sV6nVWr80z_JLzCxAt47OBbJCy1pf6SNWCjXvknwHOKoPO5KMZvP9VKVkFLIali4BNYPLDWys9Hc9_1YkF12dZJ4-M98kaJ3b6wzxyJSFRwoUCckIK-uIHdeG-ztl0l_AwUi_prWnvQENqgvOXDYX6VmhBGmunZkcHm-5KlG2qjO9Ru9cANjPOp2i_vPbktUycurk1YujZObJoV2XnaSDGPdnrlaBrWvhHvrM_Q_V06NZ-s-Yd_V1t11e0qbFm9vZkrLZUSlP2B_Iuy0osR0U4zp_wiU_3-GOga83z4TN5poqrr375MEwIDjoeuA8iQ-x0_xegW228IN0KkJBfrm8JnIQ_1476M-XFDTzMkh-UR9b9e6OH0uCqZuGg3rOVExkJU75Y63wgH7p5Nix1L-RsQRZIo0DDVwtIiRgpfKpiVR4tKUtYEd4XYlnubXyS60DMKz7QTpNG6Ks9gktp3JkQ5nTk_Fe-6jdpU-M96oTlG5NLnTpAZXDYiudd-NkMpr2%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_detail_base%22%2C%22trackingId%22%3A%226e4f3015-1b0b-4f69-ab57-dbd2a10f3858%22%7D%2C%22time%22%3A1790413601858%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_detail_base%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                          - generic:
+                            - generic:
+                              - link "About":
+                                - /url: https://about.linkedin.com/
+                                - paragraph: About
+                              - link "Accessibility":
+                                - /url: https://www.linkedin.com/accessibility/
+                                - paragraph: Accessibility
+                              - link "Help Center":
+                                - /url: https://www.linkedin.com/help/linkedin/
+                                - paragraph: Help Center
+                              - button "Privacy & Terms":
+                                - generic:
+                                  - paragraph: Privacy & Terms
+                              - link "Ad Choices":
+                                - /url: https://www.linkedin.com/help/linkedin/answer/62931/
+                                - paragraph: Ad Choices
+                              - link "Advertising":
+                                - /url: https://www.linkedin.com/ad/start/?trk=n_nav_ads_rr
+                                - paragraph: Advertising
+                              - button "Business Services":
+                                - generic:
+                                  - paragraph: Business Services
+                              - link "Get the LinkedIn app":
+                                - /url: https://www.linkedin.com/mobile/
+                                - paragraph: Get the LinkedIn app
+                              - link "More":
+                                - /url: https://www.linkedin.com/feed/update/urn:li:activity:7493490957489745920/
+                                - paragraph: More
+                            - generic:
+                              - paragraph: LinkedIn Corporation © 2026
+      - list [ref=f139e1229]:
+        - button "Like" [ref=f139e1230] [cursor=pointer]
+        - button "Celebrate" [ref=f139e1240] [cursor=pointer]
+        - button "Support" [ref=f139e1260] [cursor=pointer]
+        - button "Love" [ref=f139e1275] [cursor=pointer]
+        - button "Insightful" [ref=f139e1286] [cursor=pointer]
+        - button "Funny" [ref=f139e1300] [cursor=pointer]
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - complementary:
+              - generic [ref=f139e1189]:
+                - generic [ref=f139e1190]:
+                  - generic [ref=f139e1192] [cursor=pointer]:
+                    - img "Kelly Irving" [ref=f139e1194]
+                    - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f139e1195]:
+                      - generic [ref=f139e1196]:
+                        - generic [aria-hidden] [ref=f139e1197]: Messaging
+                        - generic [ref=f139e1198]: You are on the messaging overlay. Press enter to open the list of conversations.
+                    - mark [aria-hidden] [ref=f139e1199]:
+                      - generic [ref=f139e1200]: "2"
+                  - generic [ref=f139e1201]:
+                    - button [ref=f139e1203] [cursor=pointer]:
+                      - img "Open messenger dropdown menu" [ref=f139e1204]
+                    - button "Compose message" [ref=f139e1207] [cursor=pointer]
+                    - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f139e1211] [cursor=pointer]
+                - generic [ref=f139e1215]:
+                  - heading "Page inboxes" [level=3] [ref=f139e1217]
+                  - generic [ref=f139e1218] [cursor=pointer]:
+                    - generic [ref=f139e1219]: Click to see affiliated inboxes
+                    - button "Page inboxes" [ref=f139e1220]
+            - complementary "AI-powered assistant to get help with your career, jobs etc"
+    - iframe [ref=f139e1028]:
+      - generic [ref=f142e13]:
+        - generic:
+          - region "Toast message":
+            - heading "0 notifications total" [level=2] [ref=f142e15]
+            - alert
+        - region [ref=f142e12]
+        - generic [ref=f142e16]:
+          - generic [ref=f142e18]:
+            - button "Skip to search" [ref=f142e19] [cursor=pointer]
+            - button "Skip to main content" [ref=f142e21] [cursor=pointer]
+            - button "Keyboard shortcuts" [ref=f142e23] [cursor=pointer]
+            - button "Close jump menu" [ref=f142e25] [cursor=pointer]
+          - banner "Global Navigation" [ref=f142e29]:
+            - generic [ref=f142e30]:
+              - link [ref=f142e31] [cursor=pointer]:
+                - /url: https://www.linkedin.com/feed/
+                - img "LinkedIn" [ref=f142e34]
+              - combobox "I’m looking for..." [ref=f142e40]
+              - navigation "Primary Navigation" [ref=f142e41]:
+                - list [ref=f142e42]:
+                  - listitem [ref=f142e43]:
+                    - link "new feed updates notifications Home" [ref=f142e44] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/feed/
+                      - generic [ref=f142e45]: new feed updates notifications
+                      - generic "Home" [ref=f142e54]
+                  - listitem [ref=f142e55]:
+                    - link "29 new network updates notifications My Network" [ref=f142e56] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/mynetwork/?
+                      - generic [ref=f142e58]:
+                        - generic [aria-hidden] [ref=f142e59]: "29"
+                        - generic [ref=f142e60]: 29 new network updates notifications
+                      - generic "My Network" [ref=f142e66]
+                  - listitem [ref=f142e67]:
+                    - link "Jobs" [ref=f142e68] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/jobs/?
+                  - listitem [ref=f142e75]:
+                    - link "2 new messages notifications Messaging" [ref=f142e76] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/messaging/?
+                      - generic [ref=f142e78]:
+                        - generic [aria-hidden] [ref=f142e79]: "2"
+                        - generic [ref=f142e80]: 2 new messages notifications
+                      - generic "Messaging" [ref=f142e86]
+                  - listitem [ref=f142e87]:
+                    - link "25 new notifications Notifications" [ref=f142e88] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/notifications/?
+                      - generic [ref=f142e90]:
+                        - generic [aria-hidden] [ref=f142e91]: "25"
+                        - generic [ref=f142e92]: 25 new notifications
+                      - generic "Notifications" [ref=f142e98]
+                  - listitem [ref=f142e99]:
+                    - button [ref=f142e101] [cursor=pointer]:
+                      - img "Kelly Irving" [ref=f142e102]
+                      - generic [ref=f142e103]: Me
+                  - listitem [ref=f142e106]:
+                    - button "For Business" [ref=f142e108] [cursor=pointer]
+                  - listitem [ref=f142e117]:
+                    - link "3 new Campaign Manager notifications Advertise" [ref=f142e118] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/campaignmanager/accounts?shouldShowNotificationPanelOnRender=true
+                      - generic [ref=f142e120]:
+                        - generic [aria-hidden] [ref=f142e121]: "3"
+                        - generic [ref=f142e122]: 3 new Campaign Manager notifications
+                      - generic "Advertise" [ref=f142e129]
