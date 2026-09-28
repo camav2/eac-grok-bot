@@ -1,0 +1,107 @@
+- generic [active] [ref=f20e1]:
+  - generic:
+    - region "Toast message":
+      - heading "0 notifications total" [level=2] [ref=f20e3]
+      - alert
+  - generic [ref=f20e13]:
+    - generic [ref=f20e20]:
+      - complementary [ref=f20e21]:
+        - region "Organizational page admin navigation section" [ref=f20e23]:
+          - generic [ref=f20e24]:
+            - button [ref=f20e25]
+            - generic [ref=f20e28]: Premium
+          - generic [ref=f20e30]:
+            - img "Expert Author Community logo" [ref=f20e31]
+            - heading [level=1] [ref=f20e32]:
+              - text: Expert Author Community
+              - link "Verifications" [ref=f20e36] [cursor=pointer]:
+                - /url: /company/89798536/admin/settings/verification-control/
+            - link "3,402 followers" [ref=f20e39] [cursor=pointer]:
+              - /url: /company/89798536/admin/analytics/followers/
+            - generic [ref=f20e40]:
+              - link "Create" [ref=f20e41] [cursor=pointer]
+              - link "View as member" [ref=f20e45] [cursor=pointer]
+          - navigation [ref=f20e49]:
+            - list [ref=f20e50]:
+              - listitem [ref=f20e51]:
+                - link "Dashboard" [ref=f20e52] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/dashboard
+              - listitem [ref=f20e57]:
+                - link "Page posts" [ref=f20e58] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/page-posts/published
+              - listitem [ref=f20e63]:
+                - link "Analytics" [ref=f20e64] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/analytics/updates
+              - listitem [ref=f20e69]:
+                - link "Feed" [ref=f20e70] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/feed/following
+              - listitem [ref=f20e75]:
+                - link "Activity" [ref=f20e76] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/notifications/all
+              - listitem [ref=f20e81]:
+                - link "Inbox" [ref=f20e82] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/inbox?pageMailboxUrn=urn%3Ali%3Afsd_pageMailbox%3A16608703
+              - listitem [ref=f20e87]:
+                - link "Edit Page" [ref=f20e88] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/edit
+            - list [ref=f20e93]:
+              - listitem [ref=f20e94]:
+                - link "Products" [ref=f20e95] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/products
+              - listitem [ref=f20e100]:
+                - link "Jobs" [ref=f20e101] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/posted-jobs/open
+              - listitem [ref=f20e106]:
+                - link "Events" [ref=f20e107] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/notifications/mentions/?viewEvents=true
+            - list [ref=f20e112]:
+              - listitem [ref=f20e113]:
+                - link "Premium features" [ref=f20e114] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/premium/my-premium/?companyUrn=urn%3Ali%3Afsd_company%3A89798536
+              - listitem [ref=f20e122]:
+                - link "Advertise" [ref=f20e123] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/ad-beta/accounts
+              - listitem [ref=f20e131]:
+                - link "Invite to follow" [ref=f20e132] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/notifications/mentions/?invite=true
+              - listitem [ref=f20e137]:
+                - link "Settings" [ref=f20e138] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/settings
+      - generic [ref=f20e144]:
+        - main [ref=f20e145]:
+          - generic [ref=f20e146]:
+            - generic [ref=f20e149]:
+              - heading "Activity" [level=2] [ref=f20e150]
+              - paragraph [ref=f20e151]: Keep track of the activity around your page
+            - list [ref=f20e152]:
+              - listitem [ref=f20e153]:
+                - link "All" [ref=f20e154] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/notifications/all
+              - listitem [ref=f20e159]:
+                - link "Comments" [ref=f20e160] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/notifications/comments
+              - listitem [ref=f20e165]:
+                - link "Mentions" [ref=f20e166] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/notifications/mentions
+              - listitem [ref=f20e171]:
+                - link "Reactions" [ref=f20e172] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/notifications/reactions
+              - listitem [ref=f20e177]:
+                - button "More" [ref=f20e179] [cursor=pointer]
+        - complementary "Admin notifications aside section" [ref=f20e198]:
+          - generic [ref=f20e199]:
+            - generic [ref=f20e200]:
+              - heading "Post highlights" [level=2] [ref=f20e201]
+              - button "Post highlights information" [ref=f20e203] [cursor=pointer]
+            - heading "In the last 30 days" [level=2] [ref=f20e206]
+            - alert [ref=f20e208]: Loading
+          - generic "LinkedIn Footer Content" [ref=f20e221]:
+            - generic [ref=f20e222]:
+              - list
+              - generic [ref=f20e223]:
+                - img "LinkedIn" [ref=f20e224]
+                - text: LinkedIn Corporation © 2026
+    - generic:
+      - generic:
+        - complementary "AI-powered assistant to get help with your career, jobs etc"
+  - region [ref=f20e227]

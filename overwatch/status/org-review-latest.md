@@ -1,6 +1,6 @@
 # Org Review
 
-- **timestamp:** 2026-09-20 22:56 UTC
+- **timestamp:** 2026-09-27 22:51 UTC
 - **bot count:** 8
 
 ## Bots
@@ -54,7 +54,7 @@
 ```
 397M	/workspace/whisper-venv
 52M	/workspace/michelle-roundtable-sept.m4a
-8.9M	/workspace/agent-tools
+11M	/workspace/agent-tools
 2.7M	/workspace/watchlist_batches
 1012K	/workspace/gmail-archive-bin
 748K	/workspace/eac_posts.json
@@ -62,28 +62,28 @@
 204K	/workspace/gmail-clear
 96K	/workspace/eac_share_stats.json
 48K	/workspace/overwatch
+16K	/workspace/amplify-prep-2026-09-27
+12K	/workspace/shared
 12K	/workspace/eac_top_posts_summary.json
+8.0K	/workspace/eligible_names.txt
 8.0K	/workspace/eac-alumni-thought-leader-engagement-plan.md
+8.0K	/workspace/commops_names.txt
+8.0K	/workspace/amplify-elig-names.txt
 4.0K	/workspace/vimeo_upload_meta.json
+4.0K	/workspace/skip_cycle.txt
 4.0K	/workspace/inbox-filter-page2.txt
-4.0K	/workspace/inbox-circle-ids.json
-4.0K	/workspace/gmail-inbox-review-token.txt
-4.0K	/workspace/batch6_ids.txt
-4.0K	/workspace/batch5_ids.txt
-4.0K	/workspace/batch3_ids.txt
-4.0K	/workspace/batch13_ids.txt
 ```
 
 ## shared/temp and shared/archive
 
-- `/workspace/shared/temp`: MISSING
-- `/workspace/shared/archive`: MISSING
+- `/workspace/shared/temp`: exists, size≈4.0K, entries=0
+- `/workspace/shared/archive`: exists, size≈4.0K, entries=0
 
 ## Backup health
 
 - git repo: yes
 - origin: https://github.com/camav2/eac-grok-bot.git
-- last commit: 11e2f0e 2026-09-20 22:12:15 +0000 overwatch backup: 2026-09-20 22:12 UTC
+- last commit: 2dcb660 2026-09-28 08:18:24 +1000 overwatch backup: 2026-09-27 22:18 UTC
 
 ## Convention notes (/workspace root)
 
@@ -91,14 +91,24 @@ Likely bot/project dirs vs clutter at /workspace root:
 
 - **README.md** — repo meta (OK)
 - **agent-tools/** — tooling/clutter or job scratch (consider relocating under a bot folder or shared/temp)
+- **amplify-elig-names.txt** — root file (review)
+- **amplify-eligibility-helper.py** — root file (review)
+- **amplify-prep-2026-09-27/** — directory (review: bot project vs ad-hoc)
+- **amplify-skip-names.txt** — root file (review)
+- **amplify-skip.txt** — root file (review)
+- **author_names.txt** — root file (review)
 - **batch13_ids.txt** — root file (review)
 - **batch3_ids.txt** — root file (review)
 - **batch5_ids.txt** — root file (review)
 - **batch6_ids.txt** — root file (review)
+- **commops_names.txt** — root file (review)
+- **draft_clint.txt** — root file (review)
+- **draft_sarah.txt** — root file (review)
 - **eac-alumni-thought-leader-engagement-plan.md** — root file (review)
 - **eac_posts.json** — file clutter / large artifact at root (prefer shared/temp or bot folder)
 - **eac_share_stats.json** — file clutter / large artifact at root (prefer shared/temp or bot folder)
 - **eac_top_posts_summary.json** — file clutter / large artifact at root (prefer shared/temp or bot folder)
+- **eligible_names.txt** — root file (review)
 - **gmail-archive-bin/** — tooling/clutter or job scratch (consider relocating under a bot folder or shared/temp)
 - **gmail-clear/** — tooling/clutter or job scratch (consider relocating under a bot folder or shared/temp)
 - **gmail-inbox-review-token.txt** — root file (review)
@@ -106,6 +116,8 @@ Likely bot/project dirs vs clutter at /workspace root:
 - **inbox-filter-page2.txt** — root file (review)
 - **michelle-roundtable-sept.m4a** — file clutter / large artifact at root (prefer shared/temp or bot folder)
 - **overwatch/** — control-plane / shared (convention OK)
+- **shared/** — control-plane / shared (convention OK)
+- **skip_cycle.txt** — root file (review)
 - **transcripts/** — tooling/clutter or job scratch (consider relocating under a bot folder or shared/temp)
 - **vimeo_upload_meta.json** — file clutter / large artifact at root (prefer shared/temp or bot folder)
 - **watchlist_batches/** — tooling/clutter or job scratch (consider relocating under a bot folder or shared/temp)

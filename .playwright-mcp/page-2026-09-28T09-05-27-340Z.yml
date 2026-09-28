@@ -1,0 +1,473 @@
+- generic [ref=f161e2]:
+  - heading "0 notifications" [level=2] [ref=f161e603]
+  - generic [ref=f161e604]:
+    - generic:
+      - generic "Skip navigation menu":
+        - generic [ref=f161e605]:
+          - button "Skip to search" [ref=f161e606] [cursor=pointer]
+          - button "Skip to main content" [ref=f161e609] [cursor=pointer]
+          - button "Skip to sidebar" [ref=f161e612] [cursor=pointer]
+          - button "Skip to primary content" [ref=f161e615] [cursor=pointer]
+          - button "Skip to aside" [ref=f161e618] [cursor=pointer]
+          - button "Close jump menu" [ref=f161e622] [cursor=pointer]
+    - generic [ref=f161e626]:
+      - banner [ref=f161e628]:
+        - generic [ref=f161e631]:
+          - button [ref=f161e632] [cursor=pointer]:
+            - img "LinkedIn" [ref=f161e633]
+          - generic [ref=f161e635]:
+            - status [ref=f161e636]
+            - search [ref=f161e637]:
+              - textbox "I'm looking for…" [ref=f161e642]
+          - generic [ref=f161e644]:
+            - figure [aria-hidden] [ref=f161e649]
+            - navigation [ref=f161e653]:
+              - list [ref=f161e654]:
+                - listitem [ref=f161e655]:
+                  - button "Home, 1 new notification" [ref=f161e656] [cursor=pointer]:
+                    - generic [ref=f161e661]: Home
+                - listitem [ref=f161e663]:
+                  - link "My Network, 31 new notifications" [ref=f161e664] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork
+                    - generic [ref=f161e665]: "31"
+                    - generic [ref=f161e669]: My Network
+                - listitem [ref=f161e671]:
+                  - link "Jobs, 0 new notifications" [ref=f161e672] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/
+                    - generic [ref=f161e676]: Jobs
+                - listitem [ref=f161e678]:
+                  - link "Messaging, 0 new notifications" [ref=f161e679] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/messaging/
+                    - generic [ref=f161e683]: Messaging
+                - listitem [ref=f161e685]:
+                  - link "Notifications, 25 new notifications" [ref=f161e686] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/notifications/
+                    - generic [ref=f161e687]: "25"
+                    - generic [ref=f161e691]: Notifications
+                - listitem [ref=f161e693]:
+                  - button "Me" [ref=f161e694] [cursor=pointer]:
+                    - figure [aria-hidden] [ref=f161e696]
+            - navigation [ref=f161e703]:
+              - list [ref=f161e704]:
+                - listitem [ref=f161e705]:
+                  - button "For Business" [ref=f161e706] [cursor=pointer]
+                - listitem [ref=f161e714]:
+                  - link "Advertise, 3 new notifications" [ref=f161e715] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/campaignmanager/accounts/
+                    - generic [ref=f161e716]: "3"
+                    - generic [ref=f161e721]: Advertise
+      - main [ref=f161e725]:
+        - generic [ref=f161e727]:
+          - complementary "Sidebar" [ref=f161e728]:
+            - generic [ref=f161e731]:
+              - generic [ref=f161e735]:
+                - link [ref=f161e736] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/kelly-irving/
+                  - generic [ref=f161e737]:
+                    - generic [ref=f161e738]:
+                      - figure [aria-hidden] [ref=f161e739]
+                      - paragraph [ref=f161e741]: Premium
+                    - figure [ref=f161e744]:
+                      - img "Kelly Irving" [ref=f161e745]
+                - generic [ref=f161e746]:
+                  - link [ref=f161e747] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic "Kelly Irving, Book coach and editor for changemakers and trailblazers / Publishing gymnast, Anglesea, Victoria, Premium profile" [ref=f161e748]:
+                      - generic [ref=f161e749]:
+                        - paragraph [ref=f161e751]: Kelly Irving
+                        - img "Premium profile" [ref=f161e752]
+                      - paragraph [ref=f161e755]: Book coach and editor for changemakers and trailblazers / Publishing gymnast
+                      - paragraph [ref=f161e756]: Anglesea, Victoria
+                  - link [ref=f161e757] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic [ref=f161e758]:
+                      - figure [aria-hidden] [ref=f161e759]
+                      - paragraph [ref=f161e760]: Expert Author Community
+              - generic [ref=f161e762]:
+                - menu [ref=f161e763]:
+                  - link [ref=f161e765] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/me/profile-views/
+                    - generic "Profile viewers 287" [ref=f161e766]:
+                      - paragraph [ref=f161e768]: Profile viewers
+                      - paragraph [ref=f161e769]: "287"
+                  - link [ref=f161e771] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/analytics/creator/content/
+                    - generic "Post impressions 856" [ref=f161e772]:
+                      - paragraph [ref=f161e774]: Post impressions
+                      - paragraph [ref=f161e775]: "856"
+                - menu [ref=f161e776]:
+                  - link [ref=f161e778] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/premium/my-premium/
+                    - paragraph [ref=f161e783]: Your Premium features
+          - region "Primary content" [ref=f161e784]:
+            - generic [ref=f161e790]:
+              - listitem [ref=f161e794]:
+                - generic [ref=f161e796]:
+                  - heading "Feed post" [level=2]
+                  - generic [ref=f161e798]:
+                    - link [ref=f161e799] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/kristineposthumus/
+                      - figure [ref=f161e800]:
+                        - img "View Kristine Posthumus’ profile" [ref=f161e801]
+                    - generic [ref=f161e803]:
+                      - link [ref=f161e806] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/kristineposthumus/
+                        - generic "Kristine Posthumus Verified Profile 1st" [ref=f161e808]:
+                          - paragraph [ref=f161e811]: Kristine Posthumus
+                          - paragraph [ref=f161e813]:
+                            - generic [ref=f161e814]: • 1st
+                      - paragraph [ref=f161e819]: Strategy Facilitator | Unsquiggler | Advisor to senior executives in the infrastructure, transport, utilities, and public sectors
+                      - paragraph [ref=f161e821]: 4d
+                      - link "Kristine Posthumus Verified Profile 1st":
+                        - /url: https://www.linkedin.com/in/kristineposthumus/
+                    - button "Open control menu for post by Kristine Posthumus" [ref=f161e822] [cursor=pointer]
+                  - paragraph [ref=f161e826]:
+                    - generic [ref=f161e827]: "I’m happy to share that I’ve obtained a new certification: Leading Co-Design in Complex Systems 2026 from New Know How"
+                  - generic [ref=f161e828]:
+                    - link [ref=f161e829] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7508771701560782848/
+                      - figure [ref=f161e830]:
+                        - img "View celebration image" [ref=f161e831]
+                    - paragraph [ref=f161e832]: Celebrating a new certification
+                  - generic [ref=f161e833]:
+                    - link [ref=f161e834] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7508771701560782848/
+                      - generic "Switch to different account" [ref=f161e835]:
+                        - figure [aria-hidden] [ref=f161e836]
+                    - generic [ref=f161e839]:
+                      - 'button "Reaction button state: no reaction" [ref=f161e842] [cursor=pointer]':
+                        - generic [ref=f161e843]: "26"
+                      - button "Open reactions menu":
+                        - generic [ref=f161e849] [cursor=pointer]
+                    - button "Comment" [ref=f161e852] [cursor=pointer]:
+                      - generic [ref=f161e853]: "3"
+                    - button "Repost" [ref=f161e859] [cursor=pointer]
+                    - link "Send" [ref=f161e863] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7508771701560782848/
+                    - link [ref=f161e867] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7508771701560782848/
+                      - generic "26 reactions" [ref=f161e868]
+                - generic [ref=f161e897]:
+                  - list [ref=f161e899]:
+                    - listitem [ref=f161e900]:
+                      - button "Congratulations! 🎉" [ref=f161e902] [cursor=pointer]:
+                        - generic [ref=f161e903]:
+                          - checkbox "Congratulations! 🎉"
+                          - generic [ref=f161e904]: Congratulations! 🎉
+                    - listitem [ref=f161e905]:
+                      - button "Wishing you the best" [ref=f161e907] [cursor=pointer]:
+                        - generic [ref=f161e908]:
+                          - checkbox "Wishing you the best"
+                          - generic [ref=f161e909]: Wishing you the best
+                    - listitem [ref=f161e910]:
+                      - button "🎉 Excited for you" [ref=f161e912] [cursor=pointer]:
+                        - generic [ref=f161e913]:
+                          - checkbox "🎉 Excited for you"
+                          - generic [ref=f161e914]: 🎉 Excited for you
+                    - listitem [ref=f161e915]:
+                      - button "🎉🎉🎉" [ref=f161e917] [cursor=pointer]:
+                        - generic [ref=f161e918]:
+                          - checkbox "🎉🎉🎉"
+                          - generic [ref=f161e919]: 🎉🎉🎉
+                    - listitem [ref=f161e920]:
+                      - button "👏 Well deserved, Kristine" [ref=f161e922] [cursor=pointer]:
+                        - generic [ref=f161e923]:
+                          - checkbox "👏 Well deserved, Kristine"
+                          - generic [ref=f161e924]: 👏 Well deserved, Kristine
+                  - button "Next" [ref=f161e926] [cursor=pointer]
+                - generic [ref=f161e935]:
+                  - generic [ref=f161e937]:
+                    - status [ref=f161e938]
+                    - textbox "Text editor for creating comment" [ref=f161e941]:
+                      - paragraph [ref=f161e942]: Add a comment...
+                  - generic [ref=f161e943]:
+                    - button "Show Emoji Picker" [ref=f161e944] [cursor=pointer]
+                    - button "Open GIF picker" [ref=f161e950] [cursor=pointer]
+                    - button "Share photo" [ref=f161e954] [cursor=pointer]
+              - link [ref=f161e958] [cursor=pointer]:
+                - /url: https://www.linkedin.com/feed/update/urn:li:activity:7508771701560782848/
+                - generic [ref=f161e960]:
+                  - link [ref=f161e961]:
+                    - /url: https://www.linkedin.com/in/karendunshea/
+                    - generic "Karen Dunshea reacted with Like" [ref=f161e962]:
+                      - figure [aria-hidden] [ref=f161e963]
+                  - link [ref=f161e970]:
+                    - /url: https://www.linkedin.com/in/rakesh-sharma-76b5a913/
+                    - generic "Rakesh Sharma reacted with Like" [ref=f161e971]:
+                      - figure [aria-hidden] [ref=f161e972]
+                  - link [ref=f161e979]:
+                    - /url: https://www.linkedin.com/in/kirsty-p-266ba552/
+                    - generic "Kirsty P. reacted with Celebrate" [ref=f161e980]:
+                      - figure [aria-hidden] [ref=f161e981]
+                  - link [ref=f161e1002]:
+                    - /url: https://www.linkedin.com/in/mel-perkins-53644b2/
+                    - generic "Mel Perkins reacted with Like" [ref=f161e1003]:
+                      - figure [aria-hidden] [ref=f161e1004]
+                  - link [ref=f161e1011]:
+                    - /url: https://www.linkedin.com/in/ruth-toomey-70564418/
+                    - generic "Ruth Toomey reacted with Celebrate" [ref=f161e1012]:
+                      - figure [aria-hidden] [ref=f161e1013]
+                  - link [ref=f161e1028]:
+                    - /url: https://www.linkedin.com/in/belinda-murray-47964012/
+                    - generic "Belinda Murray reacted with Like" [ref=f161e1029]:
+                      - figure [aria-hidden] [ref=f161e1030]
+                  - link [ref=f161e1037]:
+                    - /url: https://www.linkedin.com/in/sue-tracy-bbb89996/
+                    - generic "Sue Tracy reacted with Like" [ref=f161e1038]:
+                      - figure [aria-hidden] [ref=f161e1039]
+                  - link [ref=f161e1046]:
+                    - /url: https://www.linkedin.com/in/manu-hingorani-8632969/
+                    - generic "Manu Hingorani reacted with Like" [ref=f161e1047]:
+                      - figure [aria-hidden] [ref=f161e1048]
+                  - link "View all reactions" [ref=f161e1055]:
+                    - /url: https://www.linkedin.com/feed/update/urn:li:activity:7508771701560782848/
+              - button [ref=f161e1060] [cursor=pointer]:
+                - paragraph [ref=f161e1064]: Most relevant
+              - generic [ref=f161e1071]:
+                - link [ref=f161e1073] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/damian-v-2277466/
+                  - figure [ref=f161e1074]:
+                    - img "View Damian V.’s profile, open to work" [ref=f161e1075]
+                - generic [ref=f161e1076]:
+                  - generic [ref=f161e1078]:
+                    - link "Damian V., Open to work Verified Profile 2nd Trained and experienced human researcher ready to help you get to know your people. Growing systems and service design knowledge. Passion for social justice and cohesion. Human." [ref=f161e1079] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/damian-v-2277466/
+                      - generic [ref=f161e1080]:
+                        - paragraph [ref=f161e1084]:
+                          - generic [ref=f161e1085]:
+                            - generic [ref=f161e1086]: Damian V., Open to work Verified Profile 2nd
+                            - generic [aria-hidden] [ref=f161e1087]:
+                              - text: Damian V.
+                              - generic [ref=f161e1091]: • 2nd
+                        - paragraph [ref=f161e1093]: Trained and experienced human researcher ready to help you get to know your people. Growing systems and service design knowledge. Passion for social justice and cohesion. Human.
+                    - paragraph [ref=f161e1095]: 4d
+                    - button [ref=f161e1097] [cursor=pointer]:
+                      - generic "Follow Damian V." [ref=f161e1098]:
+                        - paragraph [ref=f161e1100]: Follow
+                    - button "View more options for Damian V.’s comment." [ref=f161e1101] [cursor=pointer]
+                  - paragraph [ref=f161e1108]:
+                    - generic [ref=f161e1109]: Nice! Great course, great trainers!
+                  - generic [ref=f161e1112]:
+                    - generic [ref=f161e1113]:
+                      - 'button "Reaction button state: no reaction 0" [ref=f161e1116] [cursor=pointer]':
+                        - generic [ref=f161e1117]:
+                          - 'img "Reaction button state: no reaction" [ref=f161e1118]'
+                          - generic:
+                            - paragraph:
+                              - generic: "0"
+                      - button "Open reactions menu":
+                        - generic [ref=f161e1121] [cursor=pointer]
+                    - generic [ref=f161e1124]:
+                      - button "Reply" [ref=f161e1125] [cursor=pointer]
+                      - paragraph [ref=f161e1130]:
+                        - generic [ref=f161e1131]:
+                          - generic [ref=f161e1132]: "1"
+                          - text: "1"
+              - generic [ref=f161e1137]:
+                - link [ref=f161e1139] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/kristineposthumus/
+                  - figure [ref=f161e1140]:
+                    - img "View Kristine Posthumus’ profile" [ref=f161e1141]
+                - generic [ref=f161e1142]:
+                  - generic [ref=f161e1144]:
+                    - link [ref=f161e1145] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/kristineposthumus/
+                      - generic [ref=f161e1146]:
+                        - generic [ref=f161e1147]:
+                          - paragraph [ref=f161e1150]: Kristine Posthumus
+                          - paragraph [ref=f161e1151]: Author
+                        - paragraph [ref=f161e1153]: Strategy Facilitator | Unsquiggler | Advisor to senior executives in the infrastructure, transport, utilities, and public sectors
+                    - paragraph [ref=f161e1155]: 4d
+                    - button "View more options for Kristine Posthumus’ comment." [ref=f161e1156] [cursor=pointer]
+                  - paragraph [ref=f161e1163]:
+                    - generic [ref=f161e1164]:
+                      - link "View Damian V.’s profile" [ref=f161e1166] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/damian-v-2277466/
+                        - strong [ref=f161e1167]: Damian V.
+                      - text: it was indeed great ☺️
+                  - generic [ref=f161e1169]:
+                    - generic [ref=f161e1170]:
+                      - generic [ref=f161e1171]:
+                        - 'button "Reaction button state: no reaction 1 reaction" [ref=f161e1174] [cursor=pointer]':
+                          - generic [ref=f161e1175]:
+                            - 'img "Reaction button state: no reaction" [ref=f161e1176]'
+                            - paragraph [ref=f161e1179]:
+                              - generic [ref=f161e1180]:
+                                - generic [ref=f161e1181]: 1 reaction
+                                - text: "1"
+                        - button "Open reactions menu":
+                          - generic [ref=f161e1182] [cursor=pointer]
+                      - button "Reply" [ref=f161e1186] [cursor=pointer]
+                    - link [ref=f161e1190] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7508771701560782848/
+              - generic [ref=f161e1201]:
+                - link [ref=f161e1203] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/debra-nixon-1565a786/
+                  - figure [ref=f161e1204]:
+                    - img "View Debra Nixon’s profile" [ref=f161e1205]
+                - generic [ref=f161e1211]:
+                  - generic [ref=f161e1213]:
+                    - link "Debra Nixon Verified Profile 2nd Director at Department of Transport & Main Roads" [ref=f161e1214] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/debra-nixon-1565a786/
+                      - generic [ref=f161e1215]:
+                        - paragraph [ref=f161e1219]:
+                          - generic [ref=f161e1220]:
+                            - generic [ref=f161e1221]: Debra Nixon Verified Profile 2nd
+                            - generic [aria-hidden] [ref=f161e1222]:
+                              - text: Debra Nixon
+                              - generic [ref=f161e1226]: • 2nd
+                        - paragraph [ref=f161e1228]: Director at Department of Transport & Main Roads
+                    - paragraph [ref=f161e1230]: 4d
+                    - button [ref=f161e1232] [cursor=pointer]:
+                      - generic "Follow Debra Nixon" [ref=f161e1233]:
+                        - paragraph [ref=f161e1235]: Follow
+                    - button "View more options for Debra Nixon’s comment." [ref=f161e1236] [cursor=pointer]
+                  - paragraph [ref=f161e1243]:
+                    - generic [ref=f161e1244]: Congratulations! 🎉
+                  - generic [ref=f161e1247]:
+                    - generic [ref=f161e1248]:
+                      - 'button "Reaction button state: no reaction 0" [ref=f161e1251] [cursor=pointer]':
+                        - generic [ref=f161e1252]:
+                          - 'img "Reaction button state: no reaction" [ref=f161e1253]'
+                          - generic:
+                            - paragraph:
+                              - generic: "0"
+                      - button "Open reactions menu":
+                        - generic [ref=f161e1256] [cursor=pointer]
+                    - button "Reply" [ref=f161e1260] [cursor=pointer]
+          - complementary "Aside" [ref=f161e1264]:
+            - generic [ref=f161e1267]:
+              - iframe [ref=f161e1270]:
+                - generic [ref=f163e3]:
+                  - banner [ref=f163e4]:
+                    - link [ref=f163e15] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=http%3A%2F%2Fwww.linkedin.com%2Fcompany%2F3843&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg50L9Ppwjhq6lrZa4BsnaHZKOV_HcRNhQYyp0kGKZ59WTeeuQXspKt4lQNZ5b8nhAVNk6QbE3l_5nPA49zHvIM1LRJrIs9k2TsAS89CCxuCZeRmq18Dpefn9DQXgCE4DJf7l0qHS8OHEqFjdVl2fR2fixZFJ2XOahU9TUBdQFo3wKlXZQnkXNZY0XrVVQOCtvqQbLHQAlcj9QAi6V2Ptv8YjQq6DJHbRZzQAx8zyy2RSxAau0x0x-k4UuQz6-Tk7xtzs_3_wQ7icRgnDwJpRm9tE_1B21jKgRQuH9xF3YY2P21qEEwMDTvDRJP3ttRM27VSj2gB6_U5i6_4i9mvm-LxzAu_PrGy9In-a-QK7wlamPwDLXEcYAZFQSIcIja0kkwfNxW3SuVlDcYagZKEp5jfXp379Kmr63YUK5tZV3isGuGy9GQ1eEOzxPd0N0Wuu3HEcCIxBrWhxbBPiy4-XNUF6GmXazZph2RFbqWzKy4P3S-AG_UhVk7CE3ACa4PyHGXfZNPWzn5aCJ87oqqgEdlfDbRbm1XNukhghqcFpneyB4KFWa6wRAvaIZMT5n8BWw0gPUqBUCd8UT1DzBhXuLLkzJv0Rsaqp7xgsPj1q2LOrn4txShwzVkMDg5xBomCx-efoUR6COAbalMac10z3bbUDuh6RF91dgw-cfEfgZx8byDj-5JFamBPpNO4t7dKKRpJti3fxtmR0b4fhEF0i8xYZqg_yHj9WA6GVfN-LSx9exZmfV2QHSu3fD2Cedb7IPAMN9WJ_B-x6g2J9fVecPC6A3Va_giJDmSUD2WDKhxBT0_57Y4qk_-2kI26TEMQkAaSUyl_GgHnGFyg_Mj-4AOCWho4TyhGCM81gRZjont_kpzAonj7X0pkQ1kAGyS4QRWp5RQN72QVrN0FcjIjDyi9v-7bgee258fhURtmteJv0Kg4YwdOQshvAtJz720dmLv1-8Hs5sWqTrz7LVKTypKhroZI7-H6zzsiko2EjKkZoFyqOPRA2dkSse6YXxt5ZVhhh22Wc1DeVKI6CjPCVD4m0vJ2BzeWv1bUAkWGhazCiyYfQO04JQNboxQ4_cnd9gyUImrJg8Fd02oFlN9agowGruwqI5WgdmRVF37HYzY5k0OmJsj5oeXO8S0nECYv9XWkKD0-fxea4b25hahl5eH0bnmTYNcFvT1sQVKJPP-pPad3GWLSxxxw3-9BY%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_detail_base%22%2C%22trackingId%22%3A%22752a5508-c796-4834-851d-05048d367842%22%7D%2C%22time%22%3A1790586322170%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_detail_base%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                      - img "Hitachi" [ref=f163e16]
+                    - generic [ref=f163e17]:
+                      - paragraph [ref=f163e18]: Promoted
+                      - button "Ad Options" [ref=f163e19] [cursor=pointer]
+                  - generic [ref=f163e25]:
+                    - link [ref=f163e26] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=http%3A%2F%2Fwww.linkedin.com%2Fcompany%2F3843&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg50L9Ppwjhq6lrZa4BsnaHZKOV_HcRNhQYyp0kGKZ59WTeeuQXspKt4lQNZ5b8nhAVNk6QbE3l_5nPA49zHvIM1LRJrIs9k2TsAS89CCxuCZeRmq18Dpefn9DQXgCE4DJf7l0qHS8OHEqFjdVl2fR2fixZFJ2XOahU9TUBdQFo3wKlXZQnkXNZY0XrVVQOCtvqQbLHQAlcj9QAi6V2Ptv8YjQq6DJHbRZzQAx8zyy2RSxAau0x0x-k4UuQz6-Tk7xtzs_3_wQ7icRgnDwJpRm9tE_1B21jKgRQuH9xF3YY2P21qEEwMDTvDRJP3ttRM27VSj2gB6_U5i6_4i9mvm-LxzAu_PrGy9In-a-QK7wlamPwDLXEcYAZFQSIcIja0kkwfNxW3SuVlDcYagZKEp5jfXp379Kmr63YUK5tZV3isGuGy9GQ1eEOzxPd0N0Wuu3HEcCIxBrWhxbBPiy4-XNUF6GmXazZph2RFbqWzKy4P3S-AG_UhVk7CE3ACa4PyHGXfZNPWzn5aCJ87oqqgEdlfDbRbm1XNukhghqcFpneyB4KFWa6wRAvaIZMT5n8BWw0gPUqBUCd8UT1DzBhXuLLkzJv0Rsaqp7xgsPj1q2LOrn4txShwzVkMDg5xBomCx-efoUR6COAbalMac10z3bbUDuh6RF91dgw-cfEfgZx8byDj-5JFamBPpNO4t7dKKRpJti3fxtmR0b4fhEF0i8xYZqg_yHj9WA6GVfN-LSx9exZmfV2QHSu3fD2Cedb7IPAMN9WJ_B-x6g2J9fVecPC6A3Va_giJDmSUD2WDKhxBT0_57Y4qk_-2kI26TEMQkAaSUyl_GgHnGFyg_Mj-4AOCWho4TyhGCM81gRZjont_kpzAonj7X0pkQ1kAGyS4QRWp5RQN72QVrN0FcjIjDyi9v-7bgee258fhURtmteJv0Kg4YwdOQshvAtJz720dmLv1-8Hs5sWqTrz7LVKTypKhroZI7-H6zzsiko2EjKkZoFyqOPRA2dkSse6YXxt5ZVhhh22Wc1DeVKI6CjPCVD4m0vJ2BzeWv1bUAkWGhazCiyYfQO04JQNboxQ4_cnd9gyUImrJg8Fd02oFlN9agowGruwqI5WgdmRVF37HYzY5k0OmJsj5oeXO8S0nECYv9XWkKD0-fxea4b25hahl5eH0bnmTYNcFvT1sQVKJPP-pPad3GWLSxxxw3-9BY%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_detail_base%22%2C%22trackingId%22%3A%22752a5508-c796-4834-851d-05048d367842%22%7D%2C%22time%22%3A1790586322170%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_detail_base%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                      - heading "Hitachi" [level=2] [ref=f163e27]
+                    - paragraph [ref=f163e29]: Hitachi is driving what’s next in the U.S.
+                    - paragraph [ref=f163e31]: Follow to see how we're digitalizing infrastructure.
+                    - generic [ref=f163e32]:
+                      - generic [ref=f163e33]:
+                        - img "👽Kimberly" [ref=f163e34]
+                        - img "Eve" [ref=f163e35]
+                        - img "Jenny" [ref=f163e36]
+                      - paragraph [ref=f163e37]: 👽Kimberly & 400 other connections also follow
+                    - link "Follow" [ref=f163e38] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=http%3A%2F%2Fwww.linkedin.com%2Fcompany%2F3843%3FisFollowingPage%3Dtrue&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg50L9P8nEluUjK2r_d5CZOhj1BxYNML10kdqAvzGBYtSnNQerOO-GrT_GJioj2mF_pHKp95qqhGiTTYbpNSq0_jWEp_8MEtfAhuwdiXq_43gi44Jlg5BDytqmBm21-SVBrx82vharNdSQYRb_ahswjYivNXxQs77YLjT0UU7IwO-ZRrsQc1LkSdv-mXICHG-_E-wYvDHSA2_Fs_7Dc3Ng7j4OjkKQtvtJnvJqCVBj2BAWleCaedEsxwQbjbHEJ3og68MNhSxwFGv43S42dM99wviB07J3IDfepJ0Aw7uWQRmN7ZRj9quHsVt78bmD5WQdXNxwq2uniX3HwzOQDbz1k0_POPOB_Ns9BmUYlmOKstIgzLwpmcvjA087AIQffGOogSSkN_qCqJxR-wU0kmN6ny4wS0poKAb3_sA1Nj9Zhf6dAA_xOhUJ3Rts2Hmd8dCYwRyJh7QYxJ3nNxI2VPlIeMZwbZYuHHD4G2n0hnTuGerqYoqFjt8Pfu7myPsSetP6Gx6dUjp4HfGjNdlsjsOjJDE6HQQ1X-A8_o9nXzLgEiB_Y2W_1-22rSeXUWT1bGA7pn0beP5h-jIICE8SgwuIxkD0iQUchv2ZL4RaY50LrU3ujtajcIkdLfdEalf6M0nZKQjCnZLQP96h75Te5dpTqsTicDbWlk-xEUU_EEeRRhl30pA01yBqOxHmipJRJ1CiyYKlWgJGj6Mzu0S3jacq_lgXsHJ72kPLKMzaHWjIlL5eS0JR4cMmaZIzQ-R5Gx4ZOf61LVN7K0byuITtQen-BmWmn69ci80XzXu7j-6g7NkzdA-hIwrbsHFFPcpyuQdvrNXZjfwz5euZeVdRN0lTE5cBOLuHqa06VhAsAdHJJFU-g33XxpdCf8OYgz_E9c2g7fLonJXEqgKOxSqT5e7bjZ4ZWgx1DFEzxwCwx091jdsCNdLpE_Dk0ex5O8YKgQHH63kt5rH4J2ZfLSCeAB6pAQ7AeKy3kYRGYNJGTrYPqZdKDCMSwJhcBFWiC5LqE1H0zMNYWnQU4k74kjvy0GxVQZdiKrW6zhWcTYYBnsbjqb-SziNxXKnJ_nzJxxFXoZzhtemyrt6f6DroSpo-mHosFk_K0HhglQn3xjEBO8bthIJ_VfESRa1zJrX7I891kqg5WQUItV_n5iAr1131rn_Tf29disi5LtzMTSn112t-ikGVkSKRLw-HMiJBtmY5QFCdIX_qplLBlZh8lKX4j0fGF4QuA6oPReOZSA%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_detail_base%22%2C%22trackingId%22%3A%22246253ca-c15b-43e0-a206-a97ca2af5f15%22%7D%2C%22time%22%3A1790586322170%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_detail_base%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+              - generic [ref=f161e1271]:
+                - generic [ref=f161e1272]:
+                  - link [ref=f161e1273] [cursor=pointer]:
+                    - /url: https://about.linkedin.com/
+                    - paragraph [ref=f161e1274]: About
+                  - link [ref=f161e1275] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/accessibility/
+                    - paragraph [ref=f161e1276]: Accessibility
+                  - link [ref=f161e1277] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/help/linkedin/
+                    - paragraph [ref=f161e1278]: Help Center
+                  - button [ref=f161e1279] [cursor=pointer]:
+                    - paragraph [ref=f161e1281]: Privacy & Terms
+                  - link [ref=f161e1284] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/help/linkedin/answer/62931/
+                    - paragraph [ref=f161e1285]: Ad Choices
+                  - link [ref=f161e1286] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/ad/start/?trk=n_nav_ads_rr
+                    - paragraph [ref=f161e1287]: Advertising
+                  - button [ref=f161e1288] [cursor=pointer]:
+                    - paragraph [ref=f161e1290]: Business Services
+                  - link [ref=f161e1293] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mobile/
+                    - paragraph [ref=f161e1294]: Get the LinkedIn app
+                  - link [ref=f161e1295] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/feed/update/urn:li:activity:7508771701560782848/
+                    - paragraph [ref=f161e1296]: More
+                - paragraph [ref=f161e1300]: LinkedIn Corporation © 2026
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - complementary:
+            - generic [ref=f161e1302]:
+              - generic [ref=f161e1303]:
+                - generic [ref=f161e1305] [cursor=pointer]:
+                  - img "Kelly Irving" [ref=f161e1307]
+                  - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f161e1308]:
+                    - generic [ref=f161e1309]:
+                      - generic [aria-hidden] [ref=f161e1310]: Messaging
+                      - generic [ref=f161e1311]: You are on the messaging overlay. Press enter to open the list of conversations.
+                - generic [ref=f161e1312]:
+                  - button [ref=f161e1314] [cursor=pointer]:
+                    - img "Open messenger dropdown menu" [ref=f161e1315]
+                  - button "Compose message" [ref=f161e1318] [cursor=pointer]
+                  - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f161e1322] [cursor=pointer]
+              - generic [ref=f161e1326]:
+                - heading "Page inboxes" [level=3] [ref=f161e1328]
+                - generic [ref=f161e1329] [cursor=pointer]:
+                  - generic [ref=f161e1330]: Click to see affiliated inboxes
+                  - button "Page inboxes" [ref=f161e1331]
+          - complementary "AI-powered assistant to get help with your career, jobs etc"
+  - iframe [ref=f161e1301]:
+    - generic [ref=f164e13]:
+      - generic:
+        - region "Toast message":
+          - heading "0 notifications total" [level=2] [ref=f164e15]
+          - alert
+      - region [ref=f164e12]
+      - generic [ref=f164e16]:
+        - generic [ref=f164e18]:
+          - button "Skip to search" [ref=f164e19] [cursor=pointer]
+          - button "Skip to main content" [ref=f164e21] [cursor=pointer]
+          - button "Keyboard shortcuts" [ref=f164e23] [cursor=pointer]
+          - button "Close jump menu" [ref=f164e25] [cursor=pointer]
+        - banner "Global Navigation" [ref=f164e29]:
+          - generic [ref=f164e30]:
+            - link [ref=f164e31] [cursor=pointer]:
+              - /url: https://www.linkedin.com/feed/
+              - img "LinkedIn" [ref=f164e34]
+            - combobox "I’m looking for..." [ref=f164e40]
+            - navigation "Primary Navigation" [ref=f164e41]:
+              - list [ref=f164e42]:
+                - listitem [ref=f164e43]:
+                  - link "new feed updates notifications Home" [ref=f164e44] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/feed/
+                    - generic [ref=f164e45]: new feed updates notifications
+                    - generic "Home" [ref=f164e54]
+                - listitem [ref=f164e55]:
+                  - link "31 new network updates notifications My Network" [ref=f164e56] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork/?
+                    - generic [ref=f164e58]:
+                      - generic [aria-hidden] [ref=f164e59]: "31"
+                      - generic [ref=f164e60]: 31 new network updates notifications
+                    - generic "My Network" [ref=f164e66]
+                - listitem [ref=f164e67]:
+                  - link "Jobs" [ref=f164e68] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/?
+                - listitem [ref=f164e75]:
+                  - link "Messaging" [ref=f164e76] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/messaging/?
+                - listitem [ref=f164e83]:
+                  - link "25 new notifications Notifications" [ref=f164e84] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/notifications/?
+                    - generic [ref=f164e86]:
+                      - generic [aria-hidden] [ref=f164e87]: "25"
+                      - generic [ref=f164e88]: 25 new notifications
+                    - generic "Notifications" [ref=f164e94]
+                - listitem [ref=f164e95]:
+                  - button [ref=f164e97] [cursor=pointer]:
+                    - img "Kelly Irving" [ref=f164e98]
+                    - generic [ref=f164e99]: Me
+                - listitem [ref=f164e102]:
+                  - button "For Business" [ref=f164e104] [cursor=pointer]
+                - listitem [ref=f164e113]:
+                  - link "3 new Campaign Manager notifications Advertise" [ref=f164e114] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/campaignmanager/accounts?shouldShowNotificationPanelOnRender=true
+                    - generic [ref=f164e116]:
+                      - generic [aria-hidden] [ref=f164e117]: "3"
+                      - generic [ref=f164e118]: 3 new Campaign Manager notifications
+                    - generic "Advertise" [ref=f164e125]

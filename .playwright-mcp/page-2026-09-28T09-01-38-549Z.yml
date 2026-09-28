@@ -1,0 +1,300 @@
+- generic [ref=f87e2]:
+  - heading "0 notifications" [level=2] [ref=f87e3]
+  - generic [ref=f87e4]:
+    - generic:
+      - generic "Skip navigation menu":
+        - button "Close jump menu" [ref=f87e6] [cursor=pointer]
+    - generic [ref=f87e9]:
+      - banner [ref=f87e11]:
+        - generic [ref=f87e14]:
+          - button [ref=f87e15] [cursor=pointer]
+          - generic [ref=f87e17]:
+            - status [ref=f87e18]
+            - search [ref=f87e19]:
+              - textbox "I'm looking for…" [ref=f87e23]
+          - generic [ref=f87e25]:
+            - navigation [ref=f87e29]:
+              - list [ref=f87e30]:
+                - listitem [ref=f87e31]:
+                  - button "Home, 1 new notification" [ref=f87e32] [cursor=pointer]:
+                    - generic [ref=f87e36]: Home
+                - listitem [ref=f87e38]:
+                  - link "My Network, 31 new notifications" [ref=f87e39] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork
+                    - generic [ref=f87e40]: "31"
+                    - generic [ref=f87e44]: My Network
+                - listitem [ref=f87e46]:
+                  - link "Jobs, 0 new notifications" [ref=f87e47] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/
+                    - generic [ref=f87e51]: Jobs
+                - listitem [ref=f87e53]:
+                  - link "Messaging, 0 new notifications" [ref=f87e54] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/messaging/
+                    - generic [ref=f87e58]: Messaging
+                - listitem [ref=f87e60]:
+                  - link "Notifications, 25 new notifications" [ref=f87e61] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/notifications/
+                    - generic [ref=f87e62]: "25"
+                    - generic [ref=f87e66]: Notifications
+                - listitem [ref=f87e68]:
+                  - button "Me" [ref=f87e69] [cursor=pointer]:
+                    - figure [aria-hidden] [ref=f87e71]
+            - navigation [ref=f87e77]:
+              - list [ref=f87e78]:
+                - listitem [ref=f87e79]:
+                  - button "For Business" [ref=f87e80] [cursor=pointer]
+                - listitem [ref=f87e87]:
+                  - link "Advertise, 3 new notifications" [ref=f87e88] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/campaignmanager/accounts/
+                    - generic [ref=f87e89]: "3"
+                    - generic [ref=f87e92]: Advertise
+      - main [ref=f87e96]:
+        - generic [ref=f87e98]:
+          - complementary "Sidebar" [ref=f87e99]:
+            - generic [ref=f87e102]:
+              - generic [ref=f87e106]:
+                - link [ref=f87e107] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/kelly-irving/
+                  - generic [ref=f87e108]:
+                    - generic [ref=f87e109]:
+                      - figure [aria-hidden] [ref=f87e110]
+                      - paragraph [ref=f87e112]: Premium
+                    - figure [ref=f87e115]
+                - generic [ref=f87e116]:
+                  - link [ref=f87e117] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic "Kelly Irving, Book coach and editor for changemakers and trailblazers / Publishing gymnast, Anglesea, Victoria, Premium profile" [ref=f87e118]:
+                      - paragraph [ref=f87e121]: Kelly Irving
+                      - paragraph [ref=f87e124]: Book coach and editor for changemakers and trailblazers / Publishing gymnast
+                      - paragraph [ref=f87e125]: Anglesea, Victoria
+                  - link [ref=f87e126] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic [ref=f87e127]:
+                      - figure [aria-hidden] [ref=f87e128]
+                      - paragraph [ref=f87e129]: Expert Author Community
+              - generic [ref=f87e131]:
+                - menu [ref=f87e132]:
+                  - link [ref=f87e134] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/me/profile-views/
+                    - generic "Profile viewers 287" [ref=f87e135]:
+                      - paragraph [ref=f87e137]: Profile viewers
+                      - paragraph [ref=f87e138]: "287"
+                  - link [ref=f87e140] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/analytics/creator/content/
+                    - generic "Post impressions 856" [ref=f87e141]:
+                      - paragraph [ref=f87e143]: Post impressions
+                      - paragraph [ref=f87e144]: "856"
+                - menu [ref=f87e145]:
+                  - link [ref=f87e147] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/premium/my-premium/
+                    - paragraph [ref=f87e150]: Your Premium features
+          - region "Primary content" [ref=f87e151]:
+            - generic [ref=f87e157]:
+              - listitem [ref=f87e161]:
+                - generic [ref=f87e163]:
+                  - heading "Feed post" [level=2]
+                  - generic [ref=f87e165]:
+                    - link [ref=f87e166] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/karen-stein-coaching/
+                      - figure [ref=f87e167]
+                    - generic [ref=f87e169]:
+                      - link [ref=f87e172] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/karen-stein-coaching/
+                        - generic "Karen Stein Executive Top Voice Profile 1st" [ref=f87e174]:
+                          - paragraph [ref=f87e177]: Karen Stein
+                          - paragraph [ref=f87e179]:
+                            - generic [ref=f87e180]: • 1st
+                      - paragraph [ref=f87e184]: Midlife Leadership Series 🔸Executive Coach, PCC for midlife leaders🔸Certified Menopause Coach🔸LinkedIn Top Voice 🔸Keynote Speaker🔸”M.A.D” about menopause🔸Award-winning Author ‘’Be Your Own Leadership Coach’’
+                      - link [ref=f87e188] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/services/page/b14571337882597815/
+                        - paragraph [ref=f87e189]: View my services
+                      - paragraph [ref=f87e191]: 9h
+                      - link "Karen Stein Executive Top Voice Profile 1st":
+                        - /url: https://www.linkedin.com/in/karen-stein-coaching/
+                    - button "Open control menu for post by Karen Stein" [ref=f87e192] [cursor=pointer]
+                  - paragraph [ref=f87e195]:
+                    - generic [ref=f87e196]:
+                      - text: Talking about perimenopause at work plays an important role in lifting awareness and understanding.
+                      - strong [ref=f87e197]: Sonya Choi La Rosa (ACC)
+                      - text: kindly provided this opportunity to do so on her wonderful podcast ‘Style & Strategy with Sonya’.We enjoyed a meaningful conversation on what I believe is one of the best podcasts I have been on!I hope you pause to listen and share this with your colleagues and friends. We hope that it will support them in their journey in the workplace and help them continue their longterm sustainable careers through perimenopause and menopause.Be sure to check the comments for the links to the podcast.
+                      - strong [ref=f87e198]: "#madaboutmenopause"
+                      - strong [ref=f87e199]: "#menopauseatwork"
+                      - strong [ref=f87e200]: "#madaboutmenopauseatwork"
+                      - text: =======================I’m Karen Stein, an Executive Coach, and Certified Menopause Coach who is “M.A.D” about menopause™️ (making a difference at work). I support midlife leaders to have long term sustainable careers, filled with confidence, clarity and connectedness.
+                      - link "Open http://www.karensteincoaching.com" [ref=f87e202] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/safety/go/?url=http%3A%2F%2Fwww%2Ekarensteincoaching%2Ecom&urlhash=jpMi&mt=ZvukkRHtyb08B7DNIJ2Kk955C4ddChmcx5XZjzt6s57uYDCZhccLKrqULaU3K-ADXzgkRxofVOVkbnXfEoQTpFR2575zKShh58jFHYjhD2oC1vl-ANSmOU8&isSdui=true
+                        - strong [ref=f87e203]: www.karensteincoaching.com
+                      - link "Open mailto:karensteincoaching@gmail.com" [ref=f87e205] [cursor=pointer]:
+                        - /url: mailto:karensteincoaching@gmail.com
+                        - strong [ref=f87e206]:
+                          - strong [ref=f87e207]: karensteincoaching@gmail.com
+                  - generic [ref=f87e208]:
+                    - generic [ref=f87e209]:
+                      - link [ref=f87e210] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/schoilarosa/
+                        - figure [ref=f87e211]
+                      - generic [ref=f87e213]:
+                        - link [ref=f87e216] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/schoilarosa/
+                          - generic "Sonya Choi La Rosa (ACC) Verified Profile 1st" [ref=f87e218]:
+                            - paragraph [ref=f87e221]: Sonya Choi La Rosa (ACC)
+                            - paragraph [ref=f87e223]:
+                              - generic [ref=f87e224]: • 1st
+                        - paragraph [ref=f87e228]: Business Transformation Leader | Leadership Presence Coach | Partnering with women in corporate leadership to own their presence as they step into bigger rooms
+                        - paragraph [ref=f87e230]: 2d • Edited
+                        - link "Sonya Choi La Rosa (ACC) Verified Profile 1st":
+                          - /url: https://www.linkedin.com/in/schoilarosa/
+                    - link:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:ugcPost:7507692600565575680/
+                    - paragraph [ref=f87e231]:
+                      - link [ref=f87e232] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/feed/update/urn:li:ugcPost:7507692600565575680/
+                        - generic [ref=f87e233]: She cried in the car on the way to work. Pulled herself together in the lift, did the day, then cried again on the drive home.Nothing was wrong at work or at home.
+                      - link "View Karen Stein’s profile" [ref=f87e235] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/karen-stein-coaching/
+                        - strong [ref=f87e236]: Karen Stein
+                      - text: "spent 29 years at Deloitte, 24 of them as a partner, and by then she was coaching women partners through exactly the career stage she was standing in. Her hair started thinning. Leg cramps were wrecking her sleep. Her blood pressure spiked enough that she was sent to a cardiologist for stress tests.Every test came back clear. Nobody said the word perimenopause.She found it in her own research, and then asked the question that became her body of work. If that is happening to me, what is happening to every other woman in the building?Here is why it belongs in a leadership conversation rather than a health one. When this arrives, a leader does not stop. She compensates. She over-prepares for the meeting she used to walk into cold. She books the hard conversation for ten in the morning because she knows what she is like by four. She says a little less in the rooms she used to run.Which reads, from the outside, like confidence going.Karen's words, and the reason I wanted this conversation on the show:\"It's not that they've lost their capability, it's just that they've lost their capacity to act in that moment.\"Capability is not what moved. Capacity did, temporarily, and it comes back.The full conversation is out now on Style & Strategy. Tune into the podcast here:"
+                      - link "Open https://lnkd.in/g8T45mhp" [ref=f87e238] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2Fg8T45mhp&urlhash=-Fs5&mt=OIg-4xywpOZ9g5vaAOwWXvhBu2yJPqkKep1JRgL304LbmU2hyrlCj7pTS50Lw1HpJYdpdAK6BWrloAY4NEOKlKsq7bTAxfHjUQj6xWaidRzX31WUhqVGNlQ&isSdui=true
+                        - strong [ref=f87e239]: https://lnkd.in/g8T45mhp
+                      - text: or on your favourite podcast player.
+                    - button "Play video" [ref=f87e244] [cursor=pointer]
+                  - generic [ref=f87e247]:
+                    - link [ref=f87e248] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "Switch to different account" [ref=f87e249]:
+                        - figure [aria-hidden] [ref=f87e250]
+                    - generic [ref=f87e252]:
+                      - 'button "Reaction button state: no reaction" [ref=f87e255] [cursor=pointer]':
+                        - generic [ref=f87e256]: "3"
+                      - button "Open reactions menu"
+                    - button "Comment" [ref=f87e261] [cursor=pointer]:
+                      - generic [ref=f87e262]: "2"
+                    - button "Repost" [ref=f87e267] [cursor=pointer]
+                    - link "Send" [ref=f87e270] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                    - link [ref=f87e273] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "3 reactions" [ref=f87e274]
+                - generic [ref=f87e282]:
+                  - status [ref=f87e285]
+                  - generic [ref=f87e286]:
+                    - button "Show Emoji Picker" [ref=f87e287] [cursor=pointer]
+                    - button "Open GIF picker" [ref=f87e292] [cursor=pointer]
+                    - button "Share photo" [ref=f87e295] [cursor=pointer]
+              - link:
+                - /url: https://www.linkedin.com/
+              - generic [ref=f87e298]:
+                - link:
+                  - /url: https://www.linkedin.com/
+                - generic [ref=f87e299]:
+                  - link:
+                    - /url: https://www.linkedin.com/
+                  - link [ref=f87e300] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/andrew-cavenor-0b31aa57/
+                    - generic "Andrew Cavenor reacted with Like" [ref=f87e301]:
+                      - figure [aria-hidden] [ref=f87e302]
+                  - link [ref=f87e304] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/jen-roberts-the-sleep-sociologist/
+                    - generic "Jen Roberts reacted with Love" [ref=f87e305]:
+                      - figure [aria-hidden] [ref=f87e306]
+                  - link [ref=f87e308] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/mr-raz-khan/
+                    - generic "MR RAZ KHAN and Consultant reacted with Love" [ref=f87e309]:
+                      - figure [aria-hidden] [ref=f87e310]
+              - button [ref=f87e312] [cursor=pointer]:
+                - paragraph [ref=f87e316]: Most relevant
+              - generic [ref=f87e322]:
+                - link [ref=f87e324] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/karen-stein-coaching/
+                  - figure [ref=f87e325]
+                - generic [ref=f87e326]:
+                  - generic [ref=f87e328]:
+                    - link [ref=f87e329] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/karen-stein-coaching/
+                      - generic [ref=f87e330]:
+                        - generic [ref=f87e331]:
+                          - paragraph [ref=f87e334]: Karen Stein
+                          - paragraph [ref=f87e335]: Author
+                        - paragraph [ref=f87e337]: Midlife Leadership Series 🔸Executive Coach, PCC for midlife leaders🔸Certified Menopause Coach🔸LinkedIn Top Voice 🔸Keynote Speaker🔸”M.A.D” about menopause🔸Award-winning Author ‘’Be Your Own Leadership Coach’’
+                    - paragraph [ref=f87e339]: 9h
+                    - button "View more options for Karen Stein’s comment." [ref=f87e340] [cursor=pointer]
+                  - generic [ref=f87e344]:
+                    - paragraph [ref=f87e346]:
+                      - generic [ref=f87e347]:
+                        - text: "The full conversation is out now on Style & Strategy. Tune into the podcast here:"
+                        - link "Open https://lnkd.in/g8T45mhp" [ref=f87e349] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2Fg8T45mhp&urlhash=-Fs5&mt=FdInqgIVrK4FtdgQR1ytdSOBWmPaMeFnwVreJFXwq98LccY1x92jm4BYerlFe_zgzg_PwSKfm16Leo_eQm2RufSC2UKP4qwvCylzBxqac2Bd721wRwimtYJHhb40hSk_m8XoBzvo3-H7ogW-1d3X6ta2QcYgTYk&isSdui=true
+                          - strong [ref=f87e350]: https://lnkd.in/g8T45mhp
+                        - text: or on your favourite podcast player.
+                    - link [ref=f87e352] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fwww%2Esonyachoilarosa%2Ecom%2Fpodcasts%2Fstyle-strategy-with-sonya%2Fepisodes%2F2149258935&urlhash=lo37&mt=F7saVlwqGz8a-jdV9lxOf62F11Dogrxpl_FIC-GTg50uhNQPIbXLOgrfZCOnwejP68y_JJahl3JTAoVeTRrTaXDtgrjILnP5e-28kWiyFcJQGhsCZBlYMmiHLPWmKQmmUUMLYOczeUz1kw10HiYeFwib3pW2vJ8&isSdui=true
+                      - generic [ref=f87e353]:
+                        - figure [aria-hidden] [ref=f87e354]
+                        - generic [ref=f87e355]:
+                          - paragraph [ref=f87e357]: "102: She Hasn't Lost Capability. She's Lost Capacity."
+                          - paragraph [ref=f87e359]: sonyachoilarosa.com
+                  - generic [ref=f87e362]:
+                    - generic [ref=f87e363]:
+                      - button "0" [ref=f87e366] [cursor=pointer]:
+                        - generic [ref=f87e367]:
+                          - generic:
+                            - paragraph:
+                              - generic: "0"
+                      - button "Open reactions menu"
+                    - button "Reply" [ref=f87e371] [cursor=pointer]
+              - generic [ref=f87e378]:
+                - link [ref=f87e380] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/karen-stein-coaching/
+                  - figure [ref=f87e381]
+                - generic [ref=f87e382]:
+                  - generic [ref=f87e384]:
+                    - link [ref=f87e385] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/karen-stein-coaching/
+                      - generic [ref=f87e386]:
+                        - generic [ref=f87e387]:
+                          - paragraph [ref=f87e390]: Karen Stein
+                          - paragraph [ref=f87e391]: Author
+                        - paragraph [ref=f87e393]: Midlife Leadership Series 🔸Executive Coach, PCC for midlife leaders🔸Certified Menopause Coach🔸LinkedIn Top Voice 🔸Keynote Speaker🔸”M.A.D” about menopause🔸Award-winning Author ‘’Be Your Own Leadership Coach’’
+                    - paragraph [ref=f87e395]: 9h
+                    - button "View more options for Karen Stein’s comment." [ref=f87e396] [cursor=pointer]
+                  - paragraph [ref=f87e402]:
+                    - generic [ref=f87e403]: Sophie Bretag have a listen! I discuss your book at the end 💗
+                  - generic [ref=f87e406]:
+                    - generic [ref=f87e407]:
+                      - button "0" [ref=f87e410] [cursor=pointer]:
+                        - generic [ref=f87e411]:
+                          - generic:
+                            - paragraph:
+                              - generic: "0"
+                      - button "Open reactions menu"
+                    - button "Reply" [ref=f87e415] [cursor=pointer]
+          - complementary "Aside" [ref=f87e497]:
+            - generic [ref=f87e503]:
+              - generic [ref=f87e504]:
+                - link [ref=f87e505] [cursor=pointer]:
+                  - /url: https://about.linkedin.com/
+                  - paragraph [ref=f87e506]: About
+                - link [ref=f87e507] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/accessibility/
+                  - paragraph [ref=f87e508]: Accessibility
+                - link [ref=f87e509] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin/
+                  - paragraph [ref=f87e510]: Help Center
+                - button [ref=f87e511] [cursor=pointer]:
+                  - paragraph [ref=f87e513]: Privacy & Terms
+                - link [ref=f87e515] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin/answer/62931/
+                  - paragraph [ref=f87e516]: Ad Choices
+                - link [ref=f87e517] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/ad/start/?trk=n_nav_ads_rr
+                  - paragraph [ref=f87e518]: Advertising
+                - button [ref=f87e519] [cursor=pointer]:
+                  - paragraph [ref=f87e521]: Business Services
+                - link [ref=f87e523] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/mobile/
+                  - paragraph [ref=f87e524]: Get the LinkedIn app
+                - link [ref=f87e525] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/
+                  - paragraph [ref=f87e526]: More
+              - paragraph [ref=f87e529]: LinkedIn Corporation © 2026

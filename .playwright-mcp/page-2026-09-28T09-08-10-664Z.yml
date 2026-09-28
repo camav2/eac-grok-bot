@@ -1,0 +1,392 @@
+- generic [ref=f231e2]:
+  - heading "0 notifications" [level=2] [ref=f231e3]
+  - generic [ref=f231e4]:
+    - generic:
+      - generic "Skip navigation menu":
+        - button "Close jump menu" [ref=f231e6] [cursor=pointer]
+    - generic [ref=f231e9]:
+      - banner [ref=f231e11]:
+        - generic [ref=f231e14]:
+          - button [ref=f231e15] [cursor=pointer]
+          - generic [ref=f231e17]:
+            - status [ref=f231e18]
+            - search [ref=f231e19]:
+              - textbox "I'm looking for…" [ref=f231e23]
+          - generic [ref=f231e25]:
+            - navigation [ref=f231e29]:
+              - list [ref=f231e30]:
+                - listitem [ref=f231e31]:
+                  - button "Home, 1 new notification" [ref=f231e32] [cursor=pointer]:
+                    - generic [ref=f231e36]: Home
+                - listitem [ref=f231e38]:
+                  - link "My Network, 31 new notifications" [ref=f231e39] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork
+                    - generic [ref=f231e40]: "31"
+                    - generic [ref=f231e44]: My Network
+                - listitem [ref=f231e46]:
+                  - link "Jobs, 0 new notifications" [ref=f231e47] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/
+                    - generic [ref=f231e51]: Jobs
+                - listitem [ref=f231e53]:
+                  - link "Messaging, 0 new notifications" [ref=f231e54] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/messaging/
+                    - generic [ref=f231e58]: Messaging
+                - listitem [ref=f231e60]:
+                  - link "Notifications, 25 new notifications" [ref=f231e61] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/notifications/
+                    - generic [ref=f231e62]: "25"
+                    - generic [ref=f231e66]: Notifications
+                - listitem [ref=f231e68]:
+                  - button "Me" [ref=f231e69] [cursor=pointer]:
+                    - figure [aria-hidden] [ref=f231e71]
+            - navigation [ref=f231e77]:
+              - list [ref=f231e78]:
+                - listitem [ref=f231e79]:
+                  - button "For Business" [ref=f231e80] [cursor=pointer]
+                - listitem [ref=f231e87]:
+                  - link "Advertise, 3 new notifications" [ref=f231e88] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/campaignmanager/accounts/
+                    - generic [ref=f231e89]: "3"
+                    - generic [ref=f231e92]: Advertise
+      - main [ref=f231e96]:
+        - generic [ref=f231e98]:
+          - complementary "Sidebar" [ref=f231e99]:
+            - generic [ref=f231e102]:
+              - generic [ref=f231e106]:
+                - link [ref=f231e107] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/kelly-irving/
+                  - generic [ref=f231e108]:
+                    - generic [ref=f231e109]:
+                      - figure [aria-hidden] [ref=f231e110]
+                      - paragraph [ref=f231e112]: Premium
+                    - figure [ref=f231e115]
+                - generic [ref=f231e116]:
+                  - link [ref=f231e117] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic "Kelly Irving, Book coach and editor for changemakers and trailblazers / Publishing gymnast, Anglesea, Victoria, Premium profile" [ref=f231e118]:
+                      - paragraph [ref=f231e121]: Kelly Irving
+                      - paragraph [ref=f231e124]: Book coach and editor for changemakers and trailblazers / Publishing gymnast
+                      - paragraph [ref=f231e125]: Anglesea, Victoria
+                  - link [ref=f231e126] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic [ref=f231e127]:
+                      - figure [aria-hidden] [ref=f231e128]
+                      - paragraph [ref=f231e129]: Expert Author Community
+              - generic [ref=f231e131]:
+                - menu [ref=f231e132]:
+                  - link [ref=f231e134] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/me/profile-views/
+                    - generic "Profile viewers 287" [ref=f231e135]:
+                      - paragraph [ref=f231e137]: Profile viewers
+                      - paragraph [ref=f231e138]: "287"
+                  - link [ref=f231e140] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/analytics/creator/content/
+                    - generic "Post impressions 856" [ref=f231e141]:
+                      - paragraph [ref=f231e143]: Post impressions
+                      - paragraph [ref=f231e144]: "856"
+                - menu [ref=f231e145]:
+                  - link [ref=f231e147] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/premium/my-premium/
+                    - paragraph [ref=f231e150]: Your Premium features
+          - region "Primary content" [ref=f231e151]:
+            - generic [ref=f231e157]:
+              - listitem [ref=f231e161]:
+                - generic [ref=f231e163]:
+                  - heading "Feed post" [level=2]
+                  - generic [ref=f231e165]:
+                    - link [ref=f231e166] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/ericem/
+                      - figure [ref=f231e167]
+                    - generic [ref=f231e169]:
+                      - link [ref=f231e172] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/ericem/
+                        - generic "Eric Em Premium Profile 1st" [ref=f231e174]:
+                          - paragraph [ref=f231e177]: Eric Em
+                          - paragraph [ref=f231e179]:
+                            - generic [ref=f231e180]: • 1st
+                      - paragraph [ref=f231e184]: Keynote Speaker, MC & Storyteller | Refugee-turned-Engineering Leader (20+ yrs) | Guiding teams to belong, lead through change & work with AI across generations | Voted Best Global Tribe Member 2025
+                      - link [ref=f231e188] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fbeacons%2Eai%2Fericem&urlhash=b_dJ&mt=DWFzU3NmHIrNTmtNvVmQ9_MJvq6N6CR78tw1mLzBMeLKRaOOiGD1U_nX744MFjEm6o2V6jPpsD_QGFnkD8139npnS3YFmzkW3sDO&isSdui=true
+                        - paragraph [ref=f231e189]: Visit my website
+                      - paragraph [ref=f231e191]: 5h
+                      - link "Eric Em Premium Profile 1st":
+                        - /url: https://www.linkedin.com/in/ericem/
+                    - button "Open control menu for post by Eric Em" [ref=f231e192] [cursor=pointer]
+                  - paragraph [ref=f231e195]:
+                    - generic [ref=f231e196]:
+                      - text: Everyone says strength is never breaking. That's wrong.The strongest people I know have broken. More than once.What makes them strong is what they did next.That's what STRENGTH is about at our next Stories That Stir Brisbane.Six storytellers. Six titles that already say so much:1️⃣ Struggles & Triumphs2️⃣ Trauma Transformed3️⃣ Decision Point4️⃣ Heavyweight5️⃣ The Pail6️⃣ Let GoNo slides. No scripts. Just real people telling the truth.You'll leave with something most events can't give you. Permission to see your own hard moments as proof of strength, not weakness.🗓 Sun 1 Nov, 2pm to 4.30pm📍
+                      - 'link "View company: Food Connect Shed" [ref=f231e198] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/company/foodconnectshed/
+                        - strong [ref=f231e199]: Food Connect Shed
+                      - text: ", SalisburyGrab your ticket and bring a friend who needs to hear this. Link in the event details.Looking forward to welcoming newcomers to the community. See you all there!"
+                      - link "View Eric Em’s profile" [ref=f231e201] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/ericem/
+                        - strong [ref=f231e202]: Eric E.
+                      - text: MC & Event Host
+                      - 'link "View company: Stories that Stir®Global" [ref=f231e204] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/company/stories-that-stir™-global/
+                        - strong [ref=f231e205]: Stories that Stir®Global
+                  - link [ref=f231e206] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/events/7510188177824018432/
+                    - figure [aria-hidden] [ref=f231e207]
+                  - generic [ref=f231e208]:
+                    - link [ref=f231e209] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/events/7510188177824018432/
+                      - generic [ref=f231e210]:
+                        - paragraph [ref=f231e212]: Sun, Nov 1, 3:00 PM - 5:00 PM
+                        - paragraph [ref=f231e214]: Stories that Stir - BRISBANE - STRENGTH
+                        - paragraph [ref=f231e215]: Salisbury, AU
+                        - generic [ref=f231e218]:
+                          - figure [aria-hidden] [ref=f231e219]
+                          - paragraph [ref=f231e221]: Eric Em and 4 other attendees
+                    - button "Interested" [ref=f231e222] [cursor=pointer]
+                  - generic [ref=f231e225]:
+                    - link [ref=f231e226] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "Switch to different account" [ref=f231e227]:
+                        - figure [aria-hidden] [ref=f231e228]
+                    - generic [ref=f231e230]:
+                      - 'button "Reaction button state: Like" [ref=f231e233] [cursor=pointer]':
+                        - generic [ref=f231e234]: "12"
+                      - button "Open reactions menu"
+                    - button "Comment" [ref=f231e239] [cursor=pointer]:
+                      - generic [ref=f231e240]: "4"
+                    - button "Repost" [ref=f231e245] [cursor=pointer]
+                    - link "Send" [ref=f231e248] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                    - link [ref=f231e251] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "12 reactions" [ref=f231e252]
+                - generic [ref=f231e261]:
+                  - status [ref=f231e264]
+                  - generic [ref=f231e265]:
+                    - button "Show Emoji Picker" [ref=f231e266] [cursor=pointer]
+                    - button "Open GIF picker" [ref=f231e271] [cursor=pointer]
+                    - button "Share photo" [ref=f231e274] [cursor=pointer]
+              - link:
+                - /url: https://www.linkedin.com/
+              - generic [ref=f231e277]:
+                - link:
+                  - /url: https://www.linkedin.com/
+                - generic [ref=f231e278]:
+                  - link:
+                    - /url: https://www.linkedin.com/
+                  - link [ref=f231e279] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic "Kelly Irving reacted with Like" [ref=f231e280]:
+                      - figure [aria-hidden] [ref=f231e281]
+                  - link [ref=f231e283] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/thecircusoflife/
+                    - generic "Denzo Moore reacted with Celebrate" [ref=f231e284]:
+                      - figure [aria-hidden] [ref=f231e285]
+                  - link [ref=f231e287] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/jacqui-barton-26436718/
+                    - generic "Jacqui Barton reacted with Love" [ref=f231e288]:
+                      - figure [aria-hidden] [ref=f231e289]
+                  - link [ref=f231e291] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/sally-pymer-6704ba68/
+                    - generic "Sally Pymer reacted with Like" [ref=f231e292]:
+                      - figure [aria-hidden] [ref=f231e293]
+                  - link [ref=f231e295] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/johnnyyang208/
+                    - generic "Johnny Y. reacted with Like" [ref=f231e296]:
+                      - figure [aria-hidden] [ref=f231e297]
+                  - link [ref=f231e299] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/caroline-bellenger/
+                    - generic "Caroline Bellenger reacted with Love" [ref=f231e300]:
+                      - figure [aria-hidden] [ref=f231e301]
+                  - link [ref=f231e303] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/lindabenn/
+                    - generic "LindaJoy Benn Burnout → Soul Alignment reacted with Like" [ref=f231e304]:
+                      - figure [aria-hidden] [ref=f231e305]
+                  - link [ref=f231e307] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/salvatore-sciacca-614133389/
+                    - generic "Salvatore Sciacca reacted with Celebrate" [ref=f231e308]:
+                      - figure [aria-hidden] [ref=f231e309]
+                  - link "View all reactions" [ref=f231e311] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/
+              - button [ref=f231e315] [cursor=pointer]:
+                - paragraph [ref=f231e319]: Most relevant
+              - generic [ref=f231e325]:
+                - link [ref=f231e327] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/susan-paczkowski/
+                  - figure [ref=f231e328]
+                - generic [ref=f231e329]:
+                  - generic [ref=f231e331]:
+                    - link "Susan Paczkowski 1st Speak Afraid Transformation & Communication Coach | Director | Author x2 books | Podcaster | Helping people & teams turn change into courageous communication." [ref=f231e332] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/susan-paczkowski/
+                      - generic [ref=f231e333]:
+                        - paragraph [ref=f231e337]:
+                          - generic [ref=f231e338]:
+                            - generic [ref=f231e339]: Susan Paczkowski 1st
+                            - generic [aria-hidden] [ref=f231e340]:
+                              - text: Susan Paczkowski
+                              - generic [ref=f231e341]: • 1st
+                        - paragraph [ref=f231e343]: Speak Afraid Transformation & Communication Coach | Director | Author x2 books | Podcaster | Helping people & teams turn change into courageous communication.
+                    - paragraph [ref=f231e345]: 3h
+                    - button "View more options for Susan Paczkowski’s comment." [ref=f231e346] [cursor=pointer]
+                  - paragraph [ref=f231e352]:
+                    - generic [ref=f231e353]: Breaking is how we go past our existing limitation. That is how our strength develops and grows with us. Reads like an inspiring event Eric.
+                  - generic [ref=f231e355]:
+                    - generic [ref=f231e356]:
+                      - generic [ref=f231e357]:
+                        - button "1 reaction" [ref=f231e360] [cursor=pointer]:
+                          - paragraph [ref=f231e364]:
+                            - generic [ref=f231e365]:
+                              - generic [ref=f231e366]: 1 reaction
+                              - text: "1"
+                        - button "Open reactions menu"
+                      - generic [ref=f231e367]:
+                        - button "Reply" [ref=f231e368] [cursor=pointer]
+                        - paragraph [ref=f231e372]:
+                          - generic [ref=f231e373]:
+                            - generic [ref=f231e374]: "1"
+                            - text: "1"
+                    - link [ref=f231e376] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "Reacted to by the author" [ref=f231e377]:
+                        - figure [aria-hidden] [ref=f231e378]
+              - generic [ref=f231e385]:
+                - link [ref=f231e387] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/ericem/
+                  - figure [ref=f231e388]
+                - generic [ref=f231e389]:
+                  - generic [ref=f231e391]:
+                    - link [ref=f231e392] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/ericem/
+                      - generic [ref=f231e393]:
+                        - generic [ref=f231e394]:
+                          - paragraph [ref=f231e397]: Eric Em
+                          - paragraph [ref=f231e398]: Author
+                        - paragraph [ref=f231e400]: Keynote Speaker, MC & Storyteller | Refugee-turned-Engineering Leader (20+ yrs) | Guiding teams to belong, lead through change & work with AI across generations | Voted Best Global Tribe Member 2025
+                    - paragraph [ref=f231e402]: 3h
+                    - button "View more options for Eric Em’s comment." [ref=f231e403] [cursor=pointer]
+                  - paragraph [ref=f231e409]:
+                    - generic [ref=f231e410]:
+                      - link "View Susan Paczkowski’s profile" [ref=f231e412] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/susan-paczkowski/
+                        - strong [ref=f231e413]: Susan Paczkowski
+                      - text: appreciate your kind words of support! Indeed, going beyond the human 'break point' can be a trigger for self-growth. All the stories shared will touch your heart. Wish you could be here to experience it Susan! 🫶
+                  - generic [ref=f231e415]:
+                    - generic [ref=f231e416]:
+                      - generic [ref=f231e417]:
+                        - button "1 reaction" [ref=f231e420] [cursor=pointer]:
+                          - paragraph [ref=f231e424]:
+                            - generic [ref=f231e425]:
+                              - generic [ref=f231e426]: 1 reaction
+                              - text: "1"
+                        - button "Open reactions menu"
+                      - button "Reply" [ref=f231e428] [cursor=pointer]
+                    - link [ref=f231e431] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+              - generic [ref=f231e437]:
+                - link [ref=f231e439] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/jules-haskell/
+                  - figure [ref=f231e440]
+                - generic [ref=f231e441]:
+                  - generic [ref=f231e443]:
+                    - link "Julie Haskell Premium Profile 2nd Helping women leaders in International Education to step out of being in ‘reactive mode’ so they can lead their team effectively without burning out | Coach & Mentor | 20+ years leadership experience" [ref=f231e444] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/jules-haskell/
+                      - generic [ref=f231e445]:
+                        - paragraph [ref=f231e449]:
+                          - generic [ref=f231e450]:
+                            - generic [ref=f231e451]: Julie Haskell Premium Profile 2nd
+                            - generic [aria-hidden] [ref=f231e452]:
+                              - text: Julie Haskell
+                              - generic [ref=f231e455]: • 2nd
+                        - paragraph [ref=f231e457]: Helping women leaders in International Education to step out of being in ‘reactive mode’ so they can lead their team effectively without burning out | Coach & Mentor | 20+ years leadership experience
+                    - paragraph [ref=f231e459]: 4h
+                    - button [ref=f231e461] [cursor=pointer]:
+                      - generic "Follow Julie Haskell" [ref=f231e462]:
+                        - paragraph [ref=f231e464]: Follow
+                    - button "View more options for Julie Haskell’s comment." [ref=f231e465] [cursor=pointer]
+                  - paragraph [ref=f231e471]:
+                    - generic [ref=f231e472]:
+                      - text: Sounds like a good event, so true that the strongest people have been broken and often not just once, but it's what they did next and how many times they picked themselves up and carried on.
+                      - link "View Eric Em’s profile" [ref=f231e474] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/ericem/
+                        - strong [ref=f231e475]: Eric Em
+                  - generic [ref=f231e477]:
+                    - generic [ref=f231e478]:
+                      - generic [ref=f231e479]:
+                        - button "2 reactions" [ref=f231e482] [cursor=pointer]:
+                          - paragraph [ref=f231e486]:
+                            - generic [ref=f231e487]:
+                              - generic [ref=f231e488]: 2 reactions
+                              - text: "2"
+                        - button "Open reactions menu"
+                      - generic [ref=f231e489]:
+                        - button "Reply" [ref=f231e490] [cursor=pointer]
+                        - paragraph [ref=f231e494]:
+                          - generic [ref=f231e495]:
+                            - generic [ref=f231e496]: "1"
+                            - text: "1"
+                    - generic [ref=f231e497]:
+                      - link "View reactions" [ref=f231e498] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/
+                      - link [ref=f231e501] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/
+                        - generic "Reacted to by the author" [ref=f231e502]:
+                          - figure [aria-hidden] [ref=f231e503]
+              - generic [ref=f231e510]:
+                - link [ref=f231e512] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/ericem/
+                  - figure [ref=f231e513]
+                - generic [ref=f231e514]:
+                  - generic [ref=f231e516]:
+                    - link [ref=f231e517] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/ericem/
+                      - generic [ref=f231e518]:
+                        - generic [ref=f231e519]:
+                          - paragraph [ref=f231e522]: Eric Em
+                          - paragraph [ref=f231e523]: Author
+                        - paragraph [ref=f231e525]: Keynote Speaker, MC & Storyteller | Refugee-turned-Engineering Leader (20+ yrs) | Guiding teams to belong, lead through change & work with AI across generations | Voted Best Global Tribe Member 2025
+                    - paragraph [ref=f231e527]: 4h
+                    - button "View more options for Eric Em’s comment." [ref=f231e528] [cursor=pointer]
+                  - paragraph [ref=f231e534]:
+                    - generic [ref=f231e535]:
+                      - link "View Julie Haskell’s profile" [ref=f231e537] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/jules-haskell/
+                        - strong [ref=f231e538]: Julie Haskell
+                      - text: I'm glad the theme resonates! Indeed, the most inspiring aspect of peoples stories are when they are broken but what they do next after they pick themselves up. Sending you positive vibes my friend! 🫶
+                  - generic [ref=f231e540]:
+                    - generic [ref=f231e541]:
+                      - generic [ref=f231e542]:
+                        - button "1 reaction" [ref=f231e545] [cursor=pointer]:
+                          - paragraph [ref=f231e549]:
+                            - generic [ref=f231e550]:
+                              - generic [ref=f231e551]: 1 reaction
+                              - text: "1"
+                        - button "Open reactions menu"
+                      - button "Reply" [ref=f231e553] [cursor=pointer]
+                    - link [ref=f231e556] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+          - complementary "Aside" [ref=f231e637]:
+            - generic [ref=f231e643]:
+              - generic [ref=f231e644]:
+                - link [ref=f231e645] [cursor=pointer]:
+                  - /url: https://about.linkedin.com/
+                  - paragraph [ref=f231e646]: About
+                - link [ref=f231e647] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/accessibility/
+                  - paragraph [ref=f231e648]: Accessibility
+                - link [ref=f231e649] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin/
+                  - paragraph [ref=f231e650]: Help Center
+                - button [ref=f231e651] [cursor=pointer]:
+                  - paragraph [ref=f231e653]: Privacy & Terms
+                - link [ref=f231e655] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin/answer/62931/
+                  - paragraph [ref=f231e656]: Ad Choices
+                - link [ref=f231e657] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/ad/start/?trk=n_nav_ads_rr
+                  - paragraph [ref=f231e658]: Advertising
+                - button [ref=f231e659] [cursor=pointer]:
+                  - paragraph [ref=f231e661]: Business Services
+                - link [ref=f231e663] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/mobile/
+                  - paragraph [ref=f231e664]: Get the LinkedIn app
+                - link [ref=f231e665] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/
+                  - paragraph [ref=f231e666]: More
+              - paragraph [ref=f231e669]: LinkedIn Corporation © 2026

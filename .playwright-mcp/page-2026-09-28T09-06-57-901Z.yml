@@ -1,0 +1,635 @@
+- generic [ref=f218e1]:
+  - generic:
+    - region "Toast message":
+      - heading "0 notifications total" [level=2] [ref=f218e3]
+      - alert
+  - generic [ref=f218e4]:
+    - generic [ref=f218e6]:
+      - button "Skip to search" [ref=f218e7] [cursor=pointer]
+      - button "Skip to main content" [ref=f218e9] [cursor=pointer]
+      - button "Keyboard shortcuts" [ref=f218e11] [cursor=pointer]
+      - button "Close jump menu" [ref=f218e13] [cursor=pointer]
+    - banner "Global Navigation" [ref=f218e17]:
+      - generic [ref=f218e18]:
+        - link [ref=f218e19] [cursor=pointer]:
+          - /url: https://www.linkedin.com/feed/?nis=true
+          - img "LinkedIn" [ref=f218e22]
+        - combobox "I’m looking for..." [ref=f218e28]
+        - navigation "Primary Navigation" [ref=f218e29]:
+          - list [ref=f218e30]:
+            - listitem [ref=f218e31]:
+              - link "new feed updates notifications Home" [ref=f218e32] [cursor=pointer]:
+                - /url: https://www.linkedin.com/feed/?nis=true&
+                - generic [ref=f218e33]: new feed updates notifications
+                - generic "Home" [ref=f218e42]
+            - listitem [ref=f218e43]:
+              - link "31 new network updates notifications My Network" [ref=f218e44] [cursor=pointer]:
+                - /url: https://www.linkedin.com/mynetwork/?
+                - generic [ref=f218e46]:
+                  - generic [aria-hidden] [ref=f218e47]: "31"
+                  - generic [ref=f218e48]: 31 new network updates notifications
+                - generic "My Network" [ref=f218e54]
+            - listitem [ref=f218e55]:
+              - link "Jobs" [ref=f218e56] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/?
+            - listitem [ref=f218e63]:
+              - link "Messaging" [ref=f218e64] [cursor=pointer]:
+                - /url: https://www.linkedin.com/messaging/?
+            - listitem [ref=f218e71]:
+              - link "25 new notifications Notifications" [ref=f218e72] [cursor=pointer]:
+                - /url: https://www.linkedin.com/notifications/?
+                - generic [ref=f218e74]:
+                  - generic [aria-hidden] [ref=f218e75]: "25"
+                  - generic [ref=f218e76]: 25 new notifications
+                - generic "Notifications" [ref=f218e82]
+            - listitem [ref=f218e83]:
+              - button [ref=f218e85] [cursor=pointer]:
+                - img "Kelly Irving" [ref=f218e86]
+                - generic [ref=f218e87]: Me
+            - listitem [ref=f218e90]:
+              - button "For Business" [ref=f218e92] [cursor=pointer]
+            - listitem [ref=f218e101]:
+              - link "3 new Campaign Manager notifications Advertise" [ref=f218e102] [cursor=pointer]:
+                - /url: https://www.linkedin.com/campaignmanager/accounts?shouldShowNotificationPanelOnRender=true
+                - generic [ref=f218e104]:
+                  - generic [aria-hidden] [ref=f218e105]: "3"
+                  - generic [ref=f218e106]: 3 new Campaign Manager notifications
+                - generic "Advertise" [ref=f218e113]
+    - generic [ref=f218e119]:
+      - complementary [ref=f218e120]:
+        - generic [ref=f218e123]:
+          - img "PREMIUM" [ref=f218e128]
+          - link [ref=f218e132] [cursor=pointer]:
+            - /url: /in/ericem/
+            - img "Eric Em" [ref=f218e133]
+          - generic [ref=f218e134]:
+            - link [ref=f218e135] [cursor=pointer]:
+              - /url: /in/ericem/
+              - heading [level=3] [ref=f218e136]:
+                - text: Eric Em
+                - img "Eric Em is a Premium member" [ref=f218e138]
+            - heading "Keynote Speaker, MC & Storyteller | Refugee-turned-Engineering Leader (20+ yrs) | Guiding teams to belong, lead through change & work with AI across generations | Voted Best Global Tribe Member 2025" [level=4] [ref=f218e141]
+          - generic [ref=f218e143]:
+            - generic [ref=f218e144]:
+              - generic [ref=f218e145]: Followers
+              - generic [ref=f218e146]: 3,625
+            - button "Message Eric" [ref=f218e149] [cursor=pointer]:
+              - generic [ref=f218e150]: Message
+      - main [ref=f218e151]:
+        - generic [ref=f218e279]:
+          - heading "All activity" [level=2] [ref=f218e280]
+          - group "Select type of recent activity" [ref=f218e283]:
+            - button "Posts" [pressed] [ref=f218e284] [cursor=pointer]
+            - button "Comments" [ref=f218e286] [cursor=pointer]
+            - button "Videos" [ref=f218e288] [cursor=pointer]
+            - button "Images" [ref=f218e290] [cursor=pointer]
+            - button "More" [ref=f218e292] [cursor=pointer]
+          - generic [ref=f218e298]:
+            - generic [ref=f218e299]:
+              - generic [ref=f218e300]: Loaded 20 Posts posts
+              - list [ref=f218e301]:
+                - listitem [ref=f218e302]:
+                  - article [ref=f218e307]:
+                    - generic [ref=f218e309]:
+                      - heading "Feed post number 1" [level=2] [ref=f218e310]
+                      - generic [ref=f218e311]:
+                        - generic [ref=f218e312]:
+                          - generic [ref=f218e314]:
+                            - link "View Eric Em’s graphic link" [ref=f218e315] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/ericem?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAMwEwB-Wwv0XgxCN6jgBd7oeSAHyUidok
+                              - img "View Eric Em’s graphic link" [ref=f218e319]
+                            - generic [ref=f218e320]:
+                              - 'link "View: Eric Em Premium • 1st Keynote Speaker, MC &amp; Storyteller | Refugee-turned-Engineering Leader (20+ yrs) | Guiding teams to belong, lead through change &amp; work with AI across generations | Voted Best Global Tribe Member 2025" [ref=f218e321] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/ericem?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAMwEwB-Wwv0XgxCN6jgBd7oeSAHyUidok
+                                - generic [ref=f218e322]:
+                                  - generic [ref=f218e323]: Eric Em
+                                  - generic [ref=f218e326]: • 1st
+                                - generic [ref=f218e331]: Keynote Speaker, MC & Storyteller | Refugee-turned-Engineering Leader (20+ yrs) | Guiding teams to belong, lead through change & work with AI across generations | Voted Best Global Tribe Member 2025
+                              - link "Visit my website" [ref=f218e333] [cursor=pointer]:
+                                - /url: https://beacons.ai/ericem
+                              - generic [ref=f218e335]: 5h •
+                          - button "Open control menu for post by Eric Em" [ref=f218e343] [cursor=pointer]
+                        - generic [ref=f218e347]:
+                          - generic [ref=f218e350]:
+                            - text: Everyone says strength is never breaking. That's wrong.The strongest people I know have broken. More than once.What makes them strong is what they did next.That's what STRENGTH is about at our next Stories That Stir Brisbane.Six storytellers. Six titles that already say so much:1️⃣ Struggles & Triumphs2️⃣ Trauma Transformed3️⃣ Decision Point4️⃣ Heavyweight5️⃣ The Pail6️⃣ Let GoNo slides. No scripts. Just real people telling the truth.You'll leave with something most events can't give you. Permission to see your own hard moments as proof of strength, not weakness.🗓 Sun 1 Nov, 2pm to 4.30pm📍
+                            - link "Food Connect Shed" [ref=f218e351] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/company/foodconnectshed/
+                            - text: ", SalisburyGrab your ticket and bring a friend who needs to hear this. Link in the event details.Looking forward to welcoming newcomers to the community. See you all there!"
+                            - link "Eric E." [ref=f218e355] [cursor=pointer]:
+                              - /url: /in/ericem/
+                            - text: MC & Event Host
+                            - link "Stories that Stir®Global" [ref=f218e356] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/company/stories-that-stir%E2%84%A2-global/
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f218e359] [cursor=pointer]:
+                            - generic [ref=f218e360]: …more
+                        - generic [ref=f218e361]:
+                          - 'link "View event: Stories that Stir - BRISBANE - STRENGTH" [ref=f218e362] [cursor=pointer]':
+                            - /url: https://www.linkedin.com/events/storiesthatstir-brisbane-streng7510188177824018432/
+                          - generic [ref=f218e365]:
+                            - link [ref=f218e366] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/events/storiesthatstir-brisbane-streng7510188177824018432/
+                              - generic [ref=f218e367]:
+                                - time [ref=f218e368]: Sun, Nov 1, 3:00 PM - 5:00 PM AEDT
+                                - heading "Stories that Stir - BRISBANE - STRENGTH" [level=2] [ref=f218e369]
+                                - generic [ref=f218e370]: Salisbury, AU
+                            - 'link "View event: Stories that Stir - BRISBANE - STRENGTH" [ref=f218e375] [cursor=pointer]':
+                              - /url: https://www.linkedin.com/events/storiesthatstir-brisbane-streng7510188177824018432/
+                              - text: View event
+                        - generic [ref=f218e376]:
+                          - list [ref=f218e380]:
+                            - listitem [ref=f218e381]:
+                              - button "11 reactions" [ref=f218e382] [cursor=pointer]:
+                                - img "like" [ref=f218e383]
+                                - img "love" [ref=f218e384]
+                                - img "celebrate" [ref=f218e385]
+                                - generic [aria-hidden] [ref=f218e386]: "11"
+                            - listitem [ref=f218e387]:
+                              - list [ref=f218e388]:
+                                - listitem [ref=f218e389]:
+                                  - button "4 comments on Eric Em’s post" [ref=f218e390] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f218e391]: 4 comments
+                          - generic [ref=f218e392]:
+                            - generic [ref=f218e393]:
+                              - button "React Like" [ref=f218e394] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f218e399]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f218e400] [cursor=pointer]
+                            - button "Comment" [ref=f218e405] [cursor=pointer]
+                            - button "Repost" [ref=f218e411] [cursor=pointer]
+                            - button "Send in a private message" [ref=f218e417] [cursor=pointer]:
+                              - generic [ref=f218e420]: Send
+                - listitem [ref=f218e422]:
+                  - article [ref=f218e427]:
+                    - generic [ref=f218e429]:
+                      - heading "Feed post number 2" [level=2] [ref=f218e430]
+                      - generic [ref=f218e431]:
+                        - generic [ref=f218e432]:
+                          - generic [ref=f218e434]:
+                            - link [ref=f218e435] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/ericem?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAMwEwB-Wwv0XgxCN6jgBd7oeSAHyUidok
+                              - img "Eric’s profile photo" [ref=f218e438]
+                            - generic [ref=f218e439]:
+                              - link "Eric Em" [ref=f218e441] [cursor=pointer]:
+                                - /url: /in/ericem/
+                              - text: collaborated on this
+                          - button "Open control menu for post by Salvatore Sciacca" [ref=f218e444] [cursor=pointer]
+                          - generic [ref=f218e447]:
+                            - generic [ref=f218e448]:
+                              - link "View Salvatore Sciacca’s graphic link" [ref=f218e449] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/in/salvatore-sciacca-614133389?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAF-X5rABM1xuQuyvhKjwHIfiijX5n655Bys
+                                - img "View Salvatore Sciacca’s graphic link" [ref=f218e453]
+                              - generic [ref=f218e454]:
+                                - 'link "View: Salvatore Sciacca Premium • 2nd Founder of EVRY1 | Live true storytelling | Creating spaces where people choose people, not the feed." [ref=f218e455] [cursor=pointer]':
+                                  - /url: https://www.linkedin.com/in/salvatore-sciacca-614133389?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAF-X5rABM1xuQuyvhKjwHIfiijX5n655Bys
+                                  - generic [ref=f218e456]:
+                                    - generic [ref=f218e457]: Salvatore Sciacca
+                                    - generic [ref=f218e460]: • 2nd
+                                  - generic [ref=f218e465]: Founder of EVRY1 | Live true storytelling | Creating spaces where people choose people, not the feed.
+                                - link "Visit my website" [ref=f218e467] [cursor=pointer]:
+                                  - /url: http://www.joinevry1.com
+                                - generic [ref=f218e469]: 9h •
+                            - button "Follow Salvatore Sciacca" [ref=f218e475] [cursor=pointer]:
+                              - generic [aria-hidden] [ref=f218e478]: Follow
+                        - generic [ref=f218e480]:
+                          - generic [ref=f218e483]:
+                            - text: "For the past year, I’ve spent a lot of time inviting other people onto the EVRY1 stage and helping them share their stories. On Sunday 1 November, I get to step onto someone else’s stage and share mine.I’m excited to be one of six storytellers at Stories that Stir Brisbane for an afternoon built around the theme STRENGTH. I’ll be sharing a ten-minute story alongside five people I can’t wait to hear from.I’m extremely grateful for the opportunity, and I’d love to see some familiar faces there.Food Connect Shed, SalisburySunday 1 November, 2–4.30pmEarlybird tickets are $35.95 until 18 October:"
+                            - link "https://lnkd.in/gvKUu_yk" [ref=f218e484] [cursor=pointer]:
+                              - /url: https://lnkd.in/gvKUu_yk
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f218e485] [cursor=pointer]:
+                            - generic [ref=f218e486]: …more
+                        - generic [ref=f218e488]:
+                          - button "Activate to view larger image, View image" [ref=f218e490] [cursor=pointer]:
+                            - generic [ref=f218e491]: Activate to view larger image,
+                            - img "View image" [ref=f218e494]
+                          - generic [aria-hidden] [ref=f218e495]: Activate to view larger image,
+                        - generic [ref=f218e496]:
+                          - list [ref=f218e500]:
+                            - listitem [ref=f218e501]:
+                              - button "Eric Em and 3 others" [ref=f218e502] [cursor=pointer]:
+                                - img "celebrate" [ref=f218e503]
+                                - img "support" [ref=f218e504]
+                                - generic [ref=f218e505]:
+                                  - generic [aria-hidden] [ref=f218e506]: "4"
+                                  - generic [ref=f218e507]: Eric Em and 3 others
+                            - listitem [ref=f218e508]:
+                              - list [ref=f218e509]:
+                                - listitem [ref=f218e510]:
+                                  - button "1 comment on Salvatore Sciacca’s post" [ref=f218e511] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f218e512]: 1 comment
+                                  - text: ·
+                                - listitem [ref=f218e513]:
+                                  - button "1 repost of Salvatore Sciacca’s post" [ref=f218e514] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f218e515]: 1 repost
+                          - generic [ref=f218e516]:
+                            - generic [ref=f218e517]:
+                              - button "React Like" [ref=f218e518] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f218e523]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f218e524] [cursor=pointer]
+                            - button "Comment" [ref=f218e529] [cursor=pointer]
+                            - button "Repost" [ref=f218e535] [cursor=pointer]
+                            - button "Send in a private message" [ref=f218e541] [cursor=pointer]:
+                              - generic [ref=f218e544]: Send
+                - listitem [ref=f218e546]:
+                  - article [ref=f218e551]:
+                    - generic [ref=f218e553]:
+                      - heading "Feed post number 3" [level=2] [ref=f218e554]
+                      - generic [ref=f218e555]:
+                        - generic [ref=f218e556]:
+                          - generic [ref=f218e558]:
+                            - link "View Eric Em’s graphic link" [ref=f218e559] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/ericem?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAMwEwB-Wwv0XgxCN6jgBd7oeSAHyUidok
+                              - img "View Eric Em’s graphic link" [ref=f218e563]
+                            - generic [ref=f218e564]:
+                              - 'link "View: Eric Em Premium • 1st Keynote Speaker, MC &amp; Storyteller | Refugee-turned-Engineering Leader (20+ yrs) | Guiding teams to belong, lead through change &amp; work with AI across generations | Voted Best Global Tribe Member 2025" [ref=f218e565] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/ericem?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAMwEwB-Wwv0XgxCN6jgBd7oeSAHyUidok
+                                - generic [ref=f218e566]:
+                                  - generic [ref=f218e567]: Eric Em
+                                  - generic [ref=f218e570]: • 1st
+                                - generic [ref=f218e575]: Keynote Speaker, MC & Storyteller | Refugee-turned-Engineering Leader (20+ yrs) | Guiding teams to belong, lead through change & work with AI across generations | Voted Best Global Tribe Member 2025
+                              - link "Visit my website" [ref=f218e577] [cursor=pointer]:
+                                - /url: https://beacons.ai/ericem
+                              - generic [ref=f218e579]: 5d •
+                          - button "Open control menu for post by Eric Em" [ref=f218e587] [cursor=pointer]
+                        - generic [ref=f218e591]:
+                          - generic [ref=f218e594]:
+                            - text: "Excited to share that I'll be speaking at EVRY1: S1 E4: THE FINALE! 🎤 WHAT IS BRISBANE'S 'EVRY1 ROOM'?Six strangers walk onto a stage. Each tells one true story from their life.Between every story, the entire room sits in silence for one minute.Sam ("
+                            - link "Salvatore Sciacca" [ref=f218e596] [cursor=pointer]:
+                              - /url: /in/salvatore-sciacca-614133389/
+                            - text: ) will be the MC and host. He has curated an amazing line-up will also include Dr
+                            - link "Dinesh Palipana" [ref=f218e598] [cursor=pointer]:
+                              - /url: /in/dineshpalipana/
+                            - text: ","
+                            - link "Andrea Gullick" [ref=f218e600] [cursor=pointer]:
+                              - /url: /in/andrea-gullick/
+                            - text: and many others.Make sure to attend it on Friday evening November 6th. Early bird tickets still available. It will be in 'The Valley'. Hope to see you there! 😊
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f218e601] [cursor=pointer]:
+                            - generic [ref=f218e602]: …more
+                        - generic [ref=f218e603]:
+                          - generic [ref=f218e604]:
+                            - generic [ref=f218e605]:
+                              - link "View Salvatore Sciacca’s graphic link" [ref=f218e606] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/in/salvatore-sciacca-614133389?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAF-X5rABM1xuQuyvhKjwHIfiijX5n655Bys
+                                - img "View Salvatore Sciacca’s graphic link" [ref=f218e610]
+                              - generic [ref=f218e611]:
+                                - 'link "View: Salvatore Sciacca Premium • 2nd Founder of EVRY1 | Live true storytelling | Creating spaces where people choose people, not the feed." [ref=f218e612] [cursor=pointer]':
+                                  - /url: https://www.linkedin.com/in/salvatore-sciacca-614133389?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAF-X5rABM1xuQuyvhKjwHIfiijX5n655Bys
+                                  - generic [ref=f218e613]:
+                                    - generic [ref=f218e614]: Salvatore Sciacca
+                                    - generic [ref=f218e617]: • 2nd
+                                  - generic [ref=f218e622]: Founder of EVRY1 | Live true storytelling | Creating spaces where people choose people, not the feed.
+                                - generic [ref=f218e624]: 1w •
+                            - button "Follow Salvatore Sciacca" [ref=f218e630] [cursor=pointer]:
+                              - generic [aria-hidden] [ref=f218e633]: Follow
+                          - generic [ref=f218e634]:
+                            - 'link "View event: EVRY1: S1 E4: THE FINALE" [ref=f218e635] [cursor=pointer]':
+                              - /url: https://www.linkedin.com/events/evry1-s1e4-thefinale7506518850406871040/
+                            - generic [ref=f218e638]:
+                              - link [ref=f218e639] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/events/evry1-s1e4-thefinale7506518850406871040/
+                                - generic [ref=f218e640]:
+                                  - time [ref=f218e641]: Fri, Nov 6, 8:00 PM AEDT
+                                  - 'heading "EVRY1: S1 E4: THE FINALE" [level=2] [ref=f218e642]'
+                                  - generic [ref=f218e643]: Fortitude Valley, AU
+                              - 'link "View event: EVRY1: S1 E4: THE FINALE" [ref=f218e648] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/events/evry1-s1e4-thefinale7506518850406871040/
+                                - text: View event
+                        - generic [ref=f218e649]:
+                          - list [ref=f218e653]:
+                            - listitem [ref=f218e654]:
+                              - button "Leon Purton and 25 others" [ref=f218e655] [cursor=pointer]:
+                                - img "celebrate" [ref=f218e656]
+                                - img "like" [ref=f218e657]
+                                - img "love" [ref=f218e658]
+                                - generic [ref=f218e659]:
+                                  - generic [aria-hidden] [ref=f218e660]: "26"
+                                  - generic [ref=f218e661]: Leon Purton and 25 others
+                            - listitem [ref=f218e662]:
+                              - list [ref=f218e663]:
+                                - listitem [ref=f218e664]:
+                                  - button "25 comments on Eric Em’s post" [ref=f218e665] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f218e666]: 25 comments
+                          - generic [ref=f218e667]:
+                            - generic [ref=f218e668]:
+                              - button "React Like" [ref=f218e669] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f218e674]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f218e675] [cursor=pointer]
+                            - button "Comment" [ref=f218e680] [cursor=pointer]
+                            - button "Repost" [ref=f218e686] [cursor=pointer]
+                            - button "Send in a private message" [ref=f218e692] [cursor=pointer]:
+                              - generic [ref=f218e695]: Send
+                - listitem [ref=f218e697]:
+                  - article [ref=f218e702]:
+                    - generic [ref=f218e704]:
+                      - heading "Feed post number 4" [level=2] [ref=f218e705]
+                      - generic [ref=f218e706]:
+                        - generic [ref=f218e707]:
+                          - generic [ref=f218e709]:
+                            - link "View Eric Em’s graphic link" [ref=f218e710] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/ericem?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAMwEwB-Wwv0XgxCN6jgBd7oeSAHyUidok
+                              - img "View Eric Em’s graphic link" [ref=f218e714]
+                            - generic [ref=f218e715]:
+                              - 'link "View: Eric Em Premium • 1st Keynote Speaker, MC &amp; Storyteller | Refugee-turned-Engineering Leader (20+ yrs) | Guiding teams to belong, lead through change &amp; work with AI across generations | Voted Best Global Tribe Member 2025" [ref=f218e716] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/ericem?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAMwEwB-Wwv0XgxCN6jgBd7oeSAHyUidok
+                                - generic [ref=f218e717]:
+                                  - generic [ref=f218e718]: Eric Em
+                                  - generic [ref=f218e721]: • 1st
+                                - generic [ref=f218e726]: Keynote Speaker, MC & Storyteller | Refugee-turned-Engineering Leader (20+ yrs) | Guiding teams to belong, lead through change & work with AI across generations | Voted Best Global Tribe Member 2025
+                              - link "Visit my website" [ref=f218e728] [cursor=pointer]:
+                                - /url: https://beacons.ai/ericem
+                              - generic [ref=f218e730]: 1w •
+                          - button "Open control menu for post by Eric Em" [ref=f218e738] [cursor=pointer]
+                        - generic [ref=f218e742]:
+                          - generic [ref=f218e745]:
+                            - text: 70% of transformations fail.Not because of bad strategy.Because most owners are solving the wrong problem.Friday evening, I MC'd Shiran for an in conversation fireside chat about her book 'Unstoppable Business Growth'.One in-depth conversation. Three important lessons:1️⃣ Stop chasing revenue.Revenue isn't a lever.It's a result.Most owners spend their entire career focused on things they cannot directly move.The actual drivers sit underneath.In how your customers are treated.In how your employees show up.In your own clarity as an owner.Get those right.The revenue follows. 2️⃣ Your people know before your numbers do.That one-star review.The resignation you didn't see coming.The marketing campaign that quietly didn't work.These aren't isolated events.They're your business sending signals.By the time it appears in your financials, it's been there for months.Most owners are trained to look in exactly the wrong direction. 3️⃣ You cannot outsource transformation.Shiran has worked with many businesses and lectures at QUT.The ones that truly changed weren't the ones with the best consultants.They were led by owners who learnt to see their business differently.That shift is internal.No one can do it for you.Shiran spent two years on this.Six drafts.A publisher who kept sending it back.She wanted a book that still matters in 20 years.I believe it will.Keep an eye out for her upcoming events.💡 Which of these three do you recognise in your own business right now?━━━━━It was an honour and privilege to be your MC
+                            - link "Shiran Faast" [ref=f218e747] [cursor=pointer]:
+                              - /url: /in/shiran-faast/
+                            - text: . Thank you for trusting me. I really enjoyed all the pearls of wisdom shared. What an engaging conversation during Q&A too! 🙏 Great to meet you
+                            - link "Les Moir" [ref=f218e749] [cursor=pointer]:
+                              - /url: /in/lesdmoir/
+                            - text: ","
+                            - link "Peter Alwis" [ref=f218e751] [cursor=pointer]:
+                              - /url: /in/peter-alwis-a07652198/
+                            - text: and
+                            - link "Mia Shilkin" [ref=f218e753] [cursor=pointer]:
+                              - /url: /in/property-investment-strategist/
+                            - text: ", appreciate getting to know you better. Likewise,"
+                            - link "Robert Kilsby" [ref=f218e755] [cursor=pointer]:
+                              - /url: /in/robertkilsby/
+                            - text: ","
+                            - link "Maor Gigi" [ref=f218e757] [cursor=pointer]:
+                              - /url: /in/gigimaor/
+                            - text: and
+                            - link "Andréa Sun (Speaker-Trainer-Acupuncturist ☯️)" [ref=f218e759] [cursor=pointer]:
+                              - /url: /in/andreasun-embodyyourease/
+                            - text: fantastic to have you in the room. Thanks for all your engaging questions during Q&A.Big thank you to the wonderful staff at Harry Hartog
+                            - link "Westfield" [ref=f218e760] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/company/westfield/
+                            - text: Carindale. Jesse, Paton and Elise all the small details helped make the event a success! 🙌
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f218e763] [cursor=pointer]:
+                            - generic [ref=f218e764]: …more
+                        - generic [ref=f218e766]:
+                          - generic [ref=f218e767]:
+                            - button "Activate to view larger image, View image" [ref=f218e768] [cursor=pointer]
+                            - button "Activate to view larger image, View image" [ref=f218e772] [cursor=pointer]
+                            - button "Activate to view larger image, View image" [ref=f218e776] [cursor=pointer]
+                            - button "Activate to view larger image, View image" [ref=f218e780] [cursor=pointer]
+                          - generic [aria-hidden] [ref=f218e784]: Activate to view larger image,
+                        - generic [ref=f218e785]:
+                          - list [ref=f218e789]:
+                            - listitem [ref=f218e790]:
+                              - button "Nina Witenden and 35 others" [ref=f218e791] [cursor=pointer]:
+                                - img "like" [ref=f218e792]
+                                - img "love" [ref=f218e793]
+                                - img "celebrate" [ref=f218e794]
+                                - generic [ref=f218e795]:
+                                  - generic [aria-hidden] [ref=f218e796]: "36"
+                                  - generic [ref=f218e797]: Nina Witenden and 35 others
+                            - listitem [ref=f218e798]:
+                              - list [ref=f218e799]:
+                                - listitem [ref=f218e800]:
+                                  - button "17 comments on Eric Em’s post" [ref=f218e801] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f218e802]: 17 comments
+                          - generic [ref=f218e803]:
+                            - generic [ref=f218e804]:
+                              - button "React Like" [ref=f218e805] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f218e810]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f218e811] [cursor=pointer]
+                            - button "Comment" [ref=f218e816] [cursor=pointer]
+                            - button "Repost" [ref=f218e822] [cursor=pointer]
+                            - button "Send in a private message" [ref=f218e828] [cursor=pointer]:
+                              - generic [ref=f218e831]: Send
+                - listitem [ref=f218e833]:
+                  - article [ref=f218e838]:
+                    - generic [ref=f218e840]:
+                      - heading "Feed post number 5" [level=2] [ref=f218e841]
+                      - generic [ref=f218e842]:
+                        - generic [ref=f218e843]:
+                          - generic [ref=f218e845]:
+                            - link "View Eric Em’s graphic link" [ref=f218e846] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/ericem?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAMwEwB-Wwv0XgxCN6jgBd7oeSAHyUidok
+                              - img "View Eric Em’s graphic link" [ref=f218e850]
+                            - generic [ref=f218e851]:
+                              - 'link "View: Eric Em Premium • 1st Keynote Speaker, MC &amp; Storyteller | Refugee-turned-Engineering Leader (20+ yrs) | Guiding teams to belong, lead through change &amp; work with AI across generations | Voted Best Global Tribe Member 2025" [ref=f218e852] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/ericem?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAMwEwB-Wwv0XgxCN6jgBd7oeSAHyUidok
+                                - generic [ref=f218e853]:
+                                  - generic [ref=f218e854]: Eric Em
+                                  - generic [ref=f218e857]: • 1st
+                                - generic [ref=f218e862]: Keynote Speaker, MC & Storyteller | Refugee-turned-Engineering Leader (20+ yrs) | Guiding teams to belong, lead through change & work with AI across generations | Voted Best Global Tribe Member 2025
+                              - link "Visit my website" [ref=f218e864] [cursor=pointer]:
+                                - /url: https://beacons.ai/ericem
+                              - generic [ref=f218e866]: 1w •
+                          - button "Open control menu for post by Eric Em" [ref=f218e874] [cursor=pointer]
+                        - generic [ref=f218e878]:
+                          - generic [ref=f218e881]:
+                            - text: A comment. A coffee. A book launch.But here's how we got here...Nine months ago I commented on a stranger's LinkedIn post.She noticed. She reached out. We met for coffee.Two and a half hours later, she handed me an early copy of her book.This Friday night, I'm her MC.That person is
+                            - link "Shiran Faast" [ref=f218e883] [cursor=pointer]:
+                              - /url: /in/shiran-faast/
+                            - text: . More than just a Linkedin connection.And if you've never heard of her, here are five things from that coffee catch-up:1. She built a 7 figure company in an industry she had zero passion for. The book explains what that actually teaches you about business.2. When she closed it, she didn't start over. She spent six months journaling every decision she'd ever made. The book came from that.3. When she had to let go of her team, they all stayed. The book explains exactly how that happens.4. Her biggest regret after 10 years in business had nothing to do with strategy, money, or timing. It surprised me when she said it out loud.5. There is one belief she holds about employees and profitability that most business owners have completely backwards.I'm not going to explain any of these here.In conversation with Shiran about 'Unstoppable Business Growth' at Harry Hartog bookstore
+                            - link "Westfield" [ref=f218e884] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/company/westfield/
+                            - text: Carindale this Friday evening. And I'm honoured to be her MC.If your a business owner, leader or simply curious...this one is for you.Want to know more? Come to the event this Friday evening!Link to RSVP in the comments👇
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f218e887] [cursor=pointer]:
+                            - generic [ref=f218e888]: …more
+                        - generic [ref=f218e890]:
+                          - generic [ref=f218e891]:
+                            - button "Activate to view larger image, View image" [ref=f218e892] [cursor=pointer]
+                            - button "Activate to view larger image, View image" [ref=f218e896] [cursor=pointer]
+                            - button "Activate to view larger image, View image" [ref=f218e900] [cursor=pointer]
+                          - generic [aria-hidden] [ref=f218e904]: Activate to view larger image,
+                        - generic [ref=f218e905]:
+                          - list [ref=f218e909]:
+                            - listitem [ref=f218e910]:
+                              - button "Leon Purton and 70 others" [ref=f218e911] [cursor=pointer]:
+                                - img "like" [ref=f218e912]
+                                - img "celebrate" [ref=f218e913]
+                                - img "love" [ref=f218e914]
+                                - generic [ref=f218e915]:
+                                  - generic [aria-hidden] [ref=f218e916]: "71"
+                                  - generic [ref=f218e917]: Leon Purton and 70 others
+                            - listitem [ref=f218e918]:
+                              - list [ref=f218e919]:
+                                - listitem [ref=f218e920]:
+                                  - button "35 comments on Eric Em’s post" [ref=f218e921] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f218e922]: 35 comments
+                          - generic [ref=f218e923]:
+                            - generic [ref=f218e924]:
+                              - button "React Like" [ref=f218e925] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f218e930]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f218e931] [cursor=pointer]
+                            - button "Comment" [ref=f218e936] [cursor=pointer]
+                            - button "Repost" [ref=f218e942] [cursor=pointer]
+                            - button "Send in a private message" [ref=f218e948] [cursor=pointer]:
+                              - generic [ref=f218e951]: Send
+                - listitem [ref=f218e953]
+                - listitem [ref=f218e957]
+                - listitem [ref=f218e961]
+                - listitem [ref=f218e965]
+                - listitem [ref=f218e969]
+                - listitem [ref=f218e973]
+                - listitem [ref=f218e977]
+                - listitem [ref=f218e981]
+                - listitem [ref=f218e985]
+                - listitem [ref=f218e989]
+                - listitem [ref=f218e993]
+                - listitem [ref=f218e997]
+                - listitem [ref=f218e1001]
+                - listitem [ref=f218e1005]
+                - listitem [ref=f218e1009]
+            - button "Show more results" [ref=f218e1015] [cursor=pointer]
+      - complementary "Interests" [ref=f218e184]:
+        - iframe [ref=f218e1017]:
+          - generic [ref=f219e3]:
+            - banner [ref=f219e4]:
+              - link [ref=f219e15] [cursor=pointer]:
+                - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=http%3A%2F%2Fwww.linkedin.com%2Fcompany%2F10559670&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg50Rihzd4ImmO9lUijtwwDPGBaZtTgllqx6WD0xYZ4FHCEBifSStO3XTGobcSReh8qBcq2MPwz5vDVhM0x3-YQsp43UaEYvCgiAwgcDKKBWJXCLgfltjbHzzKhKTxz3KjkOB8t12fthta6XHsGOLls_KhZJBW0_fvl4heuF74I_jHO37n7W6ZJWA1sIDgYRD3vdoFMp5sRMctT5pulHBKPUOBraQfsx4oQU2tJ7h5zRD9ze8dVHNPwC8xQcEefHfSC1NqP7-UlKR_UAWB0G58TXyBVKvnLsh_WJE6j4fGwnYNci8Y1k3T4papVoO-cl6-CToeL_7GShyoSpPLdINciSHfwXRJauQeY8Jq2ftf2VHCVMIZ2XYBvBoegU7sUWmFWpO8NNkxmQ5vcuHLdtH9ojyoH4hvqufEHsZSz6doGyELBv6DPOrj6DNW2ClhRJpWpfudtrfc0WgWKjnqksNQuUMZZxnOw0iMare1-WQaj4lSFuoYEiY7G0rDpK4KXcD-9ycM26druqf_ADC7GznCwgHtcVzie0uTChxQfq_nWaP7JOIYrFQHXta92gELAtIRL0ocryrkQ80DomuYSVaHUa1JPDWvvAOcyzJ54SQmvbQuS9Lfi51XnxVp23vBYeFIC7g2lCw9T7uD2fBPIMBu5R8bpK6FtHhjt8t832U_9OO6nlhRBq30_IynFh9_-RVrV0mhb5wne_zDyLe_8AEEq3KwstkZ4K-7-l86skoLMOM6S8oSKrp3pUOD3SeuGAQc6Agzs9DnSUIhOtilnNdtAXDhDQrJw2PyUbs_aSX8lG4etWrOk1Ea43MBq3e-JQwLLZqIsoiSvdx0QQlDY-smkwqAf3eb-w1gsdcikwEltK_iFStfykkr7AciHlnvXA4QfF_SVrjU9NWurvJD4EfQ6Eq1mGhMEystpoHWdfyeV7NIvF3bS4pG9IyUIQgnl3AWBFA8_e8UgJ0qmGJ8OkUveN_AL5F-lerM2EPT3YWJSCEhGWi1cE8Se7-hRlfTS3RHtMphLSCoSbx5fYOT5CTLb7edWOEeMlRbmeb5Qv-sp3fwYYrNuHu9Y0KUAY-3GVea4hcfa5WKjIhxO6m_OE-Zq1dYHGPH8Ma4hJMdvMJRtTg8rhiGMIkkoeXN%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%22%2C%22trackingId%22%3A%221c49f83b-c6f1-41c0-ac0d-a2dfc46aaed8%22%7D%2C%22time%22%3A1790586413645%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_view_base_recent_activity_content_view%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                - img "Restream" [ref=f219e16]
+              - generic [ref=f219e17]:
+                - paragraph [ref=f219e18]: Promoted
+                - button "Ad Options" [ref=f219e19] [cursor=pointer]
+            - generic [ref=f219e25]:
+              - link [ref=f219e26] [cursor=pointer]:
+                - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=http%3A%2F%2Fwww.linkedin.com%2Fcompany%2F10559670&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg50Rihzd4ImmO9lUijtwwDPGBaZtTgllqx6WD0xYZ4FHCEBifSStO3XTGobcSReh8qBcq2MPwz5vDVhM0x3-YQsp43UaEYvCgiAwgcDKKBWJXCLgfltjbHzzKhKTxz3KjkOB8t12fthta6XHsGOLls_KhZJBW0_fvl4heuF74I_jHO37n7W6ZJWA1sIDgYRD3vdoFMp5sRMctT5pulHBKPUOBraQfsx4oQU2tJ7h5zRD9ze8dVHNPwC8xQcEefHfSC1NqP7-UlKR_UAWB0G58TXyBVKvnLsh_WJE6j4fGwnYNci8Y1k3T4papVoO-cl6-CToeL_7GShyoSpPLdINciSHfwXRJauQeY8Jq2ftf2VHCVMIZ2XYBvBoegU7sUWmFWpO8NNkxmQ5vcuHLdtH9ojyoH4hvqufEHsZSz6doGyELBv6DPOrj6DNW2ClhRJpWpfudtrfc0WgWKjnqksNQuUMZZxnOw0iMare1-WQaj4lSFuoYEiY7G0rDpK4KXcD-9ycM26druqf_ADC7GznCwgHtcVzie0uTChxQfq_nWaP7JOIYrFQHXta92gELAtIRL0ocryrkQ80DomuYSVaHUa1JPDWvvAOcyzJ54SQmvbQuS9Lfi51XnxVp23vBYeFIC7g2lCw9T7uD2fBPIMBu5R8bpK6FtHhjt8t832U_9OO6nlhRBq30_IynFh9_-RVrV0mhb5wne_zDyLe_8AEEq3KwstkZ4K-7-l86skoLMOM6S8oSKrp3pUOD3SeuGAQc6Agzs9DnSUIhOtilnNdtAXDhDQrJw2PyUbs_aSX8lG4etWrOk1Ea43MBq3e-JQwLLZqIsoiSvdx0QQlDY-smkwqAf3eb-w1gsdcikwEltK_iFStfykkr7AciHlnvXA4QfF_SVrjU9NWurvJD4EfQ6Eq1mGhMEystpoHWdfyeV7NIvF3bS4pG9IyUIQgnl3AWBFA8_e8UgJ0qmGJ8OkUveN_AL5F-lerM2EPT3YWJSCEhGWi1cE8Se7-hRlfTS3RHtMphLSCoSbx5fYOT5CTLb7edWOEeMlRbmeb5Qv-sp3fwYYrNuHu9Y0KUAY-3GVea4hcfa5WKjIhxO6m_OE-Zq1dYHGPH8Ma4hJMdvMJRtTg8rhiGMIkkoeXN%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%22%2C%22trackingId%22%3A%221c49f83b-c6f1-41c0-ac0d-a2dfc46aaed8%22%7D%2C%22time%22%3A1790586413645%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_view_base_recent_activity_content_view%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                - heading "Restream" [level=2] [ref=f219e27]
+              - paragraph [ref=f219e29]: Kelly, design your live stream easily
+              - paragraph [ref=f219e31]: No design team needed. Simple layouts that look pro. Follow for tips
+              - generic [ref=f219e32]:
+                - generic [ref=f219e33]:
+                  - img "Laura" [ref=f219e34]
+                  - img "Jerrilynn" [ref=f219e35]
+                - paragraph [ref=f219e36]: Laura & 127 other connections also follow
+              - link "Follow" [ref=f219e37] [cursor=pointer]:
+                - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=http%3A%2F%2Fwww.linkedin.com%2Fcompany%2F10559670%3FisFollowingPage%3Dtrue&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg50RiiDYBBy0op0U76VdplqixPm8Wz1Mz82u3rmf5j0mTD6JhtZJnsoPuQKhg304U6KhQM5Awwf8YcN0iNQ-UMhF_nbYPalyD2OujeFovhcQV24w3H2ydABt14MkFMYnuOutTCZJp2yklwzPXlirArnSZ3Swysy_DxS10JQ2fXvUz41cD3ZMTIAMF0cSUO-aB0aUL6cG9MS5P-QLASFdVatNNrXxlNtFfS1iVk2NQKxjSQ36KDfhRja9iO17VcfgyCEvfaaboNlDSIgVdXX5LOQgN6IOKGbXDrTOT1GnUp8U0k610ys8QSg-iOvRxG1Fy36P0AmOlmYByZDQ8paTQaDBaKBoZ5hIYzg0Rkq6jzJME56RsoZa1NFRJwyDi_zX5q7s8RG4wKcUuj_eUoMh9KS8v2ljntDElCszqDwP_W7FOaQKShd9m16-hovFU003rqzMSB9b0TlTCp8J8z5m6wZdv17v6_EBLDdF9VGDW8rBDaun2wAj8V7WSnxN51aU6j-nG6550RDgjiB5G9hZ9TgouMKQ7xAn3h6yZ8hmnYt2MRwCWBstI3ZScwY7HhuWY4CAYz-uarrtx3f5q5fG3M2WrHB6_b8a0n8FqH2IUvdM3TPDAdW-Flzul2uV3VnZkfJcraveiayhsTn2rz9iqdGx0wpe1t-LslpMIXV5gmUvkBUJPlsPCS-Wgp7dI9SaSMdhKhMEQIJtjItEhB0pYOfVTlL2PAVKg-ycUrChMeV22dGfgEYkcQrQpc5yWRHDKulbwJpm6fNjPA0IaC_E5JKw8EIy2FlG0nuM3e267QzevhQuWqRFRGt8L-iidSH2UknwTCu_3JrNpM9Wyxb5sigQt9TEOciJFt9-xJNfCfbOf2_pcfL4jvxEUHzUMOyjiQ4hGEUShtG1IpigidxdTEDfj9Yg4BNSvJKifd1kTk_RpQcNiEOO9yFUSQ2xKuRO26uinQpoHdFoA5LwLpRzbQO646EhsxlekxuRYHSI0VyM7te1tO_yjF6Nkcyji-Egy7mqvbLgUiiT8gJYjO0ljskCqQMIAYf3RMS1Aq5tjJk9wt55q7jwowh38LgOoz-tdVFk8MdLz7uL75sgHQT8yCDXLAI4tZEZolWacqwyQtQ5pUU3dxpn3KNLLXkehA4gyUVOTz61erxmbHKctIQRBSVYXPEZHnvlqkvAZ%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%22%2C%22trackingId%22%3A%22941ab916-157a-4cca-8212-a161ab5d335c%22%7D%2C%22time%22%3A1790586413645%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_view_base_recent_activity_content_view%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+        - generic [ref=f218e1018]:
+          - generic [ref=f218e1022]:
+            - heading "People you may know" [level=2] [ref=f218e1023]
+            - paragraph [ref=f218e1025]:
+              - generic [ref=f218e1026]: From Eric's school
+          - generic [ref=f218e1027]:
+            - list [ref=f218e1028]:
+              - listitem [ref=f218e1029]:
+                - generic [ref=f218e1030]:
+                  - link [ref=f218e1032] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/jim-welsh
+                    - img "Jim Welsh" [ref=f218e1035]
+                  - generic [ref=f218e1036]:
+                    - link "Jim Welsh Esoteric Writing and insight to Awareness adaptation to Sustainability through the Human condition and its implications to Business and Holistic integration. Anthesis Designs." [ref=f218e1038] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/jim-welsh?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAB7ovQgBzE0B2Nu65kuhNwX5W60QCkzaHMk
+                      - generic [ref=f218e1039]: Jim Welsh
+                      - generic [ref=f218e1044]: Esoteric Writing and insight to Awareness adaptation to Sustainability through the Human condition and its implications to Business and Holistic integration. Anthesis Designs.
+                    - list [ref=f218e1050]:
+                      - listitem [ref=f218e1051]:
+                        - button "Invite Jim Welsh to connect" [ref=f218e1053] [cursor=pointer]:
+                          - generic [ref=f218e1056]: Connect
+              - listitem [ref=f218e1057]:
+                - generic [ref=f218e1058]:
+                  - link [ref=f218e1060] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/ailsa-macleod-17069b434
+                    - img "Ailsa Macleod" [ref=f218e1063]
+                  - generic [ref=f218e1064]:
+                    - link "Ailsa Macleod Communications Strategy | Reputation Management | Narrative Architecture | Public Policy | Media & PR" [ref=f218e1066] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/ailsa-macleod-17069b434?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAG28bCQB7TyiAhhLrO6HUllvnMghHuY0u-g
+                      - generic [ref=f218e1067]: Ailsa Macleod
+                      - generic [ref=f218e1077]: Communications Strategy | Reputation Management | Narrative Architecture | Public Policy | Media & PR
+                    - list [ref=f218e1083]:
+                      - listitem [ref=f218e1084]:
+                        - button "Invite Ailsa Macleod to connect" [ref=f218e1086] [cursor=pointer]:
+                          - generic [ref=f218e1089]: Connect
+              - listitem [ref=f218e1090]:
+                - generic [ref=f218e1091]:
+                  - link [ref=f218e1093] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/rachael-m-harvey
+                    - img "Rachael Harvey" [ref=f218e1096]
+                  - generic [ref=f218e1097]:
+                    - link "Rachael Harvey Internationally Certified Results Coach (ICF) | Career, Mindset & Leadership Coach | Online Business Owner & Mentor" [ref=f218e1099] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/rachael-m-harvey?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAATo_PsBiqYHu2bWX79YaMdW2QNfpRhg8lU
+                      - generic [ref=f218e1100]: Rachael Harvey
+                      - generic [ref=f218e1105]: Internationally Certified Results Coach (ICF) | Career, Mindset & Leadership Coach | Online Business Owner & Mentor
+                    - list [ref=f218e1111]:
+                      - listitem [ref=f218e1112]:
+                        - button "Invite Rachael Harvey to connect" [ref=f218e1114] [cursor=pointer]:
+                          - generic [ref=f218e1117]: Connect
+              - listitem [ref=f218e1118]:
+                - generic [ref=f218e1119]:
+                  - link [ref=f218e1121] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/ian-carter-modulum
+                    - img "Ian Carter" [ref=f218e1124]
+                  - generic [ref=f218e1125]:
+                    - link "Ian Carter Founder, Modulum Joinery | Joinery design with over two decades of installation experience behind it | Design and supply partner to builders across the Mornington Peninsula and Melbourne’s south east" [ref=f218e1127] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/ian-carter-modulum?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAG6-xXoB8guGHfey0ik7n7tvOt2l-WP-Y4k
+                      - generic [ref=f218e1128]: Ian Carter
+                      - generic [ref=f218e1133]: Founder, Modulum Joinery | Joinery design with over two decades of installation experience behind it | Design and supply partner to builders across the Mornington Peninsula and Melbourne’s south east
+                    - list [ref=f218e1139]:
+                      - listitem [ref=f218e1140]:
+                        - button "Invite Ian Carter to connect" [ref=f218e1142] [cursor=pointer]:
+                          - generic [ref=f218e1145]: Connect
+              - listitem [ref=f218e1146]:
+                - generic [ref=f218e1147]:
+                  - link [ref=f218e1149] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/drmarksinclair
+                    - img "Dr. Mark Sinclair FGIA CEM" [ref=f218e1152]
+                  - generic [ref=f218e1153]:
+                    - link "Dr. Mark Sinclair FGIA CEM Responsible Manager, Consultant, MBA Lecturer, AI Startup Founder" [ref=f218e1155] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/drmarksinclair?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAMJtM8BD52MaamohObelKbtnTjWAAemNTQ
+                      - generic [ref=f218e1156]: Dr. Mark Sinclair FGIA CEM
+                      - generic [ref=f218e1166]: Responsible Manager, Consultant, MBA Lecturer, AI Startup Founder
+                    - list [ref=f218e1172]:
+                      - listitem [ref=f218e1173]:
+                        - button "Invite Dr. Mark Sinclair FGIA CEM to connect" [ref=f218e1175] [cursor=pointer]:
+                          - generic [ref=f218e1178]: Connect
+            - button "Show more" [ref=f218e1181] [cursor=pointer]
+        - generic "LinkedIn Footer Content" [ref=f218e248]:
+          - generic [ref=f218e249]:
+            - list [ref=f218e1185]:
+              - listitem [ref=f218e1186]:
+                - link "About" [ref=f218e1187] [cursor=pointer]:
+                  - /url: https://about.linkedin.com/
+              - listitem [ref=f218e1189]:
+                - link "Accessibility" [ref=f218e1190] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/accessibility
+              - listitem [ref=f218e1192]:
+                - link "Help Center" [ref=f218e1193] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin?trk=footer_d_flagship3_profile_view_base_recent_activity_content_view
+              - listitem [ref=f218e1195]:
+                - button "Privacy & Terms" [ref=f218e1197] [cursor=pointer]
+              - listitem [ref=f218e1202]:
+                - link "Ad Choices" [ref=f218e1203] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin/answer/62931
+              - listitem [ref=f218e1205]:
+                - link "Advertising" [ref=f218e1206] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/ad/start?trk=n_nav_ads_rr
+              - listitem [ref=f218e1208]:
+                - button "Business Services" [ref=f218e1210] [cursor=pointer]
+              - listitem [ref=f218e1215]:
+                - button "Get the LinkedIn app" [ref=f218e1218] [cursor=pointer]
+              - listitem [ref=f218e1219]:
+                - button "More options" [ref=f218e1220] [cursor=pointer]: More
+            - generic [ref=f218e250]:
+              - img "LinkedIn" [ref=f218e251]
+              - text: LinkedIn Corporation © 2026
+    - generic:
+      - generic:
+        - complementary:
+          - generic [ref=f218e254]:
+            - generic [ref=f218e255]:
+              - generic [ref=f218e257] [cursor=pointer]:
+                - img "Kelly Irving" [ref=f218e259]
+                - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f218e260]:
+                  - generic [ref=f218e261]:
+                    - generic [aria-hidden] [ref=f218e262]: Messaging
+                    - generic [ref=f218e263]: You are on the messaging overlay. Press enter to open the list of conversations.
+              - generic [ref=f218e264]:
+                - button [ref=f218e266] [cursor=pointer]:
+                  - img "Open messenger dropdown menu" [ref=f218e267]
+                - button "Compose message" [ref=f218e270] [cursor=pointer]
+                - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f218e274] [cursor=pointer]
+            - generic [ref=f218e1221]:
+              - heading "Page inboxes" [level=3] [ref=f218e1223]
+              - generic [ref=f218e1224] [cursor=pointer]:
+                - generic [ref=f218e1225]: Click to see affiliated inboxes
+                - button "Page inboxes" [ref=f218e1226]
+        - complementary "AI-powered assistant to get help with your career, jobs etc"
+  - region [ref=f218e278]

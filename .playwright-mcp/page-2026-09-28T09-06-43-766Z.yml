@@ -1,0 +1,1078 @@
+- generic [ref=f202e2]:
+  - heading "0 notifications" [level=2] [ref=f202e3]
+  - generic [ref=f202e4]:
+    - generic:
+      - generic "Skip navigation menu":
+        - generic [ref=f202e5]:
+          - button "Skip to search" [ref=f202e6] [cursor=pointer]
+          - button "Skip to main content" [ref=f202e9] [cursor=pointer]
+          - button "Skip to sidebar" [ref=f202e12] [cursor=pointer]
+          - button "Skip to primary content" [ref=f202e15] [cursor=pointer]
+          - button "Skip to aside" [ref=f202e18] [cursor=pointer]
+          - button "Close jump menu" [ref=f202e22] [cursor=pointer]
+    - generic [ref=f202e25]:
+      - banner [ref=f202e27]:
+        - generic [ref=f202e30]:
+          - button [ref=f202e847] [cursor=pointer]:
+            - img "LinkedIn" [ref=f202e848]
+          - generic [ref=f202e33]:
+            - status [ref=f202e34]
+            - search [ref=f202e35]:
+              - textbox "I'm looking for…" [ref=f202e39]: Stories That Stir Brisbane Strength Eric Em
+          - generic [ref=f202e41]:
+            - figure [aria-hidden] [ref=f202e856]
+            - navigation [ref=f202e45]:
+              - list [ref=f202e46]:
+                - listitem [ref=f202e47]:
+                  - button "Home, 1 new notification" [ref=f202e48] [cursor=pointer]:
+                    - generic: Home
+                - listitem [ref=f202e54]:
+                  - link "My Network, 31 new notifications" [ref=f202e55] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork
+                    - generic [ref=f202e56]: "31"
+                    - generic: My Network
+                - listitem [ref=f202e61]:
+                  - link "Jobs, 0 new notifications" [ref=f202e62] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/
+                    - generic: Jobs
+                - listitem [ref=f202e67]:
+                  - link "Messaging, 0 new notifications" [ref=f202e68] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/messaging/
+                    - generic: Messaging
+                - listitem [ref=f202e73]:
+                  - link "Notifications, 25 new notifications" [ref=f202e74] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/notifications/
+                    - generic [ref=f202e75]: "25"
+                    - generic: Notifications
+                - listitem [ref=f202e80]:
+                  - button [ref=f202e81] [cursor=pointer]:
+                    - figure [aria-hidden] [ref=f202e83]
+            - navigation [ref=f202e88]:
+              - list [ref=f202e89]:
+                - listitem [ref=f202e90]:
+                  - button "For Business" [ref=f202e91] [cursor=pointer]
+                - listitem [ref=f202e97]:
+                  - link "Advertise, 3 new notifications" [ref=f202e98] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/campaignmanager/accounts/
+                    - generic [ref=f202e99]: "3"
+                    - generic: Advertise
+      - generic [ref=f202e103]:
+        - toolbar [ref=f202e104]:
+          - generic [ref=f202e109]:
+            - radio "Filter by People" [ref=f202e110] [cursor=pointer]:
+              - generic "Filter by People" [ref=f202e111]:
+                - checkbox "People"
+                - generic [ref=f202e112]: People
+            - radio "Filter by Posts" [ref=f202e113] [cursor=pointer]:
+              - generic "Filter by Posts" [ref=f202e114]:
+                - checkbox "Posts"
+                - generic [ref=f202e115]: Posts
+            - radio "Filter by Companies" [ref=f202e116] [cursor=pointer]:
+              - generic "Filter by Companies" [ref=f202e117]:
+                - checkbox "Companies"
+                - generic [ref=f202e118]: Companies
+            - radio "Filter by Jobs" [ref=f202e119] [cursor=pointer]:
+              - generic "Filter by Jobs" [ref=f202e120]:
+                - checkbox "Jobs"
+                - generic [ref=f202e121]: Jobs
+            - radio "Filter by Groups" [ref=f202e122] [cursor=pointer]:
+              - generic "Filter by Groups" [ref=f202e123]:
+                - checkbox "Groups"
+                - generic [ref=f202e124]: Groups
+            - radio "Filter by Events" [ref=f202e125] [cursor=pointer]:
+              - generic "Filter by Events" [ref=f202e126]:
+                - checkbox "Events"
+                - generic [ref=f202e127]: Events
+            - radio "Filter by Schools" [ref=f202e128] [cursor=pointer]:
+              - generic "Filter by Schools" [ref=f202e129]:
+                - checkbox "Schools"
+                - generic [ref=f202e130]: Schools
+            - radio "Filter by Services" [ref=f202e131] [cursor=pointer]:
+              - generic "Filter by Services" [ref=f202e132]:
+                - checkbox "Services"
+                - generic [ref=f202e133]: Services
+            - radio "Filter by Courses" [ref=f202e134] [cursor=pointer]:
+              - generic "Filter by Courses" [ref=f202e135]:
+                - checkbox "Courses"
+                - generic [ref=f202e136]: Courses
+            - radio "Filter by Products" [ref=f202e137] [cursor=pointer]:
+              - generic "Filter by Products" [ref=f202e138]:
+                - checkbox "Products"
+                - generic [ref=f202e139]: Products
+        - main [ref=f202e140]:
+          - generic [ref=f202e143]:
+            - complementary "Sidebar" [ref=f202e144]:
+              - generic [ref=f202e150]:
+                - heading "On this page" [level=2] [ref=f202e151]
+                - group [ref=f202e152]:
+                  - radio [ref=f202e154] [cursor=pointer]:
+                    - paragraph [ref=f202e157]: People
+                  - radio [ref=f202e159] [cursor=pointer]:
+                    - paragraph [ref=f202e162]: Posts
+                  - radio [ref=f202e164] [cursor=pointer]:
+                    - paragraph [ref=f202e167]: More people
+            - region "Primary content" [ref=f202e168]:
+              - generic [ref=f202e170]:
+                - generic [ref=f202e172]:
+                  - generic [ref=f202e173]:
+                    - heading "People" [level=2] [ref=f202e174]
+                    - generic [ref=f202e176]:
+                      - radiogroup "Filter by connections" [ref=f202e177]:
+                        - radio "Filter by 1st connections" [ref=f202e178] [cursor=pointer]:
+                          - generic "Filter by 1st connections" [ref=f202e179]:
+                            - checkbox "1st"
+                            - generic [ref=f202e180]: 1st
+                        - radio "Filter by 2nd connections" [ref=f202e181] [cursor=pointer]:
+                          - generic "Filter by 2nd connections" [ref=f202e182]:
+                            - checkbox "2nd"
+                            - generic [ref=f202e183]: 2nd
+                        - radio "Filter by 3rd+ connections" [ref=f202e184] [cursor=pointer]:
+                          - generic "Filter by 3rd+ connections" [ref=f202e185]:
+                            - checkbox "3rd+"
+                            - generic [ref=f202e186]: 3rd+
+                      - radio "Premium Actively hiring" [ref=f202e187] [cursor=pointer]:
+                        - generic "Premium Actively hiring" [ref=f202e188]:
+                          - checkbox "Actively hiring"
+                          - generic [ref=f202e189]: Actively hiring
+                    - list [ref=f202e191]:
+                      - listitem [ref=f202e193]:
+                        - link "Eric Em Premium • 1st Keynote Speaker, MC & Storyteller | Refugee-turned-Engineering Leader (20+ yrs) | Guiding teams to belong, lead through change & work with AI across generations | Voted Best Global Tribe Member 2025 Brisbane, Queensland, Australia Send a message to Eric Em Paul Dunn, Denise Duffield-Thomas & 303 other mutual connections · 4K followers Visit my website" [ref=f202e867] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/ericem/
+                          - generic [ref=f202e196]:
+                            - generic [ref=f202e197]:
+                              - figure [aria-hidden] [ref=f202e198]
+                              - generic [ref=f202e199]:
+                                - paragraph [ref=f202e200]:
+                                  - link [ref=f202e201]:
+                                    - /url: https://www.linkedin.com/in/ericem/
+                                    - text: Eric Em
+                                    - img "Premium" [ref=f202e202]
+                                  - generic [ref=f202e204]: • 1st
+                                - paragraph [ref=f202e206]: Keynote Speaker, MC & Storyteller | Refugee-turned-Engineering Leader (20+ yrs) | Guiding teams to belong, lead through change & work with AI across generations | Voted Best Global Tribe Member 2025
+                                - paragraph [ref=f202e208]: Brisbane, Queensland, Australia
+                              - link "Send a message to Eric Em" [ref=f202e875]:
+                                - /url: /messaging/compose/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAMwEwB-Wwv0XgxCN6jgBd7oeSAHyUidok&recipient=ACoAAAAMwEwB-Wwv0XgxCN6jgBd7oeSAHyUidok&screenContext=SEARCH&interop=msgOverlay
+                                - generic [ref=f202e876]: Message
+                            - generic [ref=f202e209]:
+                              - figure [aria-hidden] [ref=f202e210]
+                              - figure [aria-hidden] [ref=f202e211]
+                              - generic [ref=f202e212]:
+                                - paragraph [ref=f202e214]:
+                                  - generic [ref=f202e215]:
+                                    - link "Paul Dunn" [ref=f202e216]:
+                                      - /url: https://www.linkedin.com/in/pauldunnexecutive/
+                                    - text: ","
+                                    - link "Denise Duffield-Thomas" [ref=f202e217]:
+                                      - /url: https://www.linkedin.com/in/deniseduffieldthomas/
+                                    - text: "&"
+                                    - link "303 other mutual connections" [ref=f202e218]:
+                                      - /url: https://www.linkedin.com/search/results/people/?origin=SHARED_CONNECTIONS_CANNED_SEARCH&network=%5B%22F%22%5D&connectionOf=%5B%22ACoAAAAMwEwB-Wwv0XgxCN6jgBd7oeSAHyUidok%22%5D
+                                - paragraph [ref=f202e220]:
+                                  - generic [ref=f202e221]:
+                                    - text: ·
+                                    - link "4K followers" [ref=f202e222]:
+                                      - /url: https://www.linkedin.com/search/results/people/?origin=SHARED_FOLLOWERS_CANNED_SEARCH&followerOf=%5B%22ACoAAAAMwEwB-Wwv0XgxCN6jgBd7oeSAHyUidok%22%5D
+                            - paragraph [ref=f202e224]:
+                              - link "Visit my website" [ref=f202e225]:
+                                - /url: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fbeacons%2Eai%2Fericem&urlhash=b_dJ&mt=VftqkRKuustIE5PVkpLQWZf6xLxz5K4-w2n2CC_BTi-hWrsNFT4xwOQZ6mNmSjDyCaPOsGdaKBDEuydpXgHjVLvXOw&isSdui=true
+                      - listitem [ref=f202e227]:
+                        - link "Eric J. Gregory • 1st Business Coach - Certified Chair - Author - Speaker Greater Brisbane Area Send a message to Eric J. Gregory Iven Frangi, Carlo G. Santoro & 98 other mutual connections" [ref=f202e880] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/ericgregorybusinesscoach/
+                          - generic [ref=f202e230]:
+                            - generic [ref=f202e231]:
+                              - figure [ref=f202e232]:
+                                - img "Eric J. Gregory" [ref=f202e233]
+                              - generic [ref=f202e234]:
+                                - paragraph [ref=f202e235]:
+                                  - link "Eric J. Gregory" [ref=f202e236]:
+                                    - /url: https://www.linkedin.com/in/ericgregorybusinesscoach/
+                                  - generic [ref=f202e237]: • 1st
+                                - paragraph [ref=f202e239]: Business Coach - Certified Chair - Author - Speaker
+                                - paragraph [ref=f202e241]: Greater Brisbane Area
+                              - link "Send a message to Eric J. Gregory" [ref=f202e886]:
+                                - /url: /messaging/compose/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAAIuT40BQ1mC6l8rAeXvLTM_XOoLtp9QntM&recipient=ACoAAAIuT40BQ1mC6l8rAeXvLTM_XOoLtp9QntM&screenContext=SEARCH&interop=msgOverlay
+                                - generic [ref=f202e887]: Message
+                            - generic [ref=f202e242]:
+                              - figure [aria-hidden] [ref=f202e243]
+                              - figure [aria-hidden] [ref=f202e244]
+                              - paragraph [ref=f202e246]:
+                                - generic [ref=f202e247]:
+                                  - link "Iven Frangi" [ref=f202e248]:
+                                    - /url: https://www.linkedin.com/in/virtual-sales-strategies-screen-selling/
+                                  - text: ","
+                                  - link "Carlo G. Santoro" [ref=f202e249]:
+                                    - /url: https://www.linkedin.com/in/carlosantoro/
+                                  - text: "&"
+                                  - link "98 other mutual connections" [ref=f202e250]:
+                                    - /url: https://www.linkedin.com/search/results/people/?origin=SHARED_CONNECTIONS_CANNED_SEARCH&network=%5B%22F%22%5D&connectionOf=%5B%22ACoAAAIuT40BQ1mC6l8rAeXvLTM_XOoLtp9QntM%22%5D
+                      - listitem [ref=f202e252]:
+                        - link "Eric Tjoeng Premium • 1st 2026 Best Business Growth Advisors (Digital Reference) | CEO, BGES | Helping SME Owners Increase Profit, Improve Cash Flow & Prepare for Exit | MBA, FCPA, FIML, Accredited Family Business Advisor Greater Sydney Area Send a message to Eric Tjoeng Craig Rispin CSP, Iven Frangi & 332 other mutual connections · 5K followers Visit my website" [ref=f202e891] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/etjoeng/
+                          - generic [ref=f202e255]:
+                            - generic [ref=f202e256]:
+                              - figure [aria-hidden] [ref=f202e257]
+                              - generic [ref=f202e258]:
+                                - paragraph [ref=f202e259]:
+                                  - link [ref=f202e260]:
+                                    - /url: https://www.linkedin.com/in/etjoeng/
+                                    - text: Eric Tjoeng
+                                    - img "Premium" [ref=f202e261]
+                                  - generic [ref=f202e263]: • 1st
+                                - paragraph [ref=f202e265]: 2026 Best Business Growth Advisors (Digital Reference) | CEO, BGES | Helping SME Owners Increase Profit, Improve Cash Flow & Prepare for Exit | MBA, FCPA, FIML, Accredited Family Business Advisor
+                                - paragraph [ref=f202e267]: Greater Sydney Area
+                              - link "Send a message to Eric Tjoeng" [ref=f202e899]:
+                                - /url: /messaging/compose/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAADp8_gBMAXw8BU58CR3rAVwYYcdllKSIaw&recipient=ACoAAADp8_gBMAXw8BU58CR3rAVwYYcdllKSIaw&screenContext=SEARCH&interop=msgOverlay
+                                - generic [ref=f202e900]: Message
+                            - generic [ref=f202e268]:
+                              - figure [aria-hidden] [ref=f202e269]
+                              - figure [aria-hidden] [ref=f202e270]
+                              - generic [ref=f202e271]:
+                                - paragraph [ref=f202e273]:
+                                  - generic [ref=f202e274]:
+                                    - link "Craig Rispin CSP" [ref=f202e275]:
+                                      - /url: https://www.linkedin.com/in/craigrispin/
+                                    - text: ","
+                                    - link "Iven Frangi" [ref=f202e276]:
+                                      - /url: https://www.linkedin.com/in/virtual-sales-strategies-screen-selling/
+                                    - text: "&"
+                                    - link "332 other mutual connections" [ref=f202e277]:
+                                      - /url: https://www.linkedin.com/search/results/people/?origin=SHARED_CONNECTIONS_CANNED_SEARCH&network=%5B%22F%22%5D&connectionOf=%5B%22ACoAAADp8_gBMAXw8BU58CR3rAVwYYcdllKSIaw%22%5D
+                                - paragraph [ref=f202e279]:
+                                  - generic [ref=f202e280]:
+                                    - text: ·
+                                    - link "5K followers" [ref=f202e281]:
+                                      - /url: https://www.linkedin.com/search/results/people/?origin=SHARED_FOLLOWERS_CANNED_SEARCH&followerOf=%5B%22ACoAAADp8_gBMAXw8BU58CR3rAVwYYcdllKSIaw%22%5D
+                            - paragraph [ref=f202e283]:
+                              - link "Visit my website" [ref=f202e284]:
+                                - /url: https://www.linkedin.com/safety/go/?url=http%3A%2F%2Fwww%2Ebges%2Eco&urlhash=DeVc&mt=FSfZ8RmTidCtVQrOgAPDPJT7sS2Lzormy28MiZ6GvsbYxYDzXftypmgh33sW2pxUPnTJs4tzNiA5UKkOLL_LGFx3jg&isSdui=true
+                    - link "Show all" [ref=f202e286] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/search/results/people/?keywords=Stories+That+Stir+Brisbane+Strength+Eric+Em&origin=CLUSTER_EXPANSION
+                  - generic [ref=f202e290]:
+                    - heading "Posts" [level=2] [ref=f202e291]
+                    - generic [ref=f202e293]:
+                      - radio "Filter by From my network" [ref=f202e294] [cursor=pointer]:
+                        - generic "Filter by From my network" [ref=f202e295]:
+                          - checkbox "From my network"
+                          - generic [ref=f202e296]: From my network
+                      - radiogroup "Filter by date posted" [ref=f202e297]:
+                        - radio "Filter by Past 24 hours" [ref=f202e298] [cursor=pointer]:
+                          - generic "Filter by Past 24 hours" [ref=f202e299]:
+                            - checkbox "Past 24 hours"
+                            - generic [ref=f202e300]: Past 24 hours
+                        - radio "Filter by Past week" [ref=f202e301] [cursor=pointer]:
+                          - generic "Filter by Past week" [ref=f202e302]:
+                            - checkbox "Past week"
+                            - generic [ref=f202e303]: Past week
+                    - list [ref=f202e304]:
+                      - listitem [ref=f202e308]:
+                        - generic [ref=f202e310]:
+                          - heading "Feed post" [level=2]
+                          - generic [ref=f202e312]:
+                            - link [ref=f202e313] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/ericem/
+                              - figure [ref=f202e314]:
+                                - img "View Eric Em’s profile" [ref=f202e315]
+                            - generic [ref=f202e317]:
+                              - link [ref=f202e320] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/in/ericem/
+                                - generic "Eric Em Premium Profile 1st" [ref=f202e322]:
+                                  - paragraph [ref=f202e325]: Eric Em
+                                  - paragraph [ref=f202e327]:
+                                    - generic [ref=f202e328]: • 1st
+                              - paragraph [ref=f202e332]: Keynote Speaker, MC & Storyteller | Refugee-turned-Engineering Leader (20+ yrs) | Guiding teams to belong, lead through change & work with AI across generations | Voted Best Global Tribe Member 2025
+                              - link [ref=f202e336] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fbeacons%2Eai%2Fericem&urlhash=b_dJ&mt=pVKfIghc_Bh8xbo4sdswaqDO-A6iGgCkRiqRknsghx13Jh3AAsF7ptI6IZY7Wl7Mu0X0X7eYNK2QAjH4PsxtPZH32rMizLEd_VaV&isSdui=true
+                                - paragraph [ref=f202e337]: Visit my website
+                              - paragraph [ref=f202e339]: 5h
+                              - link "Eric Em Premium Profile 1st":
+                                - /url: https://www.linkedin.com/in/ericem/
+                            - button "Open control menu for post by Eric Em" [ref=f202e340] [cursor=pointer]
+                          - paragraph [ref=f202e343]:
+                            - generic [ref=f202e344]:
+                              - text: Everyone says strength is never breaking. That's wrong.The strongest people I know have broken. More than once.What makes them strong is what they did next.That's what STRENGTH is about at our next Stories That Stir Brisbane.Six storytellers. Six titles that already say so much:1️⃣ Struggles & Triumphs2️⃣ Trauma Transformed3️⃣ Decision Point4️⃣ Heavyweight5️⃣ The Pail6️⃣ Let GoNo slides. No scripts. Just real people telling the truth.You'll leave with something most events can't give you. Permission to see your own hard moments as proof of strength, not weakness.🗓 Sun 1 Nov, 2pm to 4.30pm📍
+                              - 'link "View company: Food Connect Shed" [ref=f202e347] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/company/foodconnectshed/
+                                - strong [ref=f202e348]: Food Connect Shed
+                              - text: ", SalisburyGrab your ticket and bring a friend who needs to hear this. Link in the event details.Looking forward to welcoming newcomers to the community. See you all there!"
+                              - link "View Eric Em’s profile" [ref=f202e350] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/in/ericem/
+                                - strong [ref=f202e351]: Eric E.
+                              - text: MC & Event Host
+                              - 'link "View company: Stories that Stir®Global" [ref=f202e353] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/company/stories-that-stir™-global/
+                                - strong [ref=f202e354]: Stories that Stir®Global
+                              - button [aria-hidden] [ref=f202e355] [cursor=pointer]:
+                                - generic [ref=f202e356]: … more
+                          - link [ref=f202e358] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/events/7510188177824018432/
+                            - figure [aria-hidden] [ref=f202e359]
+                          - generic [ref=f202e360]:
+                            - link [ref=f202e361] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/events/7510188177824018432/
+                              - generic [ref=f202e362]:
+                                - paragraph [ref=f202e364]: Sun, Nov 1, 3:00 PM - 5:00 PM
+                                - paragraph [ref=f202e366]: Stories that Stir - BRISBANE - STRENGTH
+                                - paragraph [ref=f202e367]: Salisbury, AU
+                                - generic [ref=f202e370]:
+                                  - figure [aria-hidden] [ref=f202e371]
+                                  - paragraph [ref=f202e373]: Eric Em and 4 other attendees
+                            - button "Interested" [ref=f202e374] [cursor=pointer]
+                          - generic [ref=f202e377]:
+                            - link [ref=f202e378] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=Stories%20That%20Stir%20Brisbane%20Strength%20Eric%20Em&origin=GLOBAL_SEARCH_HEADER
+                              - generic "Switch to different account" [ref=f202e379]:
+                                - figure [aria-hidden] [ref=f202e380]
+                            - generic [ref=f202e382]:
+                              - 'button "Reaction button state: no reaction" [ref=f202e385] [cursor=pointer]':
+                                - generic [ref=f202e386]: "11"
+                              - button "Open reactions menu":
+                                - generic [ref=f202e916] [cursor=pointer]
+                            - button "Comment" [ref=f202e391] [cursor=pointer]:
+                              - generic [ref=f202e392]: "4"
+                            - button "Repost" [ref=f202e397] [cursor=pointer]
+                            - link "Send" [ref=f202e400] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=Stories%20That%20Stir%20Brisbane%20Strength%20Eric%20Em&origin=GLOBAL_SEARCH_HEADER
+                            - link [ref=f202e403] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=Stories%20That%20Stir%20Brisbane%20Strength%20Eric%20Em&origin=GLOBAL_SEARCH_HEADER
+                              - generic "11 reactions" [ref=f202e404]
+                      - listitem [ref=f202e411]:
+                        - generic [ref=f202e413]:
+                          - heading "Feed post" [level=2]
+                          - generic [ref=f202e415]:
+                            - link [ref=f202e416] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/andrea-gullick/
+                              - figure [ref=f202e417]:
+                                - img "View Andrea Gullick’s profile" [ref=f202e418]
+                            - generic [ref=f202e420]:
+                              - link [ref=f202e423] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/in/andrea-gullick/
+                                - generic "Andrea Gullick 1st" [ref=f202e425]:
+                                  - paragraph [ref=f202e428]: Andrea Gullick
+                                  - paragraph [ref=f202e430]: • 1st
+                              - paragraph [ref=f202e432]: Speaker | Mentor | Wellbeing Advocate
+                              - paragraph [ref=f202e434]: 4w • Edited
+                              - link "Andrea Gullick 1st":
+                                - /url: https://www.linkedin.com/in/andrea-gullick/
+                            - button "Open control menu for post by Andrea Gullick" [ref=f202e435] [cursor=pointer]
+                          - paragraph [ref=f202e438]:
+                            - generic [ref=f202e439]:
+                              - text: What does Courage mean to you? For some, sitting in a dentist's chair takes every bit of courage. For others, it's asking for that pay rise they know they deserve. Courage comes in all shapes and sizes and is called upon in all different scenarios. I thought it took all my courage to navigate traumas in quick succession but I realise that took strength. What took real courage was to navigate a journey with anti-depressants and coming home to my own truth about them. Sometimes we need to lean in and listen to others, sometimes we need to lean out and listen to ourselves. Thanks
+                              - link "View Eric Em’s profile" [ref=f202e442] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/in/ericem/
+                                - strong [ref=f202e443]: Eric Em
+                              - text: for being such a terrific Emcee and to the 5 other speakers at Stories That Stir Brisbane.
+                              - 'link "View hashtag: #courage" [ref=f202e445] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/search/results/all/?keywords=%23courage&origin=HASH_TAG_FROM_FEED
+                                - strong [ref=f202e446]: "#courage"
+                              - 'link "View hashtag: #mentalhealth" [ref=f202e448] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/search/results/all/?keywords=%23mentalhealth&origin=HASH_TAG_FROM_FEED
+                                - strong [ref=f202e449]: "#mentalhealth"
+                              - 'link "View hashtag: #storiesthatstir" [ref=f202e451] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/search/results/all/?keywords=%23storiesthatstir&origin=HASH_TAG_FROM_FEED
+                                - strong [ref=f202e452]: "#storiesthatstir"
+                              - button [aria-hidden] [ref=f202e453] [cursor=pointer]:
+                                - generic [ref=f202e454]: … more
+                          - generic [ref=f202e457]:
+                            - region "Video Player" [ref=f202e459]:
+                              - generic [ref=f202e462] [cursor=pointer]
+                              - text:              
+                            - button "Play video" [ref=f202e464] [cursor=pointer]
+                          - generic [ref=f202e467]:
+                            - link [ref=f202e468] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=Stories%20That%20Stir%20Brisbane%20Strength%20Eric%20Em&origin=GLOBAL_SEARCH_HEADER
+                              - generic "Switch to different account" [ref=f202e469]:
+                                - figure [aria-hidden] [ref=f202e470]
+                            - generic [ref=f202e472]:
+                              - 'button "Reaction button state: no reaction" [ref=f202e475] [cursor=pointer]':
+                                - generic [ref=f202e476]: "10"
+                              - button "Open reactions menu":
+                                - generic [ref=f202e959] [cursor=pointer]
+                            - button "Comment" [ref=f202e481] [cursor=pointer]:
+                              - generic [ref=f202e482]: "11"
+                            - button "Repost" [ref=f202e487] [cursor=pointer]
+                            - link "Send" [ref=f202e490] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=Stories%20That%20Stir%20Brisbane%20Strength%20Eric%20Em&origin=GLOBAL_SEARCH_HEADER
+                            - link [ref=f202e493] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=Stories%20That%20Stir%20Brisbane%20Strength%20Eric%20Em&origin=GLOBAL_SEARCH_HEADER
+                              - generic "10 reactions" [ref=f202e494]
+                      - listitem [ref=f202e501]:
+                        - generic [ref=f202e503]:
+                          - heading "Feed post" [level=2]
+                          - generic [ref=f202e505]:
+                            - link [ref=f202e506] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/lauren-cannell-educacion-diversa/
+                              - figure [ref=f202e507]:
+                                - img "View Lauren Cannell’s profile" [ref=f202e508]
+                            - generic [ref=f202e510]:
+                              - link [ref=f202e513] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/in/lauren-cannell-educacion-diversa/
+                                - generic "Lauren Cannell Premium Profile 2nd" [ref=f202e515]:
+                                  - paragraph [ref=f202e518]: Lauren Cannell
+                                  - paragraph [ref=f202e520]:
+                                    - generic [ref=f202e521]: • 2nd
+                              - paragraph [ref=f202e525]: Social Entrepreneur 🖼️ Artfullness & 📚 Educacion Diversa | Human Rights Advocacy, Art Education & Mental Health 💪🏽ACT Finalist Aust of the Yr 2026 🏆ACT Woman of the Yr 2025 Board Member @Build Like a Girl & WWDACT
+                              - paragraph [ref=f202e527]: 6d
+                              - link "Lauren Cannell Premium Profile 2nd":
+                                - /url: https://www.linkedin.com/in/lauren-cannell-educacion-diversa/
+                            - link "Invite Lauren Cannell to connect" [ref=f202e531] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=Stories%20That%20Stir%20Brisbane%20Strength%20Eric%20Em&origin=GLOBAL_SEARCH_HEADER
+                              - generic [ref=f202e532]: Connect
+                            - button "Open control menu for post by Lauren Cannell" [ref=f202e536] [cursor=pointer]
+                          - paragraph [ref=f202e539]:
+                            - generic [ref=f202e540]:
+                              - text: It’s almost time to move into our studio as official residence of the Ainslie Arts Centre in Braddon. We’re busily preparing room 2 to become our new home and as part of that we’re going to use two afternoons next term to roll out the top two programs from the below poll.1. Feminism for fairies and fighters is a 10 week program that introduces young people in our community to the different feminist movements that helped contribute towards gender equality. Through this program children and young people learn about the importance of contributing to gender quality and how through treating people equally and providing equity for those who can’t access things the same we’re actually creating healthy communities. 2. Women are STAR - a 5 week program that helps young women understand their bodies, brains and the complex social situations they’ll experience as they move from being a child into becoming a teenager. This program empowers is designed to create long lasting friendships that harness inclusivity and mutual respect to ensure every girl leaves feeling good.3. Boys just want to have fun - an all boys art class to spark and continue the creativity in boys aged 8-14, the typical age a lot of them drop art and start focussing on testosterone drive activities. We believe continuing art can help control that, while having fun in a safe space with other boys.4. Create and Belong - a safe space for all gender children and young people to come together and share stories while they create. Each activity focusses on different topics that all link back to social inclusion.5. Heartfullness - a ten week program that teaches children and young people about emotional intelligence. It includes navigating complex emotions, understanding different emotions and how to recognise them in ourselves and in others. Lastly it come with creative tools to manage their own emotions and keep themselves safe from others.Even if you’re not Canberra based and/or have children or young people, your opinion matters to me. Please take this poll and help me decide where to start! 👇🏾
+                              - button [aria-hidden] [ref=f202e541] [cursor=pointer]:
+                                - generic [ref=f202e542]: … more
+                          - generic [ref=f202e544]:
+                            - link [ref=f202e545] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/feed/update/urn:li:activity:7508029174889181185/
+                              - paragraph [ref=f202e546]: Which program should we run from our studio in Term 4?
+                            - paragraph [ref=f202e547]:
+                              - text: The author can see how you vote.
+                              - link "Learn more" [ref=f202e548] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/help/linkedin/answer/119171/
+                            - generic [ref=f202e549]:
+                              - button "Feminism 4 Fairies & Fighters" [ref=f202e550] [cursor=pointer]
+                              - button "Women are STAR" [ref=f202e554] [cursor=pointer]
+                              - button "Boy just want to have fun" [ref=f202e558] [cursor=pointer]
+                              - button "Create and Belong" [ref=f202e562] [cursor=pointer]
+                              - button "Heartfullness" [ref=f202e566] [cursor=pointer]
+                            - generic [ref=f202e570]:
+                              - paragraph [ref=f202e571]: 23 votes
+                              - paragraph [ref=f202e572]: •
+                              - paragraph [ref=f202e573]: 21h left
+                              - generic [ref=f202e574]:
+                                - paragraph [ref=f202e575]: •
+                                - button [ref=f202e576] [cursor=pointer]:
+                                  - paragraph [ref=f202e577]: Show results
+                          - generic [ref=f202e578]:
+                            - link [ref=f202e579] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=Stories%20That%20Stir%20Brisbane%20Strength%20Eric%20Em&origin=GLOBAL_SEARCH_HEADER
+                              - generic "Switch to different account" [ref=f202e580]:
+                                - figure [aria-hidden] [ref=f202e581]
+                            - generic [ref=f202e583]:
+                              - 'button "Reaction button state: no reaction" [ref=f202e586] [cursor=pointer]':
+                                - generic [ref=f202e587]: "19"
+                              - button "Open reactions menu":
+                                - generic [ref=f202e1004] [cursor=pointer]
+                            - button "Comment" [ref=f202e592] [cursor=pointer]
+                            - button "Repost" [ref=f202e595] [cursor=pointer]:
+                              - generic [ref=f202e596]: "4"
+                            - link "Send" [ref=f202e601] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=Stories%20That%20Stir%20Brisbane%20Strength%20Eric%20Em&origin=GLOBAL_SEARCH_HEADER
+                            - link [ref=f202e604] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=Stories%20That%20Stir%20Brisbane%20Strength%20Eric%20Em&origin=GLOBAL_SEARCH_HEADER
+                              - generic "19 reactions" [ref=f202e605]
+                    - link "Show all" [ref=f202e609] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/search/results/content/?keywords=Stories+That+Stir+Brisbane+Strength+Eric+Em&origin=CLUSTER_EXPANSION
+                  - generic [ref=f202e613]:
+                    - heading "More people" [level=2] [ref=f202e614]
+                    - generic [ref=f202e616]:
+                      - radiogroup "Filter by connections" [ref=f202e617]:
+                        - radio "Filter by 1st connections" [ref=f202e618] [cursor=pointer]:
+                          - generic "Filter by 1st connections" [ref=f202e619]:
+                            - checkbox "1st"
+                            - generic [ref=f202e620]: 1st
+                        - radio "Filter by 2nd connections" [ref=f202e621] [cursor=pointer]:
+                          - generic "Filter by 2nd connections" [ref=f202e622]:
+                            - checkbox "2nd"
+                            - generic [ref=f202e623]: 2nd
+                        - radio "Filter by 3rd+ connections" [ref=f202e624] [cursor=pointer]:
+                          - generic "Filter by 3rd+ connections" [ref=f202e625]:
+                            - checkbox "3rd+"
+                            - generic [ref=f202e626]: 3rd+
+                      - radio "Premium Actively hiring" [ref=f202e627] [cursor=pointer]:
+                        - generic "Premium Actively hiring" [ref=f202e628]:
+                          - checkbox "Actively hiring"
+                          - generic [ref=f202e629]: Actively hiring
+                    - list [ref=f202e631]:
+                      - listitem [ref=f202e633]:
+                        - link "Eric Cao Verified • 1st M&A & Diligence Australia Fleur Filmer, Catia Davim & 30 other mutual connections" [ref=f202e635] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/ericcaoo/
+                          - generic [ref=f202e636]:
+                            - generic [ref=f202e637]:
+                              - figure [aria-hidden] [ref=f202e638]
+                              - generic [ref=f202e639]:
+                                - paragraph [ref=f202e640]:
+                                  - link [ref=f202e641]:
+                                    - /url: https://www.linkedin.com/in/ericcaoo/
+                                    - text: Eric Cao
+                                    - img "Verified" [ref=f202e642]
+                                  - generic [ref=f202e644]: • 1st
+                                - paragraph [ref=f202e646]: M&A & Diligence
+                                - paragraph [ref=f202e648]: Australia
+                            - generic [ref=f202e649]:
+                              - figure [aria-hidden] [ref=f202e650]
+                              - figure [aria-hidden] [ref=f202e651]
+                              - paragraph [ref=f202e653]:
+                                - generic [ref=f202e654]:
+                                  - link "Fleur Filmer" [ref=f202e655]:
+                                    - /url: https://www.linkedin.com/in/fleurfilmer/
+                                  - text: ","
+                                  - link "Catia Davim" [ref=f202e656]:
+                                    - /url: https://www.linkedin.com/in/catiadavim/
+                                  - text: "&"
+                                  - link "30 other mutual connections" [ref=f202e657]:
+                                    - /url: https://www.linkedin.com/search/results/people/?origin=SHARED_CONNECTIONS_CANNED_SEARCH&network=%5B%22F%22%5D&connectionOf=%5B%22ACoAABhMvwgBZzxakJOSxmlOMGR8NqeRQUWC7mg%22%5D
+                      - listitem [ref=f202e659]:
+                        - link "Erick Lucero Hansen • 2nd Freelance Photographer & Videographer Brisbane, Queensland, Australia Brie Stewart, Cindy Buchan & 1 other mutual connection · 2K followers" [ref=f202e661] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/erick-lucero-hansen/
+                          - generic [ref=f202e662]:
+                            - generic [ref=f202e663]:
+                              - figure [ref=f202e664]:
+                                - img "Erick Lucero Hansen is open to work" [ref=f202e665]
+                              - generic [ref=f202e666]:
+                                - paragraph [ref=f202e667]:
+                                  - link "Erick Lucero Hansen" [ref=f202e668]:
+                                    - /url: https://www.linkedin.com/in/erick-lucero-hansen/
+                                  - generic [ref=f202e669]: • 2nd
+                                - paragraph [ref=f202e671]: Freelance Photographer & Videographer
+                                - paragraph [ref=f202e673]: Brisbane, Queensland, Australia
+                            - generic [ref=f202e674]:
+                              - figure [aria-hidden] [ref=f202e675]
+                              - figure [aria-hidden] [ref=f202e676]
+                              - generic [ref=f202e677]:
+                                - paragraph [ref=f202e679]:
+                                  - generic [ref=f202e680]:
+                                    - link "Brie Stewart" [ref=f202e681]:
+                                      - /url: https://www.linkedin.com/in/briestewart/
+                                    - text: ","
+                                    - link "Cindy Buchan" [ref=f202e682]:
+                                      - /url: https://www.linkedin.com/in/cindy-buchan-7aa9617b/
+                                    - text: "&"
+                                    - link "1 other mutual connection" [ref=f202e683]:
+                                      - /url: https://www.linkedin.com/search/results/people/?origin=SHARED_CONNECTIONS_CANNED_SEARCH&network=%5B%22F%22%5D&connectionOf=%5B%22ACoAADY51s0BD9rnfGnbhmB2p9pS0yLjXKH5VyU%22%5D
+                                - paragraph [ref=f202e685]:
+                                  - generic [ref=f202e686]:
+                                    - text: ·
+                                    - link "2K followers" [ref=f202e687]:
+                                      - /url: https://www.linkedin.com/search/results/people/?origin=SHARED_FOLLOWERS_CANNED_SEARCH&followerOf=%5B%22ACoAADY51s0BD9rnfGnbhmB2p9pS0yLjXKH5VyU%22%5D
+                      - listitem [ref=f202e689]:
+                        - link "Eric M. • 2nd Communications and Investment Strategist Brisbane, Queensland, Australia Jonty Bush is a mutual connection" [ref=f202e691] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/eric-m-25555b56/
+                          - generic [ref=f202e692]:
+                            - generic [ref=f202e693]:
+                              - figure [ref=f202e694]:
+                                - img "Eric M." [ref=f202e695]
+                              - generic [ref=f202e696]:
+                                - paragraph [ref=f202e697]:
+                                  - link "Eric M." [ref=f202e698]:
+                                    - /url: https://www.linkedin.com/in/eric-m-25555b56/
+                                  - generic [ref=f202e699]: • 2nd
+                                - paragraph [ref=f202e701]: Communications and Investment Strategist
+                                - paragraph [ref=f202e703]: Brisbane, Queensland, Australia
+                            - generic [ref=f202e704]:
+                              - figure [aria-hidden] [ref=f202e705]
+                              - paragraph [ref=f202e707]:
+                                - generic [ref=f202e708]:
+                                  - link "Jonty Bush" [ref=f202e709]:
+                                    - /url: https://www.linkedin.com/in/jonty-bush-52431758/
+                                  - text: is a mutual connection
+                      - listitem [ref=f202e711]:
+                        - link "Eric Winton • 2nd Events business strategist and knowledge broker | Global investment & trade dealmaker, facilitator Greater Sydney Area Craig Rispin CSP, Claudio Toyama, MA, PCC & 20 other mutual connections" [ref=f202e713] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/eric-winton-11a780/
+                          - generic [ref=f202e714]:
+                            - generic [ref=f202e715]:
+                              - figure [ref=f202e716]:
+                                - img "Eric Winton" [ref=f202e717]
+                              - generic [ref=f202e718]:
+                                - paragraph [ref=f202e719]:
+                                  - link "Eric Winton" [ref=f202e720]:
+                                    - /url: https://www.linkedin.com/in/eric-winton-11a780/
+                                  - generic [ref=f202e721]: • 2nd
+                                - paragraph [ref=f202e723]: Events business strategist and knowledge broker | Global investment & trade dealmaker, facilitator
+                                - paragraph [ref=f202e725]: Greater Sydney Area
+                            - generic [ref=f202e726]:
+                              - figure [aria-hidden] [ref=f202e727]
+                              - figure [aria-hidden] [ref=f202e728]
+                              - paragraph [ref=f202e730]:
+                                - generic [ref=f202e731]:
+                                  - link "Craig Rispin CSP" [ref=f202e732]:
+                                    - /url: https://www.linkedin.com/in/craigrispin/
+                                  - text: ","
+                                  - link "Claudio Toyama, MA, PCC" [ref=f202e733]:
+                                    - /url: https://www.linkedin.com/in/claudiotoyama/
+                                  - text: "&"
+                                  - link "20 other mutual connections" [ref=f202e734]:
+                                    - /url: https://www.linkedin.com/search/results/people/?origin=SHARED_CONNECTIONS_CANNED_SEARCH&network=%5B%22F%22%5D&connectionOf=%5B%22ACoAAAAdHKYB27DsJ34BTs7v_tt13N6eUjGe2Zs%22%5D
+                      - listitem [ref=f202e736]:
+                        - link "Eric M. Verified • 2nd Head of Financial Insights, Data and Finance Transformation Brisbane City, Queensland, Australia Brendan Sheehan & Warren Dean are mutual connections" [ref=f202e738] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/eric-m-539939136/
+                          - generic [ref=f202e739]:
+                            - generic [ref=f202e740]:
+                              - figure [aria-hidden] [ref=f202e741]
+                              - generic [ref=f202e742]:
+                                - paragraph [ref=f202e743]:
+                                  - link [ref=f202e744]:
+                                    - /url: https://www.linkedin.com/in/eric-m-539939136/
+                                    - text: Eric M.
+                                    - img "Verified" [ref=f202e745]
+                                  - generic [ref=f202e747]: • 2nd
+                                - paragraph [ref=f202e749]: Head of Financial Insights, Data and Finance Transformation
+                                - paragraph [ref=f202e751]: Brisbane City, Queensland, Australia
+                            - generic [ref=f202e752]:
+                              - figure [aria-hidden] [ref=f202e753]
+                              - figure [aria-hidden] [ref=f202e754]
+                              - paragraph [ref=f202e756]:
+                                - generic [ref=f202e757]:
+                                  - link "Brendan Sheehan" [ref=f202e758]:
+                                    - /url: https://www.linkedin.com/in/brendansheehan/
+                                  - text: "&"
+                                  - link "Warren Dean" [ref=f202e759]:
+                                    - /url: https://www.linkedin.com/in/datataleau/
+                                  - text: are mutual connections
+                      - listitem [ref=f202e761]:
+                        - link "Eric Clementson • 2nd Director at Nayler International Greater Brisbane Area Craig Rispin CSP is a mutual connection" [ref=f202e763] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/eric-clementson-238ba14/
+                          - generic [ref=f202e764]:
+                            - generic [ref=f202e765]:
+                              - figure [ref=f202e766]:
+                                - img "Eric Clementson" [ref=f202e767]
+                              - generic [ref=f202e768]:
+                                - paragraph [ref=f202e769]:
+                                  - link "Eric Clementson" [ref=f202e770]:
+                                    - /url: https://www.linkedin.com/in/eric-clementson-238ba14/
+                                  - generic [ref=f202e771]: • 2nd
+                                - paragraph [ref=f202e773]: Director at Nayler International
+                                - paragraph [ref=f202e775]: Greater Brisbane Area
+                            - generic [ref=f202e776]:
+                              - figure [aria-hidden] [ref=f202e777]
+                              - paragraph [ref=f202e779]:
+                                - generic [ref=f202e780]:
+                                  - link "Craig Rispin CSP" [ref=f202e781]:
+                                    - /url: https://www.linkedin.com/in/craigrispin/
+                                  - text: is a mutual connection
+                      - listitem [ref=f202e783]:
+                        - link "James Herd Verified • 2nd People Manager at Brisbane Lions AFC Brisbane, Queensland, Australia Sharon Hudson, Mark McConville & 6 other mutual connections" [ref=f202e785] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/james-herd-3601ba141/
+                          - generic [ref=f202e786]:
+                            - generic [ref=f202e787]:
+                              - figure [aria-hidden] [ref=f202e788]
+                              - generic [ref=f202e789]:
+                                - paragraph [ref=f202e790]:
+                                  - link [ref=f202e791]:
+                                    - /url: https://www.linkedin.com/in/james-herd-3601ba141/
+                                    - text: James Herd
+                                    - img "Verified" [ref=f202e792]
+                                  - generic [ref=f202e794]: • 2nd
+                                - paragraph [ref=f202e796]: People Manager at Brisbane Lions AFC
+                                - paragraph [ref=f202e798]: Brisbane, Queensland, Australia
+                            - generic [ref=f202e799]:
+                              - figure [aria-hidden] [ref=f202e800]
+                              - figure [aria-hidden] [ref=f202e801]
+                              - paragraph [ref=f202e803]:
+                                - generic [ref=f202e804]:
+                                  - link "Sharon Hudson" [ref=f202e805]:
+                                    - /url: https://www.linkedin.com/in/professionalhrtoolsandeducation/
+                                  - text: ","
+                                  - link "Mark McConville" [ref=f202e806]:
+                                    - /url: https://www.linkedin.com/in/mark-mcconville-554ab747/
+                                  - text: "&"
+                                  - link "6 other mutual connections" [ref=f202e807]:
+                                    - /url: https://www.linkedin.com/search/results/people/?origin=SHARED_CONNECTIONS_CANNED_SEARCH&network=%5B%22F%22%5D&connectionOf=%5B%22ACoAACJhHHgBDObwAmDxRrWlJfD5k_IM_mjnl9w%22%5D
+                - list [ref=f202e1044]:
+                  - listitem [ref=f202e1046]:
+                    - link "Erika Tucker • 2nd Engagement & Communications at Suncorp Bank Brisbane, Queensland, Australia Colin James, Mohit Bhargava & 4 other mutual connections · 1K followers" [ref=f202e1048] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/erikatuckerjournalist/
+                      - generic [ref=f202e1049]:
+                        - generic [ref=f202e1050]:
+                          - figure [ref=f202e1051]:
+                            - img "Erika Tucker" [ref=f202e1052]
+                          - generic [ref=f202e1053]:
+                            - paragraph [ref=f202e1054]:
+                              - link "Erika Tucker" [ref=f202e1055]:
+                                - /url: https://www.linkedin.com/in/erikatuckerjournalist/
+                              - generic [ref=f202e1056]: • 2nd
+                            - paragraph [ref=f202e1058]: Engagement & Communications at Suncorp Bank
+                            - paragraph [ref=f202e1060]: Brisbane, Queensland, Australia
+                        - generic [ref=f202e1061]:
+                          - figure [aria-hidden] [ref=f202e1062]
+                          - figure [aria-hidden] [ref=f202e1063]
+                          - generic [ref=f202e1064]:
+                            - paragraph [ref=f202e1066]:
+                              - generic [ref=f202e1067]:
+                                - link "Colin James" [ref=f202e1068]:
+                                  - /url: https://www.linkedin.com/in/colinjamesspeaker/
+                                - text: ","
+                                - link "Mohit Bhargava" [ref=f202e1069]:
+                                  - /url: https://www.linkedin.com/in/mobhargava/
+                                - text: "&"
+                                - link "4 other mutual connections" [ref=f202e1070]:
+                                  - /url: https://www.linkedin.com/search/results/people/?origin=SHARED_CONNECTIONS_CANNED_SEARCH&network=%5B%22F%22%5D&connectionOf=%5B%22ACoAAAg7z58BzL87BRY-GKQt46AtLewOBWhNDDo%22%5D
+                            - paragraph [ref=f202e1072]:
+                              - generic [ref=f202e1073]:
+                                - text: ·
+                                - link "1K followers" [ref=f202e1074]:
+                                  - /url: https://www.linkedin.com/search/results/people/?origin=SHARED_FOLLOWERS_CANNED_SEARCH&followerOf=%5B%22ACoAAAg7z58BzL87BRY-GKQt46AtLewOBWhNDDo%22%5D
+                  - listitem [ref=f202e1076]:
+                    - link "Eric Cui • 2nd Founder- Ostone Financial Group Greater Sydney Area Andy Fell, Aaron Christie-David & 1 other mutual connection" [ref=f202e1078] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/eric-cui-0a96a4a7/
+                      - generic [ref=f202e1079]:
+                        - generic [ref=f202e1080]:
+                          - figure [ref=f202e1081]:
+                            - img "Eric Cui" [ref=f202e1082]
+                          - generic [ref=f202e1083]:
+                            - paragraph [ref=f202e1084]:
+                              - link "Eric Cui" [ref=f202e1085]:
+                                - /url: https://www.linkedin.com/in/eric-cui-0a96a4a7/
+                              - generic [ref=f202e1086]: • 2nd
+                            - paragraph [ref=f202e1088]: Founder- Ostone Financial Group
+                            - paragraph [ref=f202e1090]: Greater Sydney Area
+                        - generic [ref=f202e1091]:
+                          - figure [aria-hidden] [ref=f202e1092]
+                          - figure [aria-hidden] [ref=f202e1093]
+                          - paragraph [ref=f202e1095]:
+                            - generic [ref=f202e1096]:
+                              - link "Andy Fell" [ref=f202e1097]:
+                                - /url: https://www.linkedin.com/in/andyfell631/
+                              - text: ","
+                              - link "Aaron Christie-David" [ref=f202e1098]:
+                                - /url: https://www.linkedin.com/in/aaronchristiedavid/
+                              - text: "&"
+                              - link "1 other mutual connection" [ref=f202e1099]:
+                                - /url: https://www.linkedin.com/search/results/people/?origin=SHARED_CONNECTIONS_CANNED_SEARCH&network=%5B%22F%22%5D&connectionOf=%5B%22ACoAABa0fYEB48xHdR4JcbrtXbitukyT_0Rr5eQ%22%5D
+                  - listitem [ref=f202e1101]:
+                    - link "Eric Tham • 2nd Founder and Principal Coach at PHi1.6 Coaching and Development Brisbane, Queensland, Australia Shaune Clarke - (With a High Marketing IQ), Kerry Ashbrook & 17 other mutual connections · 546 followers" [ref=f202e1103] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/eric-tham-phi16-coaching-and-development/
+                      - generic [ref=f202e1104]:
+                        - generic [ref=f202e1105]:
+                          - figure [ref=f202e1106]:
+                            - img "Eric Tham" [ref=f202e1107]
+                          - generic [ref=f202e1108]:
+                            - paragraph [ref=f202e1109]:
+                              - link "Eric Tham" [ref=f202e1110]:
+                                - /url: https://www.linkedin.com/in/eric-tham-phi16-coaching-and-development/
+                              - generic [ref=f202e1111]: • 2nd
+                            - paragraph [ref=f202e1113]: Founder and Principal Coach at PHi1.6 Coaching and Development
+                            - paragraph [ref=f202e1115]: Brisbane, Queensland, Australia
+                        - generic [ref=f202e1116]:
+                          - figure [aria-hidden] [ref=f202e1117]
+                          - figure [aria-hidden] [ref=f202e1118]
+                          - generic [ref=f202e1119]:
+                            - paragraph [ref=f202e1121]:
+                              - generic [ref=f202e1122]:
+                                - link "Shaune Clarke - (With a High Marketing IQ)" [ref=f202e1123]:
+                                  - /url: https://www.linkedin.com/in/shauneclarke/
+                                - text: ","
+                                - link "Kerry Ashbrook" [ref=f202e1124]:
+                                  - /url: https://www.linkedin.com/in/kerry-ashbrook/
+                                - text: "&"
+                                - link "17 other mutual connections" [ref=f202e1125]:
+                                  - /url: https://www.linkedin.com/search/results/people/?origin=SHARED_CONNECTIONS_CANNED_SEARCH&network=%5B%22F%22%5D&connectionOf=%5B%22ACoAAAFscP0BBSOeuKtsaxqBoKEeLTU_T2mX5GU%22%5D
+                            - paragraph [ref=f202e1127]:
+                              - generic [ref=f202e1128]:
+                                - text: ·
+                                - link "546 followers" [ref=f202e1129]:
+                                  - /url: https://www.linkedin.com/search/results/people/?origin=SHARED_FOLLOWERS_CANNED_SEARCH&followerOf=%5B%22ACoAAAFscP0BBSOeuKtsaxqBoKEeLTU_T2mX5GU%22%5D
+                  - listitem [ref=f202e1131]:
+                    - link "Erick Calderon Verified • 2nd Strategic Initiatives & Analytics Manager at South Sydney Rabbitohs Greater Sydney Area Taryn Lear & James Healy are mutual connections" [ref=f202e1133] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/erick-calderon/
+                      - generic [ref=f202e1134]:
+                        - generic [ref=f202e1135]:
+                          - figure [aria-hidden] [ref=f202e1136]
+                          - generic [ref=f202e1137]:
+                            - paragraph [ref=f202e1138]:
+                              - link [ref=f202e1139]:
+                                - /url: https://www.linkedin.com/in/erick-calderon/
+                                - text: Erick Calderon
+                                - img "Verified" [ref=f202e1140]
+                              - generic [ref=f202e1143]: • 2nd
+                            - paragraph [ref=f202e1145]: Strategic Initiatives & Analytics Manager at South Sydney Rabbitohs
+                            - paragraph [ref=f202e1147]: Greater Sydney Area
+                        - generic [ref=f202e1148]:
+                          - figure [aria-hidden] [ref=f202e1149]
+                          - figure [aria-hidden] [ref=f202e1150]
+                          - paragraph [ref=f202e1152]:
+                            - generic [ref=f202e1153]:
+                              - link "Taryn Lear" [ref=f202e1154]:
+                                - /url: https://www.linkedin.com/in/taryn-lear/
+                              - text: "&"
+                              - link "James Healy" [ref=f202e1155]:
+                                - /url: https://www.linkedin.com/in/james-healy-4b4ab195/
+                              - text: are mutual connections
+                  - listitem [ref=f202e1157]:
+                    - link "Eric Westcott Premium • 2nd Technology & Business Transformation Greater Brisbane Area Geoff Stalley, Paul Moynagh & 3 other mutual connections" [ref=f202e1159] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/eric-westcott/
+                      - generic [ref=f202e1160]:
+                        - generic [ref=f202e1161]:
+                          - figure [aria-hidden] [ref=f202e1162]
+                          - generic [ref=f202e1163]:
+                            - paragraph [ref=f202e1164]:
+                              - link [ref=f202e1165]:
+                                - /url: https://www.linkedin.com/in/eric-westcott/
+                                - text: Eric Westcott
+                                - img "Premium" [ref=f202e1166]
+                              - generic [ref=f202e1169]: • 2nd
+                            - paragraph [ref=f202e1171]: Technology & Business Transformation
+                            - paragraph [ref=f202e1173]: Greater Brisbane Area
+                        - generic [ref=f202e1174]:
+                          - figure [aria-hidden] [ref=f202e1175]
+                          - figure [aria-hidden] [ref=f202e1176]
+                          - paragraph [ref=f202e1178]:
+                            - generic [ref=f202e1179]:
+                              - link "Geoff Stalley" [ref=f202e1180]:
+                                - /url: https://www.linkedin.com/in/geoffstalley/
+                              - text: ","
+                              - link "Paul Moynagh" [ref=f202e1181]:
+                                - /url: https://www.linkedin.com/in/paulmoynagh/
+                              - text: "&"
+                              - link "3 other mutual connections" [ref=f202e1182]:
+                                - /url: https://www.linkedin.com/search/results/people/?origin=SHARED_CONNECTIONS_CANNED_SEARCH&network=%5B%22F%22%5D&connectionOf=%5B%22ACoAAA1bhIYBU2jxra7qbz9QQNUrfFFI1BkcGrQ%22%5D
+                  - listitem [ref=f202e1184]:
+                    - link "Eric Clementson • 2nd Director at Nayler International Greater Brisbane Area Craig Rispin CSP is a mutual connection" [ref=f202e1186] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/eric-clementson-238ba14/
+                      - generic [ref=f202e1187]:
+                        - generic [ref=f202e1188]:
+                          - figure [ref=f202e1189]:
+                            - img "Eric Clementson" [ref=f202e1190]
+                          - generic [ref=f202e1191]:
+                            - paragraph [ref=f202e1192]:
+                              - link "Eric Clementson" [ref=f202e1193]:
+                                - /url: https://www.linkedin.com/in/eric-clementson-238ba14/
+                              - generic [ref=f202e1194]: • 2nd
+                            - paragraph [ref=f202e1196]: Director at Nayler International
+                            - paragraph [ref=f202e1198]: Greater Brisbane Area
+                        - generic [ref=f202e1199]:
+                          - figure [aria-hidden] [ref=f202e1200]
+                          - paragraph [ref=f202e1202]:
+                            - generic [ref=f202e1203]:
+                              - link "Craig Rispin CSP" [ref=f202e1204]:
+                                - /url: https://www.linkedin.com/in/craigrispin/
+                              - text: is a mutual connection
+                  - listitem [ref=f202e1206]:
+                    - link "James Herd Verified • 2nd People Manager at Brisbane Lions AFC Brisbane, Queensland, Australia Sharon Hudson, Mark McConville & 6 other mutual connections" [ref=f202e1208] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/james-herd-3601ba141/
+                      - generic [ref=f202e1209]:
+                        - generic [ref=f202e1210]:
+                          - figure [aria-hidden] [ref=f202e1211]
+                          - generic [ref=f202e1212]:
+                            - paragraph [ref=f202e1213]:
+                              - link [ref=f202e1214]:
+                                - /url: https://www.linkedin.com/in/james-herd-3601ba141/
+                                - text: James Herd
+                                - img "Verified" [ref=f202e1215]
+                              - generic [ref=f202e1218]: • 2nd
+                            - paragraph [ref=f202e1220]: People Manager at Brisbane Lions AFC
+                            - paragraph [ref=f202e1222]: Brisbane, Queensland, Australia
+                        - generic [ref=f202e1223]:
+                          - figure [aria-hidden] [ref=f202e1224]
+                          - figure [aria-hidden] [ref=f202e1225]
+                          - paragraph [ref=f202e1227]:
+                            - generic [ref=f202e1228]:
+                              - link "Sharon Hudson" [ref=f202e1229]:
+                                - /url: https://www.linkedin.com/in/professionalhrtoolsandeducation/
+                              - text: ","
+                              - link "Mark McConville" [ref=f202e1230]:
+                                - /url: https://www.linkedin.com/in/mark-mcconville-554ab747/
+                              - text: "&"
+                              - link "6 other mutual connections" [ref=f202e1231]:
+                                - /url: https://www.linkedin.com/search/results/people/?origin=SHARED_CONNECTIONS_CANNED_SEARCH&network=%5B%22F%22%5D&connectionOf=%5B%22ACoAACJhHHgBDObwAmDxRrWlJfD5k_IM_mjnl9w%22%5D
+                  - listitem [ref=f202e1233]:
+                    - link "Eric Olsen • 2nd National Manager - Finance (Care and Operations) Greater Brisbane Area Gabriella (Gabby) Horak, Barry Heath & 5 other mutual connections" [ref=f202e1235] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/ericolsen2/
+                      - generic [ref=f202e1236]:
+                        - generic [ref=f202e1237]:
+                          - figure [ref=f202e1238]:
+                            - img "Eric Olsen" [ref=f202e1239]
+                          - generic [ref=f202e1240]:
+                            - paragraph [ref=f202e1241]:
+                              - link "Eric Olsen" [ref=f202e1242]:
+                                - /url: https://www.linkedin.com/in/ericolsen2/
+                              - generic [ref=f202e1243]: • 2nd
+                            - paragraph [ref=f202e1245]: National Manager - Finance (Care and Operations)
+                            - paragraph [ref=f202e1247]: Greater Brisbane Area
+                        - generic [ref=f202e1248]:
+                          - figure [aria-hidden] [ref=f202e1249]
+                          - figure [aria-hidden] [ref=f202e1250]
+                          - paragraph [ref=f202e1252]:
+                            - generic [ref=f202e1253]:
+                              - link "Gabriella (Gabby) Horak" [ref=f202e1254]:
+                                - /url: https://www.linkedin.com/in/gabriellahorak/
+                              - text: ","
+                              - link "Barry Heath" [ref=f202e1255]:
+                                - /url: https://www.linkedin.com/in/barry-heath/
+                              - text: "&"
+                              - link "5 other mutual connections" [ref=f202e1256]:
+                                - /url: https://www.linkedin.com/search/results/people/?origin=SHARED_CONNECTIONS_CANNED_SEARCH&network=%5B%22F%22%5D&connectionOf=%5B%22ACoAAAn3i40BF41LF94gs3JzWW_rb_IRiZjQ8K8%22%5D
+                  - listitem [ref=f202e1258]:
+                    - link "Erin Titmus Verified • 2nd Community Services Coordinator | Business Owner, Velvet Loop Vintage Brisbane, Queensland, Australia Richard Boele, Sally Prosser & 1 other mutual connection" [ref=f202e1260] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/erin-titmus-b0687617a/
+                      - generic [ref=f202e1261]:
+                        - generic [ref=f202e1262]:
+                          - figure [aria-hidden] [ref=f202e1263]
+                          - generic [ref=f202e1264]:
+                            - paragraph [ref=f202e1265]:
+                              - link [ref=f202e1266]:
+                                - /url: https://www.linkedin.com/in/erin-titmus-b0687617a/
+                                - text: Erin Titmus
+                                - img "Verified" [ref=f202e1267]
+                              - generic [ref=f202e1270]: • 2nd
+                            - paragraph [ref=f202e1272]: Community Services Coordinator | Business Owner, Velvet Loop Vintage
+                            - paragraph [ref=f202e1274]: Brisbane, Queensland, Australia
+                        - generic [ref=f202e1275]:
+                          - figure [aria-hidden] [ref=f202e1276]
+                          - figure [aria-hidden] [ref=f202e1277]
+                          - paragraph [ref=f202e1279]:
+                            - generic [ref=f202e1280]:
+                              - link "Richard Boele" [ref=f202e1281]:
+                                - /url: https://www.linkedin.com/in/richardboele/
+                              - text: ","
+                              - link "Sally Prosser" [ref=f202e1282]:
+                                - /url: https://www.linkedin.com/in/sally-prosser/
+                              - text: "&"
+                              - link "1 other mutual connection" [ref=f202e1283]:
+                                - /url: https://www.linkedin.com/search/results/people/?origin=SHARED_CONNECTIONS_CANNED_SEARCH&network=%5B%22F%22%5D&connectionOf=%5B%22ACoAACp8pbYBR-u6Flka58syVLL0igQjc1Jnibk%22%5D
+                  - listitem [ref=f202e1285]:
+                    - link "Erica Charteris CPA Verified • 2nd Senior Management Accountant | Senior Project Accountant Brisbane, Queensland, Australia Cissy Ma is a mutual connection" [ref=f202e1287] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/erica-charteris-cpa/
+                      - generic [ref=f202e1288]:
+                        - generic [ref=f202e1289]:
+                          - figure [aria-hidden] [ref=f202e1290]
+                          - generic [ref=f202e1291]:
+                            - paragraph [ref=f202e1292]:
+                              - link [ref=f202e1293]:
+                                - /url: https://www.linkedin.com/in/erica-charteris-cpa/
+                                - text: Erica Charteris CPA
+                                - img "Verified" [ref=f202e1294]
+                              - generic [ref=f202e1297]: • 2nd
+                            - paragraph [ref=f202e1299]: Senior Management Accountant | Senior Project Accountant
+                            - paragraph [ref=f202e1301]: Brisbane, Queensland, Australia
+                        - generic [ref=f202e1302]:
+                          - figure [aria-hidden] [ref=f202e1303]
+                          - paragraph [ref=f202e1305]:
+                            - generic [ref=f202e1306]:
+                              - link "Cissy Ma" [ref=f202e1307]:
+                                - /url: https://www.linkedin.com/in/cissy-ma/
+                              - text: is a mutual connection
+            - complementary "Aside" [ref=f202e812]:
+              - generic [ref=f202e815]:
+                - iframe [ref=f202e816]:
+                  - generic [ref=f204e2]:
+                    - generic: Ad
+                    - img "overflow-web-small" [ref=f204e6] [cursor=pointer]
+                    - link "LinkedIn Ads" [ref=f204e10] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Ftraining.marketing.linkedin.com%2Fpage%2Fcertifications%3Fsrc%3Dli-dynamic%26veh%3DFxOS1xCUSTxDAxAPACxENxPDx202402xMarketingHelpCenterCertificationsxLMSActiveAdvertisersx1194xVisitsxv2a%26mcid%3D7387207749459206144%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg50QnA0DeXG1nzERlDZM16wl9sxZ5pR0q_RyTBKzQjkjEvB8IV9UeQi4Fu2ox5Sr5cyfdU8qXg_ri6vg18lM95y85NVpSPl2OBwyjklOkbcTYaS0m3gNTzV8hYs2eEpa3FV_CSCj65nsE-xOJyxOWt-_Z3093iy6JSpgPh0xLs7DsPd5bhCgw3Dt7vsOk0Qu2KpmOTjEi6i_IJS3CDbyqRpCYWUQ_4ciF0mB2QVx3GUGGY8vv7e7C2Mp0TOgXt6T0-frkJDvriA3DoaZb-7horuFV7uedwTxqOGL18YDGKIUM8GO6wlryllKoj8C2ug_gbo3AQFrkJbcyE03NRlnpBNswVqO00--VLLKPz5bRKI__lBTYyXIuTh9lcU3FeWnmwM2LzgK32VSaKcVwJLEw2XBXBCECRC66Icw3LpleBhtt4ERo7w-zzJ4wpoKIoLTFV_5dweL9_XtkV2YSV8ggWOsYb3jYYRxgT8ySXE4k1iv2SfKpArsZ6-Q6p8DZROZ9J53UeV-gZuEmi2VxjYjJz7jo7MOWz59CVcW-m8K3l85JQGIcRgXUM6Qa2wS6OksQxB1lT-sjJsPRteRP6N1iLnHR9cXVyvmTiGg_yu3ylUACxmPvNRxm3ebMHiqG_KYvahg27VE_1ctz4bnQN-_tpqUg7qsCH5P7otbzY_Pw1c9HwYqS009XbpMBHTOymPdp59KvIKYMyfFss6TNKLaLF39wWJmWzmiBvGC_2Xidkp5D_GKlnryaKA2p01Ck_j2WSZx0qokI1k8-fZwa0mS5YRUi20Xn-IBp9dIZOd_hIR8Z2ZrFVfnjbLs_8hfGxhwdF5m2ZlokuEjvFVMcWiSP8X2LL9HvJqE22iZoEPHX__sBCgcRMLshqoc6Az1dG_5DM09LIVbKfhsB8I_uFVfIWucy9OsygZrKnB1U7NNCfYODM0foklw0g42FntnKByWZhOcdZWNbgQmvt9AUTZ_JDX3sx4DNNaZQzWBsYafwYkVbW1VkbMlGaIEkoippPgNQ4V__KjoXQ7kdRWekuu2nmLC1djDAU7TkjazaYL5KLIjn6v4V6dea7TCvphWfkKKGcDZ7VtEF3ncQ7nhvwRBCNMczp7gp78iAghS_6xkucj-FA45-H00BsE6cdoU39NDnpfp_8N_qijUsUg2cYtqGHBDx5KF2p8fqbSNbUnH7DA%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%22%2C%22trackingId%22%3A%228d67ad22-0b92-4106-b78b-2960b38972cf%22%7D%2C%22time%22%3A1790586398378%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_search_srp_all%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                    - generic [ref=f204e11]:
+                      - heading "Kelly, add LinkedIn Ads certifications to your LinkedIn profile" [level=2] [ref=f204e14]
+                      - generic [ref=f204e16]:
+                        - img "Kelly" [ref=f204e17]
+                        - generic [ref=f204e18]:
+                          - link [ref=f204e19] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Ftraining.marketing.linkedin.com%2Fpage%2Fcertifications%3Fsrc%3Dli-dynamic%26veh%3DFxOS1xCUSTxDAxAPACxENxPDx202402xMarketingHelpCenterCertificationsxLMSActiveAdvertisersx1194xVisitsxv2a%26mcid%3D7387207749459206144%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg50QnA0DeXG1nzERlDZM16wl9sxZ5pR0q_RyTBKzQjkjEvB8IV9UeQi4Fu2ox5Sr5cyfdU8qXg_ri6vg18lM95y85NVpSPl2OBwyjklOkbcTYaS0m3gNTzV8hYs2eEpa3FV_CSCj65nsE-xOJyxOWt-_Z3093iy6JSpgPh0xLs7DsPd5bhCgw3Dt7vsOk0Qu2KpmOTjEi6i_IJS3CDbyqRpCYWUQ_4ciF0mB2QVx3GUGGY8vv7e7C2Mp0TOgXt6T0-frkJDvriA3DoaZb-7horuFV7uedwTxqOGL18YDGKIUM8GO6wlryllKoj8C2ug_gbo3AQFrkJbcyE03NRlnpBNswVqO00--VLLKPz5bRKI__lBTYyXIuTh9lcU3FeWnmwM2LzgK32VSaKcVwJLEw2XBXBCECRC66Icw3LpleBhtt4ERo7w-zzJ4wpoKIoLTFV_5dweL9_XtkV2YSV8ggWOsYb3jYYRxgT8ySXE4k1iv2SfKpArsZ6-Q6p8DZROZ9J53UeV-gZuEmi2VxjYjJz7jo7MOWz59CVcW-m8K3l85JQGIcRgXUM6Qa2wS6OksQxB1lT-sjJsPRteRP6N1iLnHR9cXVyvmTiGg_yu3ylUACxmPvNRxm3ebMHiqG_KYvahg27VE_1ctz4bnQN-_tpqUg7qsCH5P7otbzY_Pw1c9HwYqS009XbpMBHTOymPdp59KvIKYMyfFss6TNKLaLF39wWJmWzmiBvGC_2Xidkp5D_GKlnryaKA2p01Ck_j2WSZx0qokI1k8-fZwa0mS5YRUi20Xn-IBp9dIZOd_hIR8Z2ZrFVfnjbLs_8hfGxhwdF5m2ZlokuEjvFVMcWiSP8X2LL9HvJqE22iZoEPHX__sBCgcRMLshqoc6Az1dG_5DM09LIVbKfhsB8I_uFVfIWucy9OsygZrKnB1U7NNCfYODM0foklw0g42FntnKByWZhOcdZWNbgQmvt9AUTZ_JDX3sx4DNNaZQzWBsYafwYkVbW1VkbMlGaIEkoippPgNQ4V__KjoXQ7kdRWekuu2nmLC1djDAU7TkjazaYL5KLIjn6v4V6dea7TCvphWfkKKGcDZ7VtEF3ncQ7nhvwRBCNMczp7gp78iAghS_6xkucj-FA45-H00BsE6cdoU39NDnpfp_8N_qijUsUg2cYtqGHBDx5KF2p8fqbSNbUnH7DA%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%22%2C%22trackingId%22%3A%228d67ad22-0b92-4106-b78b-2960b38972cf%22%7D%2C%22time%22%3A1790586398378%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_search_srp_all%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                            - img "LinkedIn Ads" [ref=f204e20]
+                          - tooltip "LinkedIn Ads" [ref=f204e21]
+                      - generic [ref=f204e22]:
+                        - heading "Earn them through our free LinkedIn Ads courses" [level=2] [ref=f204e25]
+                        - link "Get Certified Now" [ref=f204e27] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Ftraining.marketing.linkedin.com%2Fpage%2Fcertifications%3Fsrc%3Dli-dynamic%26veh%3DFxOS1xCUSTxDAxAPACxENxPDx202402xMarketingHelpCenterCertificationsxLMSActiveAdvertisersx1194xVisitsxv2a%26mcid%3D7387207749459206144%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg50QnA0DeXG1nzERlDZM16wl9sxZ5pR0q_RyTBKzQjkjEvB8IV9UeQi4Fu2ox5Sr5cyfdU8qXg_ri6vg18lM95y85NVpSPl2OBwyjklOkbcTYaS0m3gNTzV8hYs2eEpa3FV_CSCj65nsE-xOJyxOWt-_Z3093iy6JSpgPh0xLs7DsPd5bhCgw3Dt7vsOk0Qu2KpmOTjEi6i_IJS3CDbyqRpCYWUQ_4ciF0mB2QVx3GUGGY8vv7e7C2Mp0TOgXt6T0-frkJDvriA3DoaZb-7horuFV7uedwTxqOGL18YDGKIUM8GO6wlryllKoj8C2ug_gbo3AQFrkJbcyE03NRlnpBNswVqO00--VLLKPz5bRKI__lBTYyXIuTh9lcU3FeWnmwM2LzgK32VSaKcVwJLEw2XBXBCECRC66Icw3LpleBhtt4ERo7w-zzJ4wpoKIoLTFV_5dweL9_XtkV2YSV8ggWOsYb3jYYRxgT8ySXE4k1iv2SfKpArsZ6-Q6p8DZROZ9J53UeV-gZuEmi2VxjYjJz7jo7MOWz59CVcW-m8K3l85JQGIcRgXUM6Qa2wS6OksQxB1lT-sjJsPRteRP6N1iLnHR9cXVyvmTiGg_yu3ylUACxmPvNRxm3ebMHiqG_KYvahg27VE_1ctz4bnQN-_tpqUg7qsCH5P7otbzY_Pw1c9HwYqS009XbpMBHTOymPdp59KvIKYMyfFss6TNKLaLF39wWJmWzmiBvGC_2Xidkp5D_GKlnryaKA2p01Ck_j2WSZx0qokI1k8-fZwa0mS5YRUi20Xn-IBp9dIZOd_hIR8Z2ZrFVfnjbLs_8hfGxhwdF5m2ZlokuEjvFVMcWiSP8X2LL9HvJqE22iZoEPHX__sBCgcRMLshqoc6Az1dG_5DM09LIVbKfhsB8I_uFVfIWucy9OsygZrKnB1U7NNCfYODM0foklw0g42FntnKByWZhOcdZWNbgQmvt9AUTZ_JDX3sx4DNNaZQzWBsYafwYkVbW1VkbMlGaIEkoippPgNQ4V__KjoXQ7kdRWekuu2nmLC1djDAU7TkjazaYL5KLIjn6v4V6dea7TCvphWfkKKGcDZ7VtEF3ncQ7nhvwRBCNMczp7gp78iAghS_6xkucj-FA45-H00BsE6cdoU39NDnpfp_8N_qijUsUg2cYtqGHBDx5KF2p8fqbSNbUnH7DA%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%22%2C%22trackingId%22%3A%228d67ad22-0b92-4106-b78b-2960b38972cf%22%7D%2C%22time%22%3A1790586398378%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_search_srp_all%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                - generic [ref=f202e817]:
+                  - generic [ref=f202e818]:
+                    - link [ref=f202e819] [cursor=pointer]:
+                      - /url: https://about.linkedin.com/
+                      - paragraph [ref=f202e820]: About
+                    - link [ref=f202e821] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/accessibility/
+                      - paragraph [ref=f202e822]: Accessibility
+                    - link [ref=f202e823] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/help/linkedin/
+                      - paragraph [ref=f202e824]: Help Center
+                    - button [ref=f202e825] [cursor=pointer]:
+                      - paragraph [ref=f202e827]: Privacy & Terms
+                    - link [ref=f202e829] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/help/linkedin/answer/62931/
+                      - paragraph [ref=f202e830]: Ad Choices
+                    - link [ref=f202e831] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/ad/start/?trk=n_nav_ads_rr
+                      - paragraph [ref=f202e832]: Advertising
+                    - button [ref=f202e833] [cursor=pointer]:
+                      - paragraph [ref=f202e835]: Business Services
+                    - link [ref=f202e837] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/mobile/
+                      - paragraph [ref=f202e838]: Get the LinkedIn app
+                    - link [ref=f202e839] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/search/results/all/?keywords=Stories%20That%20Stir%20Brisbane%20Strength%20Eric%20Em&origin=GLOBAL_SEARCH_HEADER
+                      - paragraph [ref=f202e840]: More
+                  - paragraph [ref=f202e843]: LinkedIn Corporation © 2026
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - complementary:
+            - generic [ref=f202e1314]:
+              - generic [ref=f202e1315]:
+                - generic [ref=f202e1317] [cursor=pointer]:
+                  - img "Kelly Irving" [ref=f202e1319]
+                  - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f202e1320]:
+                    - generic [ref=f202e1321]:
+                      - generic [aria-hidden] [ref=f202e1322]: Messaging
+                      - generic [ref=f202e1323]: You are on the messaging overlay. Press enter to open the list of conversations.
+                - generic [ref=f202e1324]:
+                  - button [ref=f202e1326] [cursor=pointer]:
+                    - img "Open messenger dropdown menu" [ref=f202e1327]
+                  - button "Compose message" [ref=f202e1330] [cursor=pointer]
+                  - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f202e1334] [cursor=pointer]
+              - generic [ref=f202e1338]:
+                - heading "Page inboxes" [level=3] [ref=f202e1340]
+                - generic [ref=f202e1341] [cursor=pointer]:
+                  - generic [ref=f202e1342]: Click to see affiliated inboxes
+                  - button "Page inboxes" [ref=f202e1343]
+          - complementary "AI-powered assistant to get help with your career, jobs etc"
+  - iframe [ref=f202e844]:
+    - generic [ref=f205e12]:
+      - generic:
+        - region "Toast message":
+          - heading "0 notifications total" [level=2] [ref=f205e14]
+          - alert
+      - region [ref=f205e15]
+      - generic [ref=f205e16]:
+        - generic [ref=f205e18]:
+          - button "Skip to search" [ref=f205e19] [cursor=pointer]
+          - button "Skip to main content" [ref=f205e21] [cursor=pointer]
+          - button "Keyboard shortcuts" [ref=f205e23] [cursor=pointer]
+          - button "Close jump menu" [ref=f205e25] [cursor=pointer]
+        - banner "Global Navigation" [ref=f205e29]:
+          - generic [ref=f205e30]:
+            - link [ref=f205e31] [cursor=pointer]:
+              - /url: https://www.linkedin.com/feed/
+              - img "LinkedIn" [ref=f205e34]
+            - combobox "I’m looking for..." [ref=f205e40]
+            - navigation "Primary Navigation" [ref=f205e41]:
+              - list [ref=f205e42]:
+                - listitem [ref=f205e43]:
+                  - link "new feed updates notifications Home" [ref=f205e44] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/feed/
+                    - generic [ref=f205e45]: new feed updates notifications
+                    - generic "Home" [ref=f205e54]
+                - listitem [ref=f205e55]:
+                  - link "31 new network updates notifications My Network" [ref=f205e56] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork/?
+                    - generic [ref=f205e58]:
+                      - generic [aria-hidden] [ref=f205e59]: "31"
+                      - generic [ref=f205e60]: 31 new network updates notifications
+                    - generic "My Network" [ref=f205e66]
+                - listitem [ref=f205e67]:
+                  - link "Jobs" [ref=f205e68] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/?
+                - listitem [ref=f205e75]:
+                  - link "Messaging" [ref=f205e76] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/messaging/?
+                - listitem [ref=f205e83]:
+                  - link "25 new notifications Notifications" [ref=f205e84] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/notifications/?
+                    - generic [ref=f205e86]:
+                      - generic [aria-hidden] [ref=f205e87]: "25"
+                      - generic [ref=f205e88]: 25 new notifications
+                    - generic "Notifications" [ref=f205e94]
+                - listitem [ref=f205e95]:
+                  - button [ref=f205e97] [cursor=pointer]:
+                    - img "Kelly Irving" [ref=f205e98]
+                    - generic [ref=f205e99]: Me
+                - listitem [ref=f205e102]:
+                  - button "For Business" [ref=f205e104] [cursor=pointer]
+                - listitem [ref=f205e113]:
+                  - link "3 new Campaign Manager notifications Advertise" [ref=f205e114] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/campaignmanager/accounts?shouldShowNotificationPanelOnRender=true
+                    - generic [ref=f205e116]:
+                      - generic [aria-hidden] [ref=f205e117]: "3"
+                      - generic [ref=f205e118]: 3 new Campaign Manager notifications
+                    - generic "Advertise" [ref=f205e125]

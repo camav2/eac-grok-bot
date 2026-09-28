@@ -1,0 +1,454 @@
+- generic [ref=f73e2]:
+  - heading "0 notifications" [level=2] [ref=f73e3]
+  - generic [ref=f73e4]:
+    - generic:
+      - generic "Skip navigation menu":
+        - button "Close jump menu" [ref=f73e6] [cursor=pointer]
+    - generic [ref=f73e9]:
+      - banner [ref=f73e11]:
+        - generic [ref=f73e14]:
+          - button [ref=f73e15] [cursor=pointer]
+          - generic [ref=f73e17]:
+            - status [ref=f73e18]
+            - search [ref=f73e19]:
+              - textbox "I'm looking for…" [ref=f73e23]
+          - generic [ref=f73e25]:
+            - navigation [ref=f73e29]:
+              - list [ref=f73e30]:
+                - listitem [ref=f73e31]:
+                  - button "Home, 1 new notification" [ref=f73e32] [cursor=pointer]:
+                    - generic [ref=f73e36]: Home
+                - listitem [ref=f73e38]:
+                  - link "My Network, 31 new notifications" [ref=f73e39] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork
+                    - generic [ref=f73e40]: "31"
+                    - generic [ref=f73e44]: My Network
+                - listitem [ref=f73e46]:
+                  - link "Jobs, 0 new notifications" [ref=f73e47] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/
+                    - generic [ref=f73e51]: Jobs
+                - listitem [ref=f73e53]:
+                  - link "Messaging, 0 new notifications" [ref=f73e54] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/messaging/
+                    - generic [ref=f73e58]: Messaging
+                - listitem [ref=f73e60]:
+                  - link "Notifications, 25 new notifications" [ref=f73e61] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/notifications/
+                    - generic [ref=f73e62]: "25"
+                    - generic [ref=f73e66]: Notifications
+                - listitem [ref=f73e68]:
+                  - button "Me" [ref=f73e69] [cursor=pointer]:
+                    - figure [aria-hidden] [ref=f73e71]
+            - navigation [ref=f73e77]:
+              - list [ref=f73e78]:
+                - listitem [ref=f73e79]:
+                  - button "For Business" [ref=f73e80] [cursor=pointer]
+                - listitem [ref=f73e87]:
+                  - link "Advertise, 3 new notifications" [ref=f73e88] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/campaignmanager/accounts/
+                    - generic [ref=f73e89]: "3"
+                    - generic [ref=f73e92]: Advertise
+      - main [ref=f73e96]:
+        - generic [ref=f73e98]:
+          - complementary "Sidebar" [ref=f73e99]:
+            - generic [ref=f73e102]:
+              - generic [ref=f73e106]:
+                - link [ref=f73e107] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/kelly-irving/
+                  - generic [ref=f73e108]:
+                    - generic [ref=f73e109]:
+                      - figure [aria-hidden] [ref=f73e110]
+                      - paragraph [ref=f73e112]: Premium
+                    - figure [ref=f73e115]
+                - generic [ref=f73e116]:
+                  - link [ref=f73e117] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic "Kelly Irving, Book coach and editor for changemakers and trailblazers / Publishing gymnast, Anglesea, Victoria, Premium profile" [ref=f73e118]:
+                      - paragraph [ref=f73e121]: Kelly Irving
+                      - paragraph [ref=f73e124]: Book coach and editor for changemakers and trailblazers / Publishing gymnast
+                      - paragraph [ref=f73e125]: Anglesea, Victoria
+                  - link [ref=f73e126] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic [ref=f73e127]:
+                      - figure [aria-hidden] [ref=f73e128]
+                      - paragraph [ref=f73e129]: Expert Author Community
+              - generic [ref=f73e131]:
+                - menu [ref=f73e132]:
+                  - link [ref=f73e134] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/me/profile-views/
+                    - generic "Profile viewers 287" [ref=f73e135]:
+                      - paragraph [ref=f73e137]: Profile viewers
+                      - paragraph [ref=f73e138]: "287"
+                  - link [ref=f73e140] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/analytics/creator/content/
+                    - generic "Post impressions 856" [ref=f73e141]:
+                      - paragraph [ref=f73e143]: Post impressions
+                      - paragraph [ref=f73e144]: "856"
+                - menu [ref=f73e145]:
+                  - link [ref=f73e147] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/premium/my-premium/
+                    - paragraph [ref=f73e150]: Your Premium features
+              - menu [ref=f73e154]:
+                - paragraph [ref=f73e156]: My pages (3)
+                - link [ref=f73e158] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/
+                  - generic [ref=f73e160]:
+                    - figure [ref=f73e161]
+                    - paragraph [ref=f73e165]:
+                      - generic [ref=f73e166]: Expert Author Community
+                - link [ref=f73e169] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/notifications/
+                  - generic [ref=f73e170]:
+                    - paragraph [ref=f73e171]: Activity
+                    - paragraph [ref=f73e172]: "0"
+                - link [ref=f73e174] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/14424344/admin/
+                  - generic [ref=f73e176]:
+                    - figure [ref=f73e177]
+                    - paragraph [ref=f73e181]: Kelly Irving
+                - link [ref=f73e182] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/14424344/admin/notifications/
+                  - generic [ref=f73e183]:
+                    - paragraph [ref=f73e184]: Activity
+                    - paragraph [ref=f73e185]: "0"
+                - link [ref=f73e187] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/showcase/108996937/admin/
+                  - generic [ref=f73e189]:
+                    - figure [ref=f73e190]
+                    - paragraph [ref=f73e194]: EAC Books
+                - link [ref=f73e195] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/showcase/108996937/admin/notifications/
+                  - generic [ref=f73e196]:
+                    - paragraph [ref=f73e197]: Activity
+                    - paragraph [ref=f73e198]: "7"
+                - paragraph [ref=f73e201]: Grow your business faster
+                - button [ref=f73e203] [cursor=pointer]:
+                  - paragraph [ref=f73e206]:
+                    - strong [ref=f73e207]: Try Premium Page
+                - link [ref=f73e208] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/campaignmanager/accounts/
+                  - paragraph [ref=f73e211]: Advertise on LinkedIn
+              - menu [ref=f73e214]:
+                - link [ref=f73e215] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/my-items/saved-posts/
+                  - paragraph [ref=f73e218]: Saved items
+                - link [ref=f73e219] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/groups/
+                  - paragraph [ref=f73e222]: Groups
+                - link [ref=f73e223] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/mynetwork/network-manager/newsletters/
+                  - paragraph [ref=f73e226]: Newsletters
+                - link [ref=f73e227] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/events/
+                  - paragraph [ref=f73e230]: Events
+          - region "Primary content" [ref=f73e231]:
+            - list [ref=f73e232]:
+              - listitem [ref=f73e234]:
+                - generic [ref=f73e235]:
+                  - generic [ref=f73e236]:
+                    - link [ref=f73e238] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/kelly-irving/
+                      - figure [aria-hidden] [ref=f73e239]
+                    - button [ref=f73e241] [cursor=pointer]:
+                      - generic "Start a post" [ref=f73e242]:
+                        - generic [ref=f73e244]:
+                          - paragraph [ref=f73e245]: Start a post
+                          - generic:
+                            - paragraph
+                  - generic [ref=f73e246]:
+                    - button [ref=f73e247] [cursor=pointer]:
+                      - paragraph [ref=f73e250]: Video
+                    - button [ref=f73e251] [cursor=pointer]:
+                      - paragraph [ref=f73e254]: Photo
+                    - link [ref=f73e255] [cursor=pointer]:
+                      - /url: /article/new/
+                      - paragraph [ref=f73e258]: Write article
+              - listitem [ref=f73e263]:
+                - generic [ref=f73e265]:
+                  - heading "Feed post" [level=2]
+                  - generic [ref=f73e267]:
+                    - link [ref=f73e268] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/erinhuckle-pr-consultant/
+                      - figure [ref=f73e269]
+                    - generic [ref=f73e271]:
+                      - link [ref=f73e274] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/erinhuckle-pr-consultant/
+                        - generic "Erin Huckle 1st" [ref=f73e276]:
+                          - paragraph [ref=f73e279]: Erin Huckle
+                          - paragraph [ref=f73e281]: • 1st
+                      - paragraph [ref=f73e283]: I help authors, founders and experts secure money-can't-buy media opportunities and connect with their ideal audience | Strategic PR consultant | Host of PR with Purpose podcast | Freelance writer
+                      - paragraph [ref=f73e285]: 2h
+                      - link "Erin Huckle 1st":
+                        - /url: https://www.linkedin.com/in/erinhuckle-pr-consultant/
+                    - button "Open control menu for post by Erin Huckle" [ref=f73e286] [cursor=pointer]
+                    - button "Hide post by Erin Huckle" [ref=f73e289] [cursor=pointer]
+                  - paragraph [ref=f73e292]:
+                    - generic [ref=f73e293]:
+                      - text: So this definitely wasn't on my bingo card for 2026... having an item of clothing named after me! Yes that's right, this is the 'Huckle' top from
+                      - 'link "View company: Philosophy Australia" [ref=f73e296] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/company/philosophy-australia/
+                        - strong [ref=f73e297]: Philosophy Australia
+                      - text: . How did we get here? Let's rewind a little...Last year I sat next to the wonderful
+                      - link "View Alison Lennard’s profile" [ref=f73e299] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/alison-lennard-philosophy-australia/
+                        - strong [ref=f73e300]: Alison Lennard
+                      - text: at dinner at the Accountability Circle Conference hosted by
+                      - link "View Michelle Broadbent’s profile" [ref=f73e302] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/michellebroadbent/
+                        - strong [ref=f73e303]: Michelle Broadbent
+                      - text: in Manly, and learned about her amazing fashion label. It's part of the 3% Club - yes that's right, just 3% of the clothing we buy in Australia is actually made here, and Philosophy Australia is proudly part of this very exclusive club. Hearing from Ali about her passion for fashion, her commitment to slow, sustainable and ethical clothing and her belief in the power of small business, I was hooked on her story. When we did some PR work together later in the year, I had a story of my own to share... I'd gone into my own wardrobe and discovered I already owned a Philosophy Australia top! I'd actually purchased it from a local op shop, a beautiful white blouse that was still in perfect condition - a testament to the durability and craftsmanship that goes into every piece of Philosophy clothing.I showed Ali the top and she explained it was from a collection from a few years ago - but of course, still good as new. Which brings us to January 2026, when Ali told me she'd decided to bring a version of that same top back into the newest collection, and to name it after me! Then a few weeks ago I saw Ali at this year's Accountability Circle Conference and she presented me with my very own 'Huckle' top. Isn't it pretty? It's available now and already a bestseller!
+                      - link "Open https://lnkd.in/g7QMVhze" [ref=f73e305] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2Fg7QMVhze&urlhash=yR6w&mt=3sZJBhW_8j_eGnnkg8Vwr1Ugx6U7SpyU90SLdSTGNHg1A_kji6bwpZmuhvOiu3akWv92lxKwz2WfSV50od94uz3I5KhaC1hZfTZR7LP8gkelmMpwTYKKLRl3&isSdui=true
+                        - strong [ref=f73e306]: https://lnkd.in/g7QMVhze
+                      - text: If you want to ditch the wardrobe overwhelm, embrace slow fashion and buy items that last a lifetime (not a season), check out
+                      - 'link "View company: Philosophy Australia" [ref=f73e308] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/company/philosophy-australia/
+                        - strong [ref=f73e309]: Philosophy Australia
+                      - text: .And THANK YOU Ali for being such a champion for slow fashion and small business - I feel lucky to know you.
+                  - generic [ref=f73e312]:
+                    - link [ref=f73e313] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - img "View image" [ref=f73e314]
+                    - link [ref=f73e315] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - img "View image" [ref=f73e316]
+                  - generic [ref=f73e317]:
+                    - link [ref=f73e318] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "Switch to different account" [ref=f73e319]:
+                        - figure [aria-hidden] [ref=f73e320]
+                    - generic [ref=f73e322]:
+                      - 'button "Reaction button state: no reaction" [ref=f73e325] [cursor=pointer]':
+                        - generic [ref=f73e326]: "43"
+                      - button "Open reactions menu"
+                    - button "Comment" [ref=f73e331] [cursor=pointer]:
+                      - generic [ref=f73e332]: "15"
+                    - button "Repost" [ref=f73e337] [cursor=pointer]
+                    - link "Send" [ref=f73e340] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                    - link [ref=f73e343] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "43 reactions" [ref=f73e344]
+              - listitem [ref=f73e352]:
+                - generic [ref=f73e354]:
+                  - heading "Feed post" [level=2]
+                  - generic [ref=f73e356]:
+                    - link [ref=f73e357] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/on-the-stage/
+                      - figure [ref=f73e358]
+                    - generic [ref=f73e360]:
+                      - link [ref=f73e363] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/company/on-the-stage/
+                        - generic "On The Stage Verified" [ref=f73e365]:
+                          - paragraph [ref=f73e368]: On The Stage
+                          - paragraph [ref=f73e370]
+                      - paragraph [ref=f73e375]: 3,337 followers
+                      - paragraph [ref=f73e377]: Promoted
+                      - link "On The Stage Verified":
+                        - /url: https://www.linkedin.com/company/on-the-stage/
+                    - button "Open control menu for post by On The Stage" [ref=f73e378] [cursor=pointer]
+                  - generic [ref=f73e383]:
+                    - paragraph [ref=f73e384]:
+                      - generic [ref=f73e385]: Our 2026 Trends Report reveals how programs are being built for the future, from seamless digital experiences to smarter operations. Get the insights you need to grow your program today.
+                    - generic [ref=f73e386]:
+                      - link [ref=f73e388] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/
+                        - figure [ref=f73e389]:
+                          - img "2026 Performing Arts Trends Report View Lead Gen Form" [ref=f73e390]
+                      - link "2026 Performing Arts Trends Report onthestage.com" [ref=f73e391] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/
+                        - generic [ref=f73e393]:
+                          - paragraph [ref=f73e395]:
+                            - generic [ref=f73e396]:
+                              - generic [ref=f73e397]: 2026 Performing Arts Trends Report
+                              - text: 2026 Performing Arts Trends Report
+                          - paragraph [ref=f73e399]: onthestage.com
+                    - link "Download" [ref=f73e400] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                  - generic [ref=f73e404]:
+                    - link [ref=f73e405] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "Switch to different account" [ref=f73e406]:
+                        - figure [aria-hidden] [ref=f73e407]
+                    - generic [ref=f73e409]:
+                      - 'button "Reaction button state: no reaction" [ref=f73e412] [cursor=pointer]':
+                        - generic [ref=f73e413]: 1,033
+                      - button "Open reactions menu"
+                    - button "Comment" [ref=f73e418] [cursor=pointer]:
+                      - generic [ref=f73e419]: "24"
+                    - button "Repost" [ref=f73e424] [cursor=pointer]:
+                      - generic [ref=f73e425]: "95"
+                    - link "Send" [ref=f73e430] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                    - link [ref=f73e433] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "1,033 reactions" [ref=f73e434]
+              - listitem [ref=f73e442]:
+                - generic [ref=f73e444]:
+                  - heading "Feed post" [level=2]
+                  - generic [ref=f73e446]:
+                    - link [ref=f73e447] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/shelley-johnson/
+                      - figure [ref=f73e448]
+                    - generic [ref=f73e450]:
+                      - link [ref=f73e453] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/shelley-johnson/
+                        - generic "Shelley Johnson Executive Top Voice Profile 1st" [ref=f73e455]:
+                          - paragraph [ref=f73e458]: Shelley Johnson
+                          - paragraph [ref=f73e460]:
+                            - generic [ref=f73e461]: • 1st
+                      - paragraph [ref=f73e465]: Leadership development for bold businesses | Leadership coach & author | this is work podcast
+                      - link [ref=f73e469] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/services/page/31413731632171b503/
+                        - paragraph [ref=f73e470]: View my services
+                      - paragraph [ref=f73e472]: 7h
+                      - link "Shelley Johnson Executive Top Voice Profile 1st":
+                        - /url: https://www.linkedin.com/in/shelley-johnson/
+                    - button "Open control menu for post by Shelley Johnson" [ref=f73e473] [cursor=pointer]
+                    - button "Hide post by Shelley Johnson" [ref=f73e476] [cursor=pointer]
+                  - paragraph [ref=f73e479]:
+                    - generic [ref=f73e480]: "Where your email finds me: on a writing retreat in Airlie Beach for the next week. Currently working on a top secret-ish* project. *I’ll tell you about it soon. But in the meantime, I’m writing many (maaaaany) words. Too many to count** **roughly 65k. Give or take. So I guess it’s that many words. But it’s top secret as I mentioned."
+                  - link [ref=f73e483] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/
+                    - figure [ref=f73e484]:
+                      - img "View image" [ref=f73e485]
+                  - generic [ref=f73e486]:
+                    - link [ref=f73e487] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "Switch to different account" [ref=f73e488]:
+                        - figure [aria-hidden] [ref=f73e489]
+                    - generic [ref=f73e491]:
+                      - 'button "Reaction button state: no reaction" [ref=f73e494] [cursor=pointer]':
+                        - generic [ref=f73e495]: "90"
+                      - button "Open reactions menu"
+                    - button "Comment" [ref=f73e500] [cursor=pointer]:
+                      - generic [ref=f73e501]: "22"
+                    - button "Repost" [ref=f73e506] [cursor=pointer]
+                    - link "Send" [ref=f73e509] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                    - link [ref=f73e512] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "90 reactions" [ref=f73e513]
+              - progressbar "In progress" [ref=f73e521]
+          - complementary "Aside" [ref=f73e522]:
+            - generic [ref=f73e523]:
+              - generic [ref=f73e524]:
+                - generic [ref=f73e528]:
+                  - generic [ref=f73e529]:
+                    - paragraph [ref=f73e530]: LinkedIn News
+                    - button "Info tooltip" [ref=f73e531] [cursor=pointer]
+                  - paragraph [ref=f73e534]: Top stories
+                  - generic [ref=f73e535]:
+                    - link [ref=f73e537] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/news/story/bringing-iced-coffee-to-interviews-8667401/
+                      - generic [ref=f73e539]:
+                        - paragraph [ref=f73e541]: Bringing iced coffee to interviews?
+                        - generic [ref=f73e542]:
+                          - paragraph [ref=f73e543]: 11h ago
+                          - paragraph [ref=f73e544]: •
+                          - paragraph [ref=f73e545]: 5,667 readers
+                    - link [ref=f73e547] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/news/story/australias-top-voices-to-follow-8648537/
+                      - generic [ref=f73e549]:
+                        - paragraph [ref=f73e551]: Australia's Top Voices to follow
+                        - generic [ref=f73e552]:
+                          - paragraph [ref=f73e553]: 11h ago
+                          - paragraph [ref=f73e554]: •
+                          - paragraph [ref=f73e555]: 697 readers
+                    - link [ref=f73e557] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/news/story/rba-rates-headed-to-15-year-high-8644321/
+                      - generic [ref=f73e559]:
+                        - paragraph [ref=f73e561]: RBA rates headed to 15-year high
+                        - generic [ref=f73e562]:
+                          - paragraph [ref=f73e563]: 2h ago
+                          - paragraph [ref=f73e564]: •
+                          - paragraph [ref=f73e565]: 2,985 readers
+                    - link [ref=f73e567] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/news/story/openai-breach-spurs-new-ai-rules-9421602/
+                      - generic [ref=f73e569]:
+                        - paragraph [ref=f73e571]: OpenAI breach spurs new AI rules
+                        - generic [ref=f73e572]:
+                          - paragraph [ref=f73e573]: 11h ago
+                          - paragraph [ref=f73e574]: •
+                          - paragraph [ref=f73e575]: 1,355 readers
+                    - link [ref=f73e577] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/news/story/card-surcharge-ban-whats-next-8670217/
+                      - generic [ref=f73e579]:
+                        - paragraph [ref=f73e581]: "Card surcharge ban: What's next?"
+                        - generic [ref=f73e582]:
+                          - paragraph [ref=f73e583]: 11h ago
+                          - paragraph [ref=f73e584]: •
+                          - paragraph [ref=f73e585]: 432 readers
+                    - button "Show more news" [ref=f73e586] [cursor=pointer]
+                - generic [ref=f73e595]:
+                  - paragraph [ref=f73e596]: Today’s puzzles
+                  - generic [ref=f73e597]:
+                    - link [ref=f73e599] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/games/zip/
+                      - generic "Play Zip" [ref=f73e600]:
+                        - generic [ref=f73e601]:
+                          - figure [aria-hidden] [ref=f73e602]
+                          - generic [ref=f73e603]:
+                            - paragraph [ref=f73e604]:
+                              - strong [ref=f73e605]: Zip
+                              - text: "#560"
+                            - paragraph [ref=f73e606]: 61 connections played
+                    - link [ref=f73e609] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/games/wend/
+                      - generic "Play Wend" [ref=f73e610]:
+                        - generic [ref=f73e611]:
+                          - figure [aria-hidden] [ref=f73e612]
+                          - generic [ref=f73e613]:
+                            - paragraph [ref=f73e614]:
+                              - strong [ref=f73e615]: Wend
+                              - text: "#112"
+                            - paragraph [ref=f73e616]: 42 connections played
+                    - link [ref=f73e619] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/games/patches/
+                      - generic "Play Patches" [ref=f73e620]:
+                        - generic [ref=f73e621]:
+                          - figure [aria-hidden] [ref=f73e622]
+                          - generic [ref=f73e623]:
+                            - paragraph [ref=f73e624]:
+                              - strong [ref=f73e625]: Patches
+                              - text: "#195"
+                            - paragraph [ref=f73e626]: 45 connections played
+                    - link [ref=f73e629] [cursor=pointer]:
+                      - /url: /games/mini-sudoku/
+                      - generic "Play MiniSudoku" [ref=f73e630]:
+                        - generic [ref=f73e631]:
+                          - figure [aria-hidden] [ref=f73e632]
+                          - generic [ref=f73e633]:
+                            - paragraph [ref=f73e634]:
+                              - strong [ref=f73e635]: Mini Sudoku
+                              - text: "#413"
+                            - paragraph [ref=f73e636]: 36 connections played
+                    - button "Show more" [ref=f73e639] [cursor=pointer]
+              - generic [ref=f73e647]:
+                - generic [ref=f73e648]:
+                  - link [ref=f73e649] [cursor=pointer]:
+                    - /url: https://about.linkedin.com/
+                    - paragraph [ref=f73e650]: About
+                  - link [ref=f73e651] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/accessibility/
+                    - paragraph [ref=f73e652]: Accessibility
+                  - link [ref=f73e653] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/help/linkedin/
+                    - paragraph [ref=f73e654]: Help Center
+                  - button [ref=f73e655] [cursor=pointer]:
+                    - paragraph [ref=f73e657]: Privacy & Terms
+                  - link [ref=f73e659] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/help/linkedin/answer/62931/
+                    - paragraph [ref=f73e660]: Ad Choices
+                  - link [ref=f73e661] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/ad/start/?trk=n_nav_ads_rr
+                    - paragraph [ref=f73e662]: Advertising
+                  - button [ref=f73e663] [cursor=pointer]:
+                    - paragraph [ref=f73e665]: Business Services
+                  - link [ref=f73e667] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mobile/
+                    - paragraph [ref=f73e668]: Get the LinkedIn app
+                  - link [ref=f73e669] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/
+                    - paragraph [ref=f73e670]: More
+                - paragraph [ref=f73e673]: LinkedIn Corporation © 2026
