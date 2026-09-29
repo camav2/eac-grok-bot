@@ -1,0 +1,107 @@
+- generic [active] [ref=f20e1]:
+  - generic:
+    - region "Toast message":
+      - heading "0 notifications total" [level=2] [ref=f20e3]
+      - alert
+  - region [ref=f20e15]
+  - generic [ref=f20e16]:
+    - generic [ref=f20e23]:
+      - complementary [ref=f20e24]:
+        - region "Organizational page admin navigation section" [ref=f20e26]:
+          - generic [ref=f20e27]:
+            - button [ref=f20e28]
+            - generic [ref=f20e31]: Premium
+          - generic [ref=f20e33]:
+            - img "Expert Author Community logo" [ref=f20e34]
+            - heading [level=1] [ref=f20e35]:
+              - text: Expert Author Community
+              - link "Verifications" [ref=f20e39] [cursor=pointer]:
+                - /url: /company/89798536/admin/settings/verification-control/
+            - link "3,401 followers" [ref=f20e42] [cursor=pointer]:
+              - /url: /company/89798536/admin/analytics/followers/
+            - generic [ref=f20e43]:
+              - link "Create" [ref=f20e44] [cursor=pointer]
+              - link "View as member" [ref=f20e48] [cursor=pointer]
+          - navigation [ref=f20e52]:
+            - list [ref=f20e53]:
+              - listitem [ref=f20e54]:
+                - link "Dashboard" [ref=f20e55] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/dashboard
+              - listitem [ref=f20e60]:
+                - link "Page posts" [ref=f20e61] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/page-posts/published
+              - listitem [ref=f20e66]:
+                - link "Analytics" [ref=f20e67] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/analytics/updates
+              - listitem [ref=f20e72]:
+                - link "Feed" [ref=f20e73] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/feed/following
+              - listitem [ref=f20e78]:
+                - link "Activity" [ref=f20e79] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/notifications/all
+              - listitem [ref=f20e84]:
+                - link "Inbox" [ref=f20e85] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/inbox?pageMailboxUrn=urn%3Ali%3Afsd_pageMailbox%3A16608703
+              - listitem [ref=f20e90]:
+                - link "Edit Page" [ref=f20e91] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/edit
+            - list [ref=f20e96]:
+              - listitem [ref=f20e97]:
+                - link "Products" [ref=f20e98] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/products
+              - listitem [ref=f20e103]:
+                - link "Jobs" [ref=f20e104] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/posted-jobs/open
+              - listitem [ref=f20e109]:
+                - link "Events" [ref=f20e110] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/notifications/all/?viewEvents=true
+            - list [ref=f20e115]:
+              - listitem [ref=f20e116]:
+                - link "Premium features" [ref=f20e117] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/premium/my-premium/?companyUrn=urn%3Ali%3Afsd_company%3A89798536
+              - listitem [ref=f20e125]:
+                - link "Advertise" [ref=f20e126] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/ad-beta/accounts
+              - listitem [ref=f20e134]:
+                - link "Invite to follow" [ref=f20e135] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/notifications/all/?invite=true
+              - listitem [ref=f20e140]:
+                - link "Settings" [ref=f20e141] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/settings
+      - generic [ref=f20e147]:
+        - main [ref=f20e148]:
+          - generic [ref=f20e149]:
+            - generic [ref=f20e152]:
+              - heading "Activity" [level=2] [ref=f20e153]
+              - paragraph [ref=f20e154]: Keep track of the activity around your page
+            - list [ref=f20e155]:
+              - listitem [ref=f20e156]:
+                - link "All" [ref=f20e157] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/notifications/all
+              - listitem [ref=f20e162]:
+                - link "Comments" [ref=f20e163] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/notifications/comments
+              - listitem [ref=f20e168]:
+                - link "Mentions" [ref=f20e169] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/notifications/mentions
+              - listitem [ref=f20e174]:
+                - link "Reactions" [ref=f20e175] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/notifications/reactions
+              - listitem [ref=f20e180]:
+                - button "More" [ref=f20e182] [cursor=pointer]
+        - complementary "Admin notifications aside section" [ref=f20e201]:
+          - generic [ref=f20e202]:
+            - generic [ref=f20e203]:
+              - heading "Post highlights" [level=2] [ref=f20e204]
+              - button "Post highlights information" [ref=f20e206] [cursor=pointer]
+            - heading "In the last 30 days" [level=2] [ref=f20e209]
+            - alert [ref=f20e211]: Loading
+          - generic "LinkedIn Footer Content" [ref=f20e224]:
+            - generic [ref=f20e225]:
+              - list
+              - generic [ref=f20e226]:
+                - img "LinkedIn" [ref=f20e227]
+                - text: LinkedIn Corporation © 2026
+    - generic:
+      - generic:
+        - complementary "AI-powered assistant to get help with your career, jobs etc"

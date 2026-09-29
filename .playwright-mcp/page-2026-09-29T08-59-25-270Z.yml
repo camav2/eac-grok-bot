@@ -1,0 +1,717 @@
+- generic [ref=f194e1]:
+  - generic:
+    - region "Toast message":
+      - heading "1 notification total" [level=2] [ref=f194e1406]
+      - alert:
+        - generic [ref=f194e1407]:
+          - paragraph [ref=f194e1412]:
+            - generic [ref=f194e1413]: Link copied to clipboard.
+            - link "View post" [ref=f194e1414] [cursor=pointer]:
+              - /url: https://www.linkedin.com/posts/saoriordan_microsoft-activity-7510440530758045696-SKKS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+          - button "Dismiss “Link copied to clipboard.” notification 1 of 1." [ref=f194e1415] [cursor=pointer]:
+            - generic [ref=f194e1418]: Dismiss
+  - generic [ref=f194e4]:
+    - generic [ref=f194e6]:
+      - button "Skip to search" [ref=f194e7] [cursor=pointer]
+      - button "Skip to main content" [ref=f194e9] [cursor=pointer]
+      - button "Keyboard shortcuts" [ref=f194e11] [cursor=pointer]
+      - button "Close jump menu" [ref=f194e13] [cursor=pointer]
+    - banner "Global Navigation" [ref=f194e17]:
+      - generic [ref=f194e18]:
+        - link [ref=f194e19] [cursor=pointer]:
+          - /url: https://www.linkedin.com/feed/?nis=true
+          - img "LinkedIn" [ref=f194e22]
+        - combobox "I’m looking for..." [ref=f194e28]
+        - navigation "Primary Navigation" [ref=f194e29]:
+          - list [ref=f194e30]:
+            - listitem [ref=f194e31]:
+              - link "new feed updates notifications Home" [ref=f194e32] [cursor=pointer]:
+                - /url: https://www.linkedin.com/feed/?nis=true&
+                - generic [ref=f194e33]: new feed updates notifications
+                - generic "Home" [ref=f194e42]
+            - listitem [ref=f194e43]:
+              - link "38 new network updates notifications My Network" [ref=f194e44] [cursor=pointer]:
+                - /url: https://www.linkedin.com/mynetwork/?
+                - generic [ref=f194e46]:
+                  - generic [aria-hidden] [ref=f194e47]: "38"
+                  - generic [ref=f194e48]: 38 new network updates notifications
+                - generic "My Network" [ref=f194e54]
+            - listitem [ref=f194e55]:
+              - link "Jobs" [ref=f194e56] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/?
+            - listitem [ref=f194e63]:
+              - link "Messaging" [ref=f194e64] [cursor=pointer]:
+                - /url: https://www.linkedin.com/messaging/?
+            - listitem [ref=f194e71]:
+              - link "9 new notifications Notifications" [ref=f194e72] [cursor=pointer]:
+                - /url: https://www.linkedin.com/notifications/?
+                - generic [ref=f194e74]:
+                  - generic [aria-hidden] [ref=f194e75]: "9"
+                  - generic [ref=f194e76]: 9 new notifications
+                - generic "Notifications" [ref=f194e82]
+            - listitem [ref=f194e83]:
+              - button [ref=f194e85] [cursor=pointer]:
+                - img "Kelly Irving" [ref=f194e86]
+                - generic [ref=f194e87]: Me
+            - listitem [ref=f194e90]:
+              - button "For Business" [ref=f194e92] [cursor=pointer]
+            - listitem [ref=f194e101]:
+              - link "3 new Campaign Manager notifications Advertise" [ref=f194e102] [cursor=pointer]:
+                - /url: https://www.linkedin.com/campaignmanager/accounts?shouldShowNotificationPanelOnRender=true
+                - generic [ref=f194e104]:
+                  - generic [aria-hidden] [ref=f194e105]: "3"
+                  - generic [ref=f194e106]: 3 new Campaign Manager notifications
+                - generic "Advertise" [ref=f194e113]
+    - generic [ref=f194e119]:
+      - complementary [ref=f194e120]:
+        - generic [ref=f194e123]:
+          - img "PREMIUM" [ref=f194e128]
+          - link [ref=f194e132] [cursor=pointer]:
+            - /url: /in/saoriordan/
+            - img "Siobhán O'Riordan" [ref=f194e133]
+          - generic [ref=f194e134]:
+            - link [ref=f194e135] [cursor=pointer]:
+              - /url: /in/saoriordan/
+              - heading [level=3] [ref=f194e136]:
+                - text: Siobhán O'Riordan
+                - img "Siobhán O&#39;Riordan is a Premium member" [ref=f194e138]
+            - heading "🚀 Generalist Specialist 💪 Clifton Strengths-Obsessed Coach 📚 Author 🧭 Advisor 🌊 Support Leaders Navigating Change" [level=4] [ref=f194e141]
+          - button "Message Siobhán" [ref=f194e149] [cursor=pointer]:
+            - generic [ref=f194e150]: Message
+      - main [ref=f194e151]:
+        - generic [ref=f194e279]:
+          - heading "All activity" [level=2] [ref=f194e280]
+          - group "Select type of recent activity" [ref=f194e283]:
+            - button "Posts" [pressed] [ref=f194e284] [cursor=pointer]
+            - button "Comments" [ref=f194e286] [cursor=pointer]
+            - button "Videos" [ref=f194e288] [cursor=pointer]
+            - button "Images" [ref=f194e290] [cursor=pointer]
+            - button "More" [ref=f194e292] [cursor=pointer]
+          - generic [ref=f194e298]:
+            - generic [ref=f194e299]:
+              - generic [ref=f194e300]: Loaded 20 Posts posts
+              - list [ref=f194e301]:
+                - listitem [ref=f194e302]:
+                  - article [ref=f194e307]:
+                    - generic [ref=f194e309]:
+                      - heading "Feed post number 1" [level=2] [ref=f194e310]
+                      - generic [ref=f194e311]:
+                        - generic [ref=f194e312]:
+                          - generic [ref=f194e314]:
+                            - link [ref=f194e315] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/saoriordan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAA6jAEBLsR8n89pOpSK5RiISnnKilSOxpM
+                              - img "Siobhán’s profile photo" [ref=f194e318]
+                            - generic [ref=f194e319]:
+                              - link "Siobhán O'Riordan" [ref=f194e321] [cursor=pointer]:
+                                - /url: /in/saoriordan/
+                              - text: reposted this
+                          - button "Open control menu for post by Kirby Parm" [ref=f194e324] [cursor=pointer]
+                          - generic [ref=f194e327]:
+                            - generic [ref=f194e328]:
+                              - link "View Kirby Parm’s graphic link" [ref=f194e329] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/in/kirby-parm-3b517716a?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACg_VHkBtIzdJkOApx8iEbc1bB6OUUYuxqI
+                                - img "View Kirby Parm’s graphic link" [ref=f194e333]
+                              - generic [ref=f194e334]:
+                                - 'link "View: Kirby Parm Verified • 3rd+ Operational Excellence &amp; Culture Development" [ref=f194e335] [cursor=pointer]':
+                                  - /url: https://www.linkedin.com/in/kirby-parm-3b517716a?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACg_VHkBtIzdJkOApx8iEbc1bB6OUUYuxqI
+                                  - generic [ref=f194e336]:
+                                    - generic [ref=f194e337]: Kirby Parm
+                                    - generic [ref=f194e340]: • 3rd+
+                                  - generic [ref=f194e344]: Operational Excellence & Culture Development
+                                - generic [ref=f194e346]: 16h •
+                            - button "Follow Kirby Parm" [ref=f194e352] [cursor=pointer]:
+                              - generic [aria-hidden] [ref=f194e355]: Follow
+                        - generic [ref=f194e357]:
+                          - generic [ref=f194e360]:
+                            - text: Project Evident is hiring a Chief Operating & Financial Officer (COFO)!We’re looking for an experienced leader to join our team and help shape the next chapter of Project Evident. If you or someone in your network may be a strong fit, please check out the role and apply at the link below.And please share with your network to help us spread the word!
+                            - link "https://lnkd.in/gHmbCVvm" [ref=f194e361] [cursor=pointer]:
+                              - /url: https://lnkd.in/gHmbCVvm
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f194e362] [cursor=pointer]:
+                            - generic [ref=f194e363]: …more
+                        - generic [ref=f194e364]:
+                          - generic [ref=f194e365]:
+                            - generic [ref=f194e366]:
+                              - link "Project Evident, graphic." [ref=f194e367] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/company/project-evident/posts
+                              - generic [ref=f194e371]:
+                                - 'link "View: Project Evident 8,951 followers" [ref=f194e372] [cursor=pointer]':
+                                  - /url: https://www.linkedin.com/company/project-evident/posts
+                                  - generic [ref=f194e373]: Project Evident
+                                  - generic [ref=f194e378]: 8,951 followers
+                                - generic [ref=f194e380]: 16h •
+                            - button "Follow Project Evident" [ref=f194e386] [cursor=pointer]:
+                              - generic [aria-hidden] [ref=f194e389]: Follow
+                          - link [ref=f194e391] [cursor=pointer]:
+                            - /url: /feed/update/urn:li:activity:7510369500895203329/
+                            - generic [ref=f194e392]:
+                              - generic [ref=f194e395]:
+                                - link "Project Evident" [ref=f194e396]:
+                                  - /url: https://www.linkedin.com/company/project-evident/
+                                - text: "is searching for our next Chief Operating & Financial Officer!As we continue to scale our impact across the social and education sectors, we’re looking for an experienced executive leader to help ensure our systems, resources, and operations are positioned to support that growth.Working closely with our CEO and executive team, the role will lead across finance, operations, talent, and technology, bringing strategic leadership, operational clarity, and strong financial stewardship to the organization.We’re looking for a collaborative leader who can see the big picture, translate strategy into action, and embody our SWAP values: Smart, Warm, Approachable, and Productive.If you are interested or know someone who would be a great fit, head to the link in the comments to learn more and apply. ⬇️ Search led in partnership with"
+                                - link "Dana Hagenbuch" [ref=f194e400]:
+                                  - /url: /in/danahagenbuch/
+                                - text: .
+                                - link "hashtag Hiring" [ref=f194e401]:
+                                  - /url: https://www.linkedin.com/search/results/all/?keywords=%23hiring&origin=HASH_TAG_FROM_FEED
+                                  - generic [ref=f194e402]: hashtag
+                                  - generic [ref=f194e403]: "#Hiring"
+                                - link "hashtag OpenRole" [ref=f194e404]:
+                                  - /url: https://www.linkedin.com/search/results/all/?keywords=%23openrole&origin=HASH_TAG_FROM_FEED
+                                  - generic [ref=f194e405]: hashtag
+                                  - generic [ref=f194e406]: "#OpenRole"
+                                - link "hashtag ExecutiveRole" [ref=f194e407]:
+                                  - /url: https://www.linkedin.com/search/results/all/?keywords=%23executiverole&origin=HASH_TAG_FROM_FEED
+                                  - generic [ref=f194e408]: hashtag
+                                  - generic [ref=f194e409]: "#ExecutiveRole"
+                                - link "hashtag Jobs" [ref=f194e410]:
+                                  - /url: https://www.linkedin.com/search/results/all/?keywords=%23jobs&origin=HASH_TAG_FROM_FEED
+                                  - generic [ref=f194e411]: hashtag
+                                  - generic [ref=f194e412]: "#Jobs"
+                              - button "see more, visually reveals content which is already detected by screen readers" [ref=f194e413]:
+                                - generic [ref=f194e414]: …more
+                          - generic [ref=f194e416]:
+                            - button "Activate to view larger image, text" [ref=f194e418] [cursor=pointer]:
+                              - generic [ref=f194e419]: Activate to view larger image,
+                              - img "text" [ref=f194e422]
+                            - generic [aria-hidden] [ref=f194e423]: Activate to view larger image,
+                        - generic [ref=f194e424]:
+                          - list [ref=f194e428]:
+                            - listitem [ref=f194e429]:
+                              - button "5 reactions" [ref=f194e430] [cursor=pointer]:
+                                - img "like" [ref=f194e431]
+                                - generic [aria-hidden] [ref=f194e432]: "5"
+                            - listitem [ref=f194e433]:
+                              - list [ref=f194e434]:
+                                - listitem [ref=f194e435]:
+                                  - button "1 repost of Kirby Parm’s post" [ref=f194e436] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f194e437]: 1 repost
+                          - generic [ref=f194e438]:
+                            - generic [ref=f194e439]:
+                              - button "React Like" [ref=f194e440] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f194e445]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f194e446] [cursor=pointer]
+                            - button "Comment" [ref=f194e451] [cursor=pointer]
+                            - button "Repost" [ref=f194e457] [cursor=pointer]
+                            - button "Send in a private message" [ref=f194e463] [cursor=pointer]:
+                              - generic [ref=f194e466]: Send
+                - listitem [ref=f194e468]:
+                  - article [ref=f194e473]:
+                    - generic [ref=f194e475]:
+                      - heading "Feed post number 2" [level=2] [ref=f194e476]
+                      - generic [ref=f194e477]:
+                        - generic [ref=f194e478]:
+                          - generic [ref=f194e480]:
+                            - link "View Siobhán O'Riordan’s graphic link" [ref=f194e481] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/saoriordan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAA6jAEBLsR8n89pOpSK5RiISnnKilSOxpM
+                              - img "View Siobhán O'Riordan’s graphic link" [ref=f194e485]
+                            - generic [ref=f194e486]:
+                              - 'link "View: Siobhán O&#39;Riordan Premium • 1st 🚀 Generalist Specialist 💪 Clifton Strengths-Obsessed Coach 📚 Author 🧭 Advisor 🌊 Support Leaders Navigating Change" [ref=f194e487] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/saoriordan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAA6jAEBLsR8n89pOpSK5RiISnnKilSOxpM
+                                - generic [ref=f194e488]:
+                                  - generic [ref=f194e489]: Siobhán O'Riordan
+                                  - generic [ref=f194e492]: • 1st
+                                - generic [ref=f194e497]: 🚀 Generalist Specialist 💪 Clifton Strengths-Obsessed Coach 📚 Author 🧭 Advisor 🌊 Support Leaders Navigating Change
+                              - link "Book an appointment" [ref=f194e499] [cursor=pointer]:
+                                - /url: https://tidycal.com/siobhan2?utm_source=tidycal&utm_medium=growth_action&utm_campaign=share_link
+                              - generic [ref=f194e501]: 12h •
+                          - button "Open control menu for post by Siobhán O&#39;Riordan" [active] [ref=f194e509] [cursor=pointer]
+                        - generic [ref=f194e513]:
+                          - generic [ref=f194e516]:
+                            - text: "Some people don't believe Generalists exist. And I get it. Ubiquitous yet invisible, Generalists and the word itself have been more default than definition: see Jack of All Trades.But here's the thing. Over 50% of 36,000 folks surveyed in OC Tanner's 2023 annual trend reported being Generalists. That, and the increasing recognition that Generalists are different from those who specialize and even from each other. Generalists take a lateral approach, bringing a ranging curiosity and a creative approach to problem-solving. Inherently adaptive, Generalists are experts in practice, partnering with experts in everything else."
+                            - link "Brad Smith" [ref=f194e518] [cursor=pointer]:
+                              - /url: /in/bradsmi/
+                            - text: ", CEO of"
+                            - link "hashtag Microsoft" [ref=f194e519] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=%23microsoft&origin=HASH_TAG_FROM_FEED
+                              - generic [ref=f194e520]: hashtag
+                              - generic [ref=f194e521]: "#Microsoft"
+                            - text: ", discussed AI's impact on workers in a conversation with the WSJ last week. And what excites him most? The resurgence of the Generalists, \"the person who can go solve specific problems with the help of AI…can take more initiative, apply judgment, be creative, have more of an impact.” Microsoft is changing how it hires and trains, including reintroducing a cohort-based rotation system so employees gain more exposure to different issues and ways of working. (I write about GE's rotation practice in Chapter 2 of my book).What are your thoughts on the article and conversation? Link to WSJ below and shout out to"
+                            - link "Sue Dahling Sullivan" [ref=f194e523] [cursor=pointer]:
+                              - /url: /in/sue-dahling-sullivan-4477995/
+                            - text: ", the OG (Original Generalist!) who brought it to my attention."
+                            - link "https://lnkd.in/gCx4KM-A" [ref=f194e524] [cursor=pointer]:
+                              - /url: https://lnkd.in/gCx4KM-A
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f194e525] [cursor=pointer]:
+                            - generic [ref=f194e526]: …more
+                        - generic [ref=f194e527]:
+                          - list [ref=f194e531]:
+                            - listitem [ref=f194e532]:
+                              - button "3 reactions" [ref=f194e533] [cursor=pointer]:
+                                - img "like" [ref=f194e534]
+                                - img "insightful" [ref=f194e535]
+                                - generic [aria-hidden] [ref=f194e536]: "3"
+                          - generic [ref=f194e537]:
+                            - generic [ref=f194e538]:
+                              - button "Unreact Like" [pressed] [ref=f194e539] [cursor=pointer]:
+                                - generic [ref=f194e541]:
+                                  - img "like" [ref=f194e542]
+                                  - generic [aria-hidden] [ref=f194e543]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f194e544] [cursor=pointer]
+                            - button "Comment" [ref=f194e549] [cursor=pointer]
+                            - button "Repost" [ref=f194e555] [cursor=pointer]
+                            - button "Send in a private message" [ref=f194e561] [cursor=pointer]:
+                              - generic [ref=f194e564]: Send
+                - listitem [ref=f194e566]:
+                  - article [ref=f194e571]:
+                    - generic [ref=f194e573]:
+                      - heading "Feed post number 3" [level=2] [ref=f194e574]
+                      - generic [ref=f194e575]:
+                        - generic [ref=f194e576]:
+                          - generic [ref=f194e578]:
+                            - link "View Siobhán O'Riordan’s graphic link" [ref=f194e579] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/saoriordan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAA6jAEBLsR8n89pOpSK5RiISnnKilSOxpM
+                              - img "View Siobhán O'Riordan’s graphic link" [ref=f194e583]
+                            - generic [ref=f194e584]:
+                              - 'link "View: Siobhán O&#39;Riordan Premium • 1st 🚀 Generalist Specialist 💪 Clifton Strengths-Obsessed Coach 📚 Author 🧭 Advisor 🌊 Support Leaders Navigating Change" [ref=f194e585] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/saoriordan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAA6jAEBLsR8n89pOpSK5RiISnnKilSOxpM
+                                - generic [ref=f194e586]:
+                                  - generic [ref=f194e587]: Siobhán O'Riordan
+                                  - generic [ref=f194e590]: • 1st
+                                - generic [ref=f194e595]: 🚀 Generalist Specialist 💪 Clifton Strengths-Obsessed Coach 📚 Author 🧭 Advisor 🌊 Support Leaders Navigating Change
+                              - link "Book an appointment" [ref=f194e597] [cursor=pointer]:
+                                - /url: https://tidycal.com/siobhan2?utm_source=tidycal&utm_medium=growth_action&utm_campaign=share_link
+                              - generic [ref=f194e599]: 2d •
+                          - button "Open control menu for post by Siobhán O&#39;Riordan" [ref=f194e607] [cursor=pointer]
+                        - generic [ref=f194e614]:
+                          - text: Love it when Generalists are generous! Wink 😜 Fun to see
+                          - link "Clara Ma" [ref=f194e616] [cursor=pointer]:
+                            - /url: /in/clarama/
+                          - text: share of my Mad Libs exercise.
+                        - generic [ref=f194e617]:
+                          - generic [ref=f194e618]:
+                            - generic [ref=f194e619]:
+                              - link "View Clara Ma’s graphic link" [ref=f194e620] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/in/clarama?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAZw6QUB1RAvtwBGjiSrisXfhWjv2MarpUU
+                                - img "View Clara Ma’s graphic link" [ref=f194e624]
+                              - generic [ref=f194e625]:
+                                - 'link "View: Clara Ma Premium • 2nd Finding a Chief of Staff for Every Executive | askachiefofstaff.com | 2025 Tory Burch Fellow" [ref=f194e626] [cursor=pointer]':
+                                  - /url: https://www.linkedin.com/in/clarama?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAZw6QUB1RAvtwBGjiSrisXfhWjv2MarpUU
+                                  - generic [ref=f194e627]:
+                                    - generic [ref=f194e628]: Clara Ma
+                                    - generic [ref=f194e631]: • 2nd
+                                  - generic [ref=f194e636]: Finding a Chief of Staff for Every Executive | askachiefofstaff.com | 2025 Tory Burch Fellow
+                                - generic [ref=f194e638]: 3d •
+                            - button "Follow Clara Ma" [ref=f194e644] [cursor=pointer]:
+                              - generic [aria-hidden] [ref=f194e647]: Follow
+                          - link [ref=f194e649] [cursor=pointer]:
+                            - /url: /feed/update/urn:li:activity:7509243314190282752/
+                            - generic [ref=f194e650]:
+                              - generic [ref=f194e653]:
+                                - text: 🫠 "So what do you actually do?"Every Chief of Staff I know has a version of this question they dread.They know what they do every day. Answering "I do everything" just isn't a great way to keep a conversation going.📦 For years I tried to fix this by squeezing myself into a specialist box.Every job description wanted deep expertise in one thing and I kept trying to mold myself to fit.It never worked, because a generalist will never win against a specialist on resume skills alone.🔑 It wasn't until I became a Chief of Staff that being wide instead of deep finally felt like the point.In the hundreds of Career Chats I've done with aspiring Chiefs of Staff, the ones who struggle to explain their value all make the same mistake:❌ They describe their skills.✅ The ones who land the role describe what it's like to *work with them*.Here's the 3️⃣-line Mad Libs I learned from
+                                - link "Siobhán O'Riordan" [ref=f194e655]:
+                                  - /url: /in/saoriordan/
+                                - text: "to communicate your value as a Chief of Staff ⬇️1️⃣ I'm a Chief of Staff who excels at supporting leaders who need ______.→ A translator. A closer. Someone who can see the gap before they do.2️⃣ What I bring is ______.→ Strengths, not skills. The adjectives people keep using about you, not the tools on your resume.3️⃣ I'm at my best when ______.→ The environment where you thrive. Almost always this comes down to autonomy and trust.Put together, it sounds like:\"I excel at supporting leaders who need a translator. I read between the lines and build trust fast. I'm at my best when I can ideate solutions and build the relationships to get them done.\"💡 Homework: ask 5️⃣ people you've worked with for three adjectives that describe you and one example of when it was true.You'll get the same words back over and over.Those words are your line 2️⃣.💾 Save this for the next time someone asks what you actually do."
+                              - button "see more, visually reveals content which is already detected by screen readers" [ref=f194e656]:
+                                - generic [ref=f194e657]: …more
+                        - generic [ref=f194e658]:
+                          - list [ref=f194e662]:
+                            - listitem [ref=f194e663]:
+                              - button "3 reactions" [ref=f194e664] [cursor=pointer]:
+                                - img "love" [ref=f194e665]
+                                - img "insightful" [ref=f194e666]
+                                - img "like" [ref=f194e667]
+                                - generic [aria-hidden] [ref=f194e668]: "3"
+                          - generic [ref=f194e669]:
+                            - generic [ref=f194e670]:
+                              - button "React Like" [ref=f194e671] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f194e676]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f194e677] [cursor=pointer]
+                            - button "Comment" [ref=f194e682] [cursor=pointer]
+                            - button "Repost" [ref=f194e688] [cursor=pointer]
+                            - button "Send in a private message" [ref=f194e694] [cursor=pointer]:
+                              - generic [ref=f194e697]: Send
+                - listitem [ref=f194e699]:
+                  - article [ref=f194e704]:
+                    - generic [ref=f194e706]:
+                      - heading "Feed post number 4" [level=2] [ref=f194e707]
+                      - generic [ref=f194e708]:
+                        - generic [ref=f194e709]:
+                          - generic [ref=f194e711]:
+                            - link "View Siobhán O'Riordan’s graphic link" [ref=f194e712] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/saoriordan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAA6jAEBLsR8n89pOpSK5RiISnnKilSOxpM
+                              - img "View Siobhán O'Riordan’s graphic link" [ref=f194e716]
+                            - generic [ref=f194e717]:
+                              - 'link "View: Siobhán O&#39;Riordan Premium • 1st 🚀 Generalist Specialist 💪 Clifton Strengths-Obsessed Coach 📚 Author 🧭 Advisor 🌊 Support Leaders Navigating Change" [ref=f194e718] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/saoriordan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAA6jAEBLsR8n89pOpSK5RiISnnKilSOxpM
+                                - generic [ref=f194e719]:
+                                  - generic [ref=f194e720]: Siobhán O'Riordan
+                                  - generic [ref=f194e723]: • 1st
+                                - generic [ref=f194e728]: 🚀 Generalist Specialist 💪 Clifton Strengths-Obsessed Coach 📚 Author 🧭 Advisor 🌊 Support Leaders Navigating Change
+                              - link "Book an appointment" [ref=f194e730] [cursor=pointer]:
+                                - /url: https://tidycal.com/siobhan2?utm_source=tidycal&utm_medium=growth_action&utm_campaign=share_link
+                              - generic [ref=f194e732]: 4d •
+                          - button "Open control menu for post by Siobhán O&#39;Riordan" [ref=f194e740] [cursor=pointer]
+                        - generic [ref=f194e743]: My next newsletter "Ying & Yang of Adaptability & Resiliency" is coming today. Subscribe to get it and stay in the loop on everything I'm creating.
+                        - generic [ref=f194e748]:
+                          - 'link "Open article: Big Sea Strategies by big-sea-strategies.kit.com, Big Sea Strategies, graphic" [ref=f194e750] [cursor=pointer]':
+                            - /url: https://big-sea-strategies.kit.com
+                            - img "Big Sea Strategies" [ref=f194e753]
+                          - link "Big Sea Strategies" [ref=f194e756] [cursor=pointer]:
+                            - /url: https://big-sea-strategies.kit.com
+                            - generic [ref=f194e759]:
+                              - generic [ref=f194e760]: Big Sea Strategies
+                              - generic [ref=f194e762]: big-sea-strategies.kit.com
+                        - generic [ref=f194e763]:
+                          - list [ref=f194e767]:
+                            - listitem [ref=f194e768]:
+                              - button "Lea Rausch and 1 other" [ref=f194e769] [cursor=pointer]:
+                                - img "love" [ref=f194e770]
+                                - img "like" [ref=f194e771]
+                                - generic [ref=f194e772]:
+                                  - generic [aria-hidden] [ref=f194e773]: "2"
+                                  - generic [ref=f194e774]: Lea Rausch and 1 other
+                          - generic [ref=f194e775]:
+                            - generic [ref=f194e776]:
+                              - button "React Like" [ref=f194e777] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f194e782]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f194e783] [cursor=pointer]
+                            - button "Comment" [ref=f194e788] [cursor=pointer]
+                            - button "Repost" [ref=f194e794] [cursor=pointer]
+                            - button "Send in a private message" [ref=f194e800] [cursor=pointer]:
+                              - generic [ref=f194e803]: Send
+                - listitem [ref=f194e805]:
+                  - article [ref=f194e810]:
+                    - generic [ref=f194e812]:
+                      - heading "Feed post number 5" [level=2] [ref=f194e813]
+                      - generic [ref=f194e814]:
+                        - generic [ref=f194e815]:
+                          - generic [ref=f194e817]:
+                            - link "View Siobhán O'Riordan’s graphic link" [ref=f194e818] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/saoriordan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAA6jAEBLsR8n89pOpSK5RiISnnKilSOxpM
+                              - img "View Siobhán O'Riordan’s graphic link" [ref=f194e822]
+                            - generic [ref=f194e823]:
+                              - 'link "View: Siobhán O&#39;Riordan Premium • 1st 🚀 Generalist Specialist 💪 Clifton Strengths-Obsessed Coach 📚 Author 🧭 Advisor 🌊 Support Leaders Navigating Change" [ref=f194e824] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/saoriordan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAA6jAEBLsR8n89pOpSK5RiISnnKilSOxpM
+                                - generic [ref=f194e825]:
+                                  - generic [ref=f194e826]: Siobhán O'Riordan
+                                  - generic [ref=f194e829]: • 1st
+                                - generic [ref=f194e834]: 🚀 Generalist Specialist 💪 Clifton Strengths-Obsessed Coach 📚 Author 🧭 Advisor 🌊 Support Leaders Navigating Change
+                              - link "Book an appointment" [ref=f194e836] [cursor=pointer]:
+                                - /url: https://tidycal.com/siobhan2?utm_source=tidycal&utm_medium=growth_action&utm_campaign=share_link
+                              - generic [ref=f194e838]: 6d •
+                          - button "Open control menu for post by Siobhán O&#39;Riordan" [ref=f194e846] [cursor=pointer]
+                        - generic [ref=f194e849]: "I appreciate the addition of \"preserving the reasoning\" added in a top comment almost as much as the pneumonic device: Goals, Roles & Souls... and maybe Poles to capture the key assumptions and rationale?"
+                        - generic [ref=f194e854]:
+                          - generic [ref=f194e855]:
+                            - generic [ref=f194e856]:
+                              - link "Harvard Business Review, graphic." [ref=f194e857] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/company/harvard-business-review/posts
+                              - generic [ref=f194e861]:
+                                - 'link "View: Harvard Business Review 14,638,567 followers" [ref=f194e862] [cursor=pointer]':
+                                  - /url: https://www.linkedin.com/company/harvard-business-review/posts
+                                  - generic [ref=f194e863]: Harvard Business Review
+                                  - generic [ref=f194e868]: 14,638,567 followers
+                                - generic [ref=f194e870]: 6d •
+                            - button "Follow Harvard Business Review" [ref=f194e876] [cursor=pointer]:
+                              - generic [aria-hidden] [ref=f194e879]: Follow
+                          - link "The quality of your team’s conversations shapes the quality of its decisions." [ref=f194e881] [cursor=pointer]:
+                            - /url: /feed/update/urn:li:activity:7508188326697443329/
+                          - article [ref=f194e886]:
+                            - generic [ref=f194e887]:
+                              - 'link "Open article: 3 Ways to Lead Better Conversations by Harvard Business Review • 2 min read" [ref=f194e889] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/pulse/3-ways-lead-better-conversations-harvard-business-review-ipr6c?trackingId=hvLSdWMZMqd%2BtIjOIdR95A%3D%3D
+                              - 'link "Open article: 3 Ways to Lead Better Conversations by Harvard Business Review • 2 min read" [ref=f194e893] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/pulse/3-ways-lead-better-conversations-harvard-business-review-ipr6c?trackingId=hvLSdWMZMqd%2BtIjOIdR95A%3D%3D
+                                - generic [ref=f194e894]:
+                                  - generic [ref=f194e895]:
+                                    - link "HBR Management Tip of the Week, graphic." [ref=f194e896]:
+                                      - /url: https://www.linkedin.com/newsletters/hbr-management-tip-of-the-week-6911744063708745728
+                                    - generic [ref=f194e899]:
+                                      - link "HBR Management Tip of the Week" [ref=f194e900]:
+                                        - /url: https://www.linkedin.com/newsletters/hbr-management-tip-of-the-week-6911744063708745728
+                                      - button "Subscribe" [ref=f194e905]:
+                                        - generic [aria-hidden] [ref=f194e908]: Subscribe
+                                        - generic [ref=f194e909]: "Subscribe to {:entityName}"
+                                  - generic [ref=f194e910]:
+                                    - generic [ref=f194e911]: 3 Ways to Lead Better Conversations
+                                    - generic [ref=f194e913]: Harvard Business Review
+                        - generic [ref=f194e914]:
+                          - list [ref=f194e918]:
+                            - listitem [ref=f194e919]:
+                              - button "TyAnn Osborn and 2 others" [ref=f194e920] [cursor=pointer]:
+                                - img "like" [ref=f194e921]
+                                - img "celebrate" [ref=f194e922]
+                                - generic [ref=f194e923]:
+                                  - generic [aria-hidden] [ref=f194e924]: "3"
+                                  - generic [ref=f194e925]: TyAnn Osborn and 2 others
+                          - generic [ref=f194e926]:
+                            - generic [ref=f194e927]:
+                              - button "React Like" [ref=f194e928] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f194e933]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f194e934] [cursor=pointer]
+                            - button "Comment" [ref=f194e939] [cursor=pointer]
+                            - button "Repost" [ref=f194e945] [cursor=pointer]
+                            - button "Send in a private message" [ref=f194e951] [cursor=pointer]:
+                              - generic [ref=f194e954]: Send
+                - listitem [ref=f194e956]
+                - listitem [ref=f194e960]
+                - listitem [ref=f194e964]
+                - listitem [ref=f194e968]
+                - listitem [ref=f194e972]
+                - listitem [ref=f194e976]
+                - listitem [ref=f194e980]
+                - listitem [ref=f194e984]
+                - listitem [ref=f194e988]
+                - listitem [ref=f194e992]
+                - listitem [ref=f194e996]
+                - listitem [ref=f194e1000]
+                - listitem [ref=f194e1004]
+                - listitem [ref=f194e1008]
+                - listitem [ref=f194e1012]
+            - button "Show more results" [ref=f194e1018] [cursor=pointer]
+      - complementary "Interests" [ref=f194e184]:
+        - iframe [ref=f194e1020]:
+          - generic [ref=f195e2]:
+            - generic: Ad
+            - img "overflow-web-small" [ref=f195e6] [cursor=pointer]
+            - link "LinkedIn for Marketing" [ref=f195e10] [cursor=pointer]:
+              - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Fbusiness.linkedin.com%2Fmarketing-solutions%2Fwebinars%2F25%2F11%2Ffull-funnel-b2b-success-driving-results-with-video-on-linkedin-namer%3Fmcid%3D7406781578799984662%26src%3Dli-scin%26cid%3D701Kf000000UZ6lIAG%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg7GOuHwRr1Z_CPsvK59kvtRERJRZ7an918vfFxykOxBwmPDoNmx3bpeR9R_GhinHFPLLlTH2TmZay7qzJodzcA1kpOej6fZZL51tegTLSH4YUH_zyhwgF8XBAzGILagZ6D26Qqb4Vr3n6JzHfxEnGJWvOeddXQiC9kAuELcLBDF54opVbkk8ky_piJqA50DsBuXr6OA3AIUT7-qiFm0cNwSdOVKTMWUPQ3gwNj7MiLM2an8R1L5s_QFd2FiZb14fn8V-jkZGFI2LsWp7PUrbwJu86G35XYlY-LVAJvB3E4lGNGHQ_ABwwMhMLjkZQ08lGK_Ge3DznuXb9I7ePbnCy858fz-VpFF9bGJuzB5XdteczvbfgdGJ7cPHWdiExexi65D7HE46Ynl1i0FPRArP-0qGsi9gzYq6c1iDwRkcIGbuNCIZbyE8sAinKnOyfjKJtR9TeGZBrwgl-SCgnKzLzzjkkn6Lm4Fzc8ie08UQFWFbYjGcD_lwKjhXoAc1mD1nzikYuBYy0PWD6Cd791Bv0bn0ypzA_bONW72Y9iDYotT0YmHizmUmT82joTM75GxpCSmW3ZQcBz9Z_6MOs1jPu3t0vAnIaDZegiXUk1Jf5kvq06RtdLPY03BpQL35GoVa9Unrr9g1Oo2fugSJEStmNutUgDP1vMUrsGsn5C3-qIkyhwNVl6CL7GnVXM6Jc9dtn0Yt04gPN1AFb7y_vM5GJWGzSIm1nx4znTMv3-OsKeqkhndFqwcBrbIr99lPC7oBCr75y8VPxz2OeEmQVPr7MbtMMXr7H6zOqgQ1uNi2zkpivGn9sEAWOYnbJ6y1JR6kEANP9sVWzUg61baAHI8U5CYDKpVcOA1e-ZM6Z7nA1v1o0z127ORykrlUZAICreNWa5tcvDNHQ-rivOw03ZVuzGfhPwyYYnpw7_dW7UTZHXDtg3qBPoyOcD1_34a4J6wN0S1d9UljMBd8UfchEdkAT70qsrTGxB-ann9cCftUZm_iRwUAvmMjVwl5sSuFbCLxCW6UPJz6n239Pim2IVfkl5bRQZgZo2oRLEDmPJvjuANmV01PLQE6o9G7sKg_2y6tDxMAfP47ZRbnf1vzEY--2C9TXy5LVIbLVEEZ8n4ZM5iWehuvZ9YOW3WZfhR1E1gpUKCZnq36HynZs2ZP-BvQ1hskGRCArZTcpCNaIZmRDIHrKxg%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%22%2C%22trackingId%22%3A%227c63d7b5-929e-4f59-9d02-51be162e2100%22%7D%2C%22time%22%3A1790672350653%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_view_base_recent_activity_content_view%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+            - generic [ref=f195e11]:
+              - heading "Learn how video is revolutionizing the B2B buyer's journey" [level=2] [ref=f195e14]
+              - generic [ref=f195e16]:
+                - img "Kelly" [ref=f195e17]
+                - generic [ref=f195e18]:
+                  - link [ref=f195e19] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Fbusiness.linkedin.com%2Fmarketing-solutions%2Fwebinars%2F25%2F11%2Ffull-funnel-b2b-success-driving-results-with-video-on-linkedin-namer%3Fmcid%3D7406781578799984662%26src%3Dli-scin%26cid%3D701Kf000000UZ6lIAG%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg7GOuHwRr1Z_CPsvK59kvtRERJRZ7an918vfFxykOxBwmPDoNmx3bpeR9R_GhinHFPLLlTH2TmZay7qzJodzcA1kpOej6fZZL51tegTLSH4YUH_zyhwgF8XBAzGILagZ6D26Qqb4Vr3n6JzHfxEnGJWvOeddXQiC9kAuELcLBDF54opVbkk8ky_piJqA50DsBuXr6OA3AIUT7-qiFm0cNwSdOVKTMWUPQ3gwNj7MiLM2an8R1L5s_QFd2FiZb14fn8V-jkZGFI2LsWp7PUrbwJu86G35XYlY-LVAJvB3E4lGNGHQ_ABwwMhMLjkZQ08lGK_Ge3DznuXb9I7ePbnCy858fz-VpFF9bGJuzB5XdteczvbfgdGJ7cPHWdiExexi65D7HE46Ynl1i0FPRArP-0qGsi9gzYq6c1iDwRkcIGbuNCIZbyE8sAinKnOyfjKJtR9TeGZBrwgl-SCgnKzLzzjkkn6Lm4Fzc8ie08UQFWFbYjGcD_lwKjhXoAc1mD1nzikYuBYy0PWD6Cd791Bv0bn0ypzA_bONW72Y9iDYotT0YmHizmUmT82joTM75GxpCSmW3ZQcBz9Z_6MOs1jPu3t0vAnIaDZegiXUk1Jf5kvq06RtdLPY03BpQL35GoVa9Unrr9g1Oo2fugSJEStmNutUgDP1vMUrsGsn5C3-qIkyhwNVl6CL7GnVXM6Jc9dtn0Yt04gPN1AFb7y_vM5GJWGzSIm1nx4znTMv3-OsKeqkhndFqwcBrbIr99lPC7oBCr75y8VPxz2OeEmQVPr7MbtMMXr7H6zOqgQ1uNi2zkpivGn9sEAWOYnbJ6y1JR6kEANP9sVWzUg61baAHI8U5CYDKpVcOA1e-ZM6Z7nA1v1o0z127ORykrlUZAICreNWa5tcvDNHQ-rivOw03ZVuzGfhPwyYYnpw7_dW7UTZHXDtg3qBPoyOcD1_34a4J6wN0S1d9UljMBd8UfchEdkAT70qsrTGxB-ann9cCftUZm_iRwUAvmMjVwl5sSuFbCLxCW6UPJz6n239Pim2IVfkl5bRQZgZo2oRLEDmPJvjuANmV01PLQE6o9G7sKg_2y6tDxMAfP47ZRbnf1vzEY--2C9TXy5LVIbLVEEZ8n4ZM5iWehuvZ9YOW3WZfhR1E1gpUKCZnq36HynZs2ZP-BvQ1hskGRCArZTcpCNaIZmRDIHrKxg%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%22%2C%22trackingId%22%3A%227c63d7b5-929e-4f59-9d02-51be162e2100%22%7D%2C%22time%22%3A1790672350653%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_view_base_recent_activity_content_view%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                    - img "LinkedIn for Marketing" [ref=f195e20]
+                  - tooltip "LinkedIn for Marketing" [ref=f195e21]
+              - generic [ref=f195e22]:
+                - heading "Kelly, drive results with video on LinkedIn" [level=2] [ref=f195e25]
+                - link "Watch webinar now" [ref=f195e27] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Fbusiness.linkedin.com%2Fmarketing-solutions%2Fwebinars%2F25%2F11%2Ffull-funnel-b2b-success-driving-results-with-video-on-linkedin-namer%3Fmcid%3D7406781578799984662%26src%3Dli-scin%26cid%3D701Kf000000UZ6lIAG%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg7GOuHwRr1Z_CPsvK59kvtRERJRZ7an918vfFxykOxBwmPDoNmx3bpeR9R_GhinHFPLLlTH2TmZay7qzJodzcA1kpOej6fZZL51tegTLSH4YUH_zyhwgF8XBAzGILagZ6D26Qqb4Vr3n6JzHfxEnGJWvOeddXQiC9kAuELcLBDF54opVbkk8ky_piJqA50DsBuXr6OA3AIUT7-qiFm0cNwSdOVKTMWUPQ3gwNj7MiLM2an8R1L5s_QFd2FiZb14fn8V-jkZGFI2LsWp7PUrbwJu86G35XYlY-LVAJvB3E4lGNGHQ_ABwwMhMLjkZQ08lGK_Ge3DznuXb9I7ePbnCy858fz-VpFF9bGJuzB5XdteczvbfgdGJ7cPHWdiExexi65D7HE46Ynl1i0FPRArP-0qGsi9gzYq6c1iDwRkcIGbuNCIZbyE8sAinKnOyfjKJtR9TeGZBrwgl-SCgnKzLzzjkkn6Lm4Fzc8ie08UQFWFbYjGcD_lwKjhXoAc1mD1nzikYuBYy0PWD6Cd791Bv0bn0ypzA_bONW72Y9iDYotT0YmHizmUmT82joTM75GxpCSmW3ZQcBz9Z_6MOs1jPu3t0vAnIaDZegiXUk1Jf5kvq06RtdLPY03BpQL35GoVa9Unrr9g1Oo2fugSJEStmNutUgDP1vMUrsGsn5C3-qIkyhwNVl6CL7GnVXM6Jc9dtn0Yt04gPN1AFb7y_vM5GJWGzSIm1nx4znTMv3-OsKeqkhndFqwcBrbIr99lPC7oBCr75y8VPxz2OeEmQVPr7MbtMMXr7H6zOqgQ1uNi2zkpivGn9sEAWOYnbJ6y1JR6kEANP9sVWzUg61baAHI8U5CYDKpVcOA1e-ZM6Z7nA1v1o0z127ORykrlUZAICreNWa5tcvDNHQ-rivOw03ZVuzGfhPwyYYnpw7_dW7UTZHXDtg3qBPoyOcD1_34a4J6wN0S1d9UljMBd8UfchEdkAT70qsrTGxB-ann9cCftUZm_iRwUAvmMjVwl5sSuFbCLxCW6UPJz6n239Pim2IVfkl5bRQZgZo2oRLEDmPJvjuANmV01PLQE6o9G7sKg_2y6tDxMAfP47ZRbnf1vzEY--2C9TXy5LVIbLVEEZ8n4ZM5iWehuvZ9YOW3WZfhR1E1gpUKCZnq36HynZs2ZP-BvQ1hskGRCArZTcpCNaIZmRDIHrKxg%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%22%2C%22trackingId%22%3A%227c63d7b5-929e-4f59-9d02-51be162e2100%22%7D%2C%22time%22%3A1790672350653%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_view_base_recent_activity_content_view%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+        - generic [ref=f194e1021]:
+          - heading "People you may know" [level=2] [ref=f194e1026]
+          - generic [ref=f194e1028]:
+            - list [ref=f194e1029]:
+              - listitem [ref=f194e1030]:
+                - generic [ref=f194e1031]:
+                  - link [ref=f194e1033] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/tevin-mulavu
+                    - img "Tevin Mulavu" [ref=f194e1036]
+                  - generic [ref=f194e1037]:
+                    - link "Tevin Mulavu Helping Commercial Pilots Build Identity, Income & Options Beyond the Flight Deck • Founder, Aviator Entrepreneur Academy • Ex-Qatar Airways (B777 & B787)" [ref=f194e1039] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/tevin-mulavu?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABXopiwB2fx_ZNq_g4Zrd0x-OPIHUVRsBqI
+                      - generic [ref=f194e1040]: Tevin Mulavu
+                      - generic [ref=f194e1050]: Helping Commercial Pilots Build Identity, Income & Options Beyond the Flight Deck • Founder, Aviator Entrepreneur Academy • Ex-Qatar Airways (B777 & B787)
+                    - list [ref=f194e1056]:
+                      - listitem [ref=f194e1057]:
+                        - button "Invite Tevin Mulavu to connect" [ref=f194e1059] [cursor=pointer]:
+                          - generic [ref=f194e1062]: Connect
+              - listitem [ref=f194e1063]:
+                - generic [ref=f194e1064]:
+                  - link [ref=f194e1066] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/elizabeth-fozard-834abb437
+                    - img "Elizabeth Fozard" [ref=f194e1069]
+                  - generic [ref=f194e1070]:
+                    - link "Elizabeth Fozard Manager" [ref=f194e1072] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/elizabeth-fozard-834abb437?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAG5U8egBrO0Gi4kGLcr4vYz3qah5pDCZgzg
+                      - generic [ref=f194e1073]: Elizabeth Fozard
+                      - generic [ref=f194e1082]: Manager
+                    - list [ref=f194e1088]:
+                      - listitem [ref=f194e1089]:
+                        - button "Invite Elizabeth Fozard to connect" [ref=f194e1091] [cursor=pointer]:
+                          - generic [ref=f194e1094]: Connect
+              - listitem [ref=f194e1095]:
+                - generic [ref=f194e1096]:
+                  - link [ref=f194e1098] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/tracey-wright-26002945
+                    - img "Tracey Wright" [ref=f194e1101]
+                  - generic [ref=f194e1102]:
+                    - link "Tracey Wright Founder & Lead Facilitator | Nature, challenge & human capacity | Leadership development, workplace wellbeing & regenerative systems | Take Shape Adventures + Impact Adventures | MAPP" [ref=f194e1104] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/tracey-wright-26002945?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAlvsCgB0-d0dAdEEk2fevMuiSjLQcCxH60
+                      - generic [ref=f194e1105]: Tracey Wright
+                      - generic [ref=f194e1114]: Founder & Lead Facilitator | Nature, challenge & human capacity | Leadership development, workplace wellbeing & regenerative systems | Take Shape Adventures + Impact Adventures | MAPP
+                    - list [ref=f194e1120]:
+                      - listitem [ref=f194e1121]:
+                        - button "Invite Tracey Wright to connect" [ref=f194e1123] [cursor=pointer]:
+                          - generic [ref=f194e1126]: Connect
+              - listitem [ref=f194e1127]:
+                - generic [ref=f194e1128]:
+                  - link [ref=f194e1130] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/denis-ryan-817920432
+                    - img "Denis Ryan" [ref=f194e1133]
+                  - generic [ref=f194e1134]:
+                    - link "Denis Ryan I help businesses find and fix revenue leaks using AI-powered audits and done-for-you campaigns. Click my website link below and get a free revenue scan on your business with actionable solutions." [ref=f194e1136] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/denis-ryan-817920432?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAG1qMpMB9_gWr21iHtZkTKnd6nmaEQuX_IE
+                      - generic [ref=f194e1137]: Denis Ryan
+                      - generic [ref=f194e1146]: I help businesses find and fix revenue leaks using AI-powered audits and done-for-you campaigns. Click my website link below and get a free revenue scan on your business with actionable solutions.
+                    - list [ref=f194e1152]:
+                      - listitem [ref=f194e1153]:
+                        - button "Invite Denis Ryan to connect" [ref=f194e1155] [cursor=pointer]:
+                          - generic [ref=f194e1158]: Connect
+              - listitem [ref=f194e1159]:
+                - generic [ref=f194e1160]:
+                  - link [ref=f194e1162] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/leelacosgrove
+                    - img "Leela Cosgrove" [ref=f194e1165]
+                  - generic [ref=f194e1166]:
+                    - 'link "Leela Cosgrove CEO. Investor. Business Witch. High Priestess of the Marketing Rebellion: Stop Marketing Like a Boomer." [ref=f194e1168] [cursor=pointer]':
+                      - /url: https://www.linkedin.com/in/leelacosgrove?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAABZC5kBMXj0gXPzPxC1yYe8SuIs_aLyaVc
+                      - generic [ref=f194e1169]: Leela Cosgrove
+                      - generic [ref=f194e1174]: "CEO. Investor. Business Witch. High Priestess of the Marketing Rebellion: Stop Marketing Like a Boomer."
+                    - list [ref=f194e1180]:
+                      - listitem [ref=f194e1181]:
+                        - button "Invite Leela Cosgrove to connect" [ref=f194e1183] [cursor=pointer]:
+                          - generic [ref=f194e1186]: Connect
+            - button "Show more" [ref=f194e1189] [cursor=pointer]
+        - generic [ref=f194e246]:
+          - iframe [ref=f194e1405]:
+            - generic [ref=f196e3]:
+              - banner [ref=f196e4]:
+                - link [ref=f196e15] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=http%3A%2F%2Fwww.linkedin.com%2Fcompany%2F3843&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg7GPUKDcRw5P80q7_Jc8R1JAhhFHQcBnau6WkqSD5zg1xasrojangRItRlwJyiwCLNw-OrI1lMQgoMvJiHmMwaRAvpKNxAvZ3VtJLA0hN3_Ooa2K838eg5zf8RnyGzaUiVQHYfqY70L7-n8TDLz0AHdvSc2YxBkpLDQXZ9h7RyP2k60ywXJnduAuODEEo40dPAyctDVATUzpFKm09AEdmsWZc7t-glZ6lxMzF_z2iNc2H1W-n49skZ-EygFQPf-8eRxKYDgstHeWOm9YDLbIhKT5_SsOg_DDw_cwBIhpceKidE4sBlUdY49TevTmzb59PSr0laEPpiazgYvmuWARJemy9l3fmVwi_uw8EB9-VCf0uOJnDid2RW017Q-SCr_wdxxOXwYgw3C5O4jJhpJ6OTbeJaWwA9y6lrr7Mes54CbIOK3JrA2ko-E0VaklT3QnAmvr3vjABIyUwFKLkjr2jehq7-GE45Wu6A9krROduzUiX7QMaHsbw00oL4Ey-_buuAimqhEK8iOm5gOdJHAdQP1bn4dkVqTQv3aQ04kn9ws05tV2szsrjpcsxnZGt5nKryn77BQXX9yAXnUR6A-o2iPuhK2vuTJHYhIDMo06-Jg6Qnt53W0FiVpLVrSj9iH3OkkTkTneNIKHDgU2-Csaz00zSmP_-eP90-hT8VBlmQn2LGP8ofeZCV79Al4SDxHc_dkTFFUvegsdkqROyo2d3wIuT9-wKuKITUSTkwHsNtT0feJyjrRWCrWBDaUDXmYLT3KRQTZxcj164M390Yj2dltzke4kzZ5Jq9VAfo05lAY9tm0WxiCRaOEhXySOJGah4xidac5UNm9l2Sr6sBCNhePTaw2CU2LeBPmE-sEYqoAOykfR0w2vbPn0p47VEfWLH9Ug_cYDSU8Am_bUQpl23dbYStpJjXxt59AkiDf3msvEGue7F1w82Ck37729KCVOVlEDW665rwhZ53ieIZSckOg9N5MqWD_BriCv-9lMsA_sAVaZd8CfGUgvSA6FPcs-kTE4u_D0O7fYDU7hzwetSfQtWGtAmSPa9tMTpaun3F2GvhpKIcszxHkyvk4vZvje6aH3DEpyGx2HDByQkmBX1qyRhRo_G0nNA9f43y7luw-KlhuBIytDSH5_NhFVTGoWXR236fHFc8OtcKbXaNR_0p34Hm0FreudBRFUFeEkrNZ3qx2o7T-H003DDwG4l%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%22%2C%22trackingId%22%3A%22ed0e819a-545e-4e14-a2c7-864347d92dda%22%7D%2C%22time%22%3A1790672360422%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_view_base_recent_activity_content_view%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                  - img "Hitachi" [ref=f196e16]
+                - generic [ref=f196e17]:
+                  - paragraph [ref=f196e18]: Promoted
+                  - button "Ad Options" [ref=f196e19] [cursor=pointer]
+              - generic [ref=f196e25]:
+                - link [ref=f196e26] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=http%3A%2F%2Fwww.linkedin.com%2Fcompany%2F3843&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg7GPUKDcRw5P80q7_Jc8R1JAhhFHQcBnau6WkqSD5zg1xasrojangRItRlwJyiwCLNw-OrI1lMQgoMvJiHmMwaRAvpKNxAvZ3VtJLA0hN3_Ooa2K838eg5zf8RnyGzaUiVQHYfqY70L7-n8TDLz0AHdvSc2YxBkpLDQXZ9h7RyP2k60ywXJnduAuODEEo40dPAyctDVATUzpFKm09AEdmsWZc7t-glZ6lxMzF_z2iNc2H1W-n49skZ-EygFQPf-8eRxKYDgstHeWOm9YDLbIhKT5_SsOg_DDw_cwBIhpceKidE4sBlUdY49TevTmzb59PSr0laEPpiazgYvmuWARJemy9l3fmVwi_uw8EB9-VCf0uOJnDid2RW017Q-SCr_wdxxOXwYgw3C5O4jJhpJ6OTbeJaWwA9y6lrr7Mes54CbIOK3JrA2ko-E0VaklT3QnAmvr3vjABIyUwFKLkjr2jehq7-GE45Wu6A9krROduzUiX7QMaHsbw00oL4Ey-_buuAimqhEK8iOm5gOdJHAdQP1bn4dkVqTQv3aQ04kn9ws05tV2szsrjpcsxnZGt5nKryn77BQXX9yAXnUR6A-o2iPuhK2vuTJHYhIDMo06-Jg6Qnt53W0FiVpLVrSj9iH3OkkTkTneNIKHDgU2-Csaz00zSmP_-eP90-hT8VBlmQn2LGP8ofeZCV79Al4SDxHc_dkTFFUvegsdkqROyo2d3wIuT9-wKuKITUSTkwHsNtT0feJyjrRWCrWBDaUDXmYLT3KRQTZxcj164M390Yj2dltzke4kzZ5Jq9VAfo05lAY9tm0WxiCRaOEhXySOJGah4xidac5UNm9l2Sr6sBCNhePTaw2CU2LeBPmE-sEYqoAOykfR0w2vbPn0p47VEfWLH9Ug_cYDSU8Am_bUQpl23dbYStpJjXxt59AkiDf3msvEGue7F1w82Ck37729KCVOVlEDW665rwhZ53ieIZSckOg9N5MqWD_BriCv-9lMsA_sAVaZd8CfGUgvSA6FPcs-kTE4u_D0O7fYDU7hzwetSfQtWGtAmSPa9tMTpaun3F2GvhpKIcszxHkyvk4vZvje6aH3DEpyGx2HDByQkmBX1qyRhRo_G0nNA9f43y7luw-KlhuBIytDSH5_NhFVTGoWXR236fHFc8OtcKbXaNR_0p34Hm0FreudBRFUFeEkrNZ3qx2o7T-H003DDwG4l%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%22%2C%22trackingId%22%3A%22ed0e819a-545e-4e14-a2c7-864347d92dda%22%7D%2C%22time%22%3A1790672360422%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_view_base_recent_activity_content_view%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                  - heading "Hitachi" [level=2] [ref=f196e27]
+                - paragraph [ref=f196e29]: Hitachi is driving what’s next in the U.S.
+                - paragraph [ref=f196e31]: Follow for what's next in digital, energy, mobility and industry.
+                - generic [ref=f196e32]:
+                  - generic [ref=f196e33]:
+                    - img "👽Kimberly" [ref=f196e34]
+                    - img "Eve" [ref=f196e35]
+                    - img "Jenny" [ref=f196e36]
+                  - paragraph [ref=f196e37]: 👽Kimberly & 401 other connections also follow
+                - link "Follow" [ref=f196e38] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=http%3A%2F%2Fwww.linkedin.com%2Fcompany%2F3843%3FisFollowingPage%3Dtrue&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg7GPUKEu0X2WZzrOXqYclHM31hOXdNv4RjDvixjx2mctfPgayl-8lj5d4csiGTLfAR87gqplJz_7lzxBRf9C_abSBQ8y2YvXxGkXAODKTyrvbBffWrbVBMCsveoUbkvKfAoMOuy262b6WNsJNCTjaYHnEnLBwk0KSZUYuqqLmS0fMJVYpFfXuJX821GeHzMhqDHR6xKaYhqtdxrRkZu6qXS98MVkauxyDgWSQDcWrfsQoik6pIeo8txhpUrMfSRU-7dlWykch9PYd7AwFrGZDOsta7Nra9f_WvpcUhadVeGSitUr1v2BLx8s5fu87vhOxT8NMJFfDN3sKOcTFPVF0ILdIAH0DMoG8w0Lo1w83ge7ASaGEQiseLO-BDdkrYlQoGDKm4pJ5PztofRlL-kASTiGYAHkdIDRIAI97ca14jTzJRfdvE0GY5s-u9X1knF9j1bZvjnEXvPDJ4JzgcUo8nxR-g1iZXCW8p_LWtxO0UtZWfHPPGcx4nVcm-292qK0-pySMitgLq-FoAFNtoX3iwfCORMaVE8qaSlDUaCZ19sAW92i5zX4C0ZA_fFKosVrAd2rS1lHH-um0ISfBSbCrbfULQ1kBXHPBDGSpWeKCmtdiEcfhhn9R3Rt9_TwrP9Qa0PEIZ7XMRz2SRA9DBGmyNHLGD32b53Y1th_y_GGXpPeridFFxoGgWhhGRauStHxD_pnl9Re5b9jDEgQesezn65K2WW-VL8zHljNfbhu1eKffowtaZpQwYAG76DcC46X2-e4B2KhbyVDa7HUC8ltTuVEB7LKuw5EIbj5GbOyLISyJn5K_SMepptZI52oulYfyISSRBms7A9Fh6bFP1Yw28W5IN69mrhkkLw6eb3Gftc627zOd8XALQkiW-wgLAehKA244uGRM7vfpzFfyWgSrDXmAFf2qRxvR6BtOmdMCSH7-3C5J-grhz_T0s8t12BFRljaH4sbUtMOlpCLxkIOH-kPYJPLjBNHwNQ3Fr72A9-MLimn3SgasHjLIyYcRLUiebPYyf4ZzqVzBmjJq_3Lh5W6qURjdnnByZJN6oWfQnVn1ZweRhE50Ga5rjoJTlOst-vNChXOIAwDfXWB-sfnbYAfCKRV3EM1ZdwZCgCcmxmAMH80V6PO5Fp-IGvpptpm4g_yKz7orzaens6M_vbYhpzzeKf1jP3ndVkl0Fx3FP5xLoAmFrJQG_yV5CCOqf92f9AFMgY4eps5pyiCmCL77_h5UJTPxYArr2lc%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%22%2C%22trackingId%22%3A%22cab4b64f-d651-42dd-8bdb-30f4ee4606b7%22%7D%2C%22time%22%3A1790672360422%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_view_base_recent_activity_content_view%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+          - generic "LinkedIn Footer Content" [ref=f194e248]:
+            - generic [ref=f194e249]:
+              - list [ref=f194e1193]:
+                - listitem [ref=f194e1194]:
+                  - link "About" [ref=f194e1195] [cursor=pointer]:
+                    - /url: https://about.linkedin.com/
+                - listitem [ref=f194e1197]:
+                  - link "Accessibility" [ref=f194e1198] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/accessibility
+                - listitem [ref=f194e1200]:
+                  - link "Help Center" [ref=f194e1201] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/help/linkedin?trk=footer_d_flagship3_profile_view_base_recent_activity_content_view
+                - listitem [ref=f194e1203]:
+                  - button "Privacy & Terms" [ref=f194e1205] [cursor=pointer]
+                - listitem [ref=f194e1210]:
+                  - link "Ad Choices" [ref=f194e1211] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/help/linkedin/answer/62931
+                - listitem [ref=f194e1213]:
+                  - link "Advertising" [ref=f194e1214] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/ad/start?trk=n_nav_ads_rr
+                - listitem [ref=f194e1216]:
+                  - button "Business Services" [ref=f194e1218] [cursor=pointer]
+                - listitem [ref=f194e1223]:
+                  - button "Get the LinkedIn app" [ref=f194e1226] [cursor=pointer]
+                - listitem [ref=f194e1227]:
+                  - button "More options" [ref=f194e1228] [cursor=pointer]: More
+              - generic [ref=f194e250]:
+                - img "LinkedIn" [ref=f194e251]
+                - text: LinkedIn Corporation © 2026
+    - generic:
+      - generic:
+        - complementary:
+          - generic [ref=f194e254]:
+            - generic [ref=f194e255]:
+              - generic [ref=f194e257] [cursor=pointer]:
+                - img "Kelly Irving" [ref=f194e259]
+                - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f194e260]:
+                  - generic [ref=f194e261]:
+                    - generic [aria-hidden] [ref=f194e262]: Messaging
+                    - generic [ref=f194e263]: You are on the messaging overlay. Press enter to open the list of conversations.
+              - generic [ref=f194e264]:
+                - button [ref=f194e266] [cursor=pointer]:
+                  - img "Open messenger dropdown menu" [ref=f194e267]
+                - button "Compose message" [ref=f194e270] [cursor=pointer]
+                - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f194e274] [cursor=pointer]
+            - generic [ref=f194e1229]:
+              - heading "Page inboxes" [level=3] [ref=f194e1231]
+              - generic [ref=f194e1232] [cursor=pointer]:
+                - generic [ref=f194e1233]: Click to see affiliated inboxes
+                - button "Page inboxes" [ref=f194e1234]
+          - dialog "Messaging" [ref=f194e1237]:
+            - generic [ref=f194e1238]:
+              - generic [ref=f194e1239] [cursor=pointer]:
+                - generic [ref=f194e1241]:
+                  - img "Rebecca Wu FCPA MBA" [ref=f194e1244]
+                  - heading "Rebecca Wu FCPA MBA" [level=2] [ref=f194e1246]
+                - button "Close your conversation with Kelly Irving and Rebecca Wu FCPA MBA" [ref=f194e1248]
+              - generic [ref=f194e1253]:
+                - list [ref=f194e1258]:
+                  - listitem
+                  - listitem [ref=f194e1259]:
+                    - time [ref=f194e1260]: Monday
+                    - generic [ref=f194e1261]: Kelly Irving sent the following message at 7:20 PM
+                    - generic [ref=f194e1262]:
+                      - link "View Kelly’s profile Kelly Irving" [ref=f194e1263] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                        - generic [ref=f194e1264]: View Kelly’s profile
+                        - img "Kelly Irving" [ref=f194e1265]
+                      - generic [ref=f194e1266]:
+                        - generic [ref=f194e1267]:
+                          - link "Kelly Irving" [ref=f194e1268] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/in/ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                          - img "LinkedIn Premium" [ref=f194e1270]
+                        - time [ref=f194e1273]: • 7:20 PM
+                      - generic [ref=f194e1275]:
+                        - paragraph [ref=f194e1277]: Hey Rebecca I see you followed the Expert Author Community page. Let's connect. Kx
+                        - generic "Sent at 9/28/2026, 7:20 PM" [ref=f194e1278]
+                  - listitem [ref=f194e1281]:
+                    - generic [ref=f194e1282]: Rebecca Wu FCPA MBA sent the following messages at 7:21 PM
+                    - generic [ref=f194e1283]:
+                      - link "View Rebecca’s profile Rebecca Wu FCPA MBA" [ref=f194e1284] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/ACoAAB8MZ0AB-SavupTWqDuL_26Fz293G3anTX4
+                        - generic [ref=f194e1285]: View Rebecca’s profile
+                        - img "Rebecca Wu FCPA MBA" [ref=f194e1286]
+                      - generic [ref=f194e1287]:
+                        - link "Rebecca Wu FCPA MBA" [ref=f194e1289] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/ACoAAB8MZ0AB-SavupTWqDuL_26Fz293G3anTX4
+                        - time [ref=f194e1291]: • 7:21 PM
+                      - paragraph [ref=f194e1295]: I'm happy to connect
+                      - list [ref=f194e1296]:
+                        - listitem [ref=f194e1297]:
+                          - button "Remove reaction 👍 1" [pressed] [ref=f194e1298] [cursor=pointer]:
+                            - generic [ref=f194e1299]:
+                              - generic [ref=f194e1300]: Remove reaction
+                              - generic: 👍
+                              - generic: "1"
+                        - listitem [ref=f194e1301]:
+                          - button "Open Emoji Keyboard" [ref=f194e1304] [cursor=pointer]
+                  - listitem [ref=f194e1305]
+                  - listitem [ref=f194e1306]:
+                    - generic [ref=f194e1307]:
+                      - button "Scroll quick replies left" [disabled] [ref=f194e1308]
+                      - list [ref=f194e1309]:
+                        - listitem [ref=f194e1310]:
+                          - button "Reply to conversation with “That's great”" [ref=f194e1311] [cursor=pointer]:
+                            - generic [aria-hidden]: That's great
+                        - listitem [ref=f194e1313]:
+                          - button "Reply to conversation with “Same here”" [ref=f194e1314] [cursor=pointer]:
+                            - generic [aria-hidden]: Same here
+                        - listitem [ref=f194e1316]:
+                          - button "Reply to conversation with “Thanks”" [ref=f194e1317] [cursor=pointer]:
+                            - generic [aria-hidden]: Thanks
+                      - button "Scroll quick replies right" [ref=f194e1319] [cursor=pointer]
+                  - listitem
+                - generic [ref=f194e1323]:
+                  - generic [ref=f194e1324]:
+                    - generic [ref=f194e1326]:
+                      - textbox "Write a message…" [ref=f194e1327]:
+                        - paragraph [ref=f194e1328]
+                      - text: Write a message…
+                    - button "Maximize compose field" [ref=f194e1330] [cursor=pointer]
+                  - generic [ref=f194e1334]:
+                    - generic [ref=f194e1335]:
+                      - button "Attach an image to your conversation with Rebecca Wu FCPA MBA" [ref=f194e1337] [cursor=pointer]
+                      - button "Attach a file to your conversation with Rebecca Wu FCPA MBA" [ref=f194e1342] [cursor=pointer]
+                      - button "Open GIF Keyboard" [ref=f194e1347] [cursor=pointer]
+                      - button "Open Emoji Keyboard" [ref=f194e1353] [cursor=pointer]
+                    - generic [ref=f194e1355]:
+                      - generic [ref=f194e1356]: Press Enter to Send
+                      - button "Open send options" [ref=f194e1360] [cursor=pointer]
+        - complementary "AI-powered assistant to get help with your career, jobs etc"
+  - region [ref=f194e278]

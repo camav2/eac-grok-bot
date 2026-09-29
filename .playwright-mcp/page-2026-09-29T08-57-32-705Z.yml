@@ -1,0 +1,733 @@
+- generic [ref=f154e13]:
+  - generic:
+    - region "Toast message":
+      - heading "0 notifications total" [level=2] [ref=f154e15]
+      - alert
+  - region [ref=f154e12]
+  - generic [ref=f154e16]:
+    - generic [ref=f154e18]:
+      - button "Skip to search" [ref=f154e19] [cursor=pointer]
+      - button "Skip to main content" [ref=f154e21] [cursor=pointer]
+      - button "Keyboard shortcuts" [ref=f154e23] [cursor=pointer]
+      - button "Close jump menu" [ref=f154e25] [cursor=pointer]
+    - banner "Global Navigation" [ref=f154e29]:
+      - generic [ref=f154e30]:
+        - link [ref=f154e31] [cursor=pointer]:
+          - /url: https://www.linkedin.com/feed/?nis=true
+          - img "LinkedIn" [ref=f154e34]
+        - combobox "I’m looking for..." [ref=f154e40]
+        - navigation "Primary Navigation" [ref=f154e41]:
+          - list [ref=f154e42]:
+            - listitem [ref=f154e43]:
+              - link "new feed updates notifications Home" [ref=f154e44] [cursor=pointer]:
+                - /url: https://www.linkedin.com/feed/?nis=true&
+                - generic [ref=f154e45]: new feed updates notifications
+                - generic "Home" [ref=f154e54]
+            - listitem [ref=f154e55]:
+              - link "38 new network updates notifications My Network" [ref=f154e56] [cursor=pointer]:
+                - /url: https://www.linkedin.com/mynetwork/?
+                - generic [ref=f154e58]:
+                  - generic [aria-hidden] [ref=f154e59]: "38"
+                  - generic [ref=f154e60]: 38 new network updates notifications
+                - generic "My Network" [ref=f154e66]
+            - listitem [ref=f154e67]:
+              - link "Jobs" [ref=f154e68] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/?
+            - listitem [ref=f154e75]:
+              - link "Messaging" [ref=f154e76] [cursor=pointer]:
+                - /url: https://www.linkedin.com/messaging/?
+            - listitem [ref=f154e83]:
+              - link "9 new notifications Notifications" [ref=f154e84] [cursor=pointer]:
+                - /url: https://www.linkedin.com/notifications/?
+                - generic [ref=f154e86]:
+                  - generic [aria-hidden] [ref=f154e87]: "9"
+                  - generic [ref=f154e88]: 9 new notifications
+                - generic "Notifications" [ref=f154e94]
+            - listitem [ref=f154e95]:
+              - button [ref=f154e97] [cursor=pointer]:
+                - img "Kelly Irving" [ref=f154e98]
+                - generic [ref=f154e99]: Me
+            - listitem [ref=f154e102]:
+              - button "For Business" [ref=f154e104] [cursor=pointer]
+            - listitem [ref=f154e113]:
+              - link "3 new Campaign Manager notifications Advertise" [ref=f154e114] [cursor=pointer]:
+                - /url: https://www.linkedin.com/campaignmanager/accounts?shouldShowNotificationPanelOnRender=true
+                - generic [ref=f154e116]:
+                  - generic [aria-hidden] [ref=f154e117]: "3"
+                  - generic [ref=f154e118]: 3 new Campaign Manager notifications
+                - generic "Advertise" [ref=f154e125]
+    - generic [ref=f154e131]:
+      - complementary [ref=f154e132]:
+        - generic [ref=f154e135]:
+          - img "PREMIUM" [ref=f154e140]
+          - link [ref=f154e144] [cursor=pointer]:
+            - /url: /in/gabrielledolan/
+            - img "Gabrielle Dolan" [ref=f154e145]
+          - generic [ref=f154e146]:
+            - link [ref=f154e147] [cursor=pointer]:
+              - /url: /in/gabrielledolan/
+              - heading [level=3] [ref=f154e148]:
+                - text: Gabrielle Dolan
+                - img "Gabrielle Dolan is a Premium member" [ref=f154e150]
+            - heading "Helping leaders communicate with impact through storytelling | Bestselling Author | Keynote Speaker I Podcast host - Keeping It Real with Jac & Ral. 🕸️gabrielledolan.com" [level=4] [ref=f154e153]
+          - generic [ref=f154e155]:
+            - generic [ref=f154e156]:
+              - generic [ref=f154e157]: Followers
+              - generic [ref=f154e158]: 25,125
+            - button "Message Gabrielle" [ref=f154e161] [cursor=pointer]:
+              - generic [ref=f154e162]: Message
+      - main [ref=f154e163]:
+        - generic [ref=f154e165]:
+          - heading "All activity" [level=2] [ref=f154e166]
+          - group "Select type of recent activity" [ref=f154e169]:
+            - button "Posts" [pressed] [ref=f154e170] [cursor=pointer]
+            - button "Comments" [ref=f154e172] [cursor=pointer]
+            - button "Videos" [ref=f154e174] [cursor=pointer]
+            - button "Images" [ref=f154e176] [cursor=pointer]
+            - button "More" [ref=f154e178] [cursor=pointer]
+          - generic [ref=f154e184]:
+            - generic [ref=f154e185]:
+              - generic [ref=f154e186]: Loaded 20 Posts posts
+              - list [ref=f154e187]:
+                - listitem [ref=f154e188]:
+                  - article [ref=f154e193]:
+                    - generic [ref=f154e195]:
+                      - heading "Feed post number 1" [level=2] [ref=f154e196]
+                      - generic [ref=f154e197]:
+                        - generic [ref=f154e198]:
+                          - generic [ref=f154e200]:
+                            - link "View Gabrielle Dolan’s graphic link" [ref=f154e201] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/gabrielledolan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAACxXFwBiZg-8zrpxVjc_Q2e2q8b-Hchaow
+                              - img "View Gabrielle Dolan’s graphic link" [ref=f154e205]
+                            - generic [ref=f154e206]:
+                              - 'link "View: Gabrielle Dolan Premium • 1st Helping leaders communicate with impact through storytelling | Bestselling Author | Keynote Speaker I Podcast host - Keeping It Real with Jac &amp; Ral. 🕸️gabrielledolan.com" [ref=f154e207] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/gabrielledolan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAACxXFwBiZg-8zrpxVjc_Q2e2q8b-Hchaow
+                                - generic [ref=f154e208]:
+                                  - generic [ref=f154e209]: Gabrielle Dolan
+                                  - generic [ref=f154e212]: • 1st
+                                - generic [ref=f154e217]: Helping leaders communicate with impact through storytelling | Bestselling Author | Keynote Speaker I Podcast host - Keeping It Real with Jac & Ral. 🕸️gabrielledolan.com
+                              - link "Visit my website" [ref=f154e219] [cursor=pointer]:
+                                - /url: https://gabrielledolan.com/
+                              - generic [ref=f154e221]: 1d •
+                          - button "Open control menu for post by Gabrielle Dolan" [ref=f154e229] [cursor=pointer]
+                        - generic [ref=f154e233]:
+                          - generic [ref=f154e236]:
+                            - text: Are you drawing down on your personal energy reserves faster than you’re replenishing them? In Part 2 of our deep dive with neuroscientist and DNA expert
+                            - link "Alessandra Edwards" [ref=f154e238] [cursor=pointer]:
+                              - /url: /in/alessandraedwards/
+                            - text: ", we unpack why caffeine dependency, shorter fuses, and workouts that leave you exhausted are red flags. We also learn what happens to your mind and body in your 30s, 40s, and 50s (reality check!) and why midlife is your crucial setup for long-term health. If you’re a Keeper ready to protect your vitality and perform at your best, this episode is the bomb!Search for Keeping it Real with Jac and Ral wherever you access your podcasts."
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f154e239] [cursor=pointer]:
+                            - generic [ref=f154e240]: …more
+                        - region "Video player" [ref=f154e245]:
+                          - generic [ref=f154e249]:
+                            - button "Pause" [ref=f154e250] [cursor=pointer]
+                            - slider "Playback progress" [ref=f154e252] [cursor=pointer]:
+                              - generic: "Loaded: 0%"
+                            - generic [ref=f154e255]:
+                              - text: Remaining time
+                              - generic [ref=f154e256]: 0:27
+                            - generic [ref=f154e257]:
+                              - generic [aria-hidden]: 1x
+                              - button "Playback speed" [ref=f154e258] [cursor=pointer]
+                            - button "Turn closed captions on" [ref=f154e260] [cursor=pointer]
+                            - generic [ref=f154e262]:
+                              - button "Unmute" [ref=f154e263] [cursor=pointer]
+                              - generic:
+                                - slider "Volume":
+                                  - generic [ref=f154e265] [cursor=pointer]
+                            - button "Turn fullscreen on" [ref=f154e266] [cursor=pointer]
+                        - generic [ref=f154e268]:
+                          - list [ref=f154e272]:
+                            - listitem [ref=f154e273]:
+                              - button "Jac Phillips and 2 others" [ref=f154e274] [cursor=pointer]:
+                                - img "like" [ref=f154e275]
+                                - img "love" [ref=f154e276]
+                                - generic [ref=f154e277]:
+                                  - generic [aria-hidden] [ref=f154e278]: "3"
+                                  - generic [ref=f154e279]: Jac Phillips and 2 others
+                            - listitem [ref=f154e280]:
+                              - list [ref=f154e281]:
+                                - listitem [ref=f154e282]:
+                                  - button "1 comment on Gabrielle Dolan’s post" [ref=f154e283] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f154e284]: 1 comment
+                          - generic [ref=f154e285]:
+                            - generic [ref=f154e286]:
+                              - button "React Like" [ref=f154e287] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f154e292]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f154e293] [cursor=pointer]
+                            - button "Comment" [ref=f154e298] [cursor=pointer]
+                            - button "Repost" [ref=f154e304] [cursor=pointer]
+                            - button "Send in a private message" [ref=f154e310] [cursor=pointer]:
+                              - generic [ref=f154e313]: Send
+                - listitem [ref=f154e315]:
+                  - article [ref=f154e320]:
+                    - generic [ref=f154e322]:
+                      - heading "Feed post number 2" [level=2] [ref=f154e323]
+                      - generic [ref=f154e324]:
+                        - generic [ref=f154e325]:
+                          - generic [ref=f154e327]:
+                            - link "View Gabrielle Dolan’s graphic link" [ref=f154e328] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/gabrielledolan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAACxXFwBiZg-8zrpxVjc_Q2e2q8b-Hchaow
+                              - img "View Gabrielle Dolan’s graphic link" [ref=f154e332]
+                            - generic [ref=f154e333]:
+                              - 'link "View: Gabrielle Dolan Premium • 1st Helping leaders communicate with impact through storytelling | Bestselling Author | Keynote Speaker I Podcast host - Keeping It Real with Jac &amp; Ral. 🕸️gabrielledolan.com" [ref=f154e334] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/gabrielledolan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAACxXFwBiZg-8zrpxVjc_Q2e2q8b-Hchaow
+                                - generic [ref=f154e335]:
+                                  - generic [ref=f154e336]: Gabrielle Dolan
+                                  - generic [ref=f154e339]: • 1st
+                                - generic [ref=f154e344]: Helping leaders communicate with impact through storytelling | Bestselling Author | Keynote Speaker I Podcast host - Keeping It Real with Jac & Ral. 🕸️gabrielledolan.com
+                              - link "Visit my website" [ref=f154e346] [cursor=pointer]:
+                                - /url: https://gabrielledolan.com/
+                              - generic [ref=f154e348]: 1d •
+                          - button "Open control menu for post by Gabrielle Dolan" [ref=f154e356] [cursor=pointer]
+                        - generic [ref=f154e360]:
+                          - generic [ref=f154e363]:
+                            - text: "If you are a Kylie fan, you have probably watched her Grand Final appearance a few times.What a show! What a bloody legend!For those who didn't see it, watch it here:"
+                            - link "https://lnkd.in/gw852yF2" [ref=f154e364] [cursor=pointer]:
+                              - /url: https://lnkd.in/gw852yF2
+                            - text: "And you may also want to check out the podcast episode we did a few weeks ago on Career Lesson from Kylie Minogue:"
+                            - link "https://lnkd.in/gTkFHT6d" [ref=f154e365] [cursor=pointer]:
+                              - /url: https://lnkd.in/gTkFHT6d
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f154e366] [cursor=pointer]:
+                            - generic [ref=f154e367]: …more
+                        - generic [ref=f154e368]:
+                          - 'link "Open video: Kylie Minogue TAKES FLIGHT at the 2026 Toyota AFL Grand Final (Full Performance) on youtube.com, graphic" [ref=f154e370] [cursor=pointer]':
+                            - /url: https://www.youtube.com/watch?v=dQWkCaLjwCE
+                          - link "Kylie Minogue TAKES FLIGHT at the 2026 Toyota AFL Grand Final (Full Performance)" [ref=f154e375] [cursor=pointer]:
+                            - /url: https://www.youtube.com/watch?v=dQWkCaLjwCE
+                            - generic [ref=f154e378]:
+                              - generic [ref=f154e379]: Kylie Minogue TAKES FLIGHT at the 2026 Toyota AFL Grand Final (Full Performance)
+                              - generic [ref=f154e380]: youtube.com
+                        - generic [ref=f154e381]:
+                          - list [ref=f154e385]:
+                            - listitem [ref=f154e386]:
+                              - button "Jac Phillips and 10 others" [ref=f154e387] [cursor=pointer]:
+                                - img "like" [ref=f154e388]
+                                - img "love" [ref=f154e389]
+                                - generic [ref=f154e390]:
+                                  - generic [aria-hidden] [ref=f154e391]: "11"
+                                  - generic [ref=f154e392]: Jac Phillips and 10 others
+                          - generic [ref=f154e393]:
+                            - generic [ref=f154e394]:
+                              - button "React Like" [ref=f154e395] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f154e400]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f154e401] [cursor=pointer]
+                            - button "Comment" [ref=f154e406] [cursor=pointer]
+                            - button "Repost" [ref=f154e412] [cursor=pointer]
+                            - button "Send in a private message" [ref=f154e418] [cursor=pointer]:
+                              - generic [ref=f154e421]: Send
+                - listitem [ref=f154e423]:
+                  - article [ref=f154e428]:
+                    - generic [ref=f154e430]:
+                      - heading "Feed post number 3" [level=2] [ref=f154e431]
+                      - generic [ref=f154e432]:
+                        - generic [ref=f154e433]:
+                          - generic [ref=f154e435]:
+                            - link "View Gabrielle Dolan’s graphic link" [ref=f154e436] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/gabrielledolan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAACxXFwBiZg-8zrpxVjc_Q2e2q8b-Hchaow
+                              - img "View Gabrielle Dolan’s graphic link" [ref=f154e440]
+                            - generic [ref=f154e441]:
+                              - 'link "View: Gabrielle Dolan Premium • 1st Helping leaders communicate with impact through storytelling | Bestselling Author | Keynote Speaker I Podcast host - Keeping It Real with Jac &amp; Ral. 🕸️gabrielledolan.com" [ref=f154e442] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/gabrielledolan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAACxXFwBiZg-8zrpxVjc_Q2e2q8b-Hchaow
+                                - generic [ref=f154e443]:
+                                  - generic [ref=f154e444]: Gabrielle Dolan
+                                  - generic [ref=f154e447]: • 1st
+                                - generic [ref=f154e452]: Helping leaders communicate with impact through storytelling | Bestselling Author | Keynote Speaker I Podcast host - Keeping It Real with Jac & Ral. 🕸️gabrielledolan.com
+                              - link "Visit my website" [ref=f154e454] [cursor=pointer]:
+                                - /url: https://gabrielledolan.com/
+                              - generic [ref=f154e456]: 4d • Edited •
+                          - button "Open control menu for post by Gabrielle Dolan" [ref=f154e464] [cursor=pointer]
+                        - generic [ref=f154e468]:
+                          - generic [ref=f154e471]:
+                            - text: Last week
+                            - link "Jac Phillips" [ref=f154e473] [cursor=pointer]:
+                              - /url: /in/jacphillips/
+                            - text: "and I ran a Design Your Next Chapter immersion for 8 amazing women and God I wish something like this existed 22 years ago when I left my corporate role to go out on my own.If you're standing at a crossroads wondering, \"Could I work for myself?\" or \"What does my next chapter actually look like?\"... The Design Your Next Chapter Immersion is for you, and we are running it 15–17 February 2027.If you're already established and thinking more about \"How do I increase my influence?\" or \"Where is my time and energy actually going?\"... The Accelerate Your Leadership Immersion could be right for you. We are running that 19–21 April 2027.Both are three days at Lancemore Milawa. Both capped at just 8 women (small by design, not by accident). Both come with masterclasses, gourmet dinners and lunches... and the kind of conversations that don't happen in a normal work week.Design Your Next Chapter covers:→ From Ladder to Lattice→ Content Creation→ Own Your Value→ Launch Your Next ChapterAccelerate Your Leadership covers:→ Strategic Networking→ Executive Presence→ Water You Carry→ Personal Brand Power UpStill not sure which one is right for you?Ask yourself: \"What do I want my next chapter of work to be?\" or \"How do I become more effective and influential in the career I already have?\" The answer usually tells you.Early bird pricing is $3,800 + GST (before the standard $4,200 + GST kicks in).If you want more details or have questions, DM me or email me at"
+                            - link "gabrielle@gabrielledolan.com" [ref=f154e474] [cursor=pointer]:
+                              - /url: mailto:gabrielle@gabrielledolan.com
+                            - text: Thanks to the class of 2026
+                            - link "Lisa Camus GAICD" [ref=f154e476] [cursor=pointer]:
+                              - /url: /in/lisa-camus/
+                            - link "Amy Smith" [ref=f154e478] [cursor=pointer]:
+                              - /url: /in/amylsmithcoach/
+                            - link "Amy Hubbard FEI" [ref=f154e480] [cursor=pointer]:
+                              - /url: /in/amy-hubbard-fei-364b452a/
+                            - link "Taryn Schultz" [ref=f154e482] [cursor=pointer]:
+                              - /url: /in/tarynschultz/
+                            - link "Tamara Chambers" [ref=f154e484] [cursor=pointer]:
+                              - /url: /in/tamara-chambers-c1/
+                            - link "Lorraine Sebastian (CAHRI)" [ref=f154e486] [cursor=pointer]:
+                              - /url: /in/lorraine-sebastian-cahri-52850156/
+                            - link "Karrie Long" [ref=f154e488] [cursor=pointer]:
+                              - /url: /in/karrie-long-877b1318/
+                            - link "Sally Lansbury" [ref=f154e490] [cursor=pointer]:
+                              - /url: /in/sallylansbury/
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f154e491] [cursor=pointer]:
+                            - generic [ref=f154e492]: …more
+                        - region "Video player" [ref=f154e497]:
+                          - generic [ref=f154e501] [cursor=pointer]
+                          - button "Play" [ref=f154e502] [cursor=pointer]
+                        - generic [ref=f154e504]:
+                          - list [ref=f154e508]:
+                            - listitem [ref=f154e509]:
+                              - button "Ishan Galapathy and 8 others" [ref=f154e510] [cursor=pointer]:
+                                - img "like" [ref=f154e511]
+                                - img "love" [ref=f154e512]
+                                - img "celebrate" [ref=f154e513]
+                                - generic [ref=f154e514]:
+                                  - generic [aria-hidden] [ref=f154e515]: "9"
+                                  - generic [ref=f154e516]: Ishan Galapathy and 8 others
+                            - listitem [ref=f154e517]:
+                              - list [ref=f154e518]:
+                                - listitem [ref=f154e519]:
+                                  - button "2 comments on Gabrielle Dolan’s post" [ref=f154e520] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f154e521]: 2 comments
+                                  - text: ·
+                                - listitem [ref=f154e522]:
+                                  - button "1 repost of Gabrielle Dolan’s post" [ref=f154e523] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f154e524]: 1 repost
+                          - generic [ref=f154e525]:
+                            - generic [ref=f154e526]:
+                              - button "React Like" [ref=f154e527] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f154e532]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f154e533] [cursor=pointer]
+                            - button "Comment" [ref=f154e538] [cursor=pointer]
+                            - button "Repost" [ref=f154e544] [cursor=pointer]
+                            - button "Send in a private message" [ref=f154e550] [cursor=pointer]:
+                              - generic [ref=f154e553]: Send
+                - listitem [ref=f154e555]:
+                  - article [ref=f154e560]:
+                    - generic [ref=f154e562]:
+                      - heading "Feed post number 4" [level=2] [ref=f154e563]
+                      - generic [ref=f154e564]:
+                        - generic [ref=f154e565]:
+                          - generic [ref=f154e567]:
+                            - link "View Gabrielle Dolan’s graphic link" [ref=f154e568] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/gabrielledolan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAACxXFwBiZg-8zrpxVjc_Q2e2q8b-Hchaow
+                              - img "View Gabrielle Dolan’s graphic link" [ref=f154e572]
+                            - generic [ref=f154e573]:
+                              - 'link "View: Gabrielle Dolan Premium • 1st Helping leaders communicate with impact through storytelling | Bestselling Author | Keynote Speaker I Podcast host - Keeping It Real with Jac &amp; Ral. 🕸️gabrielledolan.com" [ref=f154e574] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/gabrielledolan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAACxXFwBiZg-8zrpxVjc_Q2e2q8b-Hchaow
+                                - generic [ref=f154e575]:
+                                  - generic [ref=f154e576]: Gabrielle Dolan
+                                  - generic [ref=f154e579]: • 1st
+                                - generic [ref=f154e584]: Helping leaders communicate with impact through storytelling | Bestselling Author | Keynote Speaker I Podcast host - Keeping It Real with Jac & Ral. 🕸️gabrielledolan.com
+                              - link "Visit my website" [ref=f154e586] [cursor=pointer]:
+                                - /url: https://gabrielledolan.com/
+                              - generic [ref=f154e588]: 4d •
+                          - button "Open control menu for post by Gabrielle Dolan" [ref=f154e596] [cursor=pointer]
+                        - generic [ref=f154e600]:
+                          - generic [ref=f154e603]:
+                            - text: I love being a member of the International Women's Forum. Our local symposiums are always a highlight of the year, and this month in Sydney did not disappoint.Thanks
+                            - link "Reyna Matthes" [ref=f154e605] [cursor=pointer]:
+                              - /url: /in/reynamatthes/
+                            - text: and
+                            - link "Rachel Scanlon" [ref=f154e607] [cursor=pointer]:
+                              - /url: /in/scanlonrachel/
+                            - text: for pulling the event together.
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f154e608] [cursor=pointer]:
+                            - generic [ref=f154e609]: …more
+                        - generic [ref=f154e610]:
+                          - generic [ref=f154e611]:
+                            - generic [ref=f154e612]:
+                              - link "International Women&#39;s Forum, graphic." [ref=f154e613] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/company/intl-womens-forum/posts
+                              - generic [ref=f154e617]:
+                                - 'link "View: International Women&#39;s Forum 46,048 followers" [ref=f154e618] [cursor=pointer]':
+                                  - /url: https://www.linkedin.com/company/intl-womens-forum/posts
+                                  - generic [ref=f154e619]: International Women's Forum
+                                  - generic [ref=f154e624]: 46,048 followers
+                                - generic [ref=f154e626]: 5d •
+                            - button "Follow International Women&#39;s Forum" [ref=f154e632] [cursor=pointer]:
+                              - generic [aria-hidden] [ref=f154e635]: Follow
+                          - link [ref=f154e637] [cursor=pointer]:
+                            - /url: /feed/update/urn:li:activity:7508591321188843520/
+                            - generic [ref=f154e638]:
+                              - generic [ref=f154e641]:
+                                - text: "Earlier this month, exceptional women leaders from across Australia and around the world gathered in Sydney for IWFA Symposium 2026: Fearless Leaders. Across two days,"
+                                - link "IWF Australia" [ref=f154e642]:
+                                  - /url: https://www.linkedin.com/company/iwf-australia/
+                                - text: members explored the forces shaping our future, from AI and technology sovereignty to climate change, political leadership, media, sports, and responsible leadership. Hosted at the historic Public Library of New South Wales, the Symposium brought together an extraordinary lineup of speakers, thought-provoking discussions, intimate Dine-Arounds, and a memorable evening at the Art Gallery of New South Wales. Thank you to everyone who helped make this gathering a celebration of connection, leadership, and community.
+                              - button "see more, visually reveals content which is already detected by screen readers" [ref=f154e645]:
+                                - generic [ref=f154e646]: …more
+                          - generic [ref=f154e648]:
+                            - generic [ref=f154e649]:
+                              - button "Activate to view larger image, View image" [ref=f154e650] [cursor=pointer]
+                              - button "Activate to view larger image, View image" [ref=f154e654] [cursor=pointer]
+                              - button "Activate to view larger image, View image" [ref=f154e658] [cursor=pointer]
+                              - button "Activate to view larger image, View image" [ref=f154e662] [cursor=pointer]
+                            - generic [aria-hidden] [ref=f154e666]: Activate to view larger image,
+                        - generic [ref=f154e667]:
+                          - list [ref=f154e671]:
+                            - listitem [ref=f154e672]:
+                              - button "7 reactions" [ref=f154e673] [cursor=pointer]:
+                                - img "like" [ref=f154e674]
+                                - img "celebrate" [ref=f154e675]
+                                - generic [aria-hidden] [ref=f154e676]: "7"
+                            - listitem [ref=f154e677]:
+                              - list [ref=f154e678]:
+                                - listitem [ref=f154e679]:
+                                  - button "1 comment on Gabrielle Dolan’s post" [ref=f154e680] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f154e681]: 1 comment
+                          - generic [ref=f154e682]:
+                            - generic [ref=f154e683]:
+                              - button "React Like" [ref=f154e684] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f154e689]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f154e690] [cursor=pointer]
+                            - button "Comment" [ref=f154e695] [cursor=pointer]
+                            - button "Repost" [ref=f154e701] [cursor=pointer]
+                            - button "Send in a private message" [ref=f154e707] [cursor=pointer]:
+                              - generic [ref=f154e710]: Send
+                - listitem [ref=f154e712]:
+                  - article [ref=f154e717]:
+                    - generic [ref=f154e719]:
+                      - heading "Feed post number 5" [level=2] [ref=f154e720]
+                      - generic [ref=f154e721]:
+                        - generic [ref=f154e722]:
+                          - generic [ref=f154e724]:
+                            - link "View Gabrielle Dolan’s graphic link" [ref=f154e725] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/gabrielledolan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAACxXFwBiZg-8zrpxVjc_Q2e2q8b-Hchaow
+                              - img "View Gabrielle Dolan’s graphic link" [ref=f154e729]
+                            - generic [ref=f154e730]:
+                              - 'link "View: Gabrielle Dolan Premium • 1st Helping leaders communicate with impact through storytelling | Bestselling Author | Keynote Speaker I Podcast host - Keeping It Real with Jac &amp; Ral. 🕸️gabrielledolan.com" [ref=f154e731] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/gabrielledolan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAACxXFwBiZg-8zrpxVjc_Q2e2q8b-Hchaow
+                                - generic [ref=f154e732]:
+                                  - generic [ref=f154e733]: Gabrielle Dolan
+                                  - generic [ref=f154e736]: • 1st
+                                - generic [ref=f154e741]: Helping leaders communicate with impact through storytelling | Bestselling Author | Keynote Speaker I Podcast host - Keeping It Real with Jac & Ral. 🕸️gabrielledolan.com
+                              - link "Visit my website" [ref=f154e743] [cursor=pointer]:
+                                - /url: https://gabrielledolan.com/
+                              - generic [ref=f154e745]: 5d •
+                          - button "Open control menu for post by Gabrielle Dolan" [ref=f154e753] [cursor=pointer]
+                        - generic [ref=f154e757]:
+                          - generic [ref=f154e760]:
+                            - text: We wanted to let you know that we've scheduled our dates for our 2027 immersions.Last week we ran a different type of immersion aimed at women at a different stage of their career... those looking to design their next chapter. It was such a success that we've decided to run it again next year.
+                            - link "Jac Phillips" [ref=f154e762] [cursor=pointer]:
+                              - /url: /in/jacphillips/
+                            - text: "and I offer two different immersions depending on what stage you are at in your career. They are:1. DESIGN YOUR NEXT CHAPTER | 15–17 February 2027This is for professional women at a career crossroads who are asking questions like: What could my next chapter look like? Could I work for myself? How do I turn my expertise into something valuable?Across the three days, we'll explore portfolio careers, consulting, board and advisory roles, content creation, knowing and owning your value, and how to actually launch your next chapter.2. ACCELERATE YOUR LEADERSHIP | 19–21 April 2027This is for successful women who are established in their careers but want to increase their impact, visibility and confidence. We'll focus on strategic networking, executive presence, where you're investing your time and energy, and building a strong personal brand.Both immersions are intentionally intimate, with only eight participants and we conduct them at Lancemore Milawa, which is in the King Valley Wine Region of Victoria.To help you decide, perhaps start with this question: Do I want to become more effective and influential in the career I have, or am I ready to work out what my next chapter could be? DM me and I will send you a more detailed brochure on both."
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f154e763] [cursor=pointer]:
+                            - generic [ref=f154e764]: …more
+                        - generic [ref=f154e765]:
+                          - generic [ref=f154e766]:
+                            - generic [ref=f154e767]:
+                              - link "View Lorraine Sebastian (CAHRI)’s graphic link" [ref=f154e768] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/in/lorraine-sebastian-cahri-52850156?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAvSJbABrCHFEkIRGPFCwSWvpCxCurU3HuU
+                                - img "View Lorraine Sebastian (CAHRI)’s graphic link" [ref=f154e772]
+                              - generic [ref=f154e773]:
+                                - 'link "View: Lorraine Sebastian (CAHRI) Premium • 2nd Chief People &amp; Culture Officer at endota | Leadership Development Consultant | Culture Transformation | Talent strategy | Executive Leadership | Driving Talent, Culture, Engagement &amp; Organizational Performance" [ref=f154e774] [cursor=pointer]':
+                                  - /url: https://www.linkedin.com/in/lorraine-sebastian-cahri-52850156?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAvSJbABrCHFEkIRGPFCwSWvpCxCurU3HuU
+                                  - generic [ref=f154e775]:
+                                    - generic [ref=f154e776]: Lorraine Sebastian (CAHRI)
+                                    - generic [ref=f154e779]: • 2nd
+                                  - generic [ref=f154e784]: Chief People & Culture Officer at endota | Leadership Development Consultant | Culture Transformation | Talent strategy | Executive Leadership | Driving Talent, Culture, Engagement & Organizational Performance
+                                - generic [ref=f154e786]: 6d •
+                            - button "Follow Lorraine Sebastian (CAHRI)" [ref=f154e792] [cursor=pointer]:
+                              - generic [aria-hidden] [ref=f154e795]: Follow
+                          - link [ref=f154e797] [cursor=pointer]:
+                            - /url: /feed/update/urn:li:activity:7508432249269211136/
+                            - generic [ref=f154e798]:
+                              - generic [ref=f154e801]:
+                                - text: I spent two inspiring days last week at the beautiful Lancemore in Milawa, in the King Valley, with nine extraordinary women. Brought together by the amazing duo
+                                - link "Jac Phillips" [ref=f154e803]:
+                                  - /url: /in/jacphillips/
+                                - text: and
+                                - link "Gabrielle Dolan" [ref=f154e805]:
+                                  - /url: /in/gabrielledolan/
+                                - text: for their immersive program “Designing Your Next Chapter”, we came from different backgrounds and experiences but shared so much. A genuine eagerness to learn and grow, a willingness to be vulnerable and share our dreams and fears, and a collective desire to back ourselves and build something we’re passionate about.For me, the experience was timely as I plan my own next chapter (more on that later!).If you’re thinking about making a change in your career or exploring what’s next, I’d encourage you to connect with Jac or Gabrielle and explore their programs.Thanks to Jac, Gabrielle, and my fellow collaborators
+                                - link "Amy Smith" [ref=f154e807]:
+                                  - /url: /in/amy-smith-b161a620/
+                                - text: ","
+                                - link "Amy Hubbard FEI" [ref=f154e809]:
+                                  - /url: /in/amy-hubbard-fei-364b452a/
+                                - text: ","
+                                - link "Karrie Long" [ref=f154e811]:
+                                  - /url: /in/karrie-long-877b1318/
+                                - text: ","
+                                - link "Tamara Chambers" [ref=f154e813]:
+                                  - /url: /in/tamara-chambers-c1/
+                                - text: ","
+                                - link "Lisa Camus GAICD" [ref=f154e815]:
+                                  - /url: /in/lisa-camus/
+                                - text: ","
+                                - link "Taryn Schultz" [ref=f154e817]:
+                                  - /url: /in/tarynschultz/
+                                - text: ", and"
+                                - link "Sally Lansbury" [ref=f154e819]:
+                                  - /url: /in/sallylansbury/
+                                - text: for the generosity, conversations, laughter, and inspiration. We all left feeling energised, connected and excited about what lies ahead.
+                              - button "see more, visually reveals content which is already detected by screen readers" [ref=f154e820]:
+                                - generic [ref=f154e821]: …more
+                          - generic [ref=f154e823]:
+                            - button "Activate to view larger image, View image" [ref=f154e825] [cursor=pointer]:
+                              - generic [ref=f154e826]: Activate to view larger image,
+                              - img "View image" [ref=f154e829]
+                            - generic [aria-hidden] [ref=f154e830]: Activate to view larger image,
+                        - generic [ref=f154e831]:
+                          - list [ref=f154e835]:
+                            - listitem [ref=f154e836]:
+                              - button "Jac Phillips and 1 other" [ref=f154e837] [cursor=pointer]:
+                                - img "like" [ref=f154e838]
+                                - img "celebrate" [ref=f154e839]
+                                - generic [ref=f154e840]:
+                                  - generic [aria-hidden] [ref=f154e841]: "2"
+                                  - generic [ref=f154e842]: Jac Phillips and 1 other
+                          - generic [ref=f154e843]:
+                            - generic [ref=f154e844]:
+                              - button "React Like" [ref=f154e845] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f154e850]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f154e851] [cursor=pointer]
+                            - button "Comment" [ref=f154e856] [cursor=pointer]
+                            - button "Repost" [ref=f154e862] [cursor=pointer]
+                            - button "Send in a private message" [ref=f154e868] [cursor=pointer]:
+                              - generic [ref=f154e871]: Send
+                - listitem [ref=f154e873]
+                - listitem [ref=f154e877]
+                - listitem [ref=f154e881]
+                - listitem [ref=f154e885]
+                - listitem [ref=f154e889]
+                - listitem [ref=f154e893]
+                - listitem [ref=f154e897]
+                - listitem [ref=f154e901]
+                - listitem [ref=f154e905]
+                - listitem [ref=f154e909]
+                - listitem [ref=f154e913]
+                - listitem [ref=f154e917]
+                - listitem [ref=f154e921]
+                - listitem [ref=f154e925]
+                - listitem [ref=f154e929]
+            - button "Show more results" [ref=f154e935] [cursor=pointer]
+      - complementary "Interests" [ref=f154e937]:
+        - iframe [ref=f154e939]:
+          - generic [ref=f155e3]:
+            - banner [ref=f155e4]:
+              - link [ref=f155e15] [cursor=pointer]:
+                - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=http%3A%2F%2Fwww.linkedin.com%2Fcompany%2F120393&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg7GIol8SgR1tcJU_2Y-0crkIHyllc24o_stHUl474O26vWP_lXkivo-bz8VcILjw9DvxNtB53V0XwPpIzQ4rZJuEzAjmeBCWhNbEFN55RUL7aO0Goj6Cue0rMzbDEqmuvpMnxYgMRjSzWsW2L-BwGw0Fa-Too4fjtijbI5sHHuPDRM-NYRoLM1Bvq7ZzzgO5IdS8fPfEwnHTOprsRwxLfdWYu6AhvZfm9isw7a1jPVTBve2DZCP5dZtCUaBFvO-EsplrVGF4SS68CmnM0Qul6lybFnO8sPgWXssB70PygE2M4k9tas7Rq2QsAzrR-LdgZFvx7PbhCzuvWzyN7Jiv0MYr2C3v7l8lr4mdcfSacSp1hW3OGA3KH2xa8QxiMhP14khpNEf-WAHNLwVigW96hovqA6Ueg7h6lrHB0UdSniovxm4g1NID2gnsBqZTVmnpzlO1R8AFGLNSevtQ15W_ArB9ACiKt132XhBaX5XMlA7JCRim4Qv45Qn2hXo1wSEQKHsHWu9w3E0PcmdmmechUoEPWfOGF6i9uZpTnOLV9pxwln0Sb4lP_7nKyz6V_6axfYNxkw2TSvuwpmXvKxZML5z6r_k9rF3PSDCkctKIfMVIels7fciSXPLSV8eZyCakpn6xfGsyZSPtKxAVWhoco9qqA_ysRM7tFUfyExln1UfO9cr2ktxgUEmjwJvHhjpzxFQa3aFB1ecpGO1_qvY6Fa2VX8p52t2-Jc8pplXuWNtKNOFgR6rIE0pLLE4v-XJhbu6HomerPi_gRj2Ar6O1unlEpmhFDQl1B6PpanqzWGn182JbCC2q8MDQKMdH04udqWaQ6srEDjfwXHzf3JYthJTVze-NefxUP9rWmrkGq7YAQsGObdZ94PyiWUtS1TZhCxEsibKetwVTSVEDSvzu1n0oLOSdxA6A_hybWcXcltx7JOt3V1zbArMR-QQYy2P0y-AmfL3NSS-3-8a3VvAwGul0OxC7H9M-v0pMi63DHCtk9t-Uba88NZxK11PwxY4b9kKSp1YixdhYj-VPcBUtd6Yp3pDeM_wV7PISEl0ILho5HbrN68ZOUL_JSuCbSMuQvO0JToJm9ltKAyh7MFlmJk-p5aI7dSPOoGx1ipvAX7K76KatTMF0ENShI9sdlhex4nw3xkgx0Iv77SELcxJSV-SEdcFMKIO18nhbmAmooBn9FTceBMgcVMRT0ifCiA3jMv_uY%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%22%2C%22trackingId%22%3A%229f18f349-58d9-440f-b7e0-3daaf3e6114f%22%7D%2C%22time%22%3A1790672250952%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_view_base_recent_activity_content_view%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                - img "PKF O'Connor Davies, LLP" [ref=f155e16]
+              - generic [ref=f155e17]:
+                - paragraph [ref=f155e18]: Promoted
+                - button "Ad Options" [ref=f155e19] [cursor=pointer]
+            - generic [ref=f155e25]:
+              - link [ref=f155e26] [cursor=pointer]:
+                - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=http%3A%2F%2Fwww.linkedin.com%2Fcompany%2F120393&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg7GIol8SgR1tcJU_2Y-0crkIHyllc24o_stHUl474O26vWP_lXkivo-bz8VcILjw9DvxNtB53V0XwPpIzQ4rZJuEzAjmeBCWhNbEFN55RUL7aO0Goj6Cue0rMzbDEqmuvpMnxYgMRjSzWsW2L-BwGw0Fa-Too4fjtijbI5sHHuPDRM-NYRoLM1Bvq7ZzzgO5IdS8fPfEwnHTOprsRwxLfdWYu6AhvZfm9isw7a1jPVTBve2DZCP5dZtCUaBFvO-EsplrVGF4SS68CmnM0Qul6lybFnO8sPgWXssB70PygE2M4k9tas7Rq2QsAzrR-LdgZFvx7PbhCzuvWzyN7Jiv0MYr2C3v7l8lr4mdcfSacSp1hW3OGA3KH2xa8QxiMhP14khpNEf-WAHNLwVigW96hovqA6Ueg7h6lrHB0UdSniovxm4g1NID2gnsBqZTVmnpzlO1R8AFGLNSevtQ15W_ArB9ACiKt132XhBaX5XMlA7JCRim4Qv45Qn2hXo1wSEQKHsHWu9w3E0PcmdmmechUoEPWfOGF6i9uZpTnOLV9pxwln0Sb4lP_7nKyz6V_6axfYNxkw2TSvuwpmXvKxZML5z6r_k9rF3PSDCkctKIfMVIels7fciSXPLSV8eZyCakpn6xfGsyZSPtKxAVWhoco9qqA_ysRM7tFUfyExln1UfO9cr2ktxgUEmjwJvHhjpzxFQa3aFB1ecpGO1_qvY6Fa2VX8p52t2-Jc8pplXuWNtKNOFgR6rIE0pLLE4v-XJhbu6HomerPi_gRj2Ar6O1unlEpmhFDQl1B6PpanqzWGn182JbCC2q8MDQKMdH04udqWaQ6srEDjfwXHzf3JYthJTVze-NefxUP9rWmrkGq7YAQsGObdZ94PyiWUtS1TZhCxEsibKetwVTSVEDSvzu1n0oLOSdxA6A_hybWcXcltx7JOt3V1zbArMR-QQYy2P0y-AmfL3NSS-3-8a3VvAwGul0OxC7H9M-v0pMi63DHCtk9t-Uba88NZxK11PwxY4b9kKSp1YixdhYj-VPcBUtd6Yp3pDeM_wV7PISEl0ILho5HbrN68ZOUL_JSuCbSMuQvO0JToJm9ltKAyh7MFlmJk-p5aI7dSPOoGx1ipvAX7K76KatTMF0ENShI9sdlhex4nw3xkgx0Iv77SELcxJSV-SEdcFMKIO18nhbmAmooBn9FTceBMgcVMRT0ifCiA3jMv_uY%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%22%2C%22trackingId%22%3A%229f18f349-58d9-440f-b7e0-3daaf3e6114f%22%7D%2C%22time%22%3A1790672250952%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_view_base_recent_activity_content_view%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                - heading "PKF O'Connor Davies, LLP" [level=2] [ref=f155e27]
+              - paragraph [ref=f155e29]: Kelly, follow PKFOD for valuable insights!
+              - paragraph [ref=f155e31]: We know nonprofits. Get the resources you can count on.
+              - generic [ref=f155e32]:
+                - generic [ref=f155e33]:
+                  - img "Christian" [ref=f155e34]
+                  - img "Matthew J. (Matt)" [ref=f155e35]
+                  - img "Frank W." [ref=f155e36]
+                - paragraph [ref=f155e37]: Christian & 56 other connections also follow
+              - link "Follow" [ref=f155e38] [cursor=pointer]:
+                - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=http%3A%2F%2Fwww.linkedin.com%2Fcompany%2F120393%3FisFollowingPage%3Dtrue&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg7GIol15HlC6239yXRDYueW-dSsgtu5KThXBJmrq34AwrIfKzcSHuK0XOk1aLUMU_uvimxeAMyRbrPLPwkwP-XhlVQxpfRQKjW-TqJw-fnKpwRewMEo9vnOJx5ZTthbARUSu0X_Ofykdxi0yMg2Myxqw8BsPP1Yf9nKrCuPj6F6lOmtJW7x-oznRk-t5nSNLBjRxqvuWKKg4y24nXaWVGFgOsOHj78jfBrabc8MdkRHtzy7O_G7LF4A5eAuUznuImiX3s0Z0mjN9DatOTajqRmWbFHl6UyevhHOBsD1-4aFIvMM7Ka_Mm_X0c45Suh5UpSjVCEYpi4nnMGDmIFNRv8g-73pFEic0iU03arBschlXyAkV42LxuK9dE529ey0kpzQLks5cihDXowwnmnNiq-q6yaAUE0Yt8iTEM2i5V2cY5ZtNcBypv8BwbgiyGYTIv-CQQUl7ZXrwJ1_DHMUr42YFiVIKsSu3F4DJA4YKMcfyvsTfmwNPxbz-N0Uon1O1WZJkMDpsU4Vatm8vDrUS-oIMqrhoRGpXbNQuTG3LcSawdfc5RMY5n9U4qdmgfbiaVda0kxM7qZiAql8PKOS8aQC6WGuvZmpE87WasBh1_FEEkz8k-9b_4syZExy-UW5ekhqREQVM-oc5k-PB7iT_3g1HqC65GcDC26jyIr51xmoAl3015OAGSdYIQH6XTAfSJZZ341U4M0ngGUQFrOlXb1K6qoRQaS9qHmWszD6i7w8dKC24et5du_VKz7wsExRcURRM50SidqToyCylXogpfgLm2SN8E3zK7fPfp0OP-TaCd-rGgmniGVpNldhTrnVYu8KB5BFAXpy4l7pGsNrVQ4FW3hTshpxFHwiv_yGuummUyJ-Vw_JU1Joj090OzPp-JlxfviIWgGBemvkSjcOvsGrrslwTSKj2bFYmRAgT43YiFTZTiLi5vhJKPdcI-9Z_SkWnhNqP2uXye4w-iUERFGBdaAECtsM8zUAOBmvhp57gzrAWUZ02axXs4Q5NVVzyjYI8skAvs_cxCy768RjIRenyKumqE0sBUUuWmPyGd220UOlvqqHgzo_grYIfb4I24_gTJRy5F6onlND4tuW90_PiaTnFpNHdVeoenGwAp9WKOYk2qYqla9a8S_LcMDJl77CniGibqwPztNfdww6GzCePRvfSr2erwVuhjCMOeYO1mCpqZV5Uactlcgzz3IZ8msk4lumt2CBXusmzI6JK7vQM6GanHnday8L6zwNsc6eoWqw%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%22%2C%22trackingId%22%3A%223b761918-dbc6-4712-9324-213a3b7c7079%22%7D%2C%22time%22%3A1790672250952%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_view_base_recent_activity_content_view%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+        - generic [ref=f154e940]:
+          - heading "People you may know" [level=2] [ref=f154e945]
+          - generic [ref=f154e947]:
+            - list [ref=f154e948]:
+              - listitem [ref=f154e949]:
+                - generic [ref=f154e950]:
+                  - link [ref=f154e952] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/tevin-mulavu
+                    - img "Tevin Mulavu" [ref=f154e955]
+                  - generic [ref=f154e956]:
+                    - link "Tevin Mulavu Helping Commercial Pilots Build Identity, Income & Options Beyond the Flight Deck • Founder, Aviator Entrepreneur Academy • Ex-Qatar Airways (B777 & B787)" [ref=f154e958] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/tevin-mulavu?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABXopiwB2fx_ZNq_g4Zrd0x-OPIHUVRsBqI
+                      - generic [ref=f154e959]: Tevin Mulavu
+                      - generic [ref=f154e969]: Helping Commercial Pilots Build Identity, Income & Options Beyond the Flight Deck • Founder, Aviator Entrepreneur Academy • Ex-Qatar Airways (B777 & B787)
+                    - list [ref=f154e975]:
+                      - listitem [ref=f154e976]:
+                        - button "Invite Tevin Mulavu to connect" [ref=f154e978] [cursor=pointer]:
+                          - generic [ref=f154e981]: Connect
+              - listitem [ref=f154e982]:
+                - generic [ref=f154e983]:
+                  - link [ref=f154e985] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/elizabeth-fozard-834abb437
+                    - img "Elizabeth Fozard" [ref=f154e988]
+                  - generic [ref=f154e989]:
+                    - link "Elizabeth Fozard Manager" [ref=f154e991] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/elizabeth-fozard-834abb437?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAG5U8egBrO0Gi4kGLcr4vYz3qah5pDCZgzg
+                      - generic [ref=f154e992]: Elizabeth Fozard
+                      - generic [ref=f154e1001]: Manager
+                    - list [ref=f154e1007]:
+                      - listitem [ref=f154e1008]:
+                        - button "Invite Elizabeth Fozard to connect" [ref=f154e1010] [cursor=pointer]:
+                          - generic [ref=f154e1013]: Connect
+              - listitem [ref=f154e1014]:
+                - generic [ref=f154e1015]:
+                  - link [ref=f154e1017] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/tracey-wright-26002945
+                    - img "Tracey Wright" [ref=f154e1020]
+                  - generic [ref=f154e1021]:
+                    - link "Tracey Wright Founder & Lead Facilitator | Nature, challenge & human capacity | Leadership development, workplace wellbeing & regenerative systems | Take Shape Adventures + Impact Adventures | MAPP" [ref=f154e1023] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/tracey-wright-26002945?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAlvsCgB0-d0dAdEEk2fevMuiSjLQcCxH60
+                      - generic [ref=f154e1024]: Tracey Wright
+                      - generic [ref=f154e1033]: Founder & Lead Facilitator | Nature, challenge & human capacity | Leadership development, workplace wellbeing & regenerative systems | Take Shape Adventures + Impact Adventures | MAPP
+                    - list [ref=f154e1039]:
+                      - listitem [ref=f154e1040]:
+                        - button "Invite Tracey Wright to connect" [ref=f154e1042] [cursor=pointer]:
+                          - generic [ref=f154e1045]: Connect
+              - listitem [ref=f154e1046]:
+                - generic [ref=f154e1047]:
+                  - link [ref=f154e1049] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/denis-ryan-817920432
+                    - img "Denis Ryan" [ref=f154e1052]
+                  - generic [ref=f154e1053]:
+                    - link "Denis Ryan I help businesses find and fix revenue leaks using AI-powered audits and done-for-you campaigns. Click my website link below and get a free revenue scan on your business with actionable solutions." [ref=f154e1055] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/denis-ryan-817920432?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAG1qMpMB9_gWr21iHtZkTKnd6nmaEQuX_IE
+                      - generic [ref=f154e1056]: Denis Ryan
+                      - generic [ref=f154e1065]: I help businesses find and fix revenue leaks using AI-powered audits and done-for-you campaigns. Click my website link below and get a free revenue scan on your business with actionable solutions.
+                    - list [ref=f154e1071]:
+                      - listitem [ref=f154e1072]:
+                        - button "Invite Denis Ryan to connect" [ref=f154e1074] [cursor=pointer]:
+                          - generic [ref=f154e1077]: Connect
+              - listitem [ref=f154e1078]:
+                - generic [ref=f154e1079]:
+                  - link [ref=f154e1081] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/leelacosgrove
+                    - img "Leela Cosgrove" [ref=f154e1084]
+                  - generic [ref=f154e1085]:
+                    - 'link "Leela Cosgrove CEO. Investor. Business Witch. High Priestess of the Marketing Rebellion: Stop Marketing Like a Boomer." [ref=f154e1087] [cursor=pointer]':
+                      - /url: https://www.linkedin.com/in/leelacosgrove?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAABZC5kBMXj0gXPzPxC1yYe8SuIs_aLyaVc
+                      - generic [ref=f154e1088]: Leela Cosgrove
+                      - generic [ref=f154e1093]: "CEO. Investor. Business Witch. High Priestess of the Marketing Rebellion: Stop Marketing Like a Boomer."
+                    - list [ref=f154e1099]:
+                      - listitem [ref=f154e1100]:
+                        - button "Invite Leela Cosgrove to connect" [ref=f154e1102] [cursor=pointer]:
+                          - generic [ref=f154e1105]: Connect
+            - button "Show more" [ref=f154e1108] [cursor=pointer]
+        - generic "LinkedIn Footer Content" [ref=f154e1116]:
+          - generic [ref=f154e1117]:
+            - list [ref=f154e1118]:
+              - listitem [ref=f154e1119]:
+                - link "About" [ref=f154e1120] [cursor=pointer]:
+                  - /url: https://about.linkedin.com/
+              - listitem [ref=f154e1122]:
+                - link "Accessibility" [ref=f154e1123] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/accessibility
+              - listitem [ref=f154e1125]:
+                - link "Help Center" [ref=f154e1126] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin?trk=footer_d_flagship3_profile_view_base_recent_activity_content_view
+              - listitem [ref=f154e1128]:
+                - button "Privacy & Terms" [ref=f154e1130] [cursor=pointer]
+              - listitem [ref=f154e1135]:
+                - link "Ad Choices" [ref=f154e1136] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin/answer/62931
+              - listitem [ref=f154e1138]:
+                - link "Advertising" [ref=f154e1139] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/ad/start?trk=n_nav_ads_rr
+              - listitem [ref=f154e1141]:
+                - button "Business Services" [ref=f154e1143] [cursor=pointer]
+              - listitem [ref=f154e1148]:
+                - button "Get the LinkedIn app" [ref=f154e1151] [cursor=pointer]
+              - listitem [ref=f154e1152]:
+                - button "More options" [ref=f154e1153] [cursor=pointer]: More
+            - generic [ref=f154e1154]:
+              - img "LinkedIn" [ref=f154e1155]
+              - text: LinkedIn Corporation © 2026
+    - generic:
+      - generic:
+        - complementary:
+          - generic [ref=f154e1158]:
+            - generic [ref=f154e1159]:
+              - generic [ref=f154e1161] [cursor=pointer]:
+                - img "Kelly Irving" [ref=f154e1163]
+                - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f154e1164]:
+                  - generic [ref=f154e1165]:
+                    - generic [aria-hidden] [ref=f154e1166]: Messaging
+                    - generic [ref=f154e1167]: You are on the messaging overlay. Press enter to open the list of conversations.
+              - generic [ref=f154e1168]:
+                - button [ref=f154e1170] [cursor=pointer]:
+                  - img "Open messenger dropdown menu" [ref=f154e1171]
+                - button "Compose message" [ref=f154e1174] [cursor=pointer]
+                - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f154e1178] [cursor=pointer]
+            - generic [ref=f154e1182]:
+              - heading "Page inboxes" [level=3] [ref=f154e1184]
+              - generic [ref=f154e1185] [cursor=pointer]:
+                - generic [ref=f154e1186]: Click to see affiliated inboxes
+                - button "Page inboxes" [ref=f154e1187]
+          - dialog "Messaging" [ref=f154e1190]:
+            - generic [ref=f154e1191]:
+              - generic [ref=f154e1192] [cursor=pointer]:
+                - generic [ref=f154e1194]:
+                  - img "Rebecca Wu FCPA MBA" [ref=f154e1197]
+                  - heading "Rebecca Wu FCPA MBA" [active] [level=2] [ref=f154e1199]
+                - button "Close your conversation with Kelly Irving and Rebecca Wu FCPA MBA" [ref=f154e1201]
+              - generic [ref=f154e1206]:
+                - list [ref=f154e1211]:
+                  - listitem
+                  - listitem [ref=f154e1212]:
+                    - time [ref=f154e1213]: Monday
+                    - generic [ref=f154e1214]: Kelly Irving sent the following message at 7:20 PM
+                    - generic [ref=f154e1215]:
+                      - link "View Kelly’s profile Kelly Irving" [ref=f154e1216] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                        - generic [ref=f154e1217]: View Kelly’s profile
+                        - img "Kelly Irving" [ref=f154e1218]
+                      - generic [ref=f154e1219]:
+                        - generic [ref=f154e1220]:
+                          - link "Kelly Irving" [ref=f154e1221] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/in/ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                          - img "LinkedIn Premium" [ref=f154e1223]
+                        - time [ref=f154e1226]: • 7:20 PM
+                      - generic [ref=f154e1228]:
+                        - paragraph [ref=f154e1230]: Hey Rebecca I see you followed the Expert Author Community page. Let's connect. Kx
+                        - generic "Sent at 9/28/2026, 7:20 PM" [ref=f154e1231]
+                  - listitem [ref=f154e1234]:
+                    - generic [ref=f154e1235]: Rebecca Wu FCPA MBA sent the following messages at 7:21 PM
+                    - generic [ref=f154e1236]:
+                      - link "View Rebecca’s profile Rebecca Wu FCPA MBA" [ref=f154e1237] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/ACoAAB8MZ0AB-SavupTWqDuL_26Fz293G3anTX4
+                        - generic [ref=f154e1238]: View Rebecca’s profile
+                        - img "Rebecca Wu FCPA MBA" [ref=f154e1239]
+                      - generic [ref=f154e1240]:
+                        - link "Rebecca Wu FCPA MBA" [ref=f154e1242] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/ACoAAB8MZ0AB-SavupTWqDuL_26Fz293G3anTX4
+                        - time [ref=f154e1244]: • 7:21 PM
+                      - paragraph [ref=f154e1248]: I'm happy to connect
+                      - list [ref=f154e1249]:
+                        - listitem [ref=f154e1250]:
+                          - button "Remove reaction 👍 1" [pressed] [ref=f154e1251] [cursor=pointer]:
+                            - generic [ref=f154e1252]:
+                              - generic [ref=f154e1253]: Remove reaction
+                              - generic: 👍
+                              - generic: "1"
+                        - listitem [ref=f154e1254]:
+                          - button "Open Emoji Keyboard" [ref=f154e1257] [cursor=pointer]
+                  - listitem [ref=f154e1258]
+                  - listitem [ref=f154e1259]:
+                    - generic [ref=f154e1260]:
+                      - button "Scroll quick replies left" [disabled] [ref=f154e1261]
+                      - list [ref=f154e1262]:
+                        - listitem [ref=f154e1263]:
+                          - button "Reply to conversation with “That's great”" [ref=f154e1264] [cursor=pointer]:
+                            - generic [aria-hidden]: That's great
+                        - listitem [ref=f154e1266]:
+                          - button "Reply to conversation with “Same here”" [ref=f154e1267] [cursor=pointer]:
+                            - generic [aria-hidden]: Same here
+                        - listitem [ref=f154e1269]:
+                          - button "Reply to conversation with “Thanks”" [ref=f154e1270] [cursor=pointer]:
+                            - generic [aria-hidden]: Thanks
+                      - button "Scroll quick replies right" [ref=f154e1272] [cursor=pointer]
+                  - listitem
+                - generic [ref=f154e1276]:
+                  - generic [ref=f154e1277]:
+                    - generic [ref=f154e1279]:
+                      - textbox "Write a message…" [ref=f154e1280]:
+                        - paragraph [ref=f154e1281]
+                      - text: Write a message…
+                    - button "Maximize compose field" [ref=f154e1283] [cursor=pointer]
+                  - generic [ref=f154e1287]:
+                    - generic [ref=f154e1288]:
+                      - button "Attach an image to your conversation with Rebecca Wu FCPA MBA" [ref=f154e1290] [cursor=pointer]
+                      - button "Attach a file to your conversation with Rebecca Wu FCPA MBA" [ref=f154e1295] [cursor=pointer]
+                      - button "Open GIF Keyboard" [ref=f154e1300] [cursor=pointer]
+                      - button "Open Emoji Keyboard" [ref=f154e1306] [cursor=pointer]
+                    - generic [ref=f154e1308]:
+                      - generic [ref=f154e1309]: Press Enter to Send
+                      - button "Open send options" [ref=f154e1313] [cursor=pointer]
+        - complementary "AI-powered assistant to get help with your career, jobs etc"

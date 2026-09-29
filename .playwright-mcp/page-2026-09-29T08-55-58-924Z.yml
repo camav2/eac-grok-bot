@@ -1,0 +1,103 @@
+- generic [active] [ref=f71e1]:
+  - generic:
+    - region "Toast message":
+      - heading "0 notifications total" [level=2] [ref=f71e3]
+      - alert
+  - generic [ref=f71e4]:
+    - generic [ref=f71e6]:
+      - button "Skip to search" [ref=f71e7] [cursor=pointer]
+      - button "Skip to main content" [ref=f71e9] [cursor=pointer]
+      - button "Keyboard shortcuts" [ref=f71e11] [cursor=pointer]
+      - button "Close jump menu" [ref=f71e13] [cursor=pointer]
+    - banner "Global Navigation" [ref=f71e17]:
+      - generic [ref=f71e18]:
+        - link [ref=f71e19] [cursor=pointer]:
+          - /url: https://www.linkedin.com/feed/?nis=true
+          - img "LinkedIn" [ref=f71e22]
+        - combobox "I’m looking for..." [ref=f71e28]
+        - navigation "Primary Navigation" [ref=f71e29]:
+          - list [ref=f71e30]:
+            - listitem [ref=f71e31]:
+              - link "new feed updates notifications Home" [ref=f71e32] [cursor=pointer]:
+                - /url: https://www.linkedin.com/feed/?nis=true&
+                - generic [ref=f71e33]: new feed updates notifications
+                - generic "Home" [ref=f71e42]
+            - listitem [ref=f71e43]:
+              - link "38 new network updates notifications My Network" [ref=f71e44] [cursor=pointer]:
+                - /url: https://www.linkedin.com/mynetwork/?
+                - generic [ref=f71e46]:
+                  - generic [aria-hidden] [ref=f71e47]: "38"
+                  - generic [ref=f71e48]: 38 new network updates notifications
+                - generic "My Network" [ref=f71e54]
+            - listitem [ref=f71e55]:
+              - link "Jobs" [ref=f71e56] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/?
+            - listitem [ref=f71e63]:
+              - link "Messaging" [ref=f71e64] [cursor=pointer]:
+                - /url: https://www.linkedin.com/messaging/?
+            - listitem [ref=f71e71]:
+              - link "9 new notifications Notifications" [ref=f71e72] [cursor=pointer]:
+                - /url: https://www.linkedin.com/notifications/?
+                - generic [ref=f71e74]:
+                  - generic [aria-hidden] [ref=f71e75]: "9"
+                  - generic [ref=f71e76]: 9 new notifications
+                - generic "Notifications" [ref=f71e82]
+            - listitem [ref=f71e83]:
+              - button [ref=f71e85] [cursor=pointer]:
+                - img "Kelly Irving" [ref=f71e86]
+                - generic [ref=f71e87]: Me
+            - listitem [ref=f71e90]:
+              - button "For Business" [ref=f71e92] [cursor=pointer]
+            - listitem [ref=f71e101]:
+              - link "3 new Campaign Manager notifications Advertise" [ref=f71e102] [cursor=pointer]:
+                - /url: https://www.linkedin.com/campaignmanager/accounts?shouldShowNotificationPanelOnRender=true
+                - generic [ref=f71e104]:
+                  - generic [aria-hidden] [ref=f71e105]: "3"
+                  - generic [ref=f71e106]: 3 new Campaign Manager notifications
+                - generic "Advertise" [ref=f71e113]
+    - generic [ref=f71e119]:
+      - complementary [ref=f71e120]:
+        - generic [ref=f71e123]:
+          - img "PREMIUM" [ref=f71e128]
+          - link [ref=f71e132] [cursor=pointer]:
+            - /url: /in/penelopebarr/
+            - img "Penelope Barr" [ref=f71e133]
+          - generic [ref=f71e134]:
+            - link [ref=f71e135] [cursor=pointer]:
+              - /url: /in/penelopebarr/
+              - heading [level=3] [ref=f71e136]:
+                - text: Penelope Barr
+                - img "Penelope Barr is a Premium member" [ref=f71e138]
+            - heading "Portfolio Careerpreneur | Helping people and organisations transition through the messy middle to your personal best | Interim Executive | Author | Board Member | Speaker | Writing Retreat host | Coach" [level=4] [ref=f71e141]
+          - generic [ref=f71e143]:
+            - generic [ref=f71e144]:
+              - generic [ref=f71e145]: Followers
+              - generic [ref=f71e146]: 7,710
+            - button "Message Penelope" [ref=f71e149] [cursor=pointer]:
+              - generic [ref=f71e150]: Message
+      - main [ref=f71e151]:
+        - separator [ref=f71e176]
+      - complementary "Interests" [ref=f71e184]:
+        - generic "LinkedIn Footer Content" [ref=f71e246]:
+          - generic [ref=f71e247]:
+            - list
+            - generic [ref=f71e248]:
+              - img "LinkedIn" [ref=f71e249]
+              - text: LinkedIn Corporation © 2026
+    - generic:
+      - generic:
+        - complementary:
+          - generic [ref=f71e253]:
+            - generic [ref=f71e255] [cursor=pointer]:
+              - img "Kelly Irving" [ref=f71e257]
+              - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f71e258]:
+                - generic [ref=f71e259]:
+                  - generic [aria-hidden] [ref=f71e260]: Messaging
+                  - generic [ref=f71e261]: You are on the messaging overlay. Press enter to open the list of conversations.
+            - generic [ref=f71e262]:
+              - button [ref=f71e264] [cursor=pointer]:
+                - img "Open messenger dropdown menu" [ref=f71e265]
+              - button "Compose message" [ref=f71e268] [cursor=pointer]
+              - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f71e272] [cursor=pointer]
+        - complementary "AI-powered assistant to get help with your career, jobs etc"
+  - region [ref=f71e276]

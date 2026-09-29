@@ -1,0 +1,617 @@
+- generic [ref=f71e1]:
+  - generic:
+    - region "Toast message":
+      - heading "0 notifications total" [level=2] [ref=f71e3]
+      - alert
+  - generic [ref=f71e4]:
+    - generic [ref=f71e6]:
+      - button "Skip to search" [ref=f71e7] [cursor=pointer]
+      - button "Skip to main content" [ref=f71e9] [cursor=pointer]
+      - button "Keyboard shortcuts" [ref=f71e11] [cursor=pointer]
+      - button "Close jump menu" [ref=f71e13] [cursor=pointer]
+    - banner "Global Navigation" [ref=f71e17]:
+      - generic [ref=f71e18]:
+        - link [ref=f71e19] [cursor=pointer]:
+          - /url: https://www.linkedin.com/feed/?nis=true
+          - img "LinkedIn" [ref=f71e22]
+        - combobox "I’m looking for..." [ref=f71e28]
+        - navigation "Primary Navigation" [ref=f71e29]:
+          - list [ref=f71e30]:
+            - listitem [ref=f71e31]:
+              - link "new feed updates notifications Home" [ref=f71e32] [cursor=pointer]:
+                - /url: https://www.linkedin.com/feed/?nis=true&
+                - generic [ref=f71e33]: new feed updates notifications
+                - generic "Home" [ref=f71e42]
+            - listitem [ref=f71e43]:
+              - link "38 new network updates notifications My Network" [ref=f71e44] [cursor=pointer]:
+                - /url: https://www.linkedin.com/mynetwork/?
+                - generic [ref=f71e46]:
+                  - generic [aria-hidden] [ref=f71e47]: "38"
+                  - generic [ref=f71e48]: 38 new network updates notifications
+                - generic "My Network" [ref=f71e54]
+            - listitem [ref=f71e55]:
+              - link "Jobs" [ref=f71e56] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/?
+            - listitem [ref=f71e63]:
+              - link "Messaging" [ref=f71e64] [cursor=pointer]:
+                - /url: https://www.linkedin.com/messaging/?
+            - listitem [ref=f71e71]:
+              - link "9 new notifications Notifications" [ref=f71e72] [cursor=pointer]:
+                - /url: https://www.linkedin.com/notifications/?
+                - generic [ref=f71e74]:
+                  - generic [aria-hidden] [ref=f71e75]: "9"
+                  - generic [ref=f71e76]: 9 new notifications
+                - generic "Notifications" [ref=f71e82]
+            - listitem [ref=f71e83]:
+              - button [ref=f71e85] [cursor=pointer]:
+                - img "Kelly Irving" [ref=f71e86]
+                - generic [ref=f71e87]: Me
+            - listitem [ref=f71e90]:
+              - button "For Business" [ref=f71e92] [cursor=pointer]
+            - listitem [ref=f71e101]:
+              - link "3 new Campaign Manager notifications Advertise" [ref=f71e102] [cursor=pointer]:
+                - /url: https://www.linkedin.com/campaignmanager/accounts?shouldShowNotificationPanelOnRender=true
+                - generic [ref=f71e104]:
+                  - generic [aria-hidden] [ref=f71e105]: "3"
+                  - generic [ref=f71e106]: 3 new Campaign Manager notifications
+                - generic "Advertise" [ref=f71e113]
+    - generic [ref=f71e119]:
+      - complementary [ref=f71e120]:
+        - generic [ref=f71e123]:
+          - img "PREMIUM" [ref=f71e128]
+          - link [ref=f71e132] [cursor=pointer]:
+            - /url: /in/penelopebarr/
+            - img "Penelope Barr" [ref=f71e133]
+          - generic [ref=f71e134]:
+            - link [ref=f71e135] [cursor=pointer]:
+              - /url: /in/penelopebarr/
+              - heading [level=3] [ref=f71e136]:
+                - text: Penelope Barr
+                - img "Penelope Barr is a Premium member" [ref=f71e138]
+            - heading "Portfolio Careerpreneur | Helping people and organisations transition through the messy middle to your personal best | Interim Executive | Author | Board Member | Speaker | Writing Retreat host | Coach" [level=4] [ref=f71e141]
+          - generic [ref=f71e143]:
+            - generic [ref=f71e144]:
+              - generic [ref=f71e145]: Followers
+              - generic [ref=f71e146]: 7,710
+            - button "Message Penelope" [ref=f71e149] [cursor=pointer]:
+              - generic [ref=f71e150]: Message
+      - main [ref=f71e151]:
+        - generic [ref=f71e277]:
+          - heading "All activity" [level=2] [ref=f71e278]
+          - group "Select type of recent activity" [ref=f71e281]:
+            - button "Posts" [pressed] [ref=f71e282] [cursor=pointer]
+            - button "Comments" [ref=f71e284] [cursor=pointer]
+            - button "Videos" [ref=f71e286] [cursor=pointer]
+            - button "Images" [ref=f71e288] [cursor=pointer]
+            - button "More" [ref=f71e290] [cursor=pointer]
+          - generic [ref=f71e450]:
+            - generic [ref=f71e451]:
+              - generic [ref=f71e452]: Loaded 19 Posts posts
+              - list [ref=f71e453]:
+                - listitem [ref=f71e454]:
+                  - article [ref=f71e459]:
+                    - generic [ref=f71e461]:
+                      - heading "Feed post number 1" [level=2] [ref=f71e462]
+                      - generic [ref=f71e463]:
+                        - generic [ref=f71e464]:
+                          - generic [ref=f71e466]:
+                            - link "View Penelope Barr’s graphic link" [ref=f71e467] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/penelopebarr?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAuYCkBD71kl06afQIv3UgfvX6ShGEQeY4
+                              - img "View Penelope Barr’s graphic link" [ref=f71e471]
+                            - generic [ref=f71e472]:
+                              - 'link "View: Penelope Barr Premium • 1st Portfolio Careerpreneur | Helping people and organisations transition through the messy middle to your personal best | Interim Executive | Author | Board Member | Speaker | Writing Retreat host | Coach" [ref=f71e473] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/penelopebarr?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAuYCkBD71kl06afQIv3UgfvX6ShGEQeY4
+                                - generic [ref=f71e474]:
+                                  - generic [ref=f71e475]: Penelope Barr
+                                  - generic [ref=f71e478]: • 1st
+                                - generic [ref=f71e483]: Portfolio Careerpreneur | Helping people and organisations transition through the messy middle to your personal best | Interim Executive | Author | Board Member | Speaker | Writing Retreat host | Coach
+                              - generic [ref=f71e485]: 10h •
+                          - button "Open control menu for post by Penelope Barr" [ref=f71e493] [cursor=pointer]
+                        - generic [ref=f71e496]: What matters now is the question I've been contemplating ...
+                        - article [ref=f71e501]:
+                          - generic [ref=f71e502]:
+                            - 'link "Open article: What matters for you now? by Penelope Barr • 2 min read" [ref=f71e504] [cursor=pointer]':
+                              - /url: https://www.linkedin.com/pulse/what-matters-you-now-penelope-barr-xcfic?trackingId=2xdUT5M1JvOizbwSZXJ1Mg%3D%3D
+                            - 'link "Open article: What matters for you now? by Penelope Barr • 2 min read" [ref=f71e508] [cursor=pointer]':
+                              - /url: https://www.linkedin.com/pulse/what-matters-you-now-penelope-barr-xcfic?trackingId=2xdUT5M1JvOizbwSZXJ1Mg%3D%3D
+                              - generic [ref=f71e509]:
+                                - generic [ref=f71e510]:
+                                  - link "6:3:3-Career on your Terms , graphic." [ref=f71e511]:
+                                    - /url: https://www.linkedin.com/newsletters/6-3-3-career-on-your-terms-7290853608605073408
+                                  - generic [ref=f71e514]:
+                                    - link "6:3:3-Career on your Terms" [ref=f71e515]:
+                                      - /url: https://www.linkedin.com/newsletters/6-3-3-career-on-your-terms-7290853608605073408
+                                    - button "Subscribe" [ref=f71e520]:
+                                      - generic [aria-hidden] [ref=f71e523]: Subscribe
+                                      - generic [ref=f71e524]: "Subscribe to {:entityName}"
+                                - generic [ref=f71e525]:
+                                  - generic [ref=f71e526]: What matters for you now?
+                                  - generic [ref=f71e528]: Penelope Barr
+                        - generic [ref=f71e529]:
+                          - list [ref=f71e533]:
+                            - listitem [ref=f71e534]:
+                              - button "Penelope Barr and 3 others" [ref=f71e535] [cursor=pointer]:
+                                - img "like" [ref=f71e536]
+                                - img "love" [ref=f71e537]
+                                - generic [ref=f71e538]:
+                                  - generic [aria-hidden] [ref=f71e539]: "4"
+                                  - generic [ref=f71e540]: Penelope Barr and 3 others
+                            - listitem [ref=f71e541]:
+                              - list [ref=f71e542]:
+                                - listitem [ref=f71e543]:
+                                  - button "4 comments on Penelope Barr’s post" [ref=f71e544] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f71e545]: 4 comments
+                          - generic [ref=f71e546]:
+                            - generic [ref=f71e547]:
+                              - button "React Like" [ref=f71e548] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f71e553]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f71e554] [cursor=pointer]
+                            - button "Comment" [ref=f71e559] [cursor=pointer]
+                            - button "Repost" [ref=f71e565] [cursor=pointer]
+                            - button "Send in a private message" [ref=f71e571] [cursor=pointer]:
+                              - generic [ref=f71e574]: Send
+                - listitem [ref=f71e576]:
+                  - article [ref=f71e581]:
+                    - generic [ref=f71e583]:
+                      - heading "Feed post number 2" [level=2] [ref=f71e584]
+                      - generic [ref=f71e585]:
+                        - generic [ref=f71e586]:
+                          - generic [ref=f71e588]:
+                            - link "View Penelope Barr’s graphic link" [ref=f71e589] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/penelopebarr?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAuYCkBD71kl06afQIv3UgfvX6ShGEQeY4
+                              - img "View Penelope Barr’s graphic link" [ref=f71e593]
+                            - generic [ref=f71e594]:
+                              - 'link "View: Penelope Barr Premium • 1st Portfolio Careerpreneur | Helping people and organisations transition through the messy middle to your personal best | Interim Executive | Author | Board Member | Speaker | Writing Retreat host | Coach" [ref=f71e595] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/penelopebarr?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAuYCkBD71kl06afQIv3UgfvX6ShGEQeY4
+                                - generic [ref=f71e596]:
+                                  - generic [ref=f71e597]: Penelope Barr
+                                  - generic [ref=f71e600]: • 1st
+                                - generic [ref=f71e605]: Portfolio Careerpreneur | Helping people and organisations transition through the messy middle to your personal best | Interim Executive | Author | Board Member | Speaker | Writing Retreat host | Coach
+                              - generic [ref=f71e607]: 1d •
+                          - button "Open control menu for post by Penelope Barr" [ref=f71e615] [cursor=pointer]
+                        - generic [ref=f71e619]:
+                          - generic [ref=f71e620]: Hello look forward to seeing fractionals, portfolio careerists, solopreneurs at lunch on Friday. Come along and connect with your people.DM me if you want in 💚
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f71e623] [cursor=pointer]:
+                            - generic [ref=f71e624]: …more
+                        - generic [ref=f71e626]:
+                          - button "Activate to view larger image, diagram" [ref=f71e628] [cursor=pointer]:
+                            - generic [ref=f71e629]: Activate to view larger image,
+                            - img "diagram" [ref=f71e632]
+                          - generic [aria-hidden] [ref=f71e633]: Activate to view larger image,
+                        - generic [ref=f71e634]:
+                          - list [ref=f71e638]:
+                            - listitem [ref=f71e639]:
+                              - button "Katie Foulkes and 1 other" [ref=f71e640] [cursor=pointer]:
+                                - img "like" [ref=f71e641]
+                                - generic [ref=f71e642]:
+                                  - generic [aria-hidden] [ref=f71e643]: "2"
+                                  - generic [ref=f71e644]: Katie Foulkes and 1 other
+                            - listitem [ref=f71e645]:
+                              - list [ref=f71e646]:
+                                - listitem [ref=f71e647]:
+                                  - button "3 comments on Penelope Barr’s post" [ref=f71e648] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f71e649]: 3 comments
+                          - generic [ref=f71e650]:
+                            - generic [ref=f71e651]:
+                              - button "React Like" [ref=f71e652] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f71e657]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f71e658] [cursor=pointer]
+                            - button "Comment" [ref=f71e663] [cursor=pointer]
+                            - button "Repost" [ref=f71e669] [cursor=pointer]
+                            - button "Send in a private message" [ref=f71e675] [cursor=pointer]:
+                              - generic [ref=f71e678]: Send
+                - listitem [ref=f71e680]:
+                  - article [ref=f71e685]:
+                    - generic [ref=f71e687]:
+                      - heading "Feed post number 3" [level=2] [ref=f71e688]
+                      - generic [ref=f71e689]:
+                        - generic [ref=f71e690]:
+                          - generic [ref=f71e692]:
+                            - link "View Penelope Barr’s graphic link" [ref=f71e693] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/penelopebarr?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAuYCkBD71kl06afQIv3UgfvX6ShGEQeY4
+                              - img "View Penelope Barr’s graphic link" [ref=f71e697]
+                            - generic [ref=f71e698]:
+                              - 'link "View: Penelope Barr Premium • 1st Portfolio Careerpreneur | Helping people and organisations transition through the messy middle to your personal best | Interim Executive | Author | Board Member | Speaker | Writing Retreat host | Coach" [ref=f71e699] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/penelopebarr?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAuYCkBD71kl06afQIv3UgfvX6ShGEQeY4
+                                - generic [ref=f71e700]:
+                                  - generic [ref=f71e701]: Penelope Barr
+                                  - generic [ref=f71e704]: • 1st
+                                - generic [ref=f71e709]: Portfolio Careerpreneur | Helping people and organisations transition through the messy middle to your personal best | Interim Executive | Author | Board Member | Speaker | Writing Retreat host | Coach
+                              - generic [ref=f71e711]: 6d •
+                          - button "Open control menu for post by Penelope Barr" [ref=f71e719] [cursor=pointer]
+                        - generic [ref=f71e723]:
+                          - generic [ref=f71e724]: "It's my birthday today. And I've created a little gift for you: \"10 things you have permission to do\" because you don't need to earn permission to design a life that works for you. Enjoy."
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f71e727] [cursor=pointer]:
+                            - generic [ref=f71e728]: …more
+                        - generic [ref=f71e730]:
+                          - alert [ref=f71e733]: Your document is loading
+                          - iframe [ref=f71e746]
+                        - generic [ref=f71e747]:
+                          - list [ref=f71e751]:
+                            - listitem [ref=f71e752]:
+                              - button "Karen Dunshea and 47 others" [ref=f71e753] [cursor=pointer]:
+                                - img "like" [ref=f71e754]
+                                - img "love" [ref=f71e755]
+                                - img "celebrate" [ref=f71e756]
+                                - generic [ref=f71e757]:
+                                  - generic [aria-hidden] [ref=f71e758]: "48"
+                                  - generic [ref=f71e759]: Karen Dunshea and 47 others
+                            - listitem [ref=f71e760]:
+                              - list [ref=f71e761]:
+                                - listitem [ref=f71e762]:
+                                  - button "32 comments on Penelope Barr’s post" [ref=f71e763] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f71e764]: 32 comments
+                          - generic [ref=f71e765]:
+                            - generic [ref=f71e766]:
+                              - button "React Like" [ref=f71e767] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f71e772]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f71e773] [cursor=pointer]
+                            - button "Comment" [ref=f71e778] [cursor=pointer]
+                            - button "Repost" [ref=f71e784] [cursor=pointer]
+                            - button "Send in a private message" [ref=f71e790] [cursor=pointer]:
+                              - generic [ref=f71e793]: Send
+                - listitem [ref=f71e795]:
+                  - article [ref=f71e800]:
+                    - generic [ref=f71e802]:
+                      - heading "Feed post number 4" [level=2] [ref=f71e803]
+                      - generic [ref=f71e804]:
+                        - generic [ref=f71e805]:
+                          - generic [ref=f71e807]:
+                            - link "View Penelope Barr’s graphic link" [ref=f71e808] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/penelopebarr?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAuYCkBD71kl06afQIv3UgfvX6ShGEQeY4
+                              - img "View Penelope Barr’s graphic link" [ref=f71e812]
+                            - generic [ref=f71e813]:
+                              - 'link "View: Penelope Barr Premium • 1st Portfolio Careerpreneur | Helping people and organisations transition through the messy middle to your personal best | Interim Executive | Author | Board Member | Speaker | Writing Retreat host | Coach" [ref=f71e814] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/penelopebarr?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAuYCkBD71kl06afQIv3UgfvX6ShGEQeY4
+                                - generic [ref=f71e815]:
+                                  - generic [ref=f71e816]: Penelope Barr
+                                  - generic [ref=f71e819]: • 1st
+                                - generic [ref=f71e824]: Portfolio Careerpreneur | Helping people and organisations transition through the messy middle to your personal best | Interim Executive | Author | Board Member | Speaker | Writing Retreat host | Coach
+                              - generic [ref=f71e826]: 1w •
+                          - button "Open control menu for post by Penelope Barr" [ref=f71e834] [cursor=pointer]
+                        - generic [ref=f71e837]: Understanding your own energy patterns is powerful. Aligning your energy across your team is transformative. Why not conduct an energy audit to better align what to do, and when to do it.
+                        - article [ref=f71e842]:
+                          - generic [ref=f71e843]:
+                            - 'link "Open article: How to do an Energy Audit to create an Energy Map by Penelope Barr • 5 min read" [ref=f71e845] [cursor=pointer]':
+                              - /url: https://www.linkedin.com/pulse/how-do-energy-audit-create-map-penelope-barr-3icbc?trackingId=jYv7C79kJEIqAewW7YCTEQ%3D%3D
+                            - 'link "Open article: How to do an Energy Audit to create an Energy Map by Penelope Barr • 5 min read" [ref=f71e849] [cursor=pointer]':
+                              - /url: https://www.linkedin.com/pulse/how-do-energy-audit-create-map-penelope-barr-3icbc?trackingId=jYv7C79kJEIqAewW7YCTEQ%3D%3D
+                              - generic [ref=f71e850]:
+                                - generic [ref=f71e851]:
+                                  - link "6:3:3-Career on your Terms , graphic." [ref=f71e852]:
+                                    - /url: https://www.linkedin.com/newsletters/6-3-3-career-on-your-terms-7290853608605073408
+                                  - generic [ref=f71e855]:
+                                    - link "6:3:3-Career on your Terms" [ref=f71e856]:
+                                      - /url: https://www.linkedin.com/newsletters/6-3-3-career-on-your-terms-7290853608605073408
+                                    - button "Subscribe" [ref=f71e861]:
+                                      - generic [aria-hidden] [ref=f71e864]: Subscribe
+                                      - generic [ref=f71e865]: "Subscribe to {:entityName}"
+                                - generic [ref=f71e866]:
+                                  - generic [ref=f71e867]: How to do an Energy Audit to create an Energy Map
+                                  - generic [ref=f71e869]: Penelope Barr
+                        - generic [ref=f71e870]:
+                          - list [ref=f71e874]:
+                            - listitem [ref=f71e875]:
+                              - button "Luke McManus and 8 others" [ref=f71e876] [cursor=pointer]:
+                                - img "like" [ref=f71e877]
+                                - img "love" [ref=f71e878]
+                                - img "support" [ref=f71e879]
+                                - generic [ref=f71e880]:
+                                  - generic [aria-hidden] [ref=f71e881]: "9"
+                                  - generic [ref=f71e882]: Luke McManus and 8 others
+                          - generic [ref=f71e883]:
+                            - generic [ref=f71e884]:
+                              - button "React Like" [ref=f71e885] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f71e890]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f71e891] [cursor=pointer]
+                            - button "Comment" [ref=f71e896] [cursor=pointer]
+                            - button "Repost" [ref=f71e902] [cursor=pointer]
+                            - button "Send in a private message" [ref=f71e908] [cursor=pointer]:
+                              - generic [ref=f71e911]: Send
+                - listitem [ref=f71e913]:
+                  - article [ref=f71e918]:
+                    - generic [ref=f71e920]:
+                      - heading "Feed post number 5" [level=2] [ref=f71e921]
+                      - generic [ref=f71e922]:
+                        - generic [ref=f71e923]:
+                          - generic [ref=f71e925]:
+                            - link "View Penelope Barr’s graphic link" [ref=f71e926] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/penelopebarr?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAuYCkBD71kl06afQIv3UgfvX6ShGEQeY4
+                              - img "View Penelope Barr’s graphic link" [ref=f71e930]
+                            - generic [ref=f71e931]:
+                              - 'link "View: Penelope Barr Premium • 1st Portfolio Careerpreneur | Helping people and organisations transition through the messy middle to your personal best | Interim Executive | Author | Board Member | Speaker | Writing Retreat host | Coach" [ref=f71e932] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/penelopebarr?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAuYCkBD71kl06afQIv3UgfvX6ShGEQeY4
+                                - generic [ref=f71e933]:
+                                  - generic [ref=f71e934]: Penelope Barr
+                                  - generic [ref=f71e937]: • 1st
+                                - generic [ref=f71e942]: Portfolio Careerpreneur | Helping people and organisations transition through the messy middle to your personal best | Interim Executive | Author | Board Member | Speaker | Writing Retreat host | Coach
+                              - generic [ref=f71e944]: 1w •
+                          - button "Open control menu for post by Penelope Barr" [ref=f71e952] [cursor=pointer]
+                        - generic [ref=f71e955]: Understanding your own energy patterns is powerful. Aligning your energy across your team is transformative. Why not conduct an energy audit to better align what you do, when
+                        - article [ref=f71e960]:
+                          - 'link "Open article: How to do an Energy Audit to create an Energy Map by Penelope Barr • 5 min read" [ref=f71e962] [cursor=pointer]':
+                            - /url: https://www.linkedin.com/pulse/how-do-energy-audit-create-map-penelope-barr-91eyc?trackingId=sAxf4e%2FUSU3LP8YsM20ZCg%3D%3D
+                            - generic [ref=f71e963]:
+                              - generic [ref=f71e964]:
+                                - link "6:3:3-Career on your Terms , graphic." [ref=f71e965]:
+                                  - /url: https://www.linkedin.com/newsletters/6-3-3-career-on-your-terms-7290853608605073408
+                                - generic [ref=f71e968]:
+                                  - link "6:3:3-Career on your Terms" [ref=f71e969]:
+                                    - /url: https://www.linkedin.com/newsletters/6-3-3-career-on-your-terms-7290853608605073408
+                                  - button "Subscribe" [ref=f71e974]:
+                                    - generic [aria-hidden] [ref=f71e977]: Subscribe
+                                    - generic [ref=f71e978]: "Subscribe to {:entityName}"
+                              - generic [ref=f71e979]:
+                                - generic [ref=f71e980]: How to do an Energy Audit to create an Energy Map
+                                - generic [ref=f71e982]: Penelope Barr
+                        - generic [ref=f71e983]:
+                          - list [ref=f71e987]:
+                            - listitem [ref=f71e988]:
+                              - button "Nina Witenden and 6 others" [ref=f71e989] [cursor=pointer]:
+                                - img "like" [ref=f71e990]
+                                - img "love" [ref=f71e991]
+                                - img "support" [ref=f71e992]
+                                - generic [ref=f71e993]:
+                                  - generic [aria-hidden] [ref=f71e994]: "7"
+                                  - generic [ref=f71e995]: Nina Witenden and 6 others
+                          - generic [ref=f71e996]:
+                            - generic [ref=f71e997]:
+                              - button "React Like" [ref=f71e998] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f71e1003]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f71e1004] [cursor=pointer]
+                            - button "Comment" [ref=f71e1009] [cursor=pointer]
+                            - button "Repost" [ref=f71e1015] [cursor=pointer]
+                            - button "Send in a private message" [ref=f71e1021] [cursor=pointer]:
+                              - generic [ref=f71e1024]: Send
+                - listitem [ref=f71e1026]
+                - listitem [ref=f71e1030]
+                - listitem [ref=f71e1034]
+                - listitem [ref=f71e1038]
+                - listitem [ref=f71e1042]
+                - listitem [ref=f71e1046]
+                - listitem [ref=f71e1050]
+                - listitem [ref=f71e1054]
+                - listitem [ref=f71e1058]
+                - listitem [ref=f71e1062]
+                - listitem [ref=f71e1066]
+                - listitem [ref=f71e1070]
+                - listitem [ref=f71e1074]
+                - listitem [ref=f71e1078]
+            - button "Show more results" [ref=f71e1084] [cursor=pointer]
+      - complementary "Interests" [ref=f71e184]:
+        - iframe [ref=f71e315]:
+          - generic [ref=f72e3]:
+            - banner [ref=f72e4]:
+              - link [ref=f72e15] [cursor=pointer]:
+                - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=http%3A%2F%2Fwww.linkedin.com%2Fcompany%2F107126912&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg7GDBxVnqhyWk7SP9KzKcSCyowwyMAWq9B_vYVzMMlRGR151OCflbItE_95n-rW-jnfD2UNATWRxX59EyBLcphcX0wvsAN4zUeClIP_h1c5USLj5AEKBRD6DP1DYQ3yiw-98kF-pcNmXxo5AIjJHQli7snl15e90yDX_VLIJIMOB3Ii4_gTTubpiwLaN-9uC3i5qoRRD6Iqld-hk5vlM9YLGAMAsQ8HU7XNLgrInUmcpAKM8HbpwKd_rXAwO--5_-2QpkmVGtpMqd6bDzL7dNGGkOkkdBBI4bKPJyhc9KOfoqrt3bFxGAKHw9G7MJrkFavc9CcAaKLeQjIdgBJ9M5cWZVnSK9Yf5Ogurnr641_y6lIMTpdKXAyC2hbE1f1WMD72tyAcDFKB3dwWkGv29Dhl3jRwPsEy7ajutD3ZSn3lHjua-gRFaSIZkuXyX7PyJ1J5F5MHE2wtIVe6sf5CZmEiR7OG2YdLOSeKI1uL9icDdQARr3JP3FiZ84_MeMyaocYgBS1kIAYMgedT2m3NUVhtknKjc1JFWfO8oZlWeZM974JyczzBMKjfp4ZiPBujYFe9NmtH-nrgejk2KXNgZ05AMcNzKRQk_vA7EUJn_blS0f5r1yzGXTKjXeVi_5H9DNbuE-OVZ7qjK3plVip-vryunD1jSq-y3-USsJwO2OicdLi3JVnw10M0eKUTAx4s84uhUoUJoX1GOiJLxRTH2uZFG7fMi60SfRATBVkclvRzvQQekfqn42XzE6JMrxSTgy8KfnJ-K6fAxuZN4DP2vWdhV1mOqZFlSqvGacmOsg2AiwVjBNJUxJXxRd-SxUbewkyp_-ejPZX7ALWBoB6E4nICJV_i4joX_H7-Mg9Nxx-wZK6-i7HxKw8Nl37dGVEbho7G61rvv82SBvZY2w0wlYS2w4nDd0_Ixi4Vev9ELQOgM8Q-uj93Ezqp7aPg4-CaJXZqqE8wej3Ott8TImHxDecbLUTh4JkU9ygsZ83NmSXEh85pnguxW7eQBmyerxf9G7CCasbrybLkC-5CnyygjTWNENBONKOaMl-0u_4zZkYD7iPqIor2qUKaNpYy-8lvTJLo0LAty5ARL4lZnYVSYg4OoVjd_D8OTZ8AXaV2sGsSr85FGR7nj7QGH0mEV2r3_I_kI_YT98WlLCfUw6iNZA8f0sLGb4f5666oetOLAbZDeuGDD_9kOW_Aiz0qGKmLNH1sPoBQ%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%22%2C%22trackingId%22%3A%22f684ae87-aa44-4d3c-a655-67510e1c67c7%22%7D%2C%22time%22%3A1790672159105%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_view_base_recent_activity_content_view%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                - img "Luna Fashion House" [ref=f72e16]
+              - generic [ref=f72e17]:
+                - paragraph [ref=f72e18]: Promoted
+                - button "Ad Options" [ref=f72e19] [cursor=pointer]
+            - generic [ref=f72e25]:
+              - link [ref=f72e26] [cursor=pointer]:
+                - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=http%3A%2F%2Fwww.linkedin.com%2Fcompany%2F107126912&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg7GDBxVnqhyWk7SP9KzKcSCyowwyMAWq9B_vYVzMMlRGR151OCflbItE_95n-rW-jnfD2UNATWRxX59EyBLcphcX0wvsAN4zUeClIP_h1c5USLj5AEKBRD6DP1DYQ3yiw-98kF-pcNmXxo5AIjJHQli7snl15e90yDX_VLIJIMOB3Ii4_gTTubpiwLaN-9uC3i5qoRRD6Iqld-hk5vlM9YLGAMAsQ8HU7XNLgrInUmcpAKM8HbpwKd_rXAwO--5_-2QpkmVGtpMqd6bDzL7dNGGkOkkdBBI4bKPJyhc9KOfoqrt3bFxGAKHw9G7MJrkFavc9CcAaKLeQjIdgBJ9M5cWZVnSK9Yf5Ogurnr641_y6lIMTpdKXAyC2hbE1f1WMD72tyAcDFKB3dwWkGv29Dhl3jRwPsEy7ajutD3ZSn3lHjua-gRFaSIZkuXyX7PyJ1J5F5MHE2wtIVe6sf5CZmEiR7OG2YdLOSeKI1uL9icDdQARr3JP3FiZ84_MeMyaocYgBS1kIAYMgedT2m3NUVhtknKjc1JFWfO8oZlWeZM974JyczzBMKjfp4ZiPBujYFe9NmtH-nrgejk2KXNgZ05AMcNzKRQk_vA7EUJn_blS0f5r1yzGXTKjXeVi_5H9DNbuE-OVZ7qjK3plVip-vryunD1jSq-y3-USsJwO2OicdLi3JVnw10M0eKUTAx4s84uhUoUJoX1GOiJLxRTH2uZFG7fMi60SfRATBVkclvRzvQQekfqn42XzE6JMrxSTgy8KfnJ-K6fAxuZN4DP2vWdhV1mOqZFlSqvGacmOsg2AiwVjBNJUxJXxRd-SxUbewkyp_-ejPZX7ALWBoB6E4nICJV_i4joX_H7-Mg9Nxx-wZK6-i7HxKw8Nl37dGVEbho7G61rvv82SBvZY2w0wlYS2w4nDd0_Ixi4Vev9ELQOgM8Q-uj93Ezqp7aPg4-CaJXZqqE8wej3Ott8TImHxDecbLUTh4JkU9ygsZ83NmSXEh85pnguxW7eQBmyerxf9G7CCasbrybLkC-5CnyygjTWNENBONKOaMl-0u_4zZkYD7iPqIor2qUKaNpYy-8lvTJLo0LAty5ARL4lZnYVSYg4OoVjd_D8OTZ8AXaV2sGsSr85FGR7nj7QGH0mEV2r3_I_kI_YT98WlLCfUw6iNZA8f0sLGb4f5666oetOLAbZDeuGDD_9kOW_Aiz0qGKmLNH1sPoBQ%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%22%2C%22trackingId%22%3A%22f684ae87-aa44-4d3c-a655-67510e1c67c7%22%7D%2C%22time%22%3A1790672159105%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_view_base_recent_activity_content_view%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                - heading "Luna Fashion House" [level=2] [ref=f72e27]
+              - paragraph [ref=f72e29]: Kelly, you might like to follow Luna Fashion House
+              - paragraph [ref=f72e31]: For women who choose quality, presence, and timeless design.
+              - generic [ref=f72e32]:
+                - generic [ref=f72e33]:
+                  - img "Karthik" [ref=f72e34]
+                  - img "Jutta" [ref=f72e35]
+                - paragraph [ref=f72e36]: Karthik & 3 other connections also follow
+              - link "Follow" [ref=f72e37] [cursor=pointer]:
+                - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=http%3A%2F%2Fwww.linkedin.com%2Fcompany%2F107126912%3FisFollowingPage%3Dtrue&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg7GDBxfh_ENJ9NdSLdFK546Prq6ab6hwaFngA3KoyYM_wfCqQi9kDifX60IT9yBp-uIgcyBvndNzxM8emQEy5MCYC7XjLnko1QmfrsIFUKe68Vq78omE1hr4MnKFjbRPL8WRc4lv5Z3bzbrEB9JL02piaggeyOvX0gbbJOjdsPbAFCK7eKy1LzZgpUn-Ly4B7vFyTkrbaE9EG17VjWardnO_6NEWQwfSc7ZJ_HBSknQQqNRPICuVdgPl-Iqh7rFr77IPswX-VahE7sejTDf1JFkBCqiIDN5Wn9i3BYootfCjtIVGaiy6RxpUYfww1vsya6vxC3HP3WoozXvwuRiAbkkUBTnNHJkEDKGvQ8LvnySmi9S8cuA5rqmzezwJcCA99hrREy9mmxNcoX7gUauCrHC7v2b11OTx2C3wgTCYVvbg_c-ihEliFCH3JDnsvlmgZdjja_NRHczsLfzARW_an6WbI24y5cZrqy7CpH9X-KtnH-GwqJea-UqIsvj01KG9kxvgZkLuOr0PmuLwyjGtJZWdTdFnWUvMxvhB3k_31NOUKMJuI4a4jywZ9pAXGiRt4y5NZwH0CVHA4ZKyaHvs-MZXl7_9cefYfA1-4eDn8y-IKQUiYc-unwBvHjoDvC1qVlktNDlnAxYBOHdu0wxWevwyB4EqLX3MxI8F_qMQ83rsXeiQV567bwLn0HazjWaJ3kvSgNSUyb64WjSVToSRpK7tjfEn90OUG2hdOHNXz1eZRaRE173Fp4rrk-4gQEtRNjwAGZpmFkY8gRVir4oyBz0dIGXK_Sr19nmkCgJnRciNkm9wk3BtVMWffrW05qlXnwRTb8NvwGuwm7ox_K8gA5u5o8wEYn3Bmc_VDBwVrBye9Cntr3GNLyasp_v7Ad_qhwvRxMJL-MRVZrhwEme7OYNIgVUxuVpUagwshmEXEfVlXYcAdIrwFVXKYa8NTJUibkyrIIE2FxIObXvMDj4s4kzJELnHDdvw1XXdk768z8DywI1ZJCIWHDvy8YPHz-AO-aP4jxmLTt8-GTqcXMll_rB5t6ixG3fUqspwTctpDcGYuDuiwzREZ0FnbYCg_pPYZvhjcJOAMXaekgPhUo4Plb_3t027V22hsYpQ1kCMjkofwnBz4fOVASGI3wO3sBqqP72Hk5vT6e3pPXGfotldh7X3WjS4tBcjSTa9xC_oJR24Ycn3SU79b8zOffMdeOcssCgueG3_cLZNBHdN13fBhhKGh560fmpJvPeeDYupE9Z_ra00NE_s%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%22%2C%22trackingId%22%3A%22927f6b66-c483-4dc8-8ea4-013fc35d52e9%22%7D%2C%22time%22%3A1790672159105%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_view_base_recent_activity_content_view%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+        - generic [ref=f71e1086]:
+          - generic [ref=f71e1090]:
+            - heading "People you may know" [level=2] [ref=f71e1091]
+            - paragraph [ref=f71e1093]:
+              - generic [ref=f71e1094]: From Penelope's industry
+          - generic [ref=f71e1095]:
+            - list [ref=f71e1096]:
+              - listitem [ref=f71e1097]:
+                - generic [ref=f71e1098]:
+                  - link [ref=f71e1100] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/jacky-kljucevic
+                    - img "Jacky Kljucevic" [ref=f71e1103]
+                  - generic [ref=f71e1104]:
+                    - link "Jacky Kljucevic Proud Wiradjuri Woman Managing Director / Owner @ Born Digital Solutions | Digital Transformation Expert" [ref=f71e1106] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/jacky-kljucevic?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAsTPoYBrLZQnEh7b7T3O5oRZkmDVuEXHks
+                      - generic [ref=f71e1107]: Jacky Kljucevic
+                      - generic [ref=f71e1116]: Proud Wiradjuri WomanManaging Director / Owner @ Born Digital Solutions | Digital Transformation Expert
+                    - list [ref=f71e1122]:
+                      - listitem [ref=f71e1123]:
+                        - button "Invite Jacky Kljucevic to connect" [ref=f71e1125] [cursor=pointer]:
+                          - generic [ref=f71e1128]: Connect
+              - listitem [ref=f71e1129]:
+                - generic [ref=f71e1130]:
+                  - link [ref=f71e1132] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/freyaspellmann
+                    - img "Freya Spellmann is open to work" [ref=f71e1135]
+                  - generic [ref=f71e1136]:
+                    - link "Freya Spellmann Owner of Clairvoyant Cowgirl | Author & Writer | Equine Ambassador" [ref=f71e1138] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/freyaspellmann?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAG1iFbUBAZK6J4LtgN37kZb8U8KtwKmkTuM
+                      - generic [ref=f71e1139]: Freya Spellmann
+                      - generic [ref=f71e1144]: Owner of Clairvoyant Cowgirl | Author & Writer | Equine Ambassador
+                    - list [ref=f71e1150]:
+                      - listitem [ref=f71e1151]:
+                        - button "Invite Freya Spellmann to connect" [ref=f71e1153] [cursor=pointer]:
+                          - generic [ref=f71e1156]: Connect
+              - listitem [ref=f71e1157]:
+                - generic [ref=f71e1158]:
+                  - link [ref=f71e1160] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/emily-stevens-3b1615382
+                    - img "Emily Stevens" [ref=f71e1163]
+                  - generic [ref=f71e1164]:
+                    - link "Emily Stevens 🎙 Helping Podcasters, Coaches & E-commerce Brands|| 12X Their Apple & Spotify Podcast Audience & Downloads — in 30 Days" [ref=f71e1166] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/emily-stevens-3b1615382?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAF5rXPUBej0woHSCKj8kU8APlkOOfst7gfk
+                      - generic [ref=f71e1167]: Emily Stevens
+                      - generic [ref=f71e1172]: 🎙 Helping Podcasters, Coaches & E-commerce Brands|| 12X Their Apple & Spotify Podcast Audience & Downloads — in 30 Days
+                    - list [ref=f71e1178]:
+                      - listitem [ref=f71e1179]:
+                        - button "Invite Emily Stevens to connect" [ref=f71e1181] [cursor=pointer]:
+                          - generic [ref=f71e1184]: Connect
+              - listitem [ref=f71e1185]:
+                - generic [ref=f71e1186]:
+                  - link "Matt Reid" [ref=f71e1188] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/matt-reid-b2a741435
+                  - generic [ref=f71e1193]:
+                    - link "Matt Reid Senior Supervisor at Syndeticom" [ref=f71e1195] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/matt-reid-b2a741435?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAG3r9RIB6Pipp7Dxbn4gag5tVIOW5evoMb8
+                      - generic [ref=f71e1196]: Matt Reid
+                      - generic [ref=f71e1201]: Senior Supervisor at Syndeticom
+                    - list [ref=f71e1207]:
+                      - listitem [ref=f71e1208]:
+                        - button "Invite Matt Reid to connect" [ref=f71e1210] [cursor=pointer]:
+                          - generic [ref=f71e1213]: Connect
+              - listitem [ref=f71e1214]:
+                - generic [ref=f71e1215]:
+                  - link [ref=f71e1217] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/vivalyaustralia
+                    - img "Torne Velk" [ref=f71e1220]
+                  - generic [ref=f71e1221]:
+                    - link "Torne Velk Founder @ Vivaly | There’s Airbnb for accommodation and Skyscanner for flights. There wasn’t anything for childcare. Vivaly fixed that." [ref=f71e1223] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/vivalyaustralia?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAGrTdkMB7r6xctVzHhf8356gmf2kyR6Vaww
+                      - generic [ref=f71e1224]: Torne Velk
+                      - generic [ref=f71e1229]: Founder @ Vivaly | There’s Airbnb for accommodation and Skyscanner for flights. There wasn’t anything for childcare. Vivaly fixed that.
+                    - list [ref=f71e1235]:
+                      - listitem [ref=f71e1236]:
+                        - button "Invite Torne Velk to connect" [ref=f71e1238] [cursor=pointer]:
+                          - generic [ref=f71e1241]: Connect
+            - button "Show more" [ref=f71e1244] [cursor=pointer]
+        - generic "LinkedIn Footer Content" [ref=f71e246]:
+          - generic [ref=f71e247]:
+            - list [ref=f71e317]:
+              - listitem [ref=f71e318]:
+                - link "About" [ref=f71e319] [cursor=pointer]:
+                  - /url: https://about.linkedin.com/
+              - listitem [ref=f71e321]:
+                - link "Accessibility" [ref=f71e322] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/accessibility
+              - listitem [ref=f71e324]:
+                - link "Help Center" [ref=f71e325] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin?trk=footer_d_flagship3_profile_view_base_recent_activity_content_view
+              - listitem [ref=f71e327]:
+                - button "Privacy & Terms" [ref=f71e329] [cursor=pointer]
+              - listitem [ref=f71e334]:
+                - link "Ad Choices" [ref=f71e335] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin/answer/62931
+              - listitem [ref=f71e337]:
+                - link "Advertising" [ref=f71e338] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/ad/start?trk=n_nav_ads_rr
+              - listitem [ref=f71e340]:
+                - button "Business Services" [ref=f71e342] [cursor=pointer]
+              - listitem [ref=f71e347]:
+                - button "Get the LinkedIn app" [ref=f71e350] [cursor=pointer]
+              - listitem [ref=f71e351]:
+                - button "More options" [ref=f71e352] [cursor=pointer]: More
+            - generic [ref=f71e248]:
+              - img "LinkedIn" [ref=f71e249]
+              - text: LinkedIn Corporation © 2026
+    - generic:
+      - generic:
+        - complementary:
+          - generic [ref=f71e252]:
+            - generic [ref=f71e253]:
+              - generic [ref=f71e255] [cursor=pointer]:
+                - img "Kelly Irving" [ref=f71e257]
+                - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f71e258]:
+                  - generic [ref=f71e259]:
+                    - generic [aria-hidden] [ref=f71e260]: Messaging
+                    - generic [ref=f71e261]: You are on the messaging overlay. Press enter to open the list of conversations.
+              - generic [ref=f71e262]:
+                - button [ref=f71e264] [cursor=pointer]:
+                  - img "Open messenger dropdown menu" [ref=f71e265]
+                - button "Compose message" [ref=f71e268] [cursor=pointer]
+                - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f71e272] [cursor=pointer]
+            - generic [ref=f71e353]:
+              - heading "Page inboxes" [level=3] [ref=f71e355]
+              - generic [ref=f71e356] [cursor=pointer]:
+                - generic [ref=f71e357]: Click to see affiliated inboxes
+                - button "Page inboxes" [ref=f71e358]
+          - dialog "Messaging" [ref=f71e361]:
+            - generic [ref=f71e362]:
+              - generic [ref=f71e363] [cursor=pointer]:
+                - generic [ref=f71e365]:
+                  - img "Rebecca Wu FCPA MBA" [ref=f71e368]
+                  - heading "Rebecca Wu FCPA MBA" [active] [level=2] [ref=f71e370]
+                - button "Close your conversation with Kelly Irving and Rebecca Wu FCPA MBA" [ref=f71e372]
+              - generic [ref=f71e377]:
+                - list [ref=f71e382]:
+                  - listitem
+                  - listitem [ref=f71e1248]:
+                    - time [ref=f71e1249]: Monday
+                    - generic [ref=f71e1250]: Kelly Irving sent the following message at 7:20 PM
+                    - generic [ref=f71e1251]:
+                      - link "View Kelly’s profile Kelly Irving" [ref=f71e1252] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                        - generic [ref=f71e1253]: View Kelly’s profile
+                        - img "Kelly Irving" [ref=f71e1254]
+                      - generic [ref=f71e1255]:
+                        - generic [ref=f71e1256]:
+                          - link "Kelly Irving" [ref=f71e1257] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/in/ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                          - img "LinkedIn Premium" [ref=f71e1259]
+                        - time [ref=f71e1262]: • 7:20 PM
+                      - generic [ref=f71e1264]:
+                        - paragraph [ref=f71e1266]: Hey Rebecca I see you followed the Expert Author Community page. Let's connect. Kx
+                        - generic "Sent at 9/28/2026, 7:20 PM" [ref=f71e1267]
+                  - listitem [ref=f71e383]:
+                    - generic [ref=f71e385]: Rebecca Wu FCPA MBA sent the following messages at 7:21 PM
+                    - generic [ref=f71e386]:
+                      - link "View Rebecca’s profile Rebecca Wu FCPA MBA" [ref=f71e387] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/ACoAAB8MZ0AB-SavupTWqDuL_26Fz293G3anTX4
+                        - generic [ref=f71e388]: View Rebecca’s profile
+                        - img "Rebecca Wu FCPA MBA" [ref=f71e389]
+                      - generic [ref=f71e390]:
+                        - link "Rebecca Wu FCPA MBA" [ref=f71e392] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/ACoAAB8MZ0AB-SavupTWqDuL_26Fz293G3anTX4
+                        - time [ref=f71e394]: • 7:21 PM
+                      - paragraph [ref=f71e398]: I'm happy to connect
+                      - list [ref=f71e399]:
+                        - listitem [ref=f71e400]:
+                          - button "Remove reaction 👍 1" [pressed] [ref=f71e401] [cursor=pointer]:
+                            - generic [ref=f71e402]:
+                              - generic [ref=f71e403]: Remove reaction
+                              - generic: 👍
+                              - generic: "1"
+                        - listitem [ref=f71e404]:
+                          - button "Open Emoji Keyboard" [ref=f71e407] [cursor=pointer]
+                  - listitem [ref=f71e408]
+                  - listitem [ref=f71e1270]:
+                    - generic [ref=f71e1271]:
+                      - button "Scroll quick replies left" [disabled] [ref=f71e1272]
+                      - list [ref=f71e1273]:
+                        - listitem [ref=f71e1274]:
+                          - button "Reply to conversation with “That's great”" [ref=f71e1275] [cursor=pointer]:
+                            - generic [aria-hidden]: That's great
+                        - listitem [ref=f71e1277]:
+                          - button "Reply to conversation with “Same here”" [ref=f71e1278] [cursor=pointer]:
+                            - generic [aria-hidden]: Same here
+                        - listitem [ref=f71e1280]:
+                          - button "Reply to conversation with “Thanks”" [ref=f71e1281] [cursor=pointer]:
+                            - generic [aria-hidden]: Thanks
+                      - button "Scroll quick replies right" [ref=f71e1283] [cursor=pointer]
+                  - listitem
+                - generic [ref=f71e409]:
+                  - generic [ref=f71e410]:
+                    - generic [ref=f71e412]:
+                      - textbox "Write a message…" [ref=f71e413]:
+                        - paragraph [ref=f71e414]
+                      - text: Write a message…
+                    - button "Maximize compose field" [ref=f71e416] [cursor=pointer]
+                  - generic [ref=f71e420]:
+                    - generic [ref=f71e421]:
+                      - button "Attach an image to your conversation with Rebecca Wu FCPA MBA" [ref=f71e423] [cursor=pointer]
+                      - button "Attach a file to your conversation with Rebecca Wu FCPA MBA" [ref=f71e428] [cursor=pointer]
+                      - button "Open GIF Keyboard" [ref=f71e433] [cursor=pointer]
+                      - button "Open Emoji Keyboard" [ref=f71e439] [cursor=pointer]
+                    - generic [ref=f71e441]:
+                      - generic [ref=f71e442]: Press Enter to Send
+                      - button "Open send options" [ref=f71e446] [cursor=pointer]
+        - complementary "AI-powered assistant to get help with your career, jobs etc"
+  - region [ref=f71e276]

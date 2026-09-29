@@ -1,0 +1,785 @@
+- generic [ref=f98e1]:
+  - generic:
+    - region "Toast message":
+      - heading "0 notifications total" [level=2] [ref=f98e3]
+      - alert
+  - generic [ref=f98e4]:
+    - generic [ref=f98e6]:
+      - button "Skip to search" [ref=f98e7] [cursor=pointer]
+      - button "Skip to main content" [ref=f98e9] [cursor=pointer]
+      - button "Keyboard shortcuts" [ref=f98e11] [cursor=pointer]
+      - button "Close jump menu" [ref=f98e13] [cursor=pointer]
+    - banner "Global Navigation" [ref=f98e17]:
+      - generic [ref=f98e18]:
+        - link [ref=f98e19] [cursor=pointer]:
+          - /url: https://www.linkedin.com/feed/?nis=true
+          - img "LinkedIn" [ref=f98e22]
+        - combobox "I’m looking for..." [ref=f98e28]
+        - navigation "Primary Navigation" [ref=f98e29]:
+          - list [ref=f98e30]:
+            - listitem [ref=f98e31]:
+              - link "new feed updates notifications Home" [ref=f98e32] [cursor=pointer]:
+                - /url: https://www.linkedin.com/feed/?nis=true&
+                - generic [ref=f98e33]: new feed updates notifications
+                - generic "Home" [ref=f98e42]
+            - listitem [ref=f98e43]:
+              - link "38 new network updates notifications My Network" [ref=f98e44] [cursor=pointer]:
+                - /url: https://www.linkedin.com/mynetwork/?
+                - generic [ref=f98e46]:
+                  - generic [aria-hidden] [ref=f98e47]: "38"
+                  - generic [ref=f98e48]: 38 new network updates notifications
+                - generic "My Network" [ref=f98e54]
+            - listitem [ref=f98e55]:
+              - link "Jobs" [ref=f98e56] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/?
+            - listitem [ref=f98e63]:
+              - link "Messaging" [ref=f98e64] [cursor=pointer]:
+                - /url: https://www.linkedin.com/messaging/?
+            - listitem [ref=f98e71]:
+              - link "9 new notifications Notifications" [ref=f98e72] [cursor=pointer]:
+                - /url: https://www.linkedin.com/notifications/?
+                - generic [ref=f98e74]:
+                  - generic [aria-hidden] [ref=f98e75]: "9"
+                  - generic [ref=f98e76]: 9 new notifications
+                - generic "Notifications" [ref=f98e82]
+            - listitem [ref=f98e83]:
+              - button [ref=f98e85] [cursor=pointer]:
+                - img "Kelly Irving" [ref=f98e86]
+                - generic [ref=f98e87]: Me
+            - listitem [ref=f98e90]:
+              - button "For Business" [ref=f98e92] [cursor=pointer]
+            - listitem [ref=f98e101]:
+              - link "3 new Campaign Manager notifications Advertise" [ref=f98e102] [cursor=pointer]:
+                - /url: https://www.linkedin.com/campaignmanager/accounts?shouldShowNotificationPanelOnRender=true
+                - generic [ref=f98e104]:
+                  - generic [aria-hidden] [ref=f98e105]: "3"
+                  - generic [ref=f98e106]: 3 new Campaign Manager notifications
+                - generic "Advertise" [ref=f98e113]
+    - generic [ref=f98e119]:
+      - complementary [ref=f98e120]:
+        - generic [ref=f98e123]:
+          - link [ref=f98e126] [cursor=pointer]:
+            - /url: /in/andrewwilliamsloan/
+            - img "Andrew Sloan" [ref=f98e127]
+          - generic [ref=f98e128]:
+            - link [ref=f98e129] [cursor=pointer]:
+              - /url: /in/andrewwilliamsloan/
+              - heading "Andrew Sloan" [level=3] [ref=f98e130]
+            - 'heading "Integrated psychotherapist, leadership coach, keynote speaker and author: Leading you towards higher levels of Self Leadership." [level=4] [ref=f98e131]'
+          - generic [ref=f98e133]:
+            - generic [ref=f98e134]:
+              - generic [ref=f98e135]: Followers
+              - generic [ref=f98e136]: 2,016
+            - button "Message Andrew" [ref=f98e139] [cursor=pointer]:
+              - generic [ref=f98e140]: Message
+      - main [ref=f98e141]:
+        - generic [ref=f98e267]:
+          - heading "All activity" [level=2] [ref=f98e268]
+          - group "Select type of recent activity" [ref=f98e271]:
+            - button "Posts" [pressed] [ref=f98e272] [cursor=pointer]
+            - button "Comments" [ref=f98e274] [cursor=pointer]
+            - button "Videos" [ref=f98e276] [cursor=pointer]
+            - button "Images" [ref=f98e278] [cursor=pointer]
+            - button "More" [ref=f98e280] [cursor=pointer]
+          - generic [ref=f98e286]:
+            - generic [ref=f98e287]:
+              - generic [ref=f98e288]: Loaded 20 Posts posts
+              - list [ref=f98e289]:
+                - listitem [ref=f98e290]:
+                  - article [ref=f98e295]:
+                    - generic [ref=f98e297]:
+                      - heading "Feed post number 1" [level=2] [ref=f98e298]
+                      - generic [ref=f98e299]:
+                        - generic [ref=f98e300]:
+                          - generic [ref=f98e302]:
+                            - link [ref=f98e303] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/andrewwilliamsloan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAANBfocBq9yr-zJnygq2vBKrjDSlwc9-BaA
+                              - img "Andrew’s profile photo" [ref=f98e306]
+                            - generic [ref=f98e307]:
+                              - link "Andrew Sloan" [ref=f98e309] [cursor=pointer]:
+                                - /url: /in/andrewwilliamsloan/
+                              - text: reposted this
+                          - button "Open control menu for post by John Paul Wager" [ref=f98e312] [cursor=pointer]
+                          - generic [ref=f98e315]:
+                            - generic [ref=f98e316]:
+                              - link "View John Paul Wager’s graphic link" [ref=f98e317] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/in/johnpaulwager?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAARmM2wBnpzvQliGW9moJWMqk3wNYWSBhuY
+                                - generic [ref=f98e318]: John Paul Wager
+                              - generic [ref=f98e323]:
+                                - 'link "View: John Paul Wager Premium • 2nd Managing Director" [ref=f98e324] [cursor=pointer]':
+                                  - /url: https://www.linkedin.com/in/johnpaulwager?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAARmM2wBnpzvQliGW9moJWMqk3wNYWSBhuY
+                                  - generic [ref=f98e325]:
+                                    - generic [ref=f98e326]: John Paul Wager
+                                    - generic [ref=f98e329]: • 2nd
+                                  - generic [ref=f98e334]: Managing Director
+                                - link "Visit my website" [ref=f98e336] [cursor=pointer]:
+                                  - /url: https://www.nectarandco.com/
+                                - generic [ref=f98e338]: 2mo •
+                            - button "Follow John Paul Wager" [ref=f98e344] [cursor=pointer]:
+                              - generic [aria-hidden] [ref=f98e347]: Follow
+                        - generic [ref=f98e352]:
+                          - text: MORE COLOUR!! Thank you
+                          - link "Andrew Sloan" [ref=f98e354] [cursor=pointer]:
+                            - /url: /in/andrewwilliamsloan/
+                          - text: for letting
+                          - link "Nectar & Co" [ref=f98e355] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/company/nectar-&-co/
+                          - text: "reimagine your personal brand and website:"
+                          - link "https://lnkd.in/gjQwZysS" [ref=f98e358] [cursor=pointer]:
+                            - /url: https://lnkd.in/gjQwZysS
+                        - generic [ref=f98e359]:
+                          - 'link "Open article: Andrew Sloan | Integrated Psychotherapist and Leadership Coach by andrewsloan.com.au, graphic" [ref=f98e361] [cursor=pointer]':
+                            - /url: https://www.andrewsloan.com.au
+                          - link "Andrew Sloan | Integrated Psychotherapist and Leadership Coach" [ref=f98e366] [cursor=pointer]:
+                            - /url: https://www.andrewsloan.com.au
+                            - generic [ref=f98e369]:
+                              - generic [ref=f98e370]: Andrew Sloan | Integrated Psychotherapist and Leadership Coach
+                              - generic [ref=f98e372]: andrewsloan.com.au
+                        - generic [ref=f98e373]:
+                          - list [ref=f98e377]:
+                            - listitem [ref=f98e378]:
+                              - button "Andrew Sloan and 13 others" [ref=f98e379] [cursor=pointer]:
+                                - img "like" [ref=f98e380]
+                                - img "love" [ref=f98e381]
+                                - img "celebrate" [ref=f98e382]
+                                - generic [ref=f98e383]:
+                                  - generic [aria-hidden] [ref=f98e384]: "14"
+                                  - generic [ref=f98e385]: Andrew Sloan and 13 others
+                            - listitem [ref=f98e386]:
+                              - list [ref=f98e387]:
+                                - listitem [ref=f98e388]:
+                                  - button "5 comments on John Paul Wager’s post" [ref=f98e389] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f98e390]: 5 comments
+                                  - text: ·
+                                - listitem [ref=f98e391]:
+                                  - button "2 reposts of John Paul Wager’s post" [ref=f98e392] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f98e393]: 2 reposts
+                          - generic [ref=f98e394]:
+                            - generic [ref=f98e395]:
+                              - button "React Like" [ref=f98e396] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f98e401]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f98e402] [cursor=pointer]
+                            - button "Comment" [ref=f98e407] [cursor=pointer]
+                            - button "Repost" [ref=f98e413] [cursor=pointer]
+                            - button "Send in a private message" [ref=f98e419] [cursor=pointer]:
+                              - generic [ref=f98e422]: Send
+                - listitem [ref=f98e424]:
+                  - article [ref=f98e429]:
+                    - generic [ref=f98e431]:
+                      - heading "Feed post number 2" [level=2] [ref=f98e432]
+                      - generic [ref=f98e433]:
+                        - generic [ref=f98e434]:
+                          - generic [ref=f98e436]:
+                            - link [ref=f98e437] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/andrewwilliamsloan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAANBfocBq9yr-zJnygq2vBKrjDSlwc9-BaA
+                              - img "Andrew’s profile photo" [ref=f98e440]
+                            - generic [ref=f98e441]:
+                              - link "Andrew Sloan" [ref=f98e443] [cursor=pointer]:
+                                - /url: /in/andrewwilliamsloan/
+                              - text: reposted this
+                          - button "Open control menu for post by Kelly Irving" [ref=f98e446] [cursor=pointer]
+                          - generic [ref=f98e450]:
+                            - link "View Kelly Irving’s graphic link" [ref=f98e451] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/kelly-irving?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                              - img "View Kelly Irving’s graphic link" [ref=f98e455]
+                            - generic [ref=f98e456]:
+                              - 'link "View: Kelly Irving Premium • You Book coach and editor for changemakers and trailblazers / Publishing gymnast" [ref=f98e457] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/kelly-irving?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                                - generic [ref=f98e458]:
+                                  - generic [ref=f98e459]: Kelly Irving
+                                  - generic [ref=f98e462]: • You
+                                - generic [ref=f98e467]: Book coach and editor for changemakers and trailblazers / Publishing gymnast
+                              - link "Visit my website" [ref=f98e469] [cursor=pointer]:
+                                - /url: https://expertauthor.community
+                              - generic [ref=f98e471]: 4mo •
+                        - generic [ref=f98e478]:
+                          - generic [ref=f98e481]:
+                            - text: This year, 28 books from the
+                            - link "Expert Author Community" [ref=f98e482] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/company/expert-author-community/
+                            - text: "have been released.That feels huge to me.Because in a world full of fast content, these books remind us why this work matters so much: books still give ideas space. They still build trust. They still help real voices stand out.I’m incredibly proud of these authors, and very grateful that through the EAC, I get to support work like this.I wrote more about our 28 books, the authors behind them, and why this matters in this article. I’d love for you to take a look, and if you spot one you love, tag a friend who would enjoy it too.KxOur 28 authors"
+                            - link "Graeme Cowan" [ref=f98e486] [cursor=pointer]:
+                              - /url: /in/graemecowan1/
+                            - link "Andrew Sloan" [ref=f98e488] [cursor=pointer]:
+                              - /url: /in/andrewwilliamsloan/
+                            - link "Lisa Taylor" [ref=f98e490] [cursor=pointer]:
+                              - /url: /in/lisa-taylor-83226195/
+                            - link "Gayle Dallaston" [ref=f98e492] [cursor=pointer]:
+                              - /url: /in/gayledallaston/
+                            - link "Kerryn Harvey" [ref=f98e494] [cursor=pointer]:
+                              - /url: /in/kerryn-harvey-611b5671/
+                            - link "Dr Kat Page" [ref=f98e496] [cursor=pointer]:
+                              - /url: /in/dr-kat-page-2366514/
+                            - link "Penelope Barr" [ref=f98e498] [cursor=pointer]:
+                              - /url: /in/penelopebarr/
+                            - link "Janine Stratford PCC" [ref=f98e500] [cursor=pointer]:
+                              - /url: /in/janinestratford/
+                            - link "Benita Bensch" [ref=f98e502] [cursor=pointer]:
+                              - /url: /in/benitabensch/
+                            - link "Clint Rahe" [ref=f98e504] [cursor=pointer]:
+                              - /url: /in/clintrahe/
+                            - link "Wendy Walker" [ref=f98e506] [cursor=pointer]:
+                              - /url: /in/wendywalkersg/
+                            - link "Sleiman “Slayman” Abou-Hamdan" [ref=f98e508] [cursor=pointer]:
+                              - /url: /in/sleiman-abouhamdan/
+                            - link "Sarah Gray GAICD" [ref=f98e510] [cursor=pointer]:
+                              - /url: /in/sarah-gray-gaicd/
+                            - link "Donna McGeorge" [ref=f98e512] [cursor=pointer]:
+                              - /url: /in/donnamcgeorge/
+                            - link "Gabrielle Dolan" [ref=f98e514] [cursor=pointer]:
+                              - /url: /in/gabrielledolan/
+                            - link "Fleur Marks" [ref=f98e516] [cursor=pointer]:
+                              - /url: /in/fleurmarks/
+                            - link "Chris Harrop" [ref=f98e518] [cursor=pointer]:
+                              - /url: /in/chrisnharrop/
+                            - link "Siobhán O'Riordan" [ref=f98e520] [cursor=pointer]:
+                              - /url: /in/saoriordan/
+                            - link "Bee Lim, Ph.D." [ref=f98e522] [cursor=pointer]:
+                              - /url: /in/drbeelim/
+                            - link "Gemma Mitchell" [ref=f98e524] [cursor=pointer]:
+                              - /url: /in/gemma-mitchell/
+                            - link "Sophie Bretag" [ref=f98e526] [cursor=pointer]:
+                              - /url: /in/sophiebretag/
+                            - link "Tony Frost" [ref=f98e528] [cursor=pointer]:
+                              - /url: /in/tony-frost-cmc/
+                            - link "Prosper Taruvinga" [ref=f98e530] [cursor=pointer]:
+                              - /url: /in/ptaruvinga/
+                            - link "TyAnn Osborn" [ref=f98e532] [cursor=pointer]:
+                              - /url: /in/tyannosborn/
+                            - link "Caroline Patrick MBA GAICD" [ref=f98e534] [cursor=pointer]:
+                              - /url: /in/carolinepatrick/
+                            - link "Fay Calderone" [ref=f98e536] [cursor=pointer]:
+                              - /url: /in/faycalderone/
+                            - link "Gerard Wood" [ref=f98e538] [cursor=pointer]:
+                              - /url: /in/gerard-wood-146a3212/
+                            - link "Renee Rubin Ross Ph.D" [ref=f98e540] [cursor=pointer]:
+                              - /url: /in/reneerubinross/
+                            - text: And partners
+                            - link "Lucy Raymond" [ref=f98e542] [cursor=pointer]:
+                              - /url: /in/lucy-raymond-6b5a5621/
+                            - link "Jordon Lott" [ref=f98e544] [cursor=pointer]:
+                              - /url: /in/jordonlott/
+                            - link "Natasha Gilmour" [ref=f98e546] [cursor=pointer]:
+                              - /url: /in/thekindpress/
+                            - link "Alicia Cohen" [ref=f98e548] [cursor=pointer]:
+                              - /url: /in/alicia-cohen-10110211/
+                            - link "Scott A. MacMillan" [ref=f98e550] [cursor=pointer]:
+                              - /url: /in/scottmacmillan/
+                            - link "Courtney Nicholls" [ref=f98e552] [cursor=pointer]:
+                              - /url: /in/courtney-nicholls-82964949/
+                            - text: "***I'd love to connect further, hit reply or follow the 🔔 for more tips about playful and credible writing."
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f98e553] [cursor=pointer]:
+                            - generic [ref=f98e554]: …more
+                        - article [ref=f98e555]:
+                          - generic [ref=f98e556]:
+                            - 'link "Open article: The 2̶6̶ 28 books worth reading right now by Kelly Irving • 11 min read" [ref=f98e558] [cursor=pointer]':
+                              - /url: https://www.linkedin.com/pulse/26-28-books-worth-reading-right-now-kelly-irving-vx4vc?trackingId=jGH0hCUOITNtGcfV47dY3Q%3D%3D
+                            - 'link "Open article: The 2̶6̶ 28 books worth reading right now by Kelly Irving • 11 min read" [ref=f98e562] [cursor=pointer]':
+                              - /url: https://www.linkedin.com/pulse/26-28-books-worth-reading-right-now-kelly-irving-vx4vc?trackingId=jGH0hCUOITNtGcfV47dY3Q%3D%3D
+                              - generic [ref=f98e564]:
+                                - generic [ref=f98e565]: The 2̶6̶ 28 books worth reading right now
+                                - generic [ref=f98e567]: Kelly Irving
+                        - generic [ref=f98e568]:
+                          - list [ref=f98e572]:
+                            - listitem [ref=f98e573]:
+                              - button "You and 152 others" [ref=f98e574] [cursor=pointer]:
+                                - img "like" [ref=f98e575]
+                                - img "celebrate" [ref=f98e576]
+                                - img "love" [ref=f98e577]
+                                - generic [ref=f98e578]:
+                                  - generic [aria-hidden] [ref=f98e579]: "153"
+                                  - generic [ref=f98e580]: You and 152 others
+                            - listitem [ref=f98e581]:
+                              - list [ref=f98e582]:
+                                - listitem [ref=f98e583]:
+                                  - button "64 comments on Kelly Irving’s post" [ref=f98e584] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f98e585]: 64 comments
+                                  - text: ·
+                                - listitem [ref=f98e586]:
+                                  - button "14 reposts of Kelly Irving’s post" [ref=f98e587] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f98e588]: 14 reposts
+                          - generic [ref=f98e589]:
+                            - generic [ref=f98e590]:
+                              - button "Unreact Love" [pressed] [ref=f98e591] [cursor=pointer]:
+                                - generic [ref=f98e593]:
+                                  - img "love" [ref=f98e594]
+                                  - generic [aria-hidden] [ref=f98e595]: Love
+                              - button "Open reactions menu":
+                                - generic [ref=f98e596] [cursor=pointer]
+                            - button "Comment" [ref=f98e601] [cursor=pointer]
+                            - button "Repost" [ref=f98e607] [cursor=pointer]
+                            - button "Send in a private message" [ref=f98e613] [cursor=pointer]:
+                              - generic [ref=f98e616]: Send
+                - listitem [ref=f98e618]:
+                  - article [ref=f98e623]:
+                    - generic [ref=f98e625]:
+                      - heading "Feed post number 3" [level=2] [ref=f98e626]
+                      - generic [ref=f98e627]:
+                        - generic [ref=f98e628]:
+                          - generic [ref=f98e630]:
+                            - link "View Andrew Sloan’s graphic link" [ref=f98e631] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/andrewwilliamsloan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAANBfocBq9yr-zJnygq2vBKrjDSlwc9-BaA
+                              - img "View Andrew Sloan’s graphic link" [ref=f98e635]
+                            - generic [ref=f98e636]:
+                              - 'link "View: Andrew Sloan Verified • 1st Integrated psychotherapist, leadership coach, keynote speaker and author: Leading you towards higher levels of Self Leadership." [ref=f98e637] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/andrewwilliamsloan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAANBfocBq9yr-zJnygq2vBKrjDSlwc9-BaA
+                                - generic [ref=f98e638]:
+                                  - generic [ref=f98e639]: Andrew Sloan
+                                  - generic [ref=f98e642]: • 1st
+                                - generic [ref=f98e646]: "Integrated psychotherapist, leadership coach, keynote speaker and author: Leading you towards higher levels of Self Leadership."
+                              - generic [ref=f98e648]: 8mo •
+                          - button "Open control menu for post by Andrew Sloan" [ref=f98e656] [cursor=pointer]
+                        - generic [ref=f98e660]:
+                          - generic [ref=f98e663]:
+                            - text: "Stop trying to fix yourself with \"kale-infused protein smoothies and wishful thinking.\" 🥬You can't green-juice your way out of a system that is rigged against your nervous system.If you feel stuck and burnt out, you don't need a detox. You need a System Override. 🛠️Why Things Feel F*cked is the practical manual for navigating a world that refuses to slow down. It’s the roadmap to finding connection and finally unf*cking your life.Grab your copy now:"
+                            - link "www.whythingsfeelfcked.com" [ref=f98e664] [cursor=pointer]:
+                              - /url: http://www.whythingsfeelfcked.com
+                            - link "hashtag WhyThingsFeelFcked" [ref=f98e665] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=%23whythingsfeelfcked&origin=HASH_TAG_FROM_FEED
+                              - generic [ref=f98e666]: hashtag
+                              - generic [ref=f98e667]: "#WhyThingsFeelFcked"
+                            - link "hashtag AndrewSloan" [ref=f98e668] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=%23andrewsloan&origin=HASH_TAG_FROM_FEED
+                              - generic [ref=f98e669]: hashtag
+                              - generic [ref=f98e670]: "#AndrewSloan"
+                            - link "hashtag wellness" [ref=f98e671] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=%23wellness&origin=HASH_TAG_FROM_FEED
+                              - generic [ref=f98e672]: hashtag
+                              - generic [ref=f98e673]: "#wellness"
+                            - link "hashtag mentalhealth" [ref=f98e674] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=%23mentalhealth&origin=HASH_TAG_FROM_FEED
+                              - generic [ref=f98e675]: hashtag
+                              - generic [ref=f98e676]: "#mentalhealth"
+                            - link "hashtag selfleadership" [ref=f98e677] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=%23selfleadership&origin=HASH_TAG_FROM_FEED
+                              - generic [ref=f98e678]: hashtag
+                              - generic [ref=f98e679]: "#selfleadership"
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f98e680] [cursor=pointer]:
+                            - generic [ref=f98e681]: …more
+                        - region "Video player" [ref=f98e686]:
+                          - generic [ref=f98e690] [cursor=pointer]
+                          - button "Play" [ref=f98e691] [cursor=pointer]
+                        - generic [ref=f98e693]:
+                          - list [ref=f98e697]:
+                            - listitem [ref=f98e698]:
+                              - button "14 reactions" [ref=f98e699] [cursor=pointer]:
+                                - img "like" [ref=f98e700]
+                                - img "funny" [ref=f98e701]
+                                - img "love" [ref=f98e702]
+                                - generic [aria-hidden] [ref=f98e703]: "14"
+                            - listitem [ref=f98e704]:
+                              - list [ref=f98e705]:
+                                - listitem [ref=f98e706]:
+                                  - button "2 comments on Andrew Sloan’s post" [ref=f98e707] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f98e708]: 2 comments
+                          - generic [ref=f98e709]:
+                            - generic [ref=f98e710]:
+                              - button "React Like" [ref=f98e711] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f98e716]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f98e717] [cursor=pointer]
+                            - button "Comment" [ref=f98e722] [cursor=pointer]
+                            - button "Repost" [ref=f98e728] [cursor=pointer]
+                            - button "Send in a private message" [ref=f98e734] [cursor=pointer]:
+                              - generic [ref=f98e737]: Send
+                - listitem [ref=f98e739]:
+                  - article [ref=f98e744]:
+                    - generic [ref=f98e746]:
+                      - heading "Feed post number 4" [level=2] [ref=f98e747]
+                      - generic [ref=f98e748]:
+                        - generic [ref=f98e749]:
+                          - generic [ref=f98e751]:
+                            - link "View Andrew Sloan’s graphic link" [ref=f98e752] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/andrewwilliamsloan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAANBfocBq9yr-zJnygq2vBKrjDSlwc9-BaA
+                              - img "View Andrew Sloan’s graphic link" [ref=f98e756]
+                            - generic [ref=f98e757]:
+                              - 'link "View: Andrew Sloan Verified • 1st Integrated psychotherapist, leadership coach, keynote speaker and author: Leading you towards higher levels of Self Leadership." [ref=f98e758] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/andrewwilliamsloan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAANBfocBq9yr-zJnygq2vBKrjDSlwc9-BaA
+                                - generic [ref=f98e759]:
+                                  - generic [ref=f98e760]: Andrew Sloan
+                                  - generic [ref=f98e763]: • 1st
+                                - generic [ref=f98e767]: "Integrated psychotherapist, leadership coach, keynote speaker and author: Leading you towards higher levels of Self Leadership."
+                              - generic [ref=f98e769]: 8mo •
+                          - button "Open control menu for post by Andrew Sloan" [ref=f98e777] [cursor=pointer]
+                        - generic [ref=f98e781]:
+                          - generic [ref=f98e784]:
+                            - text: "I help people get unstuck - in their bodies, their leadership, and their lives.I’m Andrew Sloan, a psychotherapist and integrated leadership coach. For over a decade, I’ve been decoding how to navigate the chaos we are all moving through.I support individuals and leaders to cultivate real wellbeing while doing meaningful, ambitious work.Unlock and discover more here:"
+                            - link "www.whythingsfeelfcked.com" [ref=f98e785] [cursor=pointer]:
+                              - /url: http://www.whythingsfeelfcked.com
+                            - link "hashtag WhyThingsFeelFcked" [ref=f98e786] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=%23whythingsfeelfcked&origin=HASH_TAG_FROM_FEED
+                              - generic [ref=f98e787]: hashtag
+                              - generic [ref=f98e788]: "#WhyThingsFeelFcked"
+                            - link "hashtag AndrewSloan" [ref=f98e789] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=%23andrewsloan&origin=HASH_TAG_FROM_FEED
+                              - generic [ref=f98e790]: hashtag
+                              - generic [ref=f98e791]: "#AndrewSloan"
+                            - link "hashtag SelfLeadership" [ref=f98e792] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=%23selfleadership&origin=HASH_TAG_FROM_FEED
+                              - generic [ref=f98e793]: hashtag
+                              - generic [ref=f98e794]: "#SelfLeadership"
+                            - link "hashtag NervousSystem" [ref=f98e795] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=%23nervoussystem&origin=HASH_TAG_FROM_FEED
+                              - generic [ref=f98e796]: hashtag
+                              - generic [ref=f98e797]: "#NervousSystem"
+                            - link "hashtag GettingUnstuck" [ref=f98e798] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=%23gettingunstuck&origin=HASH_TAG_FROM_FEED
+                              - generic [ref=f98e799]: hashtag
+                              - generic [ref=f98e800]: "#GettingUnstuck"
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f98e801] [cursor=pointer]:
+                            - generic [ref=f98e802]: …more
+                        - region "Video player" [ref=f98e807]:
+                          - generic [ref=f98e811] [cursor=pointer]
+                          - button "Play" [ref=f98e812] [cursor=pointer]
+                        - generic [ref=f98e814]:
+                          - list [ref=f98e818]:
+                            - listitem [ref=f98e819]:
+                              - button "29 reactions" [ref=f98e820] [cursor=pointer]:
+                                - img "like" [ref=f98e821]
+                                - img "love" [ref=f98e822]
+                                - img "celebrate" [ref=f98e823]
+                                - generic [aria-hidden] [ref=f98e824]: "29"
+                            - listitem [ref=f98e825]:
+                              - list [ref=f98e826]:
+                                - listitem [ref=f98e827]:
+                                  - button "1 repost of Andrew Sloan’s post" [ref=f98e828] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f98e829]: 1 repost
+                          - generic [ref=f98e830]:
+                            - generic [ref=f98e831]:
+                              - button "React Like" [ref=f98e832] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f98e837]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f98e838] [cursor=pointer]
+                            - button "Comment" [ref=f98e843] [cursor=pointer]
+                            - button "Repost" [ref=f98e849] [cursor=pointer]
+                            - button "Send in a private message" [ref=f98e855] [cursor=pointer]:
+                              - generic [ref=f98e858]: Send
+                - listitem [ref=f98e860]:
+                  - article [ref=f98e865]:
+                    - generic [ref=f98e867]:
+                      - heading "Feed post number 5" [level=2] [ref=f98e868]
+                      - generic [ref=f98e869]:
+                        - generic [ref=f98e870]:
+                          - generic [ref=f98e872]:
+                            - link [ref=f98e873] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/andrewwilliamsloan?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAANBfocBq9yr-zJnygq2vBKrjDSlwc9-BaA
+                              - img "Andrew’s profile photo" [ref=f98e876]
+                            - generic [ref=f98e877]:
+                              - link "Andrew Sloan" [ref=f98e879] [cursor=pointer]:
+                                - /url: /in/andrewwilliamsloan/
+                              - text: reposted this
+                          - button "Open control menu for post by John Paul Wager" [ref=f98e882] [cursor=pointer]
+                          - generic [ref=f98e885]:
+                            - generic [ref=f98e886]:
+                              - link "View John Paul Wager’s graphic link" [ref=f98e887] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/in/johnpaulwager?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAARmM2wBnpzvQliGW9moJWMqk3wNYWSBhuY
+                                - generic [ref=f98e888]: John Paul Wager
+                              - generic [ref=f98e893]:
+                                - 'link "View: John Paul Wager Premium • 2nd Managing Director" [ref=f98e894] [cursor=pointer]':
+                                  - /url: https://www.linkedin.com/in/johnpaulwager?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAARmM2wBnpzvQliGW9moJWMqk3wNYWSBhuY
+                                  - generic [ref=f98e895]:
+                                    - generic [ref=f98e896]: John Paul Wager
+                                    - generic [ref=f98e899]: • 2nd
+                                  - generic [ref=f98e904]: Managing Director
+                                - link "Visit my website" [ref=f98e906] [cursor=pointer]:
+                                  - /url: https://www.nectarandco.com/
+                                - generic [ref=f98e908]: 9mo •
+                            - button "Follow John Paul Wager" [ref=f98e914] [cursor=pointer]:
+                              - generic [aria-hidden] [ref=f98e917]: Follow
+                        - generic [ref=f98e919]:
+                          - generic [ref=f98e922]:
+                            - text: A huge congrats to
+                            - link "Andrew Sloan" [ref=f98e924] [cursor=pointer]:
+                              - /url: /in/andrewwilliamsloan/
+                            - text: and the publication of his first book;
+                            - link "https://lnkd.in/ggSQYTb2" [ref=f98e925] [cursor=pointer]:
+                              - /url: https://lnkd.in/ggSQYTb2
+                            - text: "- the whole"
+                            - link "Nectar & Co" [ref=f98e926] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/company/nectar-&-co/
+                            - text: team have worked with him over the years and seeing this out in the world is a special moment. Well done mate! Thank you for trusting us. Go buy if you're wondering why things feel f*cked. Big thank you
+                            - link "Julia Agosti" [ref=f98e930] [cursor=pointer]:
+                              - /url: /in/julia-agosti/
+                            - link "Aldain Austria" [ref=f98e932] [cursor=pointer]:
+                              - /url: /in/aldainaustria/
+                            - text: for turning this around in record time pre Xmas!
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f98e933] [cursor=pointer]:
+                            - generic [ref=f98e934]: …more
+                        - generic [ref=f98e935]:
+                          - 'link "Open article: Why Things Feel F*cked - Your Guide To Getting Unstuck by Andrew Sloan - Integrated Psychotherapist and Leadership Coach by whythingsfeelfcked.com, graphic" [ref=f98e937] [cursor=pointer]':
+                            - /url: https://www.whythingsfeelfcked.com/
+                          - link "Why Things Feel F*cked - Your Guide To Getting Unstuck by Andrew Sloan - Integrated Psychotherapist and Leadership Coach" [ref=f98e942] [cursor=pointer]:
+                            - /url: https://www.whythingsfeelfcked.com/
+                            - generic [ref=f98e945]:
+                              - generic [ref=f98e946]: Why Things Feel F*cked - Your Guide To Getting Unstuck by Andrew Sloan - Integrated Psychotherapist and Leadership Coach
+                              - generic [ref=f98e948]: whythingsfeelfcked.com
+                        - generic [ref=f98e949]:
+                          - list [ref=f98e953]:
+                            - listitem [ref=f98e954]:
+                              - button "17 reactions" [ref=f98e955] [cursor=pointer]:
+                                - img "like" [ref=f98e956]
+                                - img "love" [ref=f98e957]
+                                - generic [aria-hidden] [ref=f98e958]: "17"
+                            - listitem [ref=f98e959]:
+                              - list [ref=f98e960]:
+                                - listitem [ref=f98e961]:
+                                  - button "1 repost of John Paul Wager’s post" [ref=f98e962] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f98e963]: 1 repost
+                          - generic [ref=f98e964]:
+                            - generic [ref=f98e965]:
+                              - button "React Like" [ref=f98e966] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f98e971]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f98e972] [cursor=pointer]
+                            - button "Comment" [ref=f98e977] [cursor=pointer]
+                            - button "Repost" [ref=f98e983] [cursor=pointer]
+                            - button "Send in a private message" [ref=f98e989] [cursor=pointer]:
+                              - generic [ref=f98e992]: Send
+                - listitem [ref=f98e994]
+                - listitem [ref=f98e998]
+                - listitem [ref=f98e1002]
+                - listitem [ref=f98e1006]
+                - listitem [ref=f98e1010]
+                - listitem [ref=f98e1014]
+                - listitem [ref=f98e1018]
+                - listitem [ref=f98e1022]
+                - listitem [ref=f98e1026]
+                - listitem [ref=f98e1030]
+                - listitem [ref=f98e1034]
+                - listitem [ref=f98e1038]
+                - listitem [ref=f98e1042]
+                - listitem [ref=f98e1046]
+                - listitem [ref=f98e1050]
+            - button "Show more results" [ref=f98e1056] [cursor=pointer]
+      - complementary "Interests" [ref=f98e174]:
+        - iframe [ref=f98e1059]:
+          - generic [ref=f99e3]:
+            - banner [ref=f99e4]:
+              - link [ref=f99e15] [cursor=pointer]:
+                - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=http%3A%2F%2Fwww.linkedin.com%2Fcompany%2F93233296&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg7GEliX3pX59c4zS2cWQkLT3DgiwFnlNL0fO38B1pzv8_ApabGoBPj2RTnNIsTEgcikILFExWt5SjGgayq9VK6HsXJ3XfYCJ-txXNQGH5czPdLZ17MqoaS-S5tV8e1KpHdf7V-jXD5bAa_bfCtcdTnT95Le4QT7c8mddK-9siTKGRj1Oc_H0uVTWL-mSkzran9eoEgv2kMV0s9Lk361W6MFowibTBqWxX2RxDrt8XlYFHriOuNZaONsjwdqYi3K296WddR-xMwK5jmOQ1kqK4ak-pyXFfHUJx4ccCAjJI-k1jKCSnDMIGB7YnTvUnfHc-vlFSqFKyyBGstB3kJkIuT0ewgT9vPRJNNP57Pday4Gs6mSOFoEh_NtBFO_9v8RxRSulOnPp1arXGpUW2NcdfLbEydtGvzAhfUrf12_KyCVk-oXwjznT7SJtNv0_16FmJl2GDDC4AlhM28pD6ot3WWHoeIpHXIV3FRnQFmvLQNAP_XAlXhgy0IFK_cxFyu1Eq6RzQ3GPNAYoyTWluiit87wl8WfbVH6JcKCjNfe9RwDKqDW15vuvw0Sm5sGHvBNH-QBVCziOqPUofpfaXPVkBlJZiSoTAM6Z7q0wYA1TB3HrzIzspmawzrxNzq1imaDtJSZwc4yDbF6Jk9CLcz2fhdzNI47lJmG35Sk6kNKXrqAagG_xJa05BFzxoVLHWF7KaGKtv7lkOSvulYE7g7wwCNNSH2i2_p6uHQGh6yblDGCcjpfweD3E2Cv_kkUX3yvQPYTHHsZBCwshUbqXmgwsZ7VGdxcY9Z6HLwxI-bGQZ-qg5LsFAb6TgWeKLh3rPRawiDEvFwUYPzmKVNVvfSRSbGz3oYV4Cfs28yUFrxdtTiROBnVPHC4Md9SER2l919jQlqez1MgNbAuNdrJthu_rvT6Hqri5Ow8eNbvNLPsl8JrjZx02VhRV7-vb5AIJlyTlYgTcSBploVdaFrLspZsjYFpjr58sT2uoXbL4PTs8oBmNoqGf3BtJdZJD6w4ngocrFT46Cnxh6xb0YCGnRKIx09dpLcmRvBtFkpoQ01RQb49e5OLaB6usp9WxzGjOJwJYLtUQyGAPn0gD5M9a9WJ8RRtJuJdhFbs5iNRPk2TyUw69d3lFUQvgbX0482_Cag4NtdJRvsuM9WODqrSmUN9lAEzZPWfQ2%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%22%2C%22trackingId%22%3A%223509587c-6d04-489e-9261-b8ee3d090470%22%7D%2C%22time%22%3A1790672184653%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_view_base_recent_activity_content_view%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                - img "ExxonMobil Giving" [ref=f99e16]
+              - generic [ref=f99e17]:
+                - paragraph [ref=f99e18]: Promoted
+                - button "Ad Options" [ref=f99e19] [cursor=pointer]
+            - generic [ref=f99e25]:
+              - link [ref=f99e26] [cursor=pointer]:
+                - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=http%3A%2F%2Fwww.linkedin.com%2Fcompany%2F93233296&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg7GEliX3pX59c4zS2cWQkLT3DgiwFnlNL0fO38B1pzv8_ApabGoBPj2RTnNIsTEgcikILFExWt5SjGgayq9VK6HsXJ3XfYCJ-txXNQGH5czPdLZ17MqoaS-S5tV8e1KpHdf7V-jXD5bAa_bfCtcdTnT95Le4QT7c8mddK-9siTKGRj1Oc_H0uVTWL-mSkzran9eoEgv2kMV0s9Lk361W6MFowibTBqWxX2RxDrt8XlYFHriOuNZaONsjwdqYi3K296WddR-xMwK5jmOQ1kqK4ak-pyXFfHUJx4ccCAjJI-k1jKCSnDMIGB7YnTvUnfHc-vlFSqFKyyBGstB3kJkIuT0ewgT9vPRJNNP57Pday4Gs6mSOFoEh_NtBFO_9v8RxRSulOnPp1arXGpUW2NcdfLbEydtGvzAhfUrf12_KyCVk-oXwjznT7SJtNv0_16FmJl2GDDC4AlhM28pD6ot3WWHoeIpHXIV3FRnQFmvLQNAP_XAlXhgy0IFK_cxFyu1Eq6RzQ3GPNAYoyTWluiit87wl8WfbVH6JcKCjNfe9RwDKqDW15vuvw0Sm5sGHvBNH-QBVCziOqPUofpfaXPVkBlJZiSoTAM6Z7q0wYA1TB3HrzIzspmawzrxNzq1imaDtJSZwc4yDbF6Jk9CLcz2fhdzNI47lJmG35Sk6kNKXrqAagG_xJa05BFzxoVLHWF7KaGKtv7lkOSvulYE7g7wwCNNSH2i2_p6uHQGh6yblDGCcjpfweD3E2Cv_kkUX3yvQPYTHHsZBCwshUbqXmgwsZ7VGdxcY9Z6HLwxI-bGQZ-qg5LsFAb6TgWeKLh3rPRawiDEvFwUYPzmKVNVvfSRSbGz3oYV4Cfs28yUFrxdtTiROBnVPHC4Md9SER2l919jQlqez1MgNbAuNdrJthu_rvT6Hqri5Ow8eNbvNLPsl8JrjZx02VhRV7-vb5AIJlyTlYgTcSBploVdaFrLspZsjYFpjr58sT2uoXbL4PTs8oBmNoqGf3BtJdZJD6w4ngocrFT46Cnxh6xb0YCGnRKIx09dpLcmRvBtFkpoQ01RQb49e5OLaB6usp9WxzGjOJwJYLtUQyGAPn0gD5M9a9WJ8RRtJuJdhFbs5iNRPk2TyUw69d3lFUQvgbX0482_Cag4NtdJRvsuM9WODqrSmUN9lAEzZPWfQ2%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%22%2C%22trackingId%22%3A%223509587c-6d04-489e-9261-b8ee3d090470%22%7D%2C%22time%22%3A1790672184653%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_view_base_recent_activity_content_view%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                - heading "ExxonMobil Giving" [level=2] [ref=f99e27]
+              - paragraph [ref=f99e29]: Purpose-driven giving transforms communities
+              - paragraph [ref=f99e31]: Follow us
+              - generic [ref=f99e32]:
+                - generic [ref=f99e33]:
+                  - img "Kathleen" [ref=f99e34]
+                  - img "Tony" [ref=f99e35]
+                  - img "Tim •" [ref=f99e36]
+                - paragraph [ref=f99e37]: Kathleen & 63 other connections also follow
+              - link "Follow" [ref=f99e38] [cursor=pointer]:
+                - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=http%3A%2F%2Fwww.linkedin.com%2Fcompany%2F93233296%3FisFollowingPage%3Dtrue&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg7GElidu6MRr_98NceLrBPenDIuRBzrKoq41WJUKFHvz1fSDMXvsn1xlGfnAJDqYPimigwvrfGoG7xxSU7eY_Mpn3F0CsGbqvAmsw1r6vrcu4umyPBbRK_-B-oL8PPZsQwX5eQtb2ctIiwPZmrzhtzvshxaSo_w-2e1k-Ig2rPVSn8qBobjzBZEU6vcZQY4JIsUUtUHxVS08bjniFcux2NB4PzRbkz8DWLM2Xl9osNe1USDkDCy0T4ONovpqCiiTnrvXKE8WhGEtqtr96sGlzrgLIpWwuoeQUO4QfLxlfZEMW97MDM29i2sGlV3xkAlxjieKPnKM6Lj-9E-yB0jY8qofBdcobzcKnjs0Psi64HkUCOJ4ZNQkWDlKDerps5rxu6ofE3NgW_yPMJ79HYY6qb6WYVC4ZWbcFZswcGcZfqCX1lheQqWY0oTtjlPcQf5dzV5Udlv7JtEjxfMUw_JScjHJx31CSaiBuFFDSlQJu9-8vznEMYp9LrBLOLheVSVV192rFCm_zyNmMRjZnieBSsp3SzEnEaxQLS6hAH7FJFrhq1nW0PRoGN_wWSJV3tvvWnujbEz5C6lagkI82r_imEoYrBbBnrX3yERzIz5MR-SNz5-n8jfolHyJIH92OJD6thsyPSumbquborpQDK9MIiRyw4K6AwDffRJGJL1rkAIwsrGNL4yT__ubJf6bDos9cu3cdOw0CzgxnQ20SN7s_bO-Tpr5aC6zTuZG436CTyL5KywW8Tf_D3Nh3hFdsqyQ2HZulZWZ0W-iOymLVfGw3S0w45bWRbJaHQOo9iNOnzJi9S-jBKYqVw4norRfN5USRUG5i8ch7eQdRU54b_v_F5JXYEBo9jkfsW8vK9Cmr61Et0kC-_jMBN6ysTpb0AAfFsVO4CBUMD-V_SKMX8EeVBy4xtAgNRP_hUuXtQjvpED7pc7zjP68lCa54U8rC5nI62PpKDMFhZvpNQg61mL2PkkEn319yvMHgRzlypCwlT897FwEIGvz5Uyh9oliPSRqnOYtnQHnKXT_QkDP-5tVvUR1qZlqgawCtRsOtiXc3f0Ef9zobrOjABJiiazGh7B9nbgra_2UgkbiGrcMmCztzuNwxjsrTDx-_wKJwoAkNGe7wKPaGDThjvmoUT4T9rMjsGf9Z9RrgKXCwDaHyq_LqEKE7dx_xAv_FLqfCfmYp8ODrJ2I3nBH7oXgHOMktCVFh3HYiGNr5%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%22%2C%22trackingId%22%3A%2233464c75-6f99-44c8-aea6-f2281398c9ba%22%7D%2C%22time%22%3A1790672184653%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_view_base_recent_activity_content_view%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+        - generic [ref=f98e1060]:
+          - heading "People you may know" [level=2] [ref=f98e1065]
+          - generic [ref=f98e1067]:
+            - list [ref=f98e1068]:
+              - listitem [ref=f98e1069]:
+                - generic [ref=f98e1070]:
+                  - link [ref=f98e1072] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/tevin-mulavu
+                    - img "Tevin Mulavu" [ref=f98e1075]
+                  - generic [ref=f98e1076]:
+                    - link "Tevin Mulavu Helping Commercial Pilots Build Identity, Income & Options Beyond the Flight Deck • Founder, Aviator Entrepreneur Academy • Ex-Qatar Airways (B777 & B787)" [ref=f98e1078] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/tevin-mulavu?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABXopiwB2fx_ZNq_g4Zrd0x-OPIHUVRsBqI
+                      - generic [ref=f98e1079]: Tevin Mulavu
+                      - generic [ref=f98e1089]: Helping Commercial Pilots Build Identity, Income & Options Beyond the Flight Deck • Founder, Aviator Entrepreneur Academy • Ex-Qatar Airways (B777 & B787)
+                    - list [ref=f98e1095]:
+                      - listitem [ref=f98e1096]:
+                        - button "Invite Tevin Mulavu to connect" [ref=f98e1098] [cursor=pointer]:
+                          - generic [ref=f98e1101]: Connect
+              - listitem [ref=f98e1102]:
+                - generic [ref=f98e1103]:
+                  - link [ref=f98e1105] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/elizabeth-fozard-834abb437
+                    - img "Elizabeth Fozard" [ref=f98e1108]
+                  - generic [ref=f98e1109]:
+                    - link "Elizabeth Fozard Manager" [ref=f98e1111] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/elizabeth-fozard-834abb437?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAG5U8egBrO0Gi4kGLcr4vYz3qah5pDCZgzg
+                      - generic [ref=f98e1112]: Elizabeth Fozard
+                      - generic [ref=f98e1121]: Manager
+                    - list [ref=f98e1127]:
+                      - listitem [ref=f98e1128]:
+                        - button "Invite Elizabeth Fozard to connect" [ref=f98e1130] [cursor=pointer]:
+                          - generic [ref=f98e1133]: Connect
+              - listitem [ref=f98e1134]:
+                - generic [ref=f98e1135]:
+                  - link [ref=f98e1137] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/tracey-wright-26002945
+                    - img "Tracey Wright" [ref=f98e1140]
+                  - generic [ref=f98e1141]:
+                    - link "Tracey Wright Founder & Lead Facilitator | Nature, challenge & human capacity | Leadership development, workplace wellbeing & regenerative systems | Take Shape Adventures + Impact Adventures | MAPP" [ref=f98e1143] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/tracey-wright-26002945?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAlvsCgB0-d0dAdEEk2fevMuiSjLQcCxH60
+                      - generic [ref=f98e1144]: Tracey Wright
+                      - generic [ref=f98e1153]: Founder & Lead Facilitator | Nature, challenge & human capacity | Leadership development, workplace wellbeing & regenerative systems | Take Shape Adventures + Impact Adventures | MAPP
+                    - list [ref=f98e1159]:
+                      - listitem [ref=f98e1160]:
+                        - button "Invite Tracey Wright to connect" [ref=f98e1162] [cursor=pointer]:
+                          - generic [ref=f98e1165]: Connect
+              - listitem [ref=f98e1166]:
+                - generic [ref=f98e1167]:
+                  - link [ref=f98e1169] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/denis-ryan-817920432
+                    - img "Denis Ryan" [ref=f98e1172]
+                  - generic [ref=f98e1173]:
+                    - link "Denis Ryan I help businesses find and fix revenue leaks using AI-powered audits and done-for-you campaigns. Click my website link below and get a free revenue scan on your business with actionable solutions." [ref=f98e1175] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/denis-ryan-817920432?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAG1qMpMB9_gWr21iHtZkTKnd6nmaEQuX_IE
+                      - generic [ref=f98e1176]: Denis Ryan
+                      - generic [ref=f98e1185]: I help businesses find and fix revenue leaks using AI-powered audits and done-for-you campaigns. Click my website link below and get a free revenue scan on your business with actionable solutions.
+                    - list [ref=f98e1191]:
+                      - listitem [ref=f98e1192]:
+                        - button "Invite Denis Ryan to connect" [ref=f98e1194] [cursor=pointer]:
+                          - generic [ref=f98e1197]: Connect
+              - listitem [ref=f98e1198]:
+                - generic [ref=f98e1199]:
+                  - link [ref=f98e1201] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/leelacosgrove
+                    - img "Leela Cosgrove" [ref=f98e1204]
+                  - generic [ref=f98e1205]:
+                    - 'link "Leela Cosgrove CEO. Investor. Business Witch. High Priestess of the Marketing Rebellion: Stop Marketing Like a Boomer." [ref=f98e1207] [cursor=pointer]':
+                      - /url: https://www.linkedin.com/in/leelacosgrove?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAABZC5kBMXj0gXPzPxC1yYe8SuIs_aLyaVc
+                      - generic [ref=f98e1208]: Leela Cosgrove
+                      - generic [ref=f98e1213]: "CEO. Investor. Business Witch. High Priestess of the Marketing Rebellion: Stop Marketing Like a Boomer."
+                    - list [ref=f98e1219]:
+                      - listitem [ref=f98e1220]:
+                        - button "Invite Leela Cosgrove to connect" [ref=f98e1222] [cursor=pointer]:
+                          - generic [ref=f98e1225]: Connect
+            - button "Show more" [ref=f98e1228] [cursor=pointer]
+        - generic "LinkedIn Footer Content" [ref=f98e236]:
+          - generic [ref=f98e237]:
+            - list [ref=f98e1233]:
+              - listitem [ref=f98e1234]:
+                - link "About" [ref=f98e1235] [cursor=pointer]:
+                  - /url: https://about.linkedin.com/
+              - listitem [ref=f98e1237]:
+                - link "Accessibility" [ref=f98e1238] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/accessibility
+              - listitem [ref=f98e1240]:
+                - link "Help Center" [ref=f98e1241] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin?trk=footer_d_flagship3_profile_view_base_recent_activity_content_view
+              - listitem [ref=f98e1243]:
+                - button "Privacy & Terms" [ref=f98e1245] [cursor=pointer]
+              - listitem [ref=f98e1250]:
+                - link "Ad Choices" [ref=f98e1251] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin/answer/62931
+              - listitem [ref=f98e1253]:
+                - link "Advertising" [ref=f98e1254] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/ad/start?trk=n_nav_ads_rr
+              - listitem [ref=f98e1256]:
+                - button "Business Services" [ref=f98e1258] [cursor=pointer]
+              - listitem [ref=f98e1263]:
+                - button "Get the LinkedIn app" [ref=f98e1266] [cursor=pointer]
+              - listitem [ref=f98e1267]:
+                - button "More options" [ref=f98e1268] [cursor=pointer]: More
+            - generic [ref=f98e238]:
+              - img "LinkedIn" [ref=f98e239]
+              - text: LinkedIn Corporation © 2026
+    - generic:
+      - generic:
+        - complementary:
+          - generic [ref=f98e242]:
+            - generic [ref=f98e243]:
+              - generic [ref=f98e245] [cursor=pointer]:
+                - img "Kelly Irving" [ref=f98e247]
+                - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f98e248]:
+                  - generic [ref=f98e249]:
+                    - generic [aria-hidden] [ref=f98e250]: Messaging
+                    - generic [ref=f98e251]: You are on the messaging overlay. Press enter to open the list of conversations.
+              - generic [ref=f98e252]:
+                - button [ref=f98e254] [cursor=pointer]:
+                  - img "Open messenger dropdown menu" [ref=f98e255]
+                - button "Compose message" [ref=f98e258] [cursor=pointer]
+                - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f98e262] [cursor=pointer]
+            - generic [ref=f98e1269]:
+              - heading "Page inboxes" [level=3] [ref=f98e1271]
+              - generic [ref=f98e1272] [cursor=pointer]:
+                - generic [ref=f98e1273]: Click to see affiliated inboxes
+                - button "Page inboxes" [ref=f98e1274]
+          - dialog "Messaging" [ref=f98e1277]:
+            - generic [ref=f98e1278]:
+              - generic [ref=f98e1279] [cursor=pointer]:
+                - generic [ref=f98e1281]:
+                  - img "Rebecca Wu FCPA MBA" [ref=f98e1284]
+                  - heading "Rebecca Wu FCPA MBA" [active] [level=2] [ref=f98e1286]
+                - button "Close your conversation with Kelly Irving and Rebecca Wu FCPA MBA" [ref=f98e1288]
+              - generic [ref=f98e1293]:
+                - list [ref=f98e1298]:
+                  - listitem
+                  - listitem [ref=f98e1299]:
+                    - time [ref=f98e1300]: Monday
+                    - generic [ref=f98e1301]: Kelly Irving sent the following message at 7:20 PM
+                    - generic [ref=f98e1302]:
+                      - link "View Kelly’s profile Kelly Irving" [ref=f98e1303] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                        - generic [ref=f98e1304]: View Kelly’s profile
+                        - img "Kelly Irving" [ref=f98e1305]
+                      - generic [ref=f98e1306]:
+                        - generic [ref=f98e1307]:
+                          - link "Kelly Irving" [ref=f98e1308] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/in/ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                          - img "LinkedIn Premium" [ref=f98e1310]
+                        - time [ref=f98e1313]: • 7:20 PM
+                      - generic [ref=f98e1315]:
+                        - paragraph [ref=f98e1317]: Hey Rebecca I see you followed the Expert Author Community page. Let's connect. Kx
+                        - generic "Sent at 9/28/2026, 7:20 PM" [ref=f98e1318]
+                  - listitem [ref=f98e1321]:
+                    - generic [ref=f98e1322]: Rebecca Wu FCPA MBA sent the following messages at 7:21 PM
+                    - generic [ref=f98e1323]:
+                      - link "View Rebecca’s profile Rebecca Wu FCPA MBA" [ref=f98e1324] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/ACoAAB8MZ0AB-SavupTWqDuL_26Fz293G3anTX4
+                        - generic [ref=f98e1325]: View Rebecca’s profile
+                        - img "Rebecca Wu FCPA MBA" [ref=f98e1326]
+                      - generic [ref=f98e1327]:
+                        - link "Rebecca Wu FCPA MBA" [ref=f98e1329] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/ACoAAB8MZ0AB-SavupTWqDuL_26Fz293G3anTX4
+                        - time [ref=f98e1331]: • 7:21 PM
+                      - paragraph [ref=f98e1335]: I'm happy to connect
+                      - list [ref=f98e1336]:
+                        - listitem [ref=f98e1337]:
+                          - button "Remove reaction 👍 1" [pressed] [ref=f98e1338] [cursor=pointer]:
+                            - generic [ref=f98e1339]:
+                              - generic [ref=f98e1340]: Remove reaction
+                              - generic: 👍
+                              - generic: "1"
+                        - listitem [ref=f98e1341]:
+                          - button "Open Emoji Keyboard" [ref=f98e1344] [cursor=pointer]
+                  - listitem [ref=f98e1345]
+                  - listitem [ref=f98e1346]:
+                    - generic [ref=f98e1347]:
+                      - button "Scroll quick replies left" [disabled] [ref=f98e1348]
+                      - list [ref=f98e1349]:
+                        - listitem [ref=f98e1350]:
+                          - button "Reply to conversation with “That's great”" [ref=f98e1351] [cursor=pointer]:
+                            - generic [aria-hidden]: That's great
+                        - listitem [ref=f98e1353]:
+                          - button "Reply to conversation with “Same here”" [ref=f98e1354] [cursor=pointer]:
+                            - generic [aria-hidden]: Same here
+                        - listitem [ref=f98e1356]:
+                          - button "Reply to conversation with “Thanks”" [ref=f98e1357] [cursor=pointer]:
+                            - generic [aria-hidden]: Thanks
+                      - button "Scroll quick replies right" [ref=f98e1359] [cursor=pointer]
+                  - listitem
+                - generic [ref=f98e1363]:
+                  - generic [ref=f98e1364]:
+                    - generic [ref=f98e1366]:
+                      - textbox "Write a message…" [ref=f98e1367]:
+                        - paragraph [ref=f98e1368]
+                      - text: Write a message…
+                    - button "Maximize compose field" [ref=f98e1370] [cursor=pointer]
+                  - generic [ref=f98e1374]:
+                    - generic [ref=f98e1375]:
+                      - button "Attach an image to your conversation with Rebecca Wu FCPA MBA" [ref=f98e1377] [cursor=pointer]
+                      - button "Attach a file to your conversation with Rebecca Wu FCPA MBA" [ref=f98e1382] [cursor=pointer]
+                      - button "Open GIF Keyboard" [ref=f98e1387] [cursor=pointer]
+                      - button "Open Emoji Keyboard" [ref=f98e1393] [cursor=pointer]
+                    - generic [ref=f98e1395]:
+                      - generic [ref=f98e1396]: Press Enter to Send
+                      - button "Open send options" [ref=f98e1400] [cursor=pointer]
+        - complementary "AI-powered assistant to get help with your career, jobs etc"
+  - region [ref=f98e266]

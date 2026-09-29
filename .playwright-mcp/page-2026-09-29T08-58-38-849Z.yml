@@ -1,0 +1,103 @@
+- generic [active] [ref=f181e1]:
+  - generic:
+    - region "Toast message":
+      - heading "0 notifications total" [level=2] [ref=f181e3]
+      - alert
+  - generic [ref=f181e4]:
+    - generic [ref=f181e6]:
+      - button "Skip to search" [ref=f181e7] [cursor=pointer]
+      - button "Skip to main content" [ref=f181e9] [cursor=pointer]
+      - button "Keyboard shortcuts" [ref=f181e11] [cursor=pointer]
+      - button "Close jump menu" [ref=f181e13] [cursor=pointer]
+    - banner "Global Navigation" [ref=f181e17]:
+      - generic [ref=f181e18]:
+        - link [ref=f181e19] [cursor=pointer]:
+          - /url: https://www.linkedin.com/feed/?nis=true
+          - img "LinkedIn" [ref=f181e22]
+        - combobox "I’m looking for..." [ref=f181e28]
+        - navigation "Primary Navigation" [ref=f181e29]:
+          - list [ref=f181e30]:
+            - listitem [ref=f181e31]:
+              - link "new feed updates notifications Home" [ref=f181e32] [cursor=pointer]:
+                - /url: https://www.linkedin.com/feed/?nis=true&
+                - generic [ref=f181e33]: new feed updates notifications
+                - generic "Home" [ref=f181e42]
+            - listitem [ref=f181e43]:
+              - link "38 new network updates notifications My Network" [ref=f181e44] [cursor=pointer]:
+                - /url: https://www.linkedin.com/mynetwork/?
+                - generic [ref=f181e46]:
+                  - generic [aria-hidden] [ref=f181e47]: "38"
+                  - generic [ref=f181e48]: 38 new network updates notifications
+                - generic "My Network" [ref=f181e54]
+            - listitem [ref=f181e55]:
+              - link "Jobs" [ref=f181e56] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/?
+            - listitem [ref=f181e63]:
+              - link "Messaging" [ref=f181e64] [cursor=pointer]:
+                - /url: https://www.linkedin.com/messaging/?
+            - listitem [ref=f181e71]:
+              - link "9 new notifications Notifications" [ref=f181e72] [cursor=pointer]:
+                - /url: https://www.linkedin.com/notifications/?
+                - generic [ref=f181e74]:
+                  - generic [aria-hidden] [ref=f181e75]: "9"
+                  - generic [ref=f181e76]: 9 new notifications
+                - generic "Notifications" [ref=f181e82]
+            - listitem [ref=f181e83]:
+              - button [ref=f181e85] [cursor=pointer]:
+                - img "Kelly Irving" [ref=f181e86]
+                - generic [ref=f181e87]: Me
+            - listitem [ref=f181e90]:
+              - button "For Business" [ref=f181e92] [cursor=pointer]
+            - listitem [ref=f181e101]:
+              - link "3 new Campaign Manager notifications Advertise" [ref=f181e102] [cursor=pointer]:
+                - /url: https://www.linkedin.com/campaignmanager/accounts?shouldShowNotificationPanelOnRender=true
+                - generic [ref=f181e104]:
+                  - generic [aria-hidden] [ref=f181e105]: "3"
+                  - generic [ref=f181e106]: 3 new Campaign Manager notifications
+                - generic "Advertise" [ref=f181e113]
+    - generic [ref=f181e119]:
+      - complementary [ref=f181e120]:
+        - generic [ref=f181e123]:
+          - img "PREMIUM" [ref=f181e128]
+          - link [ref=f181e132] [cursor=pointer]:
+            - /url: /in/gabrielledolan/
+            - img "Gabrielle Dolan" [ref=f181e133]
+          - generic [ref=f181e134]:
+            - link [ref=f181e135] [cursor=pointer]:
+              - /url: /in/gabrielledolan/
+              - heading [level=3] [ref=f181e136]:
+                - text: Gabrielle Dolan
+                - img "Gabrielle Dolan is a Premium member" [ref=f181e138]
+            - heading "Helping leaders communicate with impact through storytelling | Bestselling Author | Keynote Speaker I Podcast host - Keeping It Real with Jac & Ral. 🕸️gabrielledolan.com" [level=4] [ref=f181e141]
+          - generic [ref=f181e143]:
+            - generic [ref=f181e144]:
+              - generic [ref=f181e145]: Followers
+              - generic [ref=f181e146]: 25,125
+            - button "Message Gabrielle" [ref=f181e149] [cursor=pointer]:
+              - generic [ref=f181e150]: Message
+      - main [ref=f181e151]:
+        - separator [ref=f181e176]
+      - complementary "Interests" [ref=f181e184]:
+        - generic "LinkedIn Footer Content" [ref=f181e246]:
+          - generic [ref=f181e247]:
+            - list
+            - generic [ref=f181e248]:
+              - img "LinkedIn" [ref=f181e249]
+              - text: LinkedIn Corporation © 2026
+    - generic:
+      - generic:
+        - complementary:
+          - generic [ref=f181e253]:
+            - generic [ref=f181e255] [cursor=pointer]:
+              - img "Kelly Irving" [ref=f181e257]
+              - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f181e258]:
+                - generic [ref=f181e259]:
+                  - generic [aria-hidden] [ref=f181e260]: Messaging
+                  - generic [ref=f181e261]: You are on the messaging overlay. Press enter to open the list of conversations.
+            - generic [ref=f181e262]:
+              - button [ref=f181e264] [cursor=pointer]:
+                - img "Open messenger dropdown menu" [ref=f181e265]
+              - button "Compose message" [ref=f181e268] [cursor=pointer]
+              - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f181e272] [cursor=pointer]
+        - complementary "AI-powered assistant to get help with your career, jobs etc"
+  - region [ref=f181e276]: You have recevied a new message. Use heading navigation to jump to Messaging dialog.

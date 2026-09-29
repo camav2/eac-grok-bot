@@ -1,0 +1,662 @@
+- generic [ref=f207e1]:
+  - generic:
+    - region "Toast message":
+      - heading "1 notification total" [level=2] [ref=f207e1345]
+      - alert:
+        - generic [ref=f207e1346]:
+          - paragraph [ref=f207e1351]:
+            - generic [ref=f207e1352]: Link copied to clipboard.
+            - link "View post" [ref=f207e1353] [cursor=pointer]:
+              - /url: https://www.linkedin.com/posts/drpaigewilliams_leadership-in-the-age-of-ai-activity-7508287763969118208-W8Ai?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+          - button "Dismiss “Link copied to clipboard.” notification 1 of 1." [ref=f207e1354] [cursor=pointer]:
+            - generic [ref=f207e1357]: Dismiss
+  - generic [ref=f207e4]:
+    - generic [ref=f207e6]:
+      - button "Skip to search" [ref=f207e7] [cursor=pointer]
+      - button "Skip to main content" [ref=f207e9] [cursor=pointer]
+      - button "Keyboard shortcuts" [ref=f207e11] [cursor=pointer]
+      - button "Close jump menu" [ref=f207e13] [cursor=pointer]
+    - banner "Global Navigation" [ref=f207e17]:
+      - generic [ref=f207e18]:
+        - link [ref=f207e19] [cursor=pointer]:
+          - /url: https://www.linkedin.com/feed/?nis=true
+          - img "LinkedIn" [ref=f207e22]
+        - combobox "I’m looking for..." [ref=f207e28]
+        - navigation "Primary Navigation" [ref=f207e29]:
+          - list [ref=f207e30]:
+            - listitem [ref=f207e31]:
+              - link "new feed updates notifications Home" [ref=f207e32] [cursor=pointer]:
+                - /url: https://www.linkedin.com/feed/?nis=true&
+                - generic [ref=f207e33]: new feed updates notifications
+                - generic "Home" [ref=f207e42]
+            - listitem [ref=f207e43]:
+              - link "38 new network updates notifications My Network" [ref=f207e44] [cursor=pointer]:
+                - /url: https://www.linkedin.com/mynetwork/?
+                - generic [ref=f207e46]:
+                  - generic [aria-hidden] [ref=f207e47]: "38"
+                  - generic [ref=f207e48]: 38 new network updates notifications
+                - generic "My Network" [ref=f207e54]
+            - listitem [ref=f207e55]:
+              - link "Jobs" [ref=f207e56] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/?
+            - listitem [ref=f207e63]:
+              - link "Messaging" [ref=f207e64] [cursor=pointer]:
+                - /url: https://www.linkedin.com/messaging/?
+            - listitem [ref=f207e71]:
+              - link "9 new notifications Notifications" [ref=f207e72] [cursor=pointer]:
+                - /url: https://www.linkedin.com/notifications/?
+                - generic [ref=f207e74]:
+                  - generic [aria-hidden] [ref=f207e75]: "9"
+                  - generic [ref=f207e76]: 9 new notifications
+                - generic "Notifications" [ref=f207e82]
+            - listitem [ref=f207e83]:
+              - button [ref=f207e85] [cursor=pointer]:
+                - img "Kelly Irving" [ref=f207e86]
+                - generic [ref=f207e87]: Me
+            - listitem [ref=f207e90]:
+              - button "For Business" [ref=f207e92] [cursor=pointer]
+            - listitem [ref=f207e101]:
+              - link "3 new Campaign Manager notifications Advertise" [ref=f207e102] [cursor=pointer]:
+                - /url: https://www.linkedin.com/campaignmanager/accounts?shouldShowNotificationPanelOnRender=true
+                - generic [ref=f207e104]:
+                  - generic [aria-hidden] [ref=f207e105]: "3"
+                  - generic [ref=f207e106]: 3 new Campaign Manager notifications
+                - generic "Advertise" [ref=f207e113]
+    - generic [ref=f207e119]:
+      - complementary [ref=f207e120]:
+        - generic [ref=f207e123]:
+          - img "PREMIUM" [ref=f207e128]
+          - link [ref=f207e132] [cursor=pointer]:
+            - /url: /in/drpaigewilliams/
+            - img "Dr Paige Williams" [ref=f207e133]
+          - generic [ref=f207e134]:
+            - link [ref=f207e135] [cursor=pointer]:
+              - /url: /in/drpaigewilliams/
+              - heading [level=3] [ref=f207e136]:
+                - text: Dr Paige Williams
+                - img "Dr Paige Williams is a Premium member" [ref=f207e138]
+            - heading "Leadership in moments that matter" [level=4] [ref=f207e141]
+          - button "Message Dr Paige" [ref=f207e149] [cursor=pointer]:
+            - generic [ref=f207e150]: Message
+      - main [ref=f207e151]:
+        - generic [ref=f207e277]:
+          - heading "All activity" [level=2] [ref=f207e278]
+          - group "Select type of recent activity" [ref=f207e281]:
+            - button "Posts" [pressed] [ref=f207e282] [cursor=pointer]
+            - button "Comments" [ref=f207e284] [cursor=pointer]
+            - button "Videos" [ref=f207e286] [cursor=pointer]
+            - button "Images" [ref=f207e288] [cursor=pointer]
+            - button "More" [ref=f207e290] [cursor=pointer]
+          - generic [ref=f207e296]:
+            - generic [ref=f207e297]:
+              - generic [ref=f207e298]: Loaded 20 Posts posts
+              - list [ref=f207e299]:
+                - listitem [ref=f207e300]:
+                  - article [ref=f207e305]:
+                    - generic [ref=f207e307]:
+                      - heading "Feed post number 1" [level=2] [ref=f207e308]
+                      - generic [ref=f207e309]:
+                        - generic [ref=f207e310]:
+                          - generic [ref=f207e312]:
+                            - link "View Dr Paige Williams’ graphic link" [ref=f207e313] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/drpaigewilliams?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAARhD28BsbUPToMlmCQsWfcY9jpSfjLMZQ0
+                              - img "View Dr Paige Williams’ graphic link" [ref=f207e317]
+                            - generic [ref=f207e318]:
+                              - 'link "View: Dr Paige Williams Premium • 1st Leadership in moments that matter" [ref=f207e319] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/drpaigewilliams?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAARhD28BsbUPToMlmCQsWfcY9jpSfjLMZQ0
+                                - generic [ref=f207e320]:
+                                  - generic [ref=f207e321]: Dr Paige Williams
+                                  - generic [ref=f207e324]: • 1st
+                                - generic [ref=f207e329]: Leadership in moments that matter
+                              - link "Visit my website" [ref=f207e331] [cursor=pointer]:
+                                - /url: http://www.drpaige.au
+                              - generic [ref=f207e333]: 1d •
+                          - button "Open control menu for post by Dr Paige Williams" [ref=f207e341] [cursor=pointer]
+                        - generic [ref=f207e345]:
+                          - generic [ref=f207e348]:
+                            - text: "What are we training people not to do?AI is already changing how work gets done.The less obvious question is what that means for how capability gets built.A junior lawyer who once had to work through a body of material may now begin with a synthesis.A manager who once had to structure an argument may now begin with a draft.A consultant who once had to generate possibilities may now begin with a set of options.In each case, the work may be faster and the output may be better.But some of that work was also how people learned.This is where I think leaders need to become more deliberate.When we redesign work around AI, we are also redesigning the experiences through which judgement, expertise and confidence develop.That doesn’t mean protecting every task simply because humans used to do it.It means asking: \"Which experiences are still important because of what they build in the person?\"And: \"What new experiences do we need to create if AI now does part of that work for us?\"These are not abstract questions. They shape succession, readiness, expertise and the quality of judgement available to an organisation over time.They are also at the heart of my work on Stewardship of Human Capability.The leadership challenge is to use AI to extend capability without quietly removing the experiences through which capability develops. That is one of the central conversations in my Leadership in the Age of AI keynote and leadership sessions.If this is becoming a live issue in your organisation, you can explore the work here:"
+                            - link "https://lnkd.in/dr3KizBy" [ref=f207e349] [cursor=pointer]:
+                              - /url: https://lnkd.in/dr3KizBy
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f207e350] [cursor=pointer]:
+                            - generic [ref=f207e351]: …more
+                        - generic [ref=f207e352]:
+                          - 'link "Open article: Leadership in the Age of AI by drpaige.au, Leadershipaisocialpreview, graphic" [ref=f207e354] [cursor=pointer]':
+                            - /url: https://drpaige.au/leadership-ai
+                            - img "Leadershipaisocialpreview" [ref=f207e357]
+                          - link "Leadership in the Age of AI" [ref=f207e360] [cursor=pointer]:
+                            - /url: https://drpaige.au/leadership-ai
+                            - generic [ref=f207e363]:
+                              - generic [ref=f207e364]: Leadership in the Age of AI
+                              - generic [ref=f207e366]: drpaige.au
+                        - generic [ref=f207e368]:
+                          - generic [ref=f207e369]:
+                            - button "React Like" [ref=f207e370] [cursor=pointer]:
+                              - generic [aria-hidden] [ref=f207e375]: Like
+                            - button "Open reactions menu":
+                              - generic [ref=f207e376] [cursor=pointer]
+                          - button "Comment" [ref=f207e381] [cursor=pointer]
+                          - button "Repost" [ref=f207e387] [cursor=pointer]
+                          - button "Send in a private message" [ref=f207e393] [cursor=pointer]:
+                            - generic [ref=f207e396]: Send
+                - listitem [ref=f207e398]:
+                  - article [ref=f207e403]:
+                    - generic [ref=f207e405]:
+                      - heading "Feed post number 2" [level=2] [ref=f207e406]
+                      - generic [ref=f207e407]:
+                        - generic [ref=f207e408]:
+                          - generic [ref=f207e410]:
+                            - link "View Dr Paige Williams’ graphic link" [ref=f207e411] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/drpaigewilliams?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAARhD28BsbUPToMlmCQsWfcY9jpSfjLMZQ0
+                              - img "View Dr Paige Williams’ graphic link" [ref=f207e415]
+                            - generic [ref=f207e416]:
+                              - 'link "View: Dr Paige Williams Premium • 1st Leadership in moments that matter" [ref=f207e417] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/drpaigewilliams?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAARhD28BsbUPToMlmCQsWfcY9jpSfjLMZQ0
+                                - generic [ref=f207e418]:
+                                  - generic [ref=f207e419]: Dr Paige Williams
+                                  - generic [ref=f207e422]: • 1st
+                                - generic [ref=f207e427]: Leadership in moments that matter
+                              - link "Visit my website" [ref=f207e429] [cursor=pointer]:
+                                - /url: http://www.drpaige.au
+                              - generic [ref=f207e431]: 6d •
+                          - button "Open control menu for post by Dr Paige Williams" [active] [ref=f207e439] [cursor=pointer]
+                        - generic [ref=f207e443]:
+                          - generic [ref=f207e446]:
+                            - text: "When is the choice still ours?A human can be “in the loop” and still exercise very little agency.Imagine a consequential decision.AI helps define the problem.It analyses the information.It generates the options.It compares them.It models the consequences.It recommends a course of action.A leader reviews the recommendation and approves it.The decision is technically human.But how much of the decision did the human actually author?This is one of the questions I’m exploring with leadership teams in my Leadership in the Age of AI work.Because as AI becomes better at helping us decide, leaders need to become much more deliberate about where human authorship still matters.There will be plenty of decisions where accepting a strong AI recommendation is entirely sensible.There are others that allocate resources, affect people, establish priorities, express organisational values or create commitments we will have to live with.In those moments, approval may not be enough.Someone needs to be able to say:\"This is what I believe we should do. And I understand why.\"AI can make that position better informed. It can challenge it, strengthen it and expose what we have missed. But if people repeatedly enter the decision-making process only after the problem has been framed, the options generated and the preferred answer proposed, we should pay attention to what they are becoming less practised at doing.Because capability develops partly through use.That creates a very practical leadership question:Where in your organisation does meaningful human authorship still matter?It’s one of the questions at the centre of my keynote and leadership sessions on Leadership in the Age of AI.If that is a conversation your leaders need to be having, you can explore the work here:"
+                            - link "https://lnkd.in/dr3KizBy" [ref=f207e447] [cursor=pointer]:
+                              - /url: https://lnkd.in/dr3KizBy
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f207e448] [cursor=pointer]:
+                            - generic [ref=f207e449]: …more
+                        - generic [ref=f207e450]:
+                          - 'link "Open article: Leadership in the Age of AI by drpaige.au, Leadershipaisocialpreview, graphic" [ref=f207e452] [cursor=pointer]':
+                            - /url: https://drpaige.au/leadership-ai
+                            - img "Leadershipaisocialpreview" [ref=f207e455]
+                          - link "Leadership in the Age of AI" [ref=f207e458] [cursor=pointer]:
+                            - /url: https://drpaige.au/leadership-ai
+                            - generic [ref=f207e461]:
+                              - generic [ref=f207e462]: Leadership in the Age of AI
+                              - generic [ref=f207e464]: drpaige.au
+                        - generic [ref=f207e465]:
+                          - list [ref=f207e1266]:
+                            - listitem [ref=f207e1267]:
+                              - button "1 reaction" [ref=f207e1268] [cursor=pointer]:
+                                - img "like" [ref=f207e1269]
+                                - generic [aria-hidden] [ref=f207e1270]: "1"
+                          - generic [ref=f207e466]:
+                            - generic [ref=f207e467]:
+                              - button "Unreact Like" [pressed] [ref=f207e1271] [cursor=pointer]:
+                                - generic [ref=f207e470]:
+                                  - img "like" [ref=f207e1272]
+                                  - generic [aria-hidden] [ref=f207e473]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f207e474] [cursor=pointer]
+                            - button "Comment" [ref=f207e479] [cursor=pointer]
+                            - button "Repost" [ref=f207e485] [cursor=pointer]
+                            - button "Send in a private message" [ref=f207e491] [cursor=pointer]:
+                              - generic [ref=f207e494]: Send
+                      - generic [ref=f207e1276]:
+                        - img "Kelly Irving" [ref=f207e1278]
+                        - generic [ref=f207e1281]:
+                          - generic [ref=f207e1285]:
+                            - textbox "Text editor for creating content" [ref=f207e1287]:
+                              - paragraph [ref=f207e1288]
+                              - text: Add a comment…
+                            - generic [aria-hidden] [ref=f207e1289]: Add a comment…
+                          - generic [ref=f207e1291]:
+                            - button "Open Emoji Keyboard" [ref=f207e1294] [cursor=pointer]
+                            - button "Add a photo" [ref=f207e1297] [cursor=pointer]
+                - listitem [ref=f207e496]:
+                  - article [ref=f207e501]:
+                    - generic [ref=f207e503]:
+                      - heading "Feed post number 3" [level=2] [ref=f207e504]
+                      - generic [ref=f207e505]:
+                        - generic [ref=f207e506]:
+                          - generic [ref=f207e508]:
+                            - link "View Dr Paige Williams’ graphic link" [ref=f207e509] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/drpaigewilliams?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAARhD28BsbUPToMlmCQsWfcY9jpSfjLMZQ0
+                              - img "View Dr Paige Williams’ graphic link" [ref=f207e513]
+                            - generic [ref=f207e514]:
+                              - 'link "View: Dr Paige Williams Premium • 1st Leadership in moments that matter" [ref=f207e515] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/drpaigewilliams?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAARhD28BsbUPToMlmCQsWfcY9jpSfjLMZQ0
+                                - generic [ref=f207e516]:
+                                  - generic [ref=f207e517]: Dr Paige Williams
+                                  - generic [ref=f207e520]: • 1st
+                                - generic [ref=f207e525]: Leadership in moments that matter
+                              - link "Visit my website" [ref=f207e527] [cursor=pointer]:
+                                - /url: http://www.drpaige.au
+                              - generic [ref=f207e529]: 1w •
+                          - button "Open control menu for post by Dr Paige Williams" [ref=f207e537] [cursor=pointer]
+                        - generic [ref=f207e541]:
+                          - generic [ref=f207e542]: "Groupthink is a familiar risk in collective decision-making. But AI is changing what happens before people enter the room.This edition of Moments that Matter looks at two emerging risks and asks a question that may matter more as AI becomes part of how we prepare, reason and decide: are we still willing to be changed by the experience of meeting with other people?"
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f207e545] [cursor=pointer]:
+                            - generic [ref=f207e546]: …more
+                        - article [ref=f207e547]:
+                          - generic [ref=f207e548]:
+                            - 'link "Open article: Think Risk by Dr Paige Williams • 3 min read" [ref=f207e550] [cursor=pointer]':
+                              - /url: https://www.linkedin.com/pulse/think-risk-dr-paige-williams-c4mtf?trackingId=jcix65jOFdTsICP3SEmd3Q%3D%3D
+                            - 'link "Open article: Think Risk by Dr Paige Williams • 3 min read" [ref=f207e554] [cursor=pointer]':
+                              - /url: https://www.linkedin.com/pulse/think-risk-dr-paige-williams-c4mtf?trackingId=jcix65jOFdTsICP3SEmd3Q%3D%3D
+                              - generic [ref=f207e555]:
+                                - generic [ref=f207e556]:
+                                  - link "Moments that Matter, graphic." [ref=f207e557]:
+                                    - /url: https://www.linkedin.com/newsletters/moments-that-matter-7306094629295177728
+                                  - generic [ref=f207e560]:
+                                    - link "Moments that Matter" [ref=f207e561]:
+                                      - /url: https://www.linkedin.com/newsletters/moments-that-matter-7306094629295177728
+                                    - button "Subscribe" [ref=f207e566]:
+                                      - generic [aria-hidden] [ref=f207e569]: Subscribe
+                                      - generic [ref=f207e570]: "Subscribe to {:entityName}"
+                                - generic [ref=f207e571]:
+                                  - generic [ref=f207e572]: Think Risk
+                                  - generic [ref=f207e574]: Dr Paige Williams
+                        - generic [ref=f207e575]:
+                          - list [ref=f207e579]:
+                            - listitem [ref=f207e580]:
+                              - button "3 reactions" [ref=f207e581] [cursor=pointer]:
+                                - img "like" [ref=f207e582]
+                                - img "love" [ref=f207e583]
+                                - generic [aria-hidden] [ref=f207e584]: "3"
+                            - listitem [ref=f207e585]:
+                              - list [ref=f207e586]:
+                                - listitem [ref=f207e587]:
+                                  - button "1 comment on Dr Paige Williams’ post" [ref=f207e588] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f207e589]: 1 comment
+                          - generic [ref=f207e590]:
+                            - generic [ref=f207e591]:
+                              - button "React Like" [ref=f207e592] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f207e597]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f207e598] [cursor=pointer]
+                            - button "Comment" [ref=f207e603] [cursor=pointer]
+                            - button "Repost" [ref=f207e609] [cursor=pointer]
+                            - button "Send in a private message" [ref=f207e615] [cursor=pointer]:
+                              - generic [ref=f207e618]: Send
+                - listitem [ref=f207e620]:
+                  - article [ref=f207e625]:
+                    - generic [ref=f207e627]:
+                      - heading "Feed post number 4" [level=2] [ref=f207e628]
+                      - generic [ref=f207e629]:
+                        - generic [ref=f207e630]:
+                          - generic [ref=f207e632]:
+                            - link "View Dr Paige Williams’ graphic link" [ref=f207e633] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/drpaigewilliams?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAARhD28BsbUPToMlmCQsWfcY9jpSfjLMZQ0
+                              - img "View Dr Paige Williams’ graphic link" [ref=f207e637]
+                            - generic [ref=f207e638]:
+                              - 'link "View: Dr Paige Williams Premium • 1st Leadership in moments that matter" [ref=f207e639] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/drpaigewilliams?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAARhD28BsbUPToMlmCQsWfcY9jpSfjLMZQ0
+                                - generic [ref=f207e640]:
+                                  - generic [ref=f207e641]: Dr Paige Williams
+                                  - generic [ref=f207e644]: • 1st
+                                - generic [ref=f207e649]: Leadership in moments that matter
+                              - link "Visit my website" [ref=f207e651] [cursor=pointer]:
+                                - /url: http://www.drpaige.au
+                              - generic [ref=f207e653]: 1w • Edited •
+                          - button "Open control menu for post by Dr Paige Williams" [ref=f207e661] [cursor=pointer]
+                        - generic [ref=f207e665]:
+                          - generic [ref=f207e668]:
+                            - text: "Bring 'Leadership in the Age of AI' to your next conference or leadership offsite.Help your leaders make more deliberate decisions about where to use AI, where human judgement must remain active, and how people will continue to develop expertise as the work changes.There is plenty we should happily hand to machines. The harder leadership decision is knowing what we can afford to stop doing and what we cannot afford to stop being able to do.This keynote helps leaders work through those choices:• What should we delegate to AI, and what must people remain capable of judging for themselves?• How will people develop expertise when AI can perform parts of the work they previously learned through doing?• Who owns the decision and its consequences when thinking and action are shared between people and machines?I bring research in organisational behaviour and decades of leadership experience to these questions. The focus is practical: how work is designed, where judgement sits and what people need to keep learning.Available as a keynote for conferences and leadership events, a focused leadership briefing, or an extended leadership session to examine the implications for your organisation.Explore the keynote and session options, and enquire about bringing this work to your next event:"
+                            - link "https://lnkd.in/dr3KizBy" [ref=f207e669] [cursor=pointer]:
+                              - /url: https://lnkd.in/dr3KizBy
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f207e670] [cursor=pointer]:
+                            - generic [ref=f207e671]: …more
+                        - generic [ref=f207e672]:
+                          - 'link "Open article: Leadership in the Age of AI by drpaige.au, Leadershipaisocialpreview, graphic" [ref=f207e674] [cursor=pointer]':
+                            - /url: https://drpaige.au/leadership-ai
+                            - img "Leadershipaisocialpreview" [ref=f207e677]
+                          - link "Leadership in the Age of AI" [ref=f207e680] [cursor=pointer]:
+                            - /url: https://drpaige.au/leadership-ai
+                            - generic [ref=f207e683]:
+                              - generic [ref=f207e684]: Leadership in the Age of AI
+                              - generic [ref=f207e686]: drpaige.au
+                        - generic [ref=f207e687]:
+                          - list [ref=f207e691]:
+                            - listitem [ref=f207e692]:
+                              - button "3 reactions" [ref=f207e693] [cursor=pointer]:
+                                - img "like" [ref=f207e694]
+                                - img "love" [ref=f207e695]
+                                - generic [aria-hidden] [ref=f207e696]: "3"
+                          - generic [ref=f207e697]:
+                            - generic [ref=f207e698]:
+                              - button "React Like" [ref=f207e699] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f207e704]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f207e705] [cursor=pointer]
+                            - button "Comment" [ref=f207e710] [cursor=pointer]
+                            - button "Repost" [ref=f207e716] [cursor=pointer]
+                            - button "Send in a private message" [ref=f207e722] [cursor=pointer]:
+                              - generic [ref=f207e725]: Send
+                - listitem [ref=f207e727]:
+                  - article [ref=f207e732]:
+                    - generic [ref=f207e734]:
+                      - heading "Feed post number 5" [level=2] [ref=f207e735]
+                      - generic [ref=f207e736]:
+                        - generic [ref=f207e737]:
+                          - generic [ref=f207e739]:
+                            - link "View Dr Paige Williams’ graphic link" [ref=f207e740] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/drpaigewilliams?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAARhD28BsbUPToMlmCQsWfcY9jpSfjLMZQ0
+                              - img "View Dr Paige Williams’ graphic link" [ref=f207e744]
+                            - generic [ref=f207e745]:
+                              - 'link "View: Dr Paige Williams Premium • 1st Leadership in moments that matter" [ref=f207e746] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/drpaigewilliams?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAARhD28BsbUPToMlmCQsWfcY9jpSfjLMZQ0
+                                - generic [ref=f207e747]:
+                                  - generic [ref=f207e748]: Dr Paige Williams
+                                  - generic [ref=f207e751]: • 1st
+                                - generic [ref=f207e756]: Leadership in moments that matter
+                              - link "Visit my website" [ref=f207e758] [cursor=pointer]:
+                                - /url: http://www.drpaige.au
+                              - generic [ref=f207e760]: 2w •
+                          - button "Open control menu for post by Dr Paige Williams" [ref=f207e768] [cursor=pointer]
+                        - generic [ref=f207e772]:
+                          - generic [ref=f207e773]: "We know what we know, and we know what we know how to do. But do we know how we came to know how to do it?This edition of Moments that Matter looks at the work beneath the work: the experiences through which capability develops, and what we need to understand about them as AI changes how work gets done."
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f207e776] [cursor=pointer]:
+                            - generic [ref=f207e777]: …more
+                        - article [ref=f207e778]:
+                          - generic [ref=f207e779]:
+                            - 'link "Open article: Know How by Dr Paige Williams • 4 min read" [ref=f207e781] [cursor=pointer]':
+                              - /url: https://www.linkedin.com/pulse/know-how-dr-paige-williams-ogjmc?trackingId=%2F%2F0H4xyjkopXWJqV9F9s0Q%3D%3D
+                            - 'link "Open article: Know How by Dr Paige Williams • 4 min read" [ref=f207e785] [cursor=pointer]':
+                              - /url: https://www.linkedin.com/pulse/know-how-dr-paige-williams-ogjmc?trackingId=%2F%2F0H4xyjkopXWJqV9F9s0Q%3D%3D
+                              - generic [ref=f207e786]:
+                                - generic [ref=f207e787]:
+                                  - link "Moments that Matter, graphic." [ref=f207e788]:
+                                    - /url: https://www.linkedin.com/newsletters/moments-that-matter-7306094629295177728
+                                  - generic [ref=f207e791]:
+                                    - link "Moments that Matter" [ref=f207e792]:
+                                      - /url: https://www.linkedin.com/newsletters/moments-that-matter-7306094629295177728
+                                    - button "Subscribe" [ref=f207e797]:
+                                      - generic [aria-hidden] [ref=f207e800]: Subscribe
+                                      - generic [ref=f207e801]: "Subscribe to {:entityName}"
+                                - generic [ref=f207e802]:
+                                  - generic [ref=f207e803]: Know How
+                                  - generic [ref=f207e805]: Dr Paige Williams
+                        - generic [ref=f207e806]:
+                          - list [ref=f207e810]:
+                            - listitem [ref=f207e811]:
+                              - button "3 reactions" [ref=f207e812] [cursor=pointer]:
+                                - img "like" [ref=f207e813]
+                                - generic [aria-hidden] [ref=f207e814]: "3"
+                            - listitem [ref=f207e815]:
+                              - list [ref=f207e816]:
+                                - listitem [ref=f207e817]:
+                                  - button "1 comment on Dr Paige Williams’ post" [ref=f207e818] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f207e819]: 1 comment
+                                  - text: ·
+                                - listitem [ref=f207e820]:
+                                  - button "1 repost of Dr Paige Williams’ post" [ref=f207e821] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f207e822]: 1 repost
+                          - generic [ref=f207e823]:
+                            - generic [ref=f207e824]:
+                              - button "React Like" [ref=f207e825] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f207e830]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f207e831] [cursor=pointer]
+                            - button "Comment" [ref=f207e836] [cursor=pointer]
+                            - button "Repost" [ref=f207e842] [cursor=pointer]
+                            - button "Send in a private message" [ref=f207e848] [cursor=pointer]:
+                              - generic [ref=f207e851]: Send
+                - listitem [ref=f207e853]
+                - listitem [ref=f207e857]
+                - listitem [ref=f207e861]
+                - listitem [ref=f207e865]
+                - listitem [ref=f207e869]
+                - listitem [ref=f207e873]
+                - listitem [ref=f207e877]
+                - listitem [ref=f207e881]
+                - listitem [ref=f207e885]
+                - listitem [ref=f207e889]
+                - listitem [ref=f207e893]
+                - listitem [ref=f207e897]
+                - listitem [ref=f207e901]
+                - listitem [ref=f207e905]
+                - listitem [ref=f207e909]
+            - button "Show more results" [ref=f207e915] [cursor=pointer]
+      - complementary "Interests" [ref=f207e184]:
+        - iframe [ref=f207e918]:
+          - generic [ref=f208e2]:
+            - generic: Ad
+            - img "overflow-web-small" [ref=f208e6] [cursor=pointer]
+            - link "LinkedIn for Marketing" [ref=f208e10] [cursor=pointer]:
+              - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Fbusiness.linkedin.com%2Fmarketing-solutions%2Fwebinars%2F25%2F09%2Fthe-art-and-science%3Fmcid%3D7418940812358709248%26src%3Dli-dynamic%26cid%3D701Kf000000UbVFIA0%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg7GP-w91S9pIGBa23qDW93XwSAVnVmK2aAmL5d2FmPuMHUWquOJtD0QKSAiSwap6ksEWgsBIX9chTsAt0N9KL-0XBGugOMDt0QoFbsQnLQ-1wXC9nmN9xFlBpoHQ6U-uNxXk5Nl2aH8WpPP7ZmLy7LlJemyqGHh6DoHQKR7a5loqylrskywqQgutSpmnqmgyD5iWka5r8fFhtsqzUNagbCjhaCqyvnFVjwptfG8Wg2X4Q2GTEgOf3QZPaPHsJAxJszuRbnndmibJbXQ4s3_FVqHB-oC8Tt6RH--uyPv6Ywzakskjo7uBv1PUWzuJMLQOunXTnRuwZNVRdbLXO9zz0YjCqALr53sQ1PiWAEebUpS6j6afE7sJiQaFhdQhE3KYVkl-kZZGpg4L2D8gHYqXrscJGBdgnDgm4K19hxy6476zO2vXmVvK8SKQRWw_OVumS2nkLrJpZ9obbab7Cf0O44egBCEcZ0ZweBhXUjjN5SM3nx4JqgNH5kfJ4rS6iLA5rMomt_J5bWvXweFQXKKfqHRppvWHDBqhyv6JMIOmukJ7tD9ZzXR5TOUxenio8CG_wZaCwXEAGHIoH-V-UQnYR-83aEZedHuHBi9I4nEgWKzFXTq9TTwc3r4kLKxCbtJaWUKvk_KgQfBQ5yffE_SmRyMYVFPMy5W1qUqLhZInoE0h9TaGLy9scZGzAlwr3CewHukHdpFFp5J4AZKXD61L1mKFPoTzdJKIC_1d2DgveP0pvKQFFTdP-U43CkSlpOTZsgD9u7WQl2Cck30KMs9CK6zGC4Wnjglx5V-FmI5eUt3gHXzNFbvWym8mz72edNJTEKz9bq-tD4hsdeC8VAOY9bslXihCwQqI7vugn1tAemtd98iIkGTBNqlVVJtEC4wVrbTqfQn1QHrulzP1lzmbrXfGn2RE32fEKEgQBCRfeobyzyWnXfTVQRanxccRm6eyLaOQpAGxLz9XipkoWq42PG8IzLVAdyEk_toue7ewMA2rDxou4dfpyM5gLfuPq2bv4KQfVPPVIV_hGGPpmFz-cwusNHaWM7cUvHgP6J_rrilj4jmfVuHeji_dXgnfTdCu_KFWwc4QuEevu9gck4CEA8WOrntfD88HyIjpNzWllbKEIaAJvbOtCddzrAhN_PJUULeup1hJ3CIPLuOJfkhQw0JsvkcTrZoI7oRrE8qdBgjQgVw%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%22%2C%22trackingId%22%3A%220124bab2-96aa-4542-ac50-28903b9ca345%22%7D%2C%22time%22%3A1790672371300%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_view_base_recent_activity_content_view%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+            - generic [ref=f208e11]:
+              - heading "Kelly, LinkedIn data reveals 5 video themes for impact" [level=2] [ref=f208e14]
+              - generic [ref=f208e16]:
+                - img "Kelly" [ref=f208e17]
+                - generic [ref=f208e18]:
+                  - link [ref=f208e19] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Fbusiness.linkedin.com%2Fmarketing-solutions%2Fwebinars%2F25%2F09%2Fthe-art-and-science%3Fmcid%3D7418940812358709248%26src%3Dli-dynamic%26cid%3D701Kf000000UbVFIA0%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg7GP-w91S9pIGBa23qDW93XwSAVnVmK2aAmL5d2FmPuMHUWquOJtD0QKSAiSwap6ksEWgsBIX9chTsAt0N9KL-0XBGugOMDt0QoFbsQnLQ-1wXC9nmN9xFlBpoHQ6U-uNxXk5Nl2aH8WpPP7ZmLy7LlJemyqGHh6DoHQKR7a5loqylrskywqQgutSpmnqmgyD5iWka5r8fFhtsqzUNagbCjhaCqyvnFVjwptfG8Wg2X4Q2GTEgOf3QZPaPHsJAxJszuRbnndmibJbXQ4s3_FVqHB-oC8Tt6RH--uyPv6Ywzakskjo7uBv1PUWzuJMLQOunXTnRuwZNVRdbLXO9zz0YjCqALr53sQ1PiWAEebUpS6j6afE7sJiQaFhdQhE3KYVkl-kZZGpg4L2D8gHYqXrscJGBdgnDgm4K19hxy6476zO2vXmVvK8SKQRWw_OVumS2nkLrJpZ9obbab7Cf0O44egBCEcZ0ZweBhXUjjN5SM3nx4JqgNH5kfJ4rS6iLA5rMomt_J5bWvXweFQXKKfqHRppvWHDBqhyv6JMIOmukJ7tD9ZzXR5TOUxenio8CG_wZaCwXEAGHIoH-V-UQnYR-83aEZedHuHBi9I4nEgWKzFXTq9TTwc3r4kLKxCbtJaWUKvk_KgQfBQ5yffE_SmRyMYVFPMy5W1qUqLhZInoE0h9TaGLy9scZGzAlwr3CewHukHdpFFp5J4AZKXD61L1mKFPoTzdJKIC_1d2DgveP0pvKQFFTdP-U43CkSlpOTZsgD9u7WQl2Cck30KMs9CK6zGC4Wnjglx5V-FmI5eUt3gHXzNFbvWym8mz72edNJTEKz9bq-tD4hsdeC8VAOY9bslXihCwQqI7vugn1tAemtd98iIkGTBNqlVVJtEC4wVrbTqfQn1QHrulzP1lzmbrXfGn2RE32fEKEgQBCRfeobyzyWnXfTVQRanxccRm6eyLaOQpAGxLz9XipkoWq42PG8IzLVAdyEk_toue7ewMA2rDxou4dfpyM5gLfuPq2bv4KQfVPPVIV_hGGPpmFz-cwusNHaWM7cUvHgP6J_rrilj4jmfVuHeji_dXgnfTdCu_KFWwc4QuEevu9gck4CEA8WOrntfD88HyIjpNzWllbKEIaAJvbOtCddzrAhN_PJUULeup1hJ3CIPLuOJfkhQw0JsvkcTrZoI7oRrE8qdBgjQgVw%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%22%2C%22trackingId%22%3A%220124bab2-96aa-4542-ac50-28903b9ca345%22%7D%2C%22time%22%3A1790672371300%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_view_base_recent_activity_content_view%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                    - img "LinkedIn for Marketing" [ref=f208e20]
+                  - tooltip "LinkedIn for Marketing" [ref=f208e21]
+              - generic [ref=f208e22]:
+                - heading "Unlock high-performing videos with LinkedIn Ads" [level=2] [ref=f208e25]
+                - link "Watch webinar now" [ref=f208e27] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Fbusiness.linkedin.com%2Fmarketing-solutions%2Fwebinars%2F25%2F09%2Fthe-art-and-science%3Fmcid%3D7418940812358709248%26src%3Dli-dynamic%26cid%3D701Kf000000UbVFIA0%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg7GP-w91S9pIGBa23qDW93XwSAVnVmK2aAmL5d2FmPuMHUWquOJtD0QKSAiSwap6ksEWgsBIX9chTsAt0N9KL-0XBGugOMDt0QoFbsQnLQ-1wXC9nmN9xFlBpoHQ6U-uNxXk5Nl2aH8WpPP7ZmLy7LlJemyqGHh6DoHQKR7a5loqylrskywqQgutSpmnqmgyD5iWka5r8fFhtsqzUNagbCjhaCqyvnFVjwptfG8Wg2X4Q2GTEgOf3QZPaPHsJAxJszuRbnndmibJbXQ4s3_FVqHB-oC8Tt6RH--uyPv6Ywzakskjo7uBv1PUWzuJMLQOunXTnRuwZNVRdbLXO9zz0YjCqALr53sQ1PiWAEebUpS6j6afE7sJiQaFhdQhE3KYVkl-kZZGpg4L2D8gHYqXrscJGBdgnDgm4K19hxy6476zO2vXmVvK8SKQRWw_OVumS2nkLrJpZ9obbab7Cf0O44egBCEcZ0ZweBhXUjjN5SM3nx4JqgNH5kfJ4rS6iLA5rMomt_J5bWvXweFQXKKfqHRppvWHDBqhyv6JMIOmukJ7tD9ZzXR5TOUxenio8CG_wZaCwXEAGHIoH-V-UQnYR-83aEZedHuHBi9I4nEgWKzFXTq9TTwc3r4kLKxCbtJaWUKvk_KgQfBQ5yffE_SmRyMYVFPMy5W1qUqLhZInoE0h9TaGLy9scZGzAlwr3CewHukHdpFFp5J4AZKXD61L1mKFPoTzdJKIC_1d2DgveP0pvKQFFTdP-U43CkSlpOTZsgD9u7WQl2Cck30KMs9CK6zGC4Wnjglx5V-FmI5eUt3gHXzNFbvWym8mz72edNJTEKz9bq-tD4hsdeC8VAOY9bslXihCwQqI7vugn1tAemtd98iIkGTBNqlVVJtEC4wVrbTqfQn1QHrulzP1lzmbrXfGn2RE32fEKEgQBCRfeobyzyWnXfTVQRanxccRm6eyLaOQpAGxLz9XipkoWq42PG8IzLVAdyEk_toue7ewMA2rDxou4dfpyM5gLfuPq2bv4KQfVPPVIV_hGGPpmFz-cwusNHaWM7cUvHgP6J_rrilj4jmfVuHeji_dXgnfTdCu_KFWwc4QuEevu9gck4CEA8WOrntfD88HyIjpNzWllbKEIaAJvbOtCddzrAhN_PJUULeup1hJ3CIPLuOJfkhQw0JsvkcTrZoI7oRrE8qdBgjQgVw%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%22%2C%22trackingId%22%3A%220124bab2-96aa-4542-ac50-28903b9ca345%22%7D%2C%22time%22%3A1790672371300%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_view_base_recent_activity_content_view%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+        - generic [ref=f207e919]:
+          - heading "People you may know" [level=2] [ref=f207e924]
+          - generic [ref=f207e926]:
+            - list [ref=f207e927]:
+              - listitem [ref=f207e928]:
+                - generic [ref=f207e929]:
+                  - link [ref=f207e931] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/tevin-mulavu
+                    - img "Tevin Mulavu" [ref=f207e934]
+                  - generic [ref=f207e935]:
+                    - link "Tevin Mulavu Helping Commercial Pilots Build Identity, Income & Options Beyond the Flight Deck • Founder, Aviator Entrepreneur Academy • Ex-Qatar Airways (B777 & B787)" [ref=f207e937] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/tevin-mulavu?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABXopiwB2fx_ZNq_g4Zrd0x-OPIHUVRsBqI
+                      - generic [ref=f207e938]: Tevin Mulavu
+                      - generic [ref=f207e948]: Helping Commercial Pilots Build Identity, Income & Options Beyond the Flight Deck • Founder, Aviator Entrepreneur Academy • Ex-Qatar Airways (B777 & B787)
+                    - list [ref=f207e954]:
+                      - listitem [ref=f207e955]:
+                        - button "Invite Tevin Mulavu to connect" [ref=f207e957] [cursor=pointer]:
+                          - generic [ref=f207e960]: Connect
+              - listitem [ref=f207e961]:
+                - generic [ref=f207e962]:
+                  - link [ref=f207e964] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/elizabeth-fozard-834abb437
+                    - img "Elizabeth Fozard" [ref=f207e967]
+                  - generic [ref=f207e968]:
+                    - link "Elizabeth Fozard Manager" [ref=f207e970] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/elizabeth-fozard-834abb437?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAG5U8egBrO0Gi4kGLcr4vYz3qah5pDCZgzg
+                      - generic [ref=f207e971]: Elizabeth Fozard
+                      - generic [ref=f207e980]: Manager
+                    - list [ref=f207e986]:
+                      - listitem [ref=f207e987]:
+                        - button "Invite Elizabeth Fozard to connect" [ref=f207e989] [cursor=pointer]:
+                          - generic [ref=f207e992]: Connect
+              - listitem [ref=f207e993]:
+                - generic [ref=f207e994]:
+                  - link [ref=f207e996] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/tracey-wright-26002945
+                    - img "Tracey Wright" [ref=f207e999]
+                  - generic [ref=f207e1000]:
+                    - link "Tracey Wright Founder & Lead Facilitator | Nature, challenge & human capacity | Leadership development, workplace wellbeing & regenerative systems | Take Shape Adventures + Impact Adventures | MAPP" [ref=f207e1002] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/tracey-wright-26002945?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAlvsCgB0-d0dAdEEk2fevMuiSjLQcCxH60
+                      - generic [ref=f207e1003]: Tracey Wright
+                      - generic [ref=f207e1012]: Founder & Lead Facilitator | Nature, challenge & human capacity | Leadership development, workplace wellbeing & regenerative systems | Take Shape Adventures + Impact Adventures | MAPP
+                    - list [ref=f207e1018]:
+                      - listitem [ref=f207e1019]:
+                        - button "Invite Tracey Wright to connect" [ref=f207e1021] [cursor=pointer]:
+                          - generic [ref=f207e1024]: Connect
+              - listitem [ref=f207e1025]:
+                - generic [ref=f207e1026]:
+                  - link [ref=f207e1028] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/denis-ryan-817920432
+                    - img "Denis Ryan" [ref=f207e1031]
+                  - generic [ref=f207e1032]:
+                    - link "Denis Ryan I help businesses find and fix revenue leaks using AI-powered audits and done-for-you campaigns. Click my website link below and get a free revenue scan on your business with actionable solutions." [ref=f207e1034] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/denis-ryan-817920432?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAG1qMpMB9_gWr21iHtZkTKnd6nmaEQuX_IE
+                      - generic [ref=f207e1035]: Denis Ryan
+                      - generic [ref=f207e1044]: I help businesses find and fix revenue leaks using AI-powered audits and done-for-you campaigns. Click my website link below and get a free revenue scan on your business with actionable solutions.
+                    - list [ref=f207e1050]:
+                      - listitem [ref=f207e1051]:
+                        - button "Invite Denis Ryan to connect" [ref=f207e1053] [cursor=pointer]:
+                          - generic [ref=f207e1056]: Connect
+              - listitem [ref=f207e1057]:
+                - generic [ref=f207e1058]:
+                  - link [ref=f207e1060] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/leelacosgrove
+                    - img "Leela Cosgrove" [ref=f207e1063]
+                  - generic [ref=f207e1064]:
+                    - 'link "Leela Cosgrove CEO. Investor. Business Witch. High Priestess of the Marketing Rebellion: Stop Marketing Like a Boomer." [ref=f207e1066] [cursor=pointer]':
+                      - /url: https://www.linkedin.com/in/leelacosgrove?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAABZC5kBMXj0gXPzPxC1yYe8SuIs_aLyaVc
+                      - generic [ref=f207e1067]: Leela Cosgrove
+                      - generic [ref=f207e1072]: "CEO. Investor. Business Witch. High Priestess of the Marketing Rebellion: Stop Marketing Like a Boomer."
+                    - list [ref=f207e1078]:
+                      - listitem [ref=f207e1079]:
+                        - button "Invite Leela Cosgrove to connect" [ref=f207e1081] [cursor=pointer]:
+                          - generic [ref=f207e1084]: Connect
+            - button "Show more" [ref=f207e1087] [cursor=pointer]
+        - generic [ref=f207e245]:
+          - iframe [ref=f207e1303]:
+            - generic [ref=f209e3]:
+              - banner [ref=f209e4]:
+                - link [ref=f209e15] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=http%3A%2F%2Fwww.linkedin.com%2Fcompany%2F164711&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg7GQimyEZaOu_6wcwf81OnoBTLafDuzRtX8w6r_Q8vv17iQ7jpalPPukcjWwGPwr5QnIHggQjDw9Hvo7qL_Zokq5EQaO7OZT9jcneYZOg9kd8SkGidGYkDEK50k9xVRZERRRTcG6fFF7FT2I55qzDa7uNzV7NUhwAxftJaLyF2NlapqNXtb34DXWcgavfMCpLVtJEP6QruLhtpm4sQsMIrXnZOPZh8ep25Kn64_yjc7ERtJt9WInEQYDYS6ygBqPgdYA0Yyx4gyJPl7rmwy9IaGl1J8fqKpM45FEJbPA_pjUmoHvmBsfwaxKC2EAqo2IbokJCyiOO3sq0kvKXfjyLhgZCoXgF8_7_sMQ9yEDgzwFHj9dU4nSeyxxHHjuNvU3EuNxjHvjhjJleLGJhP8jadlp45B0imjeU_BLuxAzbm5uVAQWVigOq6xYsYaQu69QD41f0EZXJK4wYdAzxk2XDFl8R2PXeQ0MHWJYnzwRwOhh32WDzMbRK8HPmSbR8W8Q918tOYIjXW90x7w_8ox7jBlJ4mZfUU7rmneR3AVcO4PuQV-nxgZktSBb3bgoVLatNlxhxDbVnM6eXGeD_esi3kd_1HXz3hg7Wo6mYr1cXh5ytGQEdtgkiQby31M9DjQRlOry-xQeTPo4O2vJLWyxniCN_7lAPCdQi6r3plApuNgZvx4hWf788cV0HlXQ6KZd5Ha7a77kdC7V6KcfB2rJO05wbX9EgdKI4EeyYpCyhPuzMraeGoO254mETiJIi38J0Zt8R3RUfHT6RFfvoHDkXtZovQh9R3e7QSh7e_ppygDb7ZxBbIqMsuh2E2twErAdBSdJXhKuAAPKG_xvLtSbJ4sSPAlhdtb9IY22vC5IB4tzM4qvbnbLYxfi6wIQnjyubl_010H7i35A5lLZHxa5o5UXy3Fo6ZffqqcQ8xkxxOIpm54a7JQ8vmIAtZGxXZAseGn_Ybpz_BGCjGARJP_6aUuuEJFmJJGw1XjuChfEfRcpAxIAaQQl7m50Ge6z9Y8DAapNQ215nYIpWcwQQ_uGbWBYLMRoPjAQQc-SeMJQKP8RkqOms03z-t4YHQlyocJPIcUcq7OgQZn1u0R10UCaxld44-24gdC_jHPnK88jE-qlr4gYGzawIhjpZKNSBvm8CjRgHRCxsrRnH2chwXNvz05dMCXg%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%22%2C%22trackingId%22%3A%225d873225-5bac-4020-9763-a0fd83506a87%22%7D%2C%22time%22%3A1790672380494%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_view_base_recent_activity_content_view%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                  - img "Lennar" [ref=f209e16]
+                - generic [ref=f209e17]:
+                  - paragraph [ref=f209e18]: Promoted
+                  - button "Ad Options" [ref=f209e19] [cursor=pointer]
+              - generic [ref=f209e25]:
+                - link [ref=f209e26] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=http%3A%2F%2Fwww.linkedin.com%2Fcompany%2F164711&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg7GQimyEZaOu_6wcwf81OnoBTLafDuzRtX8w6r_Q8vv17iQ7jpalPPukcjWwGPwr5QnIHggQjDw9Hvo7qL_Zokq5EQaO7OZT9jcneYZOg9kd8SkGidGYkDEK50k9xVRZERRRTcG6fFF7FT2I55qzDa7uNzV7NUhwAxftJaLyF2NlapqNXtb34DXWcgavfMCpLVtJEP6QruLhtpm4sQsMIrXnZOPZh8ep25Kn64_yjc7ERtJt9WInEQYDYS6ygBqPgdYA0Yyx4gyJPl7rmwy9IaGl1J8fqKpM45FEJbPA_pjUmoHvmBsfwaxKC2EAqo2IbokJCyiOO3sq0kvKXfjyLhgZCoXgF8_7_sMQ9yEDgzwFHj9dU4nSeyxxHHjuNvU3EuNxjHvjhjJleLGJhP8jadlp45B0imjeU_BLuxAzbm5uVAQWVigOq6xYsYaQu69QD41f0EZXJK4wYdAzxk2XDFl8R2PXeQ0MHWJYnzwRwOhh32WDzMbRK8HPmSbR8W8Q918tOYIjXW90x7w_8ox7jBlJ4mZfUU7rmneR3AVcO4PuQV-nxgZktSBb3bgoVLatNlxhxDbVnM6eXGeD_esi3kd_1HXz3hg7Wo6mYr1cXh5ytGQEdtgkiQby31M9DjQRlOry-xQeTPo4O2vJLWyxniCN_7lAPCdQi6r3plApuNgZvx4hWf788cV0HlXQ6KZd5Ha7a77kdC7V6KcfB2rJO05wbX9EgdKI4EeyYpCyhPuzMraeGoO254mETiJIi38J0Zt8R3RUfHT6RFfvoHDkXtZovQh9R3e7QSh7e_ppygDb7ZxBbIqMsuh2E2twErAdBSdJXhKuAAPKG_xvLtSbJ4sSPAlhdtb9IY22vC5IB4tzM4qvbnbLYxfi6wIQnjyubl_010H7i35A5lLZHxa5o5UXy3Fo6ZffqqcQ8xkxxOIpm54a7JQ8vmIAtZGxXZAseGn_Ybpz_BGCjGARJP_6aUuuEJFmJJGw1XjuChfEfRcpAxIAaQQl7m50Ge6z9Y8DAapNQ215nYIpWcwQQ_uGbWBYLMRoPjAQQc-SeMJQKP8RkqOms03z-t4YHQlyocJPIcUcq7OgQZn1u0R10UCaxld44-24gdC_jHPnK88jE-qlr4gYGzawIhjpZKNSBvm8CjRgHRCxsrRnH2chwXNvz05dMCXg%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%22%2C%22trackingId%22%3A%225d873225-5bac-4020-9763-a0fd83506a87%22%7D%2C%22time%22%3A1790672380494%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_view_base_recent_activity_content_view%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                  - heading "Lennar" [level=2] [ref=f209e27]
+                - paragraph [ref=f209e29]: Kelly, get the latest on Lennar News, Jobs, and More!
+                - paragraph [ref=f209e31]: Building new homes in some of the nation’s most popular cities.
+                - generic [ref=f209e32]:
+                  - generic [ref=f209e33]:
+                    - img "Carole" [ref=f209e34]
+                    - img "Candace" [ref=f209e35]
+                    - img "Wendy" [ref=f209e36]
+                  - paragraph [ref=f209e37]: Carole & 142 other connections also follow
+                - link "Follow" [ref=f209e38] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=http%3A%2F%2Fwww.linkedin.com%2Fcompany%2F164711%3FisFollowingPage%3Dtrue&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg7GQinJEux-VxL8BSEYtRFVrV9TU10teuTE2f5t7EpYd0-FruBipOtGy7n_SAtv612_vq91u_aLPDWJl03bexpNE566lqNDppbxI9b6T4HPJ71fOWnZIzyH39FV6rCT-MBn6Xuwu0myDp1vgGZzLvD9tDuIdGVDcgb5YTac2zKAYZGahH4KVpW6auggy8NA2IcwIYZwTfRz-UXCMcRkrxGG923Mbf1EmXbDAd8EblEj19acuKxj4OHJNAXPBiVebxazFStBcMbydKQoE2Av94JdOJNqz1Q0AlPfp1KxA9HGzAR9ky6-h-V6HdvZOS8iJRLd2Fls2gCLk7QVtT754wrikMjSzw_5kg5wYIJt9-R94qaNtIz2aQZu8qx2OooHY444wAQ_zfxv3vHPAZHckFIsyaJvgtZkGE4qN0nnCAZHpAfKTmmATaFqSQep04owKgoNM7LAjYj1ajXGdyzeJD45fzAzD2LzzkisGSezzgRm5RVhXRUkOnEJArZpmVV6ekUvS8V8h0gQVfZnOyTLmpl8ODB6OYY2H_6s762Jv9g4fxlrUlzvTT_ZUo67uXiWEXvGeAssr2mtEtjXWXJWY-5GZJQpb6EwQl7Ngd1PvQQs5awPyjdtfs9P_4YJtCvbmaP9HM2iGO2e18F3SAAjHv3mzcW-NPiDT_GfhsTJThKNIQfb5npT5JFz2twQdM5feCWeuOZol7HJyaqfQn96QApPvTseEb3RFD4yMVbo_6Ibhd90P89r41qP75_4RJmFRk_wZm4C-dpokRKacuJ2CElFUjSIjVYs_rX_E4aA12rylhl-RC6-3R_dWcT7tBDONaUY1Y5q-qYuELMnQRGkJZScs3DPIhQ3jLbuCF_x4v_RGpRg2aIf_apE9-QbpVmJXbJCm3uhl3A0_atH6FVk22fRD3eCNJ_wOStQ5zGECKC1OLHVDPZHQJKBOvxwrG6vD81xiHa_WVzbY83BQ4dowMU_ord53KH8z6CZygLdVzyPHVpDc4JbxcbsOEpPKJkIvXRknZSzHPGG04SUHGyeR5phfRFML6IBs1C6frnvPCB_TdY_tsUDTcndi4kgbiv3liH5KCaSO8W41nPJ3gwPjWXRvQUn1P8MSQso8jRRWSkK8AP9ewRwLXc4sokjrIjTOinrgAN5sFd1_tCXUkxxno3XbCTVcoVi2OKzNy9QD7AMb8HtQndKpjLzqPydMYODI74nfr%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%22%2C%22trackingId%22%3A%22e0917f01-ebf1-48d3-bb94-b52fbf93a455%22%7D%2C%22time%22%3A1790672380494%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_view_base_recent_activity_content_view%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+          - generic "LinkedIn Footer Content" [ref=f207e246]:
+            - generic [ref=f207e247]:
+              - list [ref=f207e1092]:
+                - listitem [ref=f207e1093]:
+                  - link "About" [ref=f207e1094] [cursor=pointer]:
+                    - /url: https://about.linkedin.com/
+                - listitem [ref=f207e1096]:
+                  - link "Accessibility" [ref=f207e1097] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/accessibility
+                - listitem [ref=f207e1099]:
+                  - link "Help Center" [ref=f207e1100] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/help/linkedin?trk=footer_d_flagship3_profile_view_base_recent_activity_content_view
+                - listitem [ref=f207e1102]:
+                  - button "Privacy & Terms" [ref=f207e1104] [cursor=pointer]
+                - listitem [ref=f207e1109]:
+                  - link "Ad Choices" [ref=f207e1110] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/help/linkedin/answer/62931
+                - listitem [ref=f207e1112]:
+                  - link "Advertising" [ref=f207e1113] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/ad/start?trk=n_nav_ads_rr
+                - listitem [ref=f207e1115]:
+                  - button "Business Services" [ref=f207e1117] [cursor=pointer]
+                - listitem [ref=f207e1122]:
+                  - button "Get the LinkedIn app" [ref=f207e1125] [cursor=pointer]
+                - listitem [ref=f207e1126]:
+                  - button "More options" [ref=f207e1127] [cursor=pointer]: More
+              - generic [ref=f207e248]:
+                - img "LinkedIn" [ref=f207e249]
+                - text: LinkedIn Corporation © 2026
+    - generic:
+      - generic:
+        - complementary:
+          - generic [ref=f207e252]:
+            - generic [ref=f207e253]:
+              - generic [ref=f207e255] [cursor=pointer]:
+                - img "Kelly Irving" [ref=f207e257]
+                - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f207e258]:
+                  - generic [ref=f207e259]:
+                    - generic [aria-hidden] [ref=f207e260]: Messaging
+                    - generic [ref=f207e261]: You are on the messaging overlay. Press enter to open the list of conversations.
+              - generic [ref=f207e262]:
+                - button [ref=f207e264] [cursor=pointer]:
+                  - img "Open messenger dropdown menu" [ref=f207e265]
+                - button "Compose message" [ref=f207e268] [cursor=pointer]
+                - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f207e272] [cursor=pointer]
+            - generic [ref=f207e1128]:
+              - heading "Page inboxes" [level=3] [ref=f207e1130]
+              - generic [ref=f207e1131] [cursor=pointer]:
+                - generic [ref=f207e1132]: Click to see affiliated inboxes
+                - button "Page inboxes" [ref=f207e1133]
+          - dialog "Messaging" [ref=f207e1136]:
+            - generic [ref=f207e1137]:
+              - generic [ref=f207e1138] [cursor=pointer]:
+                - generic [ref=f207e1140]:
+                  - img "Rebecca Wu FCPA MBA" [ref=f207e1143]
+                  - heading "Rebecca Wu FCPA MBA" [level=2] [ref=f207e1145]
+                - button "Close your conversation with Kelly Irving and Rebecca Wu FCPA MBA" [ref=f207e1147]
+              - generic [ref=f207e1152]:
+                - list [ref=f207e1157]:
+                  - listitem
+                  - listitem [ref=f207e1158]:
+                    - time [ref=f207e1159]: Monday
+                    - generic [ref=f207e1160]: Kelly Irving sent the following message at 7:20 PM
+                    - generic [ref=f207e1161]:
+                      - link "View Kelly’s profile Kelly Irving" [ref=f207e1162] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                        - generic [ref=f207e1163]: View Kelly’s profile
+                        - img "Kelly Irving" [ref=f207e1164]
+                      - generic [ref=f207e1165]:
+                        - generic [ref=f207e1166]:
+                          - link "Kelly Irving" [ref=f207e1167] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/in/ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                          - img "LinkedIn Premium" [ref=f207e1169]
+                        - time [ref=f207e1172]: • 7:20 PM
+                      - generic [ref=f207e1174]:
+                        - paragraph [ref=f207e1176]: Hey Rebecca I see you followed the Expert Author Community page. Let's connect. Kx
+                        - generic "Sent at 9/28/2026, 7:20 PM" [ref=f207e1177]
+                  - listitem [ref=f207e1180]:
+                    - generic [ref=f207e1181]: Rebecca Wu FCPA MBA sent the following messages at 7:21 PM
+                    - generic [ref=f207e1182]:
+                      - link "View Rebecca’s profile Rebecca Wu FCPA MBA" [ref=f207e1183] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/ACoAAB8MZ0AB-SavupTWqDuL_26Fz293G3anTX4
+                        - generic [ref=f207e1184]: View Rebecca’s profile
+                        - img "Rebecca Wu FCPA MBA" [ref=f207e1185]
+                      - generic [ref=f207e1186]:
+                        - link "Rebecca Wu FCPA MBA" [ref=f207e1188] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/ACoAAB8MZ0AB-SavupTWqDuL_26Fz293G3anTX4
+                        - time [ref=f207e1190]: • 7:21 PM
+                      - paragraph [ref=f207e1194]: I'm happy to connect
+                      - list [ref=f207e1195]:
+                        - listitem [ref=f207e1196]:
+                          - button "Remove reaction 👍 1" [pressed] [ref=f207e1197] [cursor=pointer]:
+                            - generic [ref=f207e1198]:
+                              - generic [ref=f207e1199]: Remove reaction
+                              - generic: 👍
+                              - generic: "1"
+                        - listitem [ref=f207e1200]:
+                          - button "Open Emoji Keyboard" [ref=f207e1203] [cursor=pointer]
+                  - listitem [ref=f207e1204]
+                  - listitem [ref=f207e1205]:
+                    - generic [ref=f207e1206]:
+                      - button "Scroll quick replies left" [disabled] [ref=f207e1207]
+                      - list [ref=f207e1208]:
+                        - listitem [ref=f207e1209]:
+                          - button "Reply to conversation with “That's great”" [ref=f207e1210] [cursor=pointer]:
+                            - generic [aria-hidden]: That's great
+                        - listitem [ref=f207e1212]:
+                          - button "Reply to conversation with “Same here”" [ref=f207e1213] [cursor=pointer]:
+                            - generic [aria-hidden]: Same here
+                        - listitem [ref=f207e1215]:
+                          - button "Reply to conversation with “Thanks”" [ref=f207e1216] [cursor=pointer]:
+                            - generic [aria-hidden]: Thanks
+                      - button "Scroll quick replies right" [ref=f207e1218] [cursor=pointer]
+                  - listitem
+                - generic [ref=f207e1222]:
+                  - generic [ref=f207e1223]:
+                    - generic [ref=f207e1225]:
+                      - textbox "Write a message…" [ref=f207e1226]:
+                        - paragraph [ref=f207e1227]
+                      - text: Write a message…
+                    - button "Maximize compose field" [ref=f207e1229] [cursor=pointer]
+                  - generic [ref=f207e1233]:
+                    - generic [ref=f207e1234]:
+                      - button "Attach an image to your conversation with Rebecca Wu FCPA MBA" [ref=f207e1236] [cursor=pointer]
+                      - button "Attach a file to your conversation with Rebecca Wu FCPA MBA" [ref=f207e1241] [cursor=pointer]
+                      - button "Open GIF Keyboard" [ref=f207e1246] [cursor=pointer]
+                      - button "Open Emoji Keyboard" [ref=f207e1252] [cursor=pointer]
+                    - generic [ref=f207e1254]:
+                      - generic [ref=f207e1255]: Press Enter to Send
+                      - button "Open send options" [ref=f207e1259] [cursor=pointer]
+        - complementary "AI-powered assistant to get help with your career, jobs etc"
+  - region [ref=f207e276]
