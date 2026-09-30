@@ -1,0 +1,310 @@
+- generic [ref=f277e2]:
+  - heading "0 notifications" [level=2] [ref=f277e3]
+  - generic [ref=f277e4]:
+    - generic:
+      - generic "Skip navigation menu":
+        - button "Close jump menu" [ref=f277e6] [cursor=pointer]
+    - generic [ref=f277e9]:
+      - banner [ref=f277e11]:
+        - generic [ref=f277e14]:
+          - button [ref=f277e15] [cursor=pointer]
+          - generic [ref=f277e17]:
+            - status [ref=f277e18]
+            - search [ref=f277e19]:
+              - textbox "I'm looking for…" [ref=f277e23]
+          - generic [ref=f277e25]:
+            - navigation [ref=f277e29]:
+              - list [ref=f277e30]:
+                - listitem [ref=f277e31]:
+                  - button "Home, 1 new notification" [ref=f277e32] [cursor=pointer]:
+                    - generic [ref=f277e36]: Home
+                - listitem [ref=f277e38]:
+                  - link "My Network, 43 new notifications" [ref=f277e39] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork
+                    - generic [ref=f277e40]: "43"
+                    - generic [ref=f277e44]: My Network
+                - listitem [ref=f277e46]:
+                  - link "Jobs, 0 new notifications" [ref=f277e47] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/
+                    - generic [ref=f277e51]: Jobs
+                - listitem [ref=f277e53]:
+                  - link "Messaging, 0 new notifications" [ref=f277e54] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/messaging/
+                    - generic [ref=f277e58]: Messaging
+                - listitem [ref=f277e60]:
+                  - link "Notifications, 19 new notifications" [ref=f277e61] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/notifications/
+                    - generic [ref=f277e62]: "19"
+                    - generic [ref=f277e66]: Notifications
+                - listitem [ref=f277e68]:
+                  - button "Me" [ref=f277e69] [cursor=pointer]:
+                    - figure [aria-hidden] [ref=f277e71]
+            - navigation [ref=f277e77]:
+              - list [ref=f277e78]:
+                - listitem [ref=f277e79]:
+                  - button "For Business" [ref=f277e80] [cursor=pointer]
+                - listitem [ref=f277e87]:
+                  - link "Advertise, 3 new notifications" [ref=f277e88] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/campaignmanager/accounts/
+                    - generic [ref=f277e89]: "3"
+                    - generic [ref=f277e92]: Advertise
+      - main [ref=f277e96]:
+        - generic [ref=f277e98]:
+          - complementary "Sidebar" [ref=f277e99]:
+            - generic [ref=f277e102]:
+              - generic [ref=f277e106]:
+                - link [ref=f277e107] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/kelly-irving/
+                  - generic [ref=f277e108]:
+                    - generic [ref=f277e109]:
+                      - figure [aria-hidden] [ref=f277e110]
+                      - paragraph [ref=f277e112]: Premium
+                    - figure [ref=f277e115]
+                - generic [ref=f277e116]:
+                  - link [ref=f277e117] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic "Kelly Irving, Book coach and editor for changemakers and trailblazers / Publishing gymnast, Anglesea, Victoria, Premium profile" [ref=f277e118]:
+                      - paragraph [ref=f277e121]: Kelly Irving
+                      - paragraph [ref=f277e124]: Book coach and editor for changemakers and trailblazers / Publishing gymnast
+                      - paragraph [ref=f277e125]: Anglesea, Victoria
+                  - link [ref=f277e126] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic [ref=f277e127]:
+                      - figure [aria-hidden] [ref=f277e128]
+                      - paragraph [ref=f277e129]: Expert Author Community
+              - generic [ref=f277e131]:
+                - menu [ref=f277e132]:
+                  - link [ref=f277e134] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/me/profile-views/
+                    - generic "Profile viewers 280" [ref=f277e135]:
+                      - paragraph [ref=f277e137]: Profile viewers
+                      - paragraph [ref=f277e138]: "280"
+                  - link [ref=f277e140] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/analytics/creator/content/
+                    - generic "Post impressions 1,553" [ref=f277e141]:
+                      - paragraph [ref=f277e143]: Post impressions
+                      - paragraph [ref=f277e144]: 1,553
+                - menu [ref=f277e145]:
+                  - link [ref=f277e147] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/premium/my-premium/
+                    - paragraph [ref=f277e150]: Your Premium features
+          - region "Primary content" [ref=f277e151]:
+            - generic [ref=f277e157]:
+              - listitem [ref=f277e161]:
+                - generic [ref=f277e163]:
+                  - heading "Feed post" [level=2]
+                  - generic [ref=f277e165]:
+                    - link [ref=f277e166] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/sarah-cretegny-swiss/
+                      - figure [ref=f277e167]
+                    - generic [ref=f277e169]:
+                      - link [ref=f277e172] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/sarah-cretegny-swiss/
+                        - generic "Sarah Cretegny ICF ACC Verified Profile 1st" [ref=f277e174]:
+                          - paragraph [ref=f277e177]: Sarah Cretegny ICF ACC
+                          - paragraph [ref=f277e179]:
+                            - generic [ref=f277e180]: • 1st
+                      - paragraph [ref=f277e184]: Transitions Coach - helping people navigate real life transitions without loosing themselves. Coach Your Wild is your creative oasis in the wildness of life. Your thinking partner for what matters most. Author. Mother.
+                      - paragraph [ref=f277e186]: 5d
+                      - link "Sarah Cretegny ICF ACC Verified Profile 1st":
+                        - /url: https://www.linkedin.com/in/sarah-cretegny-swiss/
+                    - button "Open control menu for post by Sarah Cretegny ICF ACC" [ref=f277e187] [cursor=pointer]
+                  - paragraph [ref=f277e190]:
+                    - generic [ref=f277e191]:
+                      - text: I am about a month away from becoming an Author... and I can tell you this journey is teaching me much more than I thought was possible - for what may from the outside look like putting some words on a few pages.
+                      - strong [ref=f277e192]: If I had to name just three big lessons I am learning from writing The Wild Within - here they are....
+                      - text: "Writing this book has asked me to practise what I write about: navigating unfamiliar territory without losing myself. What that has looked like for me is:"
+                      - strong [ref=f277e193]: 1. Let challenge take you deeper.
+                      - text: Editorial feedback helped me clarify my ideas. Holding a boundary around client confidentiality also pushed me to find more creative ways to bring human uncertainty to life.
+                      - strong [ref=f277e194]: 2. Ask when you don’t understand.
+                      - text: What can feel obvious to an expert can be unfamiliar to a first-time author. Asking questions helped me move forward with clarity.
+                      - strong [ref=f277e195]: 3. Listen to yourself - and explain what matters.
+                      - text: I learned to take an uneasy feeling seriously, explore it and find words for it, even when the conversation felt awkward. Respecting someone’s expertise doesn’t mean setting aside my own perspective.These lessons reach well beyond writing a book.Where might you need to welcome a challenge, ask a question or speak up for something that matters to you today?A huge thanks to the amazing experts working at the
+                      - 'link "View company: The Right Book Company" [ref=f277e197] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/company/therightbookcompany/
+                        - strong [ref=f277e198]: The Right Book Company
+                      - text: and tribe of authors and nearly authors in the
+                      - 'link "View company: Expert Author Community" [ref=f277e200] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/company/expert-author-community/
+                        - strong [ref=f277e201]: Expert Author Community
+                      - text: ", and those who have been walking alongside me as I have spent much of the last 5 years bringing this into the world. We are so close and yet still on the crossing!"
+                  - generic [ref=f277e202]:
+                    - link [ref=f277e203] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - figure [ref=f277e204]:
+                        - img "View image" [ref=f277e205]
+                    - button "This image has content credentials." [ref=f277e206] [cursor=pointer]:
+                      - figure [aria-hidden] [ref=f277e208]
+                  - generic [ref=f277e209]:
+                    - link [ref=f277e210] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "Switch to different account" [ref=f277e211]:
+                        - figure [aria-hidden] [ref=f277e212]
+                    - generic [ref=f277e214]:
+                      - 'button "Reaction button state: Like" [ref=f277e217] [cursor=pointer]':
+                        - generic [ref=f277e218]: "15"
+                      - button "Open reactions menu"
+                    - button "Comment" [ref=f277e223] [cursor=pointer]:
+                      - generic [ref=f277e224]: "2"
+                    - button "Repost" [ref=f277e229] [cursor=pointer]:
+                      - generic [ref=f277e230]: "1"
+                    - link "Send" [ref=f277e235] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                    - link [ref=f277e238] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "15 reactions" [ref=f277e239]
+                - generic [ref=f277e248]:
+                  - status [ref=f277e251]
+                  - generic [ref=f277e252]:
+                    - button "Show Emoji Picker" [ref=f277e253] [cursor=pointer]
+                    - button "Open GIF picker" [ref=f277e258] [cursor=pointer]
+                    - button "Share photo" [ref=f277e261] [cursor=pointer]
+              - link:
+                - /url: https://www.linkedin.com/
+              - generic [ref=f277e264]:
+                - link:
+                  - /url: https://www.linkedin.com/
+                - generic [ref=f277e265]:
+                  - link:
+                    - /url: https://www.linkedin.com/
+                  - link [ref=f277e266] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/cameronmcgrane/
+                    - generic "Cameron McGrane reacted with Like" [ref=f277e267]:
+                      - figure [aria-hidden] [ref=f277e268]
+                  - link [ref=f277e270] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/jose-miguel-valcarcel-rrhh/
+                    - generic "José Miguel Valcárcel reacted with Like" [ref=f277e271]:
+                      - figure [aria-hidden] [ref=f277e272]
+                  - link [ref=f277e274] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/michael-haase-23655b4a/
+                    - generic "Michael Haase reacted with Like" [ref=f277e275]:
+                      - figure [aria-hidden] [ref=f277e276]
+                  - link [ref=f277e278] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic "Kelly Irving reacted with Like" [ref=f277e279]:
+                      - figure [aria-hidden] [ref=f277e280]
+                  - link [ref=f277e282] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/karendunshea/
+                    - generic "Karen Dunshea reacted with Like" [ref=f277e283]:
+                      - figure [aria-hidden] [ref=f277e284]
+                  - link [ref=f277e286] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/stacycrawford-klearwater/
+                    - generic "Stacy Crawford, MSEd, PCC, MCS reacted with Love" [ref=f277e287]:
+                      - figure [aria-hidden] [ref=f277e288]
+                  - link [ref=f277e290] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/markjedwards/
+                    - generic "Mark Julian Edwards (The Strengths Explorer) reacted with Celebrate" [ref=f277e291]:
+                      - figure [aria-hidden] [ref=f277e292]
+                  - link [ref=f277e294] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/bialek-alicja/
+                    - generic "Alicja Białek, ACC reacted with Love" [ref=f277e295]:
+                      - figure [aria-hidden] [ref=f277e296]
+                  - link "View all reactions" [ref=f277e298] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/
+              - button [ref=f277e302] [cursor=pointer]:
+                - paragraph [ref=f277e306]: Most relevant
+              - generic [ref=f277e312]:
+                - link [ref=f277e314] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/karendunshea/
+                  - figure [ref=f277e315]
+                - generic [ref=f277e316]:
+                  - generic [ref=f277e318]:
+                    - link "Karen Dunshea Premium Profile 1st 🔑 Writer | Exploring ideas and practices for conversing with complexity | Author of ‘More-Than’" [ref=f277e319] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/karendunshea/
+                      - generic [ref=f277e320]:
+                        - paragraph [ref=f277e324]:
+                          - generic [ref=f277e325]:
+                            - generic [ref=f277e326]: Karen Dunshea Premium Profile 1st
+                            - generic [aria-hidden] [ref=f277e327]:
+                              - text: Karen Dunshea
+                              - generic [ref=f277e330]: • 1st
+                        - paragraph [ref=f277e332]: 🔑 Writer | Exploring ideas and practices for conversing with complexity | Author of ‘More-Than’
+                    - paragraph [ref=f277e334]: (edited) 5d
+                    - button "View more options for Karen Dunshea’s comment." [ref=f277e335] [cursor=pointer]
+                  - paragraph [ref=f277e341]:
+                    - generic [ref=f277e342]:
+                      - link "View Sarah Cretegny ICF ACC’s profile" [ref=f277e344] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/sarah-cretegny-swiss/
+                        - strong [ref=f277e345]: Sarah Cretegny ICF ACC
+                      - text: I wonder if we’re always ‘still on the crossing’? Always moving to somewhere… and the crossing is probably where all the action and learning (and fun) is?And, yes, super important to stay with the uneasy feeling and listen to what it is telling us. I can’t wait to get my copy of your book.
+                  - generic [ref=f277e347]:
+                    - generic [ref=f277e348]:
+                      - generic [ref=f277e349]:
+                        - button "1 reaction" [ref=f277e352] [cursor=pointer]:
+                          - paragraph [ref=f277e356]:
+                            - generic [ref=f277e357]:
+                              - generic [ref=f277e358]: 1 reaction
+                              - text: "1"
+                        - button "Open reactions menu"
+                      - generic [ref=f277e359]:
+                        - button "Reply" [ref=f277e360] [cursor=pointer]
+                        - paragraph [ref=f277e364]:
+                          - generic [ref=f277e365]:
+                            - generic [ref=f277e366]: "1"
+                            - text: "1"
+                    - link [ref=f277e368] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "Reacted to by the author" [ref=f277e369]:
+                        - figure [aria-hidden] [ref=f277e370]
+              - generic [ref=f277e377]:
+                - link [ref=f277e379] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/sarah-cretegny-swiss/
+                  - figure [ref=f277e380]
+                - generic [ref=f277e381]:
+                  - generic [ref=f277e383]:
+                    - link [ref=f277e384] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/sarah-cretegny-swiss/
+                      - generic [ref=f277e385]:
+                        - generic [ref=f277e386]:
+                          - paragraph [ref=f277e389]: Sarah Cretegny ICF ACC
+                          - paragraph [ref=f277e390]: Author
+                        - paragraph [ref=f277e392]: Transitions Coach - helping people navigate real life transitions without loosing themselves. Coach Your Wild is your creative oasis in the wildness of life. Your thinking partner for what matters most. Author. Mother.
+                    - paragraph [ref=f277e394]: 5d
+                    - button "View more options for Sarah Cretegny ICF ACC’s comment." [ref=f277e395] [cursor=pointer]
+                  - paragraph [ref=f277e401]:
+                    - generic [ref=f277e402]:
+                      - link "View Karen Dunshea’s profile" [ref=f277e404] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/karendunshea/
+                        - strong [ref=f277e405]: Karen Dunshea
+                      - text: the crossing is the place to be! It’s where we met after all🦓🇨🇭🫶🏻
+                  - generic [ref=f277e407]:
+                    - generic [ref=f277e408]:
+                      - generic [ref=f277e409]:
+                        - button "1 reaction" [ref=f277e412] [cursor=pointer]:
+                          - paragraph [ref=f277e416]:
+                            - generic [ref=f277e417]:
+                              - generic [ref=f277e418]: 1 reaction
+                              - text: "1"
+                        - button "Open reactions menu"
+                      - button "Reply" [ref=f277e420] [cursor=pointer]
+                    - link [ref=f277e423] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+          - complementary "Aside" [ref=f277e504]:
+            - generic [ref=f277e510]:
+              - generic [ref=f277e511]:
+                - link [ref=f277e512] [cursor=pointer]:
+                  - /url: https://about.linkedin.com/
+                  - paragraph [ref=f277e513]: About
+                - link [ref=f277e514] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/accessibility/
+                  - paragraph [ref=f277e515]: Accessibility
+                - link [ref=f277e516] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin/
+                  - paragraph [ref=f277e517]: Help Center
+                - button [ref=f277e518] [cursor=pointer]:
+                  - paragraph [ref=f277e520]: Privacy & Terms
+                - link [ref=f277e522] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin/answer/62931/
+                  - paragraph [ref=f277e523]: Ad Choices
+                - link [ref=f277e524] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/ad/start/?trk=n_nav_ads_rr
+                  - paragraph [ref=f277e525]: Advertising
+                - button [ref=f277e526] [cursor=pointer]:
+                  - paragraph [ref=f277e528]: Business Services
+                - link [ref=f277e530] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/mobile/
+                  - paragraph [ref=f277e531]: Get the LinkedIn app
+                - link [ref=f277e532] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/
+                  - paragraph [ref=f277e533]: More
+              - paragraph [ref=f277e536]: LinkedIn Corporation © 2026
