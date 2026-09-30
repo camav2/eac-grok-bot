@@ -1,0 +1,36 @@
+- generic [active] [ref=f134e1]:
+  - generic:
+    - region "Toast message":
+      - heading "0 notifications total" [level=2] [ref=f134e3]
+      - alert
+  - generic [ref=f134e4]:
+    - banner [ref=f134e5]:
+      - heading [level=1] [ref=f134e7]:
+        - link "LinkedIn":
+          - /url: /
+          - img "LinkedIn" [ref=f134e8] [cursor=pointer]
+    - generic [ref=f134e11]:
+      - heading "This page doesn’t exist" [level=2] [ref=f134e12]
+      - paragraph [ref=f134e13]: Please check your URL or return to LinkedIn home.
+      - link "Go to your feed" [ref=f134e14] [cursor=pointer]:
+        - /url: /feed/?trk=404_page
+    - contentinfo [ref=f134e15]:
+      - generic [ref=f134e16]:
+        - generic [ref=f134e17]:
+          - link "LinkedIn":
+            - /url: /
+            - img "LinkedIn" [ref=f134e18] [cursor=pointer]
+          - text: © 2026
+        - link "User Agreement" [ref=f134e20] [cursor=pointer]:
+          - /url: /legal/user-agreement?trk=%7Berror-page%7D-user-agreement
+        - link "Privacy Policy" [ref=f134e21] [cursor=pointer]:
+          - /url: /legal/privacy-policy?trk=%7Berror-page%7D-privacy-policy
+        - link "Community Guidelines" [ref=f134e22] [cursor=pointer]:
+          - /url: /help/linkedin/answer/34593?trk=%7Berror-page%7D-community-guidelines
+        - link "Cookie Policy" [ref=f134e23] [cursor=pointer]:
+          - /url: /legal/cookie-policy?trk=%7Berror-page%7D-cookie-policy
+        - link "Copyright Policy" [ref=f134e24] [cursor=pointer]:
+          - /url: /legal/copyright-policy?trk=%7Berror-page%7D-copyright-policy
+        - link "Guest Controls" [ref=f134e25] [cursor=pointer]:
+          - /url: /psettings/guest-controls?trk=%7Berror-page%7D-guest-controls
+  - region [ref=f134e26]

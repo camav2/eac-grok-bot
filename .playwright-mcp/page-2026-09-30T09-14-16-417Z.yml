@@ -1,0 +1,212 @@
+- generic [ref=f87e2]:
+  - heading "0 notifications" [level=2] [ref=f87e3]
+  - generic [ref=f87e4]:
+    - generic:
+      - generic "Skip navigation menu":
+        - generic [ref=f87e5]:
+          - button "Skip to search" [ref=f87e6] [cursor=pointer]
+          - button "Skip to main content" [ref=f87e9] [cursor=pointer]
+          - button "Skip to sidebar" [ref=f87e12] [cursor=pointer]
+          - button "Skip to primary content" [ref=f87e15] [cursor=pointer]
+          - button "Skip to aside" [ref=f87e18] [cursor=pointer]
+          - button "Close jump menu" [ref=f87e22] [cursor=pointer]
+    - generic [ref=f87e26]:
+      - banner [ref=f87e28]:
+        - generic [ref=f87e31]:
+          - button [ref=f87e32] [cursor=pointer]:
+            - img "LinkedIn" [ref=f87e33]
+          - generic [ref=f87e35]:
+            - status [ref=f87e36]
+            - search [ref=f87e37]:
+              - textbox "I'm looking for…" [ref=f87e42]
+          - generic [ref=f87e44]:
+            - navigation [ref=f87e48]:
+              - list [ref=f87e49]:
+                - listitem [ref=f87e50]:
+                  - button "Home, 1 new notification" [ref=f87e51] [cursor=pointer]:
+                    - generic [ref=f87e56]: Home
+                - listitem [ref=f87e58]:
+                  - link "My Network, 41 new notifications" [ref=f87e59] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork
+                    - generic [ref=f87e60]: "41"
+                    - generic [ref=f87e64]: My Network
+                - listitem [ref=f87e66]:
+                  - link "Jobs, 0 new notifications" [ref=f87e67] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/
+                    - generic [ref=f87e71]: Jobs
+                - listitem [ref=f87e73]:
+                  - link "Messaging, 0 new notifications" [ref=f87e74] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/messaging/
+                    - generic [ref=f87e78]: Messaging
+                - listitem [ref=f87e80]:
+                  - link "Notifications, 19 new notifications" [ref=f87e81] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/notifications/
+                    - generic [ref=f87e82]: "19"
+                    - generic [ref=f87e86]: Notifications
+                - listitem [ref=f87e88]:
+                  - button "Me" [ref=f87e89] [cursor=pointer]:
+                    - figure [aria-hidden] [ref=f87e91]
+            - navigation [ref=f87e98]:
+              - list [ref=f87e99]:
+                - listitem [ref=f87e100]:
+                  - button "For Business" [ref=f87e101] [cursor=pointer]
+                - listitem [ref=f87e109]:
+                  - link "Advertise, 3 new notifications" [ref=f87e110] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/campaignmanager/accounts/
+                    - generic [ref=f87e111]: "3"
+                    - generic [ref=f87e116]: Advertise
+      - main [ref=f87e120]:
+        - generic [ref=f87e122]:
+          - complementary "Sidebar" [ref=f87e123]:
+            - generic [ref=f87e126]:
+              - generic [ref=f87e130]:
+                - link [ref=f87e131] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/kelly-irving/
+                  - generic [ref=f87e132]:
+                    - generic [ref=f87e133]:
+                      - figure [aria-hidden] [ref=f87e134]
+                      - paragraph [ref=f87e136]: Premium
+                    - figure [ref=f87e139]:
+                      - img "Kelly Irving" [ref=f87e140]
+                - generic [ref=f87e141]:
+                  - link [ref=f87e142] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic "Kelly Irving, Book coach and editor for changemakers and trailblazers / Publishing gymnast, Anglesea, Victoria, Premium profile" [ref=f87e143]:
+                      - generic [ref=f87e144]:
+                        - paragraph [ref=f87e146]: Kelly Irving
+                        - img "Premium profile" [ref=f87e147]
+                      - paragraph [ref=f87e150]: Book coach and editor for changemakers and trailblazers / Publishing gymnast
+                      - paragraph [ref=f87e151]: Anglesea, Victoria
+                  - link [ref=f87e152] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic [ref=f87e153]:
+                      - figure [aria-hidden] [ref=f87e154]
+                      - paragraph [ref=f87e155]: Expert Author Community
+              - generic [ref=f87e157]:
+                - menu [ref=f87e158]:
+                  - link [ref=f87e160] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/me/profile-views/
+                    - generic "Profile viewers 279" [ref=f87e161]:
+                      - paragraph [ref=f87e163]: Profile viewers
+                      - paragraph [ref=f87e164]: "279"
+                  - link [ref=f87e166] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/analytics/creator/content/
+                    - generic "Post impressions 1,521" [ref=f87e167]:
+                      - paragraph [ref=f87e169]: Post impressions
+                      - paragraph [ref=f87e170]: 1,521
+                - menu [ref=f87e171]:
+                  - link [ref=f87e173] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/premium/my-premium/
+                    - paragraph [ref=f87e178]: Your Premium features
+          - region "Primary content" [ref=f87e179]:
+            - generic [ref=f87e185]:
+              - listitem [ref=f87e189]:
+                - generic [ref=f87e191]:
+                  - heading "Feed post" [level=2]
+                  - generic [ref=f87e193]:
+                    - link [ref=f87e194] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/laura-liswood/
+                      - figure [ref=f87e195]:
+                        - img "View Laura Liswood’s profile" [ref=f87e196]
+                    - generic [ref=f87e198]:
+                      - link [ref=f87e201] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/laura-liswood/
+                        - generic "Laura Liswood 1st" [ref=f87e203]:
+                          - paragraph [ref=f87e206]: Laura Liswood
+                          - paragraph [ref=f87e208]: • 1st
+                      - paragraph [ref=f87e210]: Keynote Speaker and Author | The Elephant and the Mouse | The Loudest Duck
+                      - paragraph [ref=f87e212]: 4m
+                      - link "Laura Liswood 1st":
+                        - /url: https://www.linkedin.com/in/laura-liswood/
+                    - button "Open control menu for post by Laura Liswood" [ref=f87e213] [cursor=pointer]
+                  - paragraph [ref=f87e217]:
+                    - generic [ref=f87e218]:
+                      - text: As I discuss in this panel session at the
+                      - 'link "View company: Reykjavík Global Forum" [ref=f87e220] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/company/reykjavikglobalforum/
+                        - strong [ref=f87e221]: Reykjavík Global Forum
+                      - text: "2025, we have an “upgrade” problem: women are not advancing through organizations at the same rate at which they enter them. And even when women reach the C-suite, they are not always in the roles that traditionally provide the most direct pathway to running the organization.This distinction matters because representation alone does not tell us where decision-making authority, influence, and ultimately power reside.If we want to understand progress for women in leadership, we need to look beyond who enters the organization and ask: Who advances? Into which roles? And who ultimately has the opportunity to lead?I look forward to participating in this year’s Reykjavik Global Forum and continuing these important conversations about women’s leadership and advancement."
+                      - 'link "View hashtag: #womeninleadership" [ref=f87e223] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23womeninleadership&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=f87e224]: "#WomenInLeadership"
+                      - 'link "View hashtag: #leadership" [ref=f87e226] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23leadership&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=f87e227]: "#Leadership"
+                      - 'link "View hashtag: #genderequality" [ref=f87e229] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23genderequality&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=f87e230]: "#GenderEquality"
+                      - 'link "View hashtag: #womenleaders" [ref=f87e232] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23womenleaders&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=f87e233]: "#WomenLeaders"
+                      - 'link "View hashtag: #leadershipdevelopment" [ref=f87e235] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23leadershipdevelopment&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=f87e236]: "#LeadershipDevelopment"
+                      - 'link "View hashtag: #diversityandinclusion" [ref=f87e238] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23diversityandinclusion&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=f87e239]: "#DiversityAndInclusion"
+                      - 'link "View hashtag: #executiveleadership" [ref=f87e241] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23executiveleadership&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=f87e242]: "#ExecutiveLeadership"
+                      - 'link "View hashtag: #workplaceequity" [ref=f87e244] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23workplaceequity&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=f87e245]: "#WorkplaceEquity"
+                  - generic [ref=f87e247]:
+                    - region "Video Player" [ref=f87e249]:
+                      - generic [ref=f87e252] [cursor=pointer]
+                      - text:             
+                    - button "Play video" [ref=f87e254] [cursor=pointer]
+                  - generic [ref=f87e258]:
+                    - link [ref=f87e259] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "Switch to different account" [ref=f87e260]:
+                        - figure [aria-hidden] [ref=f87e261]
+                    - generic [ref=f87e264]:
+                      - 'button "Reaction button state: no reaction" [ref=f87e267] [cursor=pointer]'
+                      - button "Open reactions menu":
+                        - generic [ref=f87e271] [cursor=pointer]
+                    - button "Comment" [ref=f87e274] [cursor=pointer]
+                    - button "Repost" [ref=f87e278] [cursor=pointer]
+                    - link "Send" [ref=f87e282] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                - generic [ref=f87e291]:
+                  - generic [ref=f87e293]:
+                    - status [ref=f87e294]
+                    - textbox "Text editor for creating comment" [ref=f87e297]:
+                      - paragraph [ref=f87e298]: Add a comment...
+                  - generic [ref=f87e299]:
+                    - button "Show Emoji Picker" [ref=f87e300] [cursor=pointer]
+                    - button "Open GIF picker" [ref=f87e306] [cursor=pointer]
+                    - button "Share photo" [ref=f87e310] [cursor=pointer]
+              - link:
+                - /url: https://www.linkedin.com/
+          - complementary "Aside" [ref=f87e314]:
+            - generic [ref=f87e320]:
+              - generic [ref=f87e321]:
+                - link [ref=f87e322] [cursor=pointer]:
+                  - /url: https://about.linkedin.com/
+                  - paragraph [ref=f87e323]: About
+                - link [ref=f87e324] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/accessibility/
+                  - paragraph [ref=f87e325]: Accessibility
+                - link [ref=f87e326] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin/
+                  - paragraph [ref=f87e327]: Help Center
+                - button [ref=f87e328] [cursor=pointer]:
+                  - paragraph [ref=f87e330]: Privacy & Terms
+                - link [ref=f87e333] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin/answer/62931/
+                  - paragraph [ref=f87e334]: Ad Choices
+                - link [ref=f87e335] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/ad/start/?trk=n_nav_ads_rr
+                  - paragraph [ref=f87e336]: Advertising
+                - button [ref=f87e337] [cursor=pointer]:
+                  - paragraph [ref=f87e339]: Business Services
+                - link [ref=f87e342] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/mobile/
+                  - paragraph [ref=f87e343]: Get the LinkedIn app
+                - link [ref=f87e344] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/
+                  - paragraph [ref=f87e345]: More
+              - paragraph [ref=f87e349]: LinkedIn Corporation © 2026
+  - iframe [ref=f87e350]:
+    - region [ref=f89e12]

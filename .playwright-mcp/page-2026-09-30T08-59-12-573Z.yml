@@ -1,0 +1,591 @@
+- generic [ref=f33e2]:
+  - heading "0 notifications" [level=2] [ref=f33e744]
+  - generic [ref=f33e745]:
+    - generic:
+      - generic "Skip navigation menu":
+        - generic [ref=f33e746]:
+          - button "Skip to search" [ref=f33e747] [cursor=pointer]
+          - button "Skip to main content" [ref=f33e750] [cursor=pointer]
+          - button "Skip to sidebar" [ref=f33e753] [cursor=pointer]
+          - button "Skip to primary content" [ref=f33e756] [cursor=pointer]
+          - button "Skip to aside" [ref=f33e759] [cursor=pointer]
+          - button "Close jump menu" [ref=f33e763] [cursor=pointer]
+    - generic [ref=f33e767]:
+      - banner [ref=f33e769]:
+        - generic [ref=f33e772]:
+          - button [ref=f33e773] [cursor=pointer]:
+            - img "LinkedIn" [ref=f33e774]
+          - generic [ref=f33e776]:
+            - status [ref=f33e777]
+            - search [ref=f33e778]:
+              - textbox "I'm looking for…" [ref=f33e783]
+          - generic [ref=f33e785]:
+            - figure [aria-hidden] [ref=f33e790]
+            - navigation [ref=f33e794]:
+              - list [ref=f33e795]:
+                - listitem [ref=f33e796]:
+                  - button "Home, 1 new notification" [ref=f33e797] [cursor=pointer]:
+                    - generic [ref=f33e802]: Home
+                - listitem [ref=f33e804]:
+                  - link "My Network, 41 new notifications" [ref=f33e805] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork
+                    - generic [ref=f33e806]: "41"
+                    - generic [ref=f33e810]: My Network
+                - listitem [ref=f33e812]:
+                  - link "Jobs, 0 new notifications" [ref=f33e813] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/
+                    - generic [ref=f33e817]: Jobs
+                - listitem [ref=f33e819]:
+                  - link "Messaging, 0 new notifications" [ref=f33e820] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/messaging/
+                    - generic [ref=f33e824]: Messaging
+                - listitem [ref=f33e826]:
+                  - link "Notifications, 19 new notifications" [ref=f33e827] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/notifications/
+                    - generic [ref=f33e828]: "19"
+                    - generic [ref=f33e832]: Notifications
+                - listitem [ref=f33e834]:
+                  - button "Me" [ref=f33e835] [cursor=pointer]:
+                    - figure [aria-hidden] [ref=f33e837]
+            - navigation [ref=f33e844]:
+              - list [ref=f33e845]:
+                - listitem [ref=f33e846]:
+                  - button "For Business" [ref=f33e847] [cursor=pointer]
+                - listitem [ref=f33e855]:
+                  - link "Advertise, 3 new notifications" [ref=f33e856] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/campaignmanager/accounts/
+                    - generic [ref=f33e857]: "3"
+                    - generic [ref=f33e862]: Advertise
+      - main [ref=f33e866]:
+        - generic [ref=f33e868]:
+          - complementary "Sidebar" [ref=f33e869]:
+            - generic [ref=f33e872]:
+              - generic [ref=f33e876]:
+                - link [ref=f33e877] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/kelly-irving/
+                  - generic [ref=f33e878]:
+                    - generic [ref=f33e879]:
+                      - figure [aria-hidden] [ref=f33e880]
+                      - paragraph [ref=f33e882]: Premium
+                    - figure [ref=f33e885]:
+                      - img "Kelly Irving" [ref=f33e886]
+                - generic [ref=f33e887]:
+                  - link [ref=f33e888] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic "Kelly Irving, Book coach and editor for changemakers and trailblazers / Publishing gymnast, Anglesea, Victoria, Premium profile" [ref=f33e889]:
+                      - generic [ref=f33e890]:
+                        - paragraph [ref=f33e892]: Kelly Irving
+                        - img "Premium profile" [ref=f33e893]
+                      - paragraph [ref=f33e896]: Book coach and editor for changemakers and trailblazers / Publishing gymnast
+                      - paragraph [ref=f33e897]: Anglesea, Victoria
+                  - link [ref=f33e898] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic [ref=f33e899]:
+                      - figure [aria-hidden] [ref=f33e900]
+                      - paragraph [ref=f33e901]: Expert Author Community
+              - generic [ref=f33e903]:
+                - menu [ref=f33e904]:
+                  - link [ref=f33e906] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/me/profile-views/
+                    - generic "Profile viewers 279" [ref=f33e907]:
+                      - paragraph [ref=f33e909]: Profile viewers
+                      - paragraph [ref=f33e910]: "279"
+                  - link [ref=f33e912] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/analytics/creator/content/
+                    - generic "Post impressions 1,519" [ref=f33e913]:
+                      - paragraph [ref=f33e915]: Post impressions
+                      - paragraph [ref=f33e916]: 1,519
+                - menu [ref=f33e917]:
+                  - link [ref=f33e919] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/premium/my-premium/
+                    - paragraph [ref=f33e924]: Your Premium features
+          - region "Primary content" [ref=f33e925]:
+            - generic [ref=f33e931]:
+              - listitem [ref=f33e935]:
+                - generic [ref=f33e937]:
+                  - heading "Feed post" [level=2]
+                  - generic [ref=f33e939]:
+                    - paragraph [ref=f33e942]: Promote this post to reach people who matter to you.
+                    - link "Boost" [ref=f33e944] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/campaignmanager/boost/campaigns/new/details/?origin=memberPostDetails&content=urn%3Ali%3Ashare%3A7510582431058518016&isNileReferrer=true
+                  - generic [ref=f33e947]:
+                    - link [ref=f33e948] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7510582433927458817/?actorCompanyId=89798536&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287510592277539385344%2Curn%3Ali%3Aactivity%3A7510582433927458817%29
+                      - generic "Posted with 2 other collaborators" [ref=f33e949]:
+                        - figure [aria-hidden] [ref=f33e950]
+                        - figure [aria-hidden] [ref=f33e951]
+                    - generic [ref=f33e953]:
+                      - link [ref=f33e956] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/kelly-irving/
+                        - generic "Kelly Irving Premium Profile You" [ref=f33e958]:
+                          - paragraph [ref=f33e961]: Kelly Irving
+                          - paragraph [ref=f33e963]:
+                            - generic [ref=f33e964]: • You
+                      - link [ref=f33e971] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fexpertauthor%2Ecommunity&urlhash=khjW&mt=QzDxwUnB3TpekStRHxkMPvg4cDOlTjh2yQQ11pQCneinztMa8hqNTTRpFWN-idW-4IeuYtVLX5uG9ZsITWyU_j2iPbjDGqY_QSHwNJg&isSdui=true
+                        - paragraph [ref=f33e972]: Visit my website
+                      - paragraph [ref=f33e976]:
+                        - generic [ref=f33e977]:
+                          - text: with
+                          - link "View all collaborators" [ref=f33e978] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/feed/update/urn:li:activity:7510582433927458817/?actorCompanyId=89798536&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287510592277539385344%2Curn%3Ali%3Aactivity%3A7510582433927458817%29
+                            - strong [ref=f33e979]: 2 others
+                          - text: • 1d • Edited
+                      - link "Kelly Irving Premium Profile You":
+                        - /url: https://www.linkedin.com/in/kelly-irving/
+                    - button "Open control menu for post by Kelly Irving" [ref=f33e980] [cursor=pointer]
+                  - paragraph [ref=f33e984]:
+                    - generic [ref=f33e985]:
+                      - text: "Everyone’s talking about how fast we can now write.I keep thinking about how slowly trust is built.Two recent coaching conversations, in particular, keep niggling at me.In one, an author sent me a 100+ page book outline. There was no shortage of ideas, but it was missing a simple, clear decision about what the book was really about.In the other, the author was in a pickle. The writing was strong, but he’d been using AI to sense-check it, and every answer pulled him somewhere new.What he needed wasn’t more feedback.It was judgment he could trust.It’s so freaking easy to produce words.The hard part is building trust - with your readers and in yourself.Trust doesn’t come from polish or volume.It comes from discernment:- Choosing the idea worth developing- Shaping the work around a real reader- Knowing where tools can help—and where your judgment must leadNone of that can be, or should be, rushed.A book can make you visible.But a meaningful book can make you trusted.That kind of work rarely gets stronger in isolation.It needs structure, honest feedback and other people doing the work alongside you.So I’m curious: what makes you trust an expert’s writing?It’s the question at the heart of the"
+                      - 'link "View company: Expert Author Community" [ref=f33e987] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/company/expert-author-community/
+                        - strong [ref=f33e988]: Expert Author Community
+                      - text: Open House I’m preparing for 29 October.I’d love you to join us for this 90-minute conversation.RSVP
+                      - link "Open https://lnkd.in/eSaXc2SK" [ref=f33e990] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2FeSaXc2SK&urlhash=sFNS&mt=5WOlp6iuKUgWXbsAZa84MoKPXTMsqmcnWFe6KzOMbO1InHN8xPkscdFwF0BlBXfbrr-HSuOrohPCdEWp6-jMFedZEPgUjkmZeCTW33iPA7yHa86JlIwfO4P0&isSdui=true
+                        - strong [ref=f33e991]: https://lnkd.in/eSaXc2SK
+                      - text: Come and meet
+                      - link "View Michelle Scheibner’s profile" [ref=f33e993] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/michellescheibner/
+                        - strong [ref=f33e994]: Michelle Scheibner
+                      - link "View Graeme Cowan’s profile" [ref=f33e996] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/graemecowan1/
+                        - strong [ref=f33e997]: Graeme Cowan
+                      - link "View Emma Lagerlow’s profile" [ref=f33e999] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/emma-lagerlow-4a2849/
+                        - strong [ref=f33e1000]: Emma Lagerlow
+                      - link "View Sophie Bretag’s profile" [ref=f33e1002] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/sophiebretag/
+                        - strong [ref=f33e1003]: Sophie Bretag
+                      - link "View Andrew Sloan’s profile" [ref=f33e1005] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/andrewwilliamsloan/
+                        - strong [ref=f33e1006]: Andrew Sloan
+                      - link "View Paul Watkins’ profile" [ref=f33e1008] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/paul-watkins-92125499/
+                        - strong [ref=f33e1009]: Paul Watkins
+                      - link "View Jennifer Mulveny’s profile" [ref=f33e1011] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/jennifer-mulveny-06313086/
+                        - strong [ref=f33e1012]: Jennifer Mulveny
+                      - link "View Tee-Jay 💎 Ramnarain-Little’s profile" [ref=f33e1014] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/teejayramnarainlittle/
+                        - strong [ref=f33e1015]: Tee-Jay 💎 Ramnarain-Little
+                      - link "View Laurice Temple’s profile" [ref=f33e1017] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/lauricetemple/
+                        - strong [ref=f33e1018]: Laurice Temple
+                      - text: and many moreKx
+                  - link [ref=f33e1020] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/feed/update/urn:li:activity:7510582433927458817/?actorCompanyId=89798536&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287510592277539385344%2Curn%3Ali%3Aactivity%3A7510582433927458817%29
+                    - figure [ref=f33e1021]:
+                      - img "View image" [ref=f33e1022]
+                  - generic [ref=f33e1023]:
+                    - link [ref=f33e1024] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7510582433927458817/?actorCompanyId=89798536&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287510592277539385344%2Curn%3Ali%3Aactivity%3A7510582433927458817%29
+                      - generic "Switch to different account" [ref=f33e1025]:
+                        - figure [aria-hidden] [ref=f33e1026]
+                    - generic [ref=f33e1029]:
+                      - 'button "Reaction button state: no reaction" [ref=f33e1032] [cursor=pointer]':
+                        - generic [ref=f33e1033]: "22"
+                      - button "Open reactions menu":
+                        - generic [ref=f33e1039] [cursor=pointer]
+                    - button "Comment" [ref=f33e1042] [cursor=pointer]:
+                      - generic [ref=f33e1043]: "7"
+                    - button "Repost" [ref=f33e1049] [cursor=pointer]:
+                      - generic [ref=f33e1050]: "4"
+                    - link [ref=f33e1056] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7510582433927458817/?actorCompanyId=89798536&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287510592277539385344%2Curn%3Ali%3Aactivity%3A7510582433927458817%29
+                      - generic "22 reactions" [ref=f33e1057]
+                - link [ref=f33e1086] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/analytics/post-summary/urn:li:activity:7510582433927458817/
+                  - generic "View analytics" [ref=f33e1087]:
+                    - generic "Content analytics" [ref=f33e1088]:
+                      - img "Analytics Icon" [ref=f33e1089]
+                      - paragraph [ref=f33e1091]: 926 impressions
+                    - paragraph [ref=f33e1092]:
+                      - generic [ref=f33e1093]: View analytics
+                      - text: View analytics
+                - generic [ref=f33e1099]:
+                  - generic [ref=f33e1101]:
+                    - status [ref=f33e1102]
+                    - textbox "Text editor for creating comment" [ref=f33e1105]:
+                      - paragraph [ref=f33e1106]: Comment as Expert Author Community
+                  - generic [ref=f33e1107]:
+                    - button "Show Emoji Picker" [ref=f33e1108] [cursor=pointer]
+                    - button "Open GIF picker" [ref=f33e1114] [cursor=pointer]
+                    - button "Share photo" [ref=f33e1118] [cursor=pointer]
+              - link [ref=f33e1122] [cursor=pointer]:
+                - /url: https://www.linkedin.com/feed/update/urn:li:activity:7510582433927458817/?actorCompanyId=89798536&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287510592277539385344%2Curn%3Ali%3Aactivity%3A7510582433927458817%29
+                - generic [ref=f33e1124]:
+                  - link [ref=f33e1125]:
+                    - /url: https://www.linkedin.com/in/salli-cohen/
+                    - generic "Salli Cohen reacted with Celebrate" [ref=f33e1126]:
+                      - figure [aria-hidden] [ref=f33e1127]
+                  - link [ref=f33e1142]:
+                    - /url: https://www.linkedin.com/in/liz-fleming-%E2%9C%A8-grants-coach-writer/
+                    - generic "Liz Fleming reacted with Like" [ref=f33e1143]:
+                      - figure [aria-hidden] [ref=f33e1144]
+                  - link [ref=f33e1151]:
+                    - /url: https://www.linkedin.com/in/elenakingston-bedfordcoach/
+                    - generic "Elena Kingston-Bedford - PCC (ICF) reacted with Love" [ref=f33e1152]:
+                      - figure [aria-hidden] [ref=f33e1153]
+                  - link [ref=f33e1160]:
+                    - /url: https://www.linkedin.com/in/christina-porter-83615b50/
+                    - generic "Christina Porter reacted with Insightful" [ref=f33e1161]:
+                      - figure [aria-hidden] [ref=f33e1162]
+                  - link [ref=f33e1171]:
+                    - /url: https://www.linkedin.com/in/teejayramnarainlittle/
+                    - generic "Tee-Jay 💎 Ramnarain-Little reacted with Love" [ref=f33e1172]:
+                      - figure [aria-hidden] [ref=f33e1173]
+                  - link [ref=f33e1180]:
+                    - /url: https://www.linkedin.com/in/learausch/
+                    - generic "Lea Rausch reacted with Celebrate" [ref=f33e1181]:
+                      - figure [aria-hidden] [ref=f33e1182]
+                  - link [ref=f33e1197]:
+                    - /url: https://www.linkedin.com/in/mareemcpherson/
+                    - generic "Maree McPherson OAM reacted with Insightful" [ref=f33e1198]:
+                      - figure [aria-hidden] [ref=f33e1199]
+                  - link [ref=f33e1208]:
+                    - /url: https://www.linkedin.com/in/rebeccacattran/
+                    - generic "Rebecca Cattran 🧡 Change. Leadership. Coach. reacted with Support" [ref=f33e1209]:
+                      - figure [aria-hidden] [ref=f33e1210]
+                  - link "View all reactions" [ref=f33e1222]:
+                    - /url: https://www.linkedin.com/feed/update/urn:li:activity:7510582433927458817/?actorCompanyId=89798536&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287510592277539385344%2Curn%3Ali%3Aactivity%3A7510582433927458817%29
+              - button [ref=f33e1227] [cursor=pointer]:
+                - paragraph [ref=f33e1231]: Most relevant
+              - generic [ref=f33e1238]:
+                - link [ref=f33e1240] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/michellescheibner/
+                  - figure [ref=f33e1241]:
+                    - img "View Michelle Scheibner’s profile" [ref=f33e1242]
+                - generic [ref=f33e1243]:
+                  - generic [ref=f33e1245]:
+                    - link "Michelle Scheibner Premium Profile 1st Strategic Identity Activator | Author of HUSH | Founder of UNBOUND | Discover the legacy life has prepared you to make | TEDx Speaker | 🌺" [ref=f33e1246] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/michellescheibner/
+                      - generic [ref=f33e1247]:
+                        - paragraph [ref=f33e1251]:
+                          - generic [ref=f33e1252]:
+                            - generic [ref=f33e1253]: Michelle Scheibner Premium Profile 1st
+                            - generic [aria-hidden] [ref=f33e1254]:
+                              - text: Michelle Scheibner
+                              - generic [ref=f33e1258]: • 1st
+                        - paragraph [ref=f33e1260]: Strategic Identity Activator | Author of HUSH | Founder of UNBOUND | Discover the legacy life has prepared you to make | TEDx Speaker | 🌺
+                    - paragraph [ref=f33e1262]: 1d
+                    - button "View more options for Michelle Scheibner’s comment." [ref=f33e1263] [cursor=pointer]
+                  - paragraph [ref=f33e1270]:
+                    - generic [ref=f33e1271]:
+                      - text: Great examples
+                      - link "View Kelly Irving’s profile" [ref=f33e1273] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/kelly-irving/
+                        - strong [ref=f33e1274]: Kelly Irving
+                      - text: .. many coaches have asked me “where do you even begin to write a quality book?” At this point I direct them to the
+                      - 'link "View company: Expert Author Community" [ref=f33e1276] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/company/expert-author-community/
+                        - strong [ref=f33e1277]: Expert Author Community
+                      - text: where you’re not told - we show you! So the Open House is the best place to start. Hope to see many new faces on October 29th 📚
+                  - generic [ref=f33e1279]:
+                    - generic [ref=f33e1280]:
+                      - generic [ref=f33e1281]:
+                        - 'button "Reaction button state: Like 3 reactions" [ref=f33e1284] [cursor=pointer]':
+                          - generic [ref=f33e1285]:
+                            - 'img "Reaction button state: Like" [ref=f33e1286]'
+                            - paragraph [ref=f33e1292]:
+                              - generic [ref=f33e1293]:
+                                - generic [ref=f33e1294]: 3 reactions
+                                - text: "3"
+                        - button "Open reactions menu":
+                          - generic [ref=f33e1295] [cursor=pointer]
+                      - button "Reply" [ref=f33e1299] [cursor=pointer]
+                    - generic [ref=f33e1303]:
+                      - link "View reactions" [ref=f33e1304] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/feed/update/urn:li:activity:7510582433927458817/?actorCompanyId=89798536&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287510592277539385344%2Curn%3Ali%3Aactivity%3A7510582433927458817%29
+                      - link [ref=f33e1318] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/feed/update/urn:li:activity:7510582433927458817/?actorCompanyId=89798536&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287510592277539385344%2Curn%3Ali%3Aactivity%3A7510582433927458817%29
+                        - generic "Reacted to by the author" [ref=f33e1319]:
+                          - figure [aria-hidden] [ref=f33e1320]
+              - generic [ref=f33e1332]:
+                - link [ref=f33e1334] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/teejayramnarainlittle/
+                  - figure [ref=f33e1335]:
+                    - img "View Tee-Jay 💎 Ramnarain-Little’s profile" [ref=f33e1336]
+                - generic [ref=f33e1337]:
+                  - generic [ref=f33e1339]:
+                    - 'link "Tee-Jay 💎 Ramnarain-Little Verified Profile 1st Empowering people to create careers they love by reminding them how AMAZING they are | LHH AI, Brand, Talent & Wellbeing Ambassador | Writer & Speaker | Triathlete | Mentor | #CorporateMatchmaker | #LitUpHumans" [ref=f33e1340] [cursor=pointer]':
+                      - /url: https://www.linkedin.com/in/teejayramnarainlittle/
+                      - generic [ref=f33e1341]:
+                        - paragraph [ref=f33e1345]:
+                          - generic [ref=f33e1346]:
+                            - generic [ref=f33e1347]: Tee-Jay 💎 Ramnarain-Little Verified Profile 1st
+                            - generic [aria-hidden] [ref=f33e1348]:
+                              - text: Tee-Jay 💎 Ramnarain-Little
+                              - generic [ref=f33e1352]: • 1st
+                        - paragraph [ref=f33e1354]: "Empowering people to create careers they love by reminding them how AMAZING they are | LHH AI, Brand, Talent & Wellbeing Ambassador | Writer & Speaker | Triathlete | Mentor | #CorporateMatchmaker | #LitUpHumans"
+                    - paragraph [ref=f33e1356]: 10h
+                    - button "View more options for Tee-Jay 💎 Ramnarain-Little’s comment." [ref=f33e1357] [cursor=pointer]
+                  - paragraph [ref=f33e1364]:
+                    - generic [ref=f33e1365]:
+                      - text: Am looking forward to it
+                      - link "View Kelly Irving’s profile" [ref=f33e1367] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/kelly-irving/
+                        - strong [ref=f33e1368]: Kelly Irving
+                      - text: 🥳😍🔥✨
+                  - generic [ref=f33e1371]:
+                    - generic [ref=f33e1372]:
+                      - 'button "Reaction button state: no reaction 0" [ref=f33e1375] [cursor=pointer]':
+                        - generic [ref=f33e1376]:
+                          - 'img "Reaction button state: no reaction" [ref=f33e1377]'
+                          - generic:
+                            - paragraph:
+                              - generic: "0"
+                      - button "Open reactions menu":
+                        - generic [ref=f33e1380] [cursor=pointer]
+                    - button "Reply" [ref=f33e1384] [cursor=pointer]
+              - generic [ref=f33e1392]:
+                - link [ref=f33e1394] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/jennifer-mulveny-06313086/
+                  - figure [ref=f33e1395]:
+                    - img "View Jennifer Mulveny’s profile" [ref=f33e1396]
+                - generic [ref=f33e1397]:
+                  - generic [ref=f33e1399]:
+                    - link "Jennifer Mulveny Verified Profile 1st Adobe Public Policy Director | Tech Policy Lecturer | Mindfulness Teacher | Non-Executive Director | Author in Progress" [ref=f33e1400] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/jennifer-mulveny-06313086/
+                      - generic [ref=f33e1401]:
+                        - paragraph [ref=f33e1405]:
+                          - generic [ref=f33e1406]:
+                            - generic [ref=f33e1407]: Jennifer Mulveny Verified Profile 1st
+                            - generic [aria-hidden] [ref=f33e1408]:
+                              - text: Jennifer Mulveny
+                              - generic [ref=f33e1412]: • 1st
+                        - paragraph [ref=f33e1414]: Adobe Public Policy Director | Tech Policy Lecturer | Mindfulness Teacher | Non-Executive Director | Author in Progress
+                    - paragraph [ref=f33e1416]: 1d
+                    - button "View more options for Jennifer Mulveny’s comment." [ref=f33e1417] [cursor=pointer]
+                  - paragraph [ref=f33e1424]:
+                    - generic [ref=f33e1425]: Can’t wait to be part of this Kelly! Just postponed my own deadline to work on exactly your question- how to make my work even more trusted?
+                  - generic [ref=f33e1427]:
+                    - generic [ref=f33e1428]:
+                      - generic [ref=f33e1429]:
+                        - 'button "Reaction button state: no reaction 1 reaction" [ref=f33e1432] [cursor=pointer]':
+                          - generic [ref=f33e1433]:
+                            - 'img "Reaction button state: no reaction" [ref=f33e1434]'
+                            - paragraph [ref=f33e1437]:
+                              - generic [ref=f33e1438]:
+                                - generic [ref=f33e1439]: 1 reaction
+                                - text: "1"
+                        - button "Open reactions menu":
+                          - generic [ref=f33e1440] [cursor=pointer]
+                      - button "Reply" [ref=f33e1444] [cursor=pointer]
+                    - link "View reactions" [ref=f33e1449] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7510582433927458817/?actorCompanyId=89798536&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287510592277539385344%2Curn%3Ali%3Aactivity%3A7510582433927458817%29
+              - generic [ref=f33e1461]:
+                - link [ref=f33e1463] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/lauricetemple/
+                  - figure [ref=f33e1464]:
+                    - img "View Laurice Temple’s profile" [ref=f33e1465]
+                - generic [ref=f33e1466]:
+                  - generic [ref=f33e1468]:
+                    - link "Laurice Temple Premium Profile 1st Shaping Culture & Wellbeing | High Performance Under Pressure | Founder, Ripple Affect Institute | Gateway Reviewer | Author, Leading Under Pressure" [ref=f33e1469] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/lauricetemple/
+                      - generic [ref=f33e1470]:
+                        - paragraph [ref=f33e1474]:
+                          - generic [ref=f33e1475]:
+                            - generic [ref=f33e1476]: Laurice Temple Premium Profile 1st
+                            - generic [aria-hidden] [ref=f33e1477]:
+                              - text: Laurice Temple
+                              - generic [ref=f33e1481]: • 1st
+                        - paragraph [ref=f33e1483]: Shaping Culture & Wellbeing | High Performance Under Pressure | Founder, Ripple Affect Institute | Gateway Reviewer | Author, Leading Under Pressure
+                    - paragraph [ref=f33e1485]: 1d
+                    - button "View more options for Laurice Temple’s comment." [ref=f33e1486] [cursor=pointer]
+                  - paragraph [ref=f33e1493]:
+                    - generic [ref=f33e1494]: See you there!
+                  - generic [ref=f33e1496]:
+                    - generic [ref=f33e1497]:
+                      - generic [ref=f33e1498]:
+                        - 'button "Reaction button state: Like 1 reaction" [ref=f33e1501] [cursor=pointer]':
+                          - generic [ref=f33e1502]:
+                            - 'img "Reaction button state: Like" [ref=f33e1503]'
+                            - paragraph [ref=f33e1509]:
+                              - generic [ref=f33e1510]:
+                                - generic [ref=f33e1511]: 1 reaction
+                                - text: "1"
+                        - button "Open reactions menu":
+                          - generic [ref=f33e1512] [cursor=pointer]
+                      - button "Reply" [ref=f33e1516] [cursor=pointer]
+                    - link [ref=f33e1521] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7510582433927458817/?actorCompanyId=89798536&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287510592277539385344%2Curn%3Ali%3Aactivity%3A7510582433927458817%29
+                      - generic "Reacted to by the author" [ref=f33e1522]:
+                        - figure [aria-hidden] [ref=f33e1523]
+              - generic [ref=f33e1535]:
+                - link [ref=f33e1537] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/sophiebretag/
+                  - figure [ref=f33e1538]:
+                    - img "View Sophie Bretag’s profile" [ref=f33e1539]
+                - generic [ref=f33e1540]:
+                  - generic [ref=f33e1542]:
+                    - link "Sophie Bretag Premium Profile 1st Bestselling Author of ‘The Kind Way’📚Global Leadership Keynote Speaker🎤Self Kindness Expert🧡 Helping leaders protect capacity & perform sustainably🔥 Fractional HR Consultant🌟Barefoot walker 👣 Squeezy hugger🩷" [ref=f33e1543] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/sophiebretag/
+                      - generic [ref=f33e1544]:
+                        - paragraph [ref=f33e1548]:
+                          - generic [ref=f33e1549]:
+                            - generic [ref=f33e1550]: Sophie Bretag Premium Profile 1st
+                            - generic [aria-hidden] [ref=f33e1551]:
+                              - text: Sophie Bretag
+                              - generic [ref=f33e1555]: • 1st
+                        - paragraph [ref=f33e1557]: Bestselling Author of ‘The Kind Way’📚Global Leadership Keynote Speaker🎤Self Kindness Expert🧡 Helping leaders protect capacity & perform sustainably🔥 Fractional HR Consultant🌟Barefoot walker 👣 Squeezy hugger🩷
+                    - paragraph [ref=f33e1559]: 1d
+                    - button "View more options for Sophie Bretag’s comment." [ref=f33e1560] [cursor=pointer]
+                  - paragraph [ref=f33e1567]:
+                    - generic [ref=f33e1568]: Can’t wait!🙌🧡
+                  - generic [ref=f33e1570]:
+                    - generic [ref=f33e1571]:
+                      - generic [ref=f33e1572]:
+                        - 'button "Reaction button state: Like 1 reaction" [ref=f33e1575] [cursor=pointer]':
+                          - generic [ref=f33e1576]:
+                            - 'img "Reaction button state: Like" [ref=f33e1577]'
+                            - paragraph [ref=f33e1583]:
+                              - generic [ref=f33e1584]:
+                                - generic [ref=f33e1585]: 1 reaction
+                                - text: "1"
+                        - button "Open reactions menu":
+                          - generic [ref=f33e1586] [cursor=pointer]
+                      - button "Reply" [ref=f33e1590] [cursor=pointer]
+                    - link [ref=f33e1595] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7510582433927458817/?actorCompanyId=89798536&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287510592277539385344%2Curn%3Ali%3Aactivity%3A7510582433927458817%29
+                      - generic "Reacted to by the author" [ref=f33e1596]:
+                        - figure [aria-hidden] [ref=f33e1597]
+              - generic [ref=f33e1609]:
+                - link [ref=f33e1611] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/cameronmcgrane/
+                  - figure [ref=f33e1612]:
+                    - img "View Cameron McGrane’s profile" [ref=f33e1613]
+                - generic [ref=f33e1614]:
+                  - generic [ref=f33e1616]:
+                    - link "Cameron McGrane Premium Profile 1st Product @ EAC | Integrator | Automation" [ref=f33e1617] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/cameronmcgrane/
+                      - generic [ref=f33e1618]:
+                        - paragraph [ref=f33e1622]:
+                          - generic [ref=f33e1623]:
+                            - generic [ref=f33e1624]: Cameron McGrane Premium Profile 1st
+                            - generic [aria-hidden] [ref=f33e1625]:
+                              - text: Cameron McGrane
+                              - generic [ref=f33e1629]: • 1st
+                        - paragraph [ref=f33e1631]: Product @ EAC | Integrator | Automation
+                    - paragraph [ref=f33e1633]: 1d
+                    - button "View more options for Cameron McGrane’s comment." [ref=f33e1634] [cursor=pointer]
+                  - paragraph [ref=f33e1641]:
+                    - generic [ref=f33e1642]: That's a big stack of paper :o
+                  - generic [ref=f33e1645]:
+                    - generic [ref=f33e1646]:
+                      - 'button "Reaction button state: no reaction 0" [ref=f33e1649] [cursor=pointer]':
+                        - generic [ref=f33e1650]:
+                          - 'img "Reaction button state: no reaction" [ref=f33e1651]'
+                          - generic:
+                            - paragraph:
+                              - generic: "0"
+                      - button "Open reactions menu":
+                        - generic [ref=f33e1654] [cursor=pointer]
+                    - button "Reply" [ref=f33e1658] [cursor=pointer]
+              - paragraph [ref=f33e1663]:
+                - text: Some comments may not be displayed in the
+                - strong [ref=f33e1664]: Most relevant
+                - text: view. To see these comments, select
+                - strong [ref=f33e1665]: Most recent
+                - text: .
+          - complementary "Aside" [ref=f33e1666]:
+            - generic [ref=f33e1669]:
+              - iframe [ref=f33e1672]:
+                - generic [ref=f35e2]:
+                  - generic: Ad
+                  - img "overflow-web-small" [ref=f35e6] [cursor=pointer]
+                  - link "LinkedIn for Marketing" [ref=f35e10] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Fbusiness.linkedin.com%2Fadvertise%2Fcx%2F21%2F09%2Fschedule-a-consultation-vb%3Fmcid%3D7503488571140616209%26src%3Dli-dynamic%26cid%3D701hh0000077UsqAAE%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg8YoGRmroyGMJX6MptMLpMHoctMVPuODFja7hEygSuJxOBoTlc1wkk79Ninsk5lBh1gw_Qr1tlsMQwHroOWsZtfWxS69gMjvW14DHx92ky3CAzY3DiYnzweeXcFqaeP-XZbba85J8-FpgL_uQbN53I2_8gryn3UVaESQG8baCG0DWxUlUxqpeGdd3vDj8MLy8lo2QRH6yITPxkpIjwPEkdVZO9Mh8GeiDOSG9_vAqqUvSPnFrrvhxQY6TjckDEHp051GRu66yg5haUe2dMT-nRTQh3BS25dDg7JY_X4Zr28Nyqu1azDKlLkH35rriAWcZurAAh0AZnR4RXXXUN9ULbGQCqHqFS9LTUGfmGIvF-jeEm-FBLhy91R_W1J_0JxCnt91k7-CvuLVj6F387nqRbhdL8t6BQNJ-yoHC_h8OV1dTWumF8zhehgbiXxLduTiGxtPCJ3sPvGIWVs9zPoHCVvaCIAEjoRrAlqpDbEfAeLYjfXh1AzPqa1pJ4tV-EiddSsdGMApjnPwgfC5apAMVN5QJCbJtsBbuA8ZdCuPaV3Q0Ii-DMwFh1DmSugNuDR8GyPm2dCKuM7-Pdu0Fy0ENXFIZahfDp-Yezj3ZPEyVkZTconY3TgvuTQAJKNUFldbUCPeo9-G_bM-m--1z1R7TbHRUrs4JanS5AE9M_-WyFSgPBGJWHMTyAoxeY9XoPGADhmN0EPNGgj0hg2JZo9bCxDsHeTuCq5lOknBFru24LFz6bYuycdXx7_ANmnLP_TxYUms3ssAw8jD0iCnOml4xl7vnBcPbMlovBGyIDxSqYsOYbYu7lyiRQjznH16Bk0SCEhAOJTbbEtJvtsBzh6vlYWCd0BJjBAZ6TgemSDO60CzZnM2T69uRBlAsJjygvsnhF6K1rr_g7XiPNhgbzWjN4wwZ49CRCyGQ10NxN7JbQ2hmG_sAXmUaJICDWAVA4aoijGaol_N7Q-8sj_cvELrbNim4r1-LU9GO9IT9FMeuTXot2N_jJAR9VLW6oWThyqsLgfOhC2EPMJaYjsudBQPa3OTytpqw_BwAdvKyGKFfLC1qntiw-qEbq3KZbc97kgD8kxRBOp6BEBoOtdg4FJNvdHlzDDFWAA15YcDdX0H0HOzWeF4%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_detail_base%22%2C%22trackingId%22%3A%22ad85985a-16bb-44dd-9ccc-331c462b1897%22%7D%2C%22time%22%3A1790758749681%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_detail_base%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                  - generic [ref=f35e11]:
+                    - heading "Kelly, struggling to reach the right B2B buyers?" [level=2] [ref=f35e14]
+                    - generic [ref=f35e16]:
+                      - img "Kelly" [ref=f35e17]
+                      - generic [ref=f35e18]:
+                        - link [ref=f35e19] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Fbusiness.linkedin.com%2Fadvertise%2Fcx%2F21%2F09%2Fschedule-a-consultation-vb%3Fmcid%3D7503488571140616209%26src%3Dli-dynamic%26cid%3D701hh0000077UsqAAE%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg8YoGRmroyGMJX6MptMLpMHoctMVPuODFja7hEygSuJxOBoTlc1wkk79Ninsk5lBh1gw_Qr1tlsMQwHroOWsZtfWxS69gMjvW14DHx92ky3CAzY3DiYnzweeXcFqaeP-XZbba85J8-FpgL_uQbN53I2_8gryn3UVaESQG8baCG0DWxUlUxqpeGdd3vDj8MLy8lo2QRH6yITPxkpIjwPEkdVZO9Mh8GeiDOSG9_vAqqUvSPnFrrvhxQY6TjckDEHp051GRu66yg5haUe2dMT-nRTQh3BS25dDg7JY_X4Zr28Nyqu1azDKlLkH35rriAWcZurAAh0AZnR4RXXXUN9ULbGQCqHqFS9LTUGfmGIvF-jeEm-FBLhy91R_W1J_0JxCnt91k7-CvuLVj6F387nqRbhdL8t6BQNJ-yoHC_h8OV1dTWumF8zhehgbiXxLduTiGxtPCJ3sPvGIWVs9zPoHCVvaCIAEjoRrAlqpDbEfAeLYjfXh1AzPqa1pJ4tV-EiddSsdGMApjnPwgfC5apAMVN5QJCbJtsBbuA8ZdCuPaV3Q0Ii-DMwFh1DmSugNuDR8GyPm2dCKuM7-Pdu0Fy0ENXFIZahfDp-Yezj3ZPEyVkZTconY3TgvuTQAJKNUFldbUCPeo9-G_bM-m--1z1R7TbHRUrs4JanS5AE9M_-WyFSgPBGJWHMTyAoxeY9XoPGADhmN0EPNGgj0hg2JZo9bCxDsHeTuCq5lOknBFru24LFz6bYuycdXx7_ANmnLP_TxYUms3ssAw8jD0iCnOml4xl7vnBcPbMlovBGyIDxSqYsOYbYu7lyiRQjznH16Bk0SCEhAOJTbbEtJvtsBzh6vlYWCd0BJjBAZ6TgemSDO60CzZnM2T69uRBlAsJjygvsnhF6K1rr_g7XiPNhgbzWjN4wwZ49CRCyGQ10NxN7JbQ2hmG_sAXmUaJICDWAVA4aoijGaol_N7Q-8sj_cvELrbNim4r1-LU9GO9IT9FMeuTXot2N_jJAR9VLW6oWThyqsLgfOhC2EPMJaYjsudBQPa3OTytpqw_BwAdvKyGKFfLC1qntiw-qEbq3KZbc97kgD8kxRBOp6BEBoOtdg4FJNvdHlzDDFWAA15YcDdX0H0HOzWeF4%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_detail_base%22%2C%22trackingId%22%3A%22ad85985a-16bb-44dd-9ccc-331c462b1897%22%7D%2C%22time%22%3A1790758749681%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_detail_base%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                          - img "LinkedIn for Marketing" [ref=f35e20]
+                        - tooltip "LinkedIn for Marketing" [ref=f35e21]
+                    - generic [ref=f35e22]:
+                      - heading "Refine targeting with a LinkedIn Ads expert" [level=2] [ref=f35e25]
+                      - link "Book a 1:1 call" [ref=f35e27] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Fbusiness.linkedin.com%2Fadvertise%2Fcx%2F21%2F09%2Fschedule-a-consultation-vb%3Fmcid%3D7503488571140616209%26src%3Dli-dynamic%26cid%3D701hh0000077UsqAAE%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg8YoGRmroyGMJX6MptMLpMHoctMVPuODFja7hEygSuJxOBoTlc1wkk79Ninsk5lBh1gw_Qr1tlsMQwHroOWsZtfWxS69gMjvW14DHx92ky3CAzY3DiYnzweeXcFqaeP-XZbba85J8-FpgL_uQbN53I2_8gryn3UVaESQG8baCG0DWxUlUxqpeGdd3vDj8MLy8lo2QRH6yITPxkpIjwPEkdVZO9Mh8GeiDOSG9_vAqqUvSPnFrrvhxQY6TjckDEHp051GRu66yg5haUe2dMT-nRTQh3BS25dDg7JY_X4Zr28Nyqu1azDKlLkH35rriAWcZurAAh0AZnR4RXXXUN9ULbGQCqHqFS9LTUGfmGIvF-jeEm-FBLhy91R_W1J_0JxCnt91k7-CvuLVj6F387nqRbhdL8t6BQNJ-yoHC_h8OV1dTWumF8zhehgbiXxLduTiGxtPCJ3sPvGIWVs9zPoHCVvaCIAEjoRrAlqpDbEfAeLYjfXh1AzPqa1pJ4tV-EiddSsdGMApjnPwgfC5apAMVN5QJCbJtsBbuA8ZdCuPaV3Q0Ii-DMwFh1DmSugNuDR8GyPm2dCKuM7-Pdu0Fy0ENXFIZahfDp-Yezj3ZPEyVkZTconY3TgvuTQAJKNUFldbUCPeo9-G_bM-m--1z1R7TbHRUrs4JanS5AE9M_-WyFSgPBGJWHMTyAoxeY9XoPGADhmN0EPNGgj0hg2JZo9bCxDsHeTuCq5lOknBFru24LFz6bYuycdXx7_ANmnLP_TxYUms3ssAw8jD0iCnOml4xl7vnBcPbMlovBGyIDxSqYsOYbYu7lyiRQjznH16Bk0SCEhAOJTbbEtJvtsBzh6vlYWCd0BJjBAZ6TgemSDO60CzZnM2T69uRBlAsJjygvsnhF6K1rr_g7XiPNhgbzWjN4wwZ49CRCyGQ10NxN7JbQ2hmG_sAXmUaJICDWAVA4aoijGaol_N7Q-8sj_cvELrbNim4r1-LU9GO9IT9FMeuTXot2N_jJAR9VLW6oWThyqsLgfOhC2EPMJaYjsudBQPa3OTytpqw_BwAdvKyGKFfLC1qntiw-qEbq3KZbc97kgD8kxRBOp6BEBoOtdg4FJNvdHlzDDFWAA15YcDdX0H0HOzWeF4%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_detail_base%22%2C%22trackingId%22%3A%22ad85985a-16bb-44dd-9ccc-331c462b1897%22%7D%2C%22time%22%3A1790758749681%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_detail_base%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+              - generic [ref=f33e1673]:
+                - generic [ref=f33e1674]:
+                  - link [ref=f33e1675] [cursor=pointer]:
+                    - /url: https://about.linkedin.com/
+                    - paragraph [ref=f33e1676]: About
+                  - link [ref=f33e1677] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/accessibility/
+                    - paragraph [ref=f33e1678]: Accessibility
+                  - link [ref=f33e1679] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/help/linkedin/
+                    - paragraph [ref=f33e1680]: Help Center
+                  - button [ref=f33e1681] [cursor=pointer]:
+                    - paragraph [ref=f33e1683]: Privacy & Terms
+                  - link [ref=f33e1686] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/help/linkedin/answer/62931/
+                    - paragraph [ref=f33e1687]: Ad Choices
+                  - link [ref=f33e1688] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/ad/start/?trk=n_nav_ads_rr
+                    - paragraph [ref=f33e1689]: Advertising
+                  - button [ref=f33e1690] [cursor=pointer]:
+                    - paragraph [ref=f33e1692]: Business Services
+                  - link [ref=f33e1695] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mobile/
+                    - paragraph [ref=f33e1696]: Get the LinkedIn app
+                  - link [ref=f33e1697] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/feed/update/urn:li:activity:7510582433927458817/?actorCompanyId=89798536&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287510592277539385344%2Curn%3Ali%3Aactivity%3A7510582433927458817%29
+                    - paragraph [ref=f33e1698]: More
+                - paragraph [ref=f33e1702]: LinkedIn Corporation © 2026
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - complementary "AI-powered assistant to get help with your career, jobs etc"
+  - iframe [ref=f33e1703]:
+    - generic [ref=f36e1]:
+      - generic:
+        - region "Toast message":
+          - heading "0 notifications total" [level=2] [ref=f36e3]
+          - alert
+      - region [ref=f36e4]
+      - generic [ref=f36e5]:
+        - generic [ref=f36e7]:
+          - button "Skip to search" [ref=f36e8] [cursor=pointer]
+          - button "Skip to main content" [ref=f36e10] [cursor=pointer]
+          - button "Keyboard shortcuts" [ref=f36e12] [cursor=pointer]
+          - button "Close jump menu" [ref=f36e14] [cursor=pointer]
+        - banner "Global Navigation" [ref=f36e18]:
+          - generic [ref=f36e19]:
+            - link [ref=f36e20] [cursor=pointer]:
+              - /url: https://www.linkedin.com/feed/
+              - img "LinkedIn" [ref=f36e23]
+            - combobox "I’m looking for..." [ref=f36e29]
+            - navigation "Primary Navigation" [ref=f36e30]:
+              - list [ref=f36e31]:
+                - listitem [ref=f36e32]:
+                  - link "new feed updates notifications Home" [ref=f36e33] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/feed/
+                    - generic [ref=f36e34]: new feed updates notifications
+                    - generic "Home" [ref=f36e43]
+                - listitem [ref=f36e44]:
+                  - link "My Network" [ref=f36e45] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork/?
+                - listitem [ref=f36e52]:
+                  - link "Jobs" [ref=f36e53] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/?
+                - listitem [ref=f36e60]:
+                  - link "Messaging" [ref=f36e61] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/messaging/?
+                - listitem [ref=f36e68]:
+                  - link "Notifications" [ref=f36e69] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/notifications/?
+                - listitem [ref=f36e76]:
+                  - button [ref=f36e78] [cursor=pointer]:
+                    - img "Kelly Irving" [ref=f36e79]
+                    - generic [ref=f36e80]: Me
+                - listitem [ref=f36e83]:
+                  - button "For Business" [ref=f36e85] [cursor=pointer]
+                - listitem [ref=f36e94]:
+                  - link "Advertise" [ref=f36e95] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/campaignmanager/accounts?

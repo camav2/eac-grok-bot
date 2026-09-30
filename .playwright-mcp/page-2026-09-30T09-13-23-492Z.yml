@@ -1,0 +1,525 @@
+- generic [ref=f57e2]:
+  - heading "0 notifications" [level=2] [ref=f57e3]
+  - generic [ref=f57e4]:
+    - generic:
+      - generic "Skip navigation menu":
+        - generic [ref=f57e5]:
+          - button "Skip to search" [ref=f57e6] [cursor=pointer]
+          - button "Skip to main content" [ref=f57e9] [cursor=pointer]
+          - button "Skip to sidebar" [ref=f57e12] [cursor=pointer]
+          - button "Skip to primary content" [ref=f57e15] [cursor=pointer]
+          - button "Skip to aside" [ref=f57e18] [cursor=pointer]
+          - button "Close jump menu" [ref=f57e22] [cursor=pointer]
+    - generic [ref=f57e26]:
+      - banner [ref=f57e28]:
+        - generic [ref=f57e31]:
+          - button [ref=f57e32] [cursor=pointer]:
+            - img "LinkedIn" [ref=f57e33]
+          - generic [ref=f57e35]:
+            - status [ref=f57e36]
+            - search [ref=f57e37]:
+              - textbox "I'm looking for…" [ref=f57e42]
+          - generic [ref=f57e44]:
+            - navigation [ref=f57e48]:
+              - list [ref=f57e49]:
+                - listitem [ref=f57e50]:
+                  - button "Home, 1 new notification" [ref=f57e51] [cursor=pointer]:
+                    - generic [ref=f57e56]: Home
+                - listitem [ref=f57e58]:
+                  - link "My Network, 41 new notifications" [ref=f57e59] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork
+                    - generic [ref=f57e60]: "41"
+                    - generic [ref=f57e64]: My Network
+                - listitem [ref=f57e66]:
+                  - link "Jobs, 0 new notifications" [ref=f57e67] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/
+                    - generic [ref=f57e71]: Jobs
+                - listitem [ref=f57e73]:
+                  - link "Messaging, 0 new notifications" [ref=f57e74] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/messaging/
+                    - generic [ref=f57e78]: Messaging
+                - listitem [ref=f57e80]:
+                  - link "Notifications, 19 new notifications" [ref=f57e81] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/notifications/
+                    - generic [ref=f57e82]: "19"
+                    - generic [ref=f57e86]: Notifications
+                - listitem [ref=f57e88]:
+                  - button "Me" [ref=f57e89] [cursor=pointer]:
+                    - figure [aria-hidden] [ref=f57e91]
+            - navigation [ref=f57e98]:
+              - list [ref=f57e99]:
+                - listitem [ref=f57e100]:
+                  - button "For Business" [ref=f57e101] [cursor=pointer]
+                - listitem [ref=f57e109]:
+                  - link "Advertise, 3 new notifications" [ref=f57e110] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/campaignmanager/accounts/
+                    - generic [ref=f57e111]: "3"
+                    - generic [ref=f57e116]: Advertise
+      - main [ref=f57e120]:
+        - generic [ref=f57e122]:
+          - complementary "Sidebar" [ref=f57e123]:
+            - generic [ref=f57e126]:
+              - generic [ref=f57e130]:
+                - link [ref=f57e131] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/kelly-irving/
+                  - generic [ref=f57e132]:
+                    - generic [ref=f57e133]:
+                      - figure [aria-hidden] [ref=f57e134]
+                      - paragraph [ref=f57e136]: Premium
+                    - figure [ref=f57e139]:
+                      - img "Kelly Irving" [ref=f57e140]
+                - generic [ref=f57e141]:
+                  - link [ref=f57e142] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic "Kelly Irving, Book coach and editor for changemakers and trailblazers / Publishing gymnast, Anglesea, Victoria, Premium profile" [ref=f57e143]:
+                      - generic [ref=f57e144]:
+                        - paragraph [ref=f57e146]: Kelly Irving
+                        - img "Premium profile" [ref=f57e147]
+                      - paragraph [ref=f57e150]: Book coach and editor for changemakers and trailblazers / Publishing gymnast
+                      - paragraph [ref=f57e151]: Anglesea, Victoria
+                  - link [ref=f57e152] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic [ref=f57e153]:
+                      - figure [aria-hidden] [ref=f57e154]
+                      - paragraph [ref=f57e155]: Expert Author Community
+              - generic [ref=f57e157]:
+                - menu [ref=f57e158]:
+                  - link [ref=f57e160] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/me/profile-views/
+                    - generic "Profile viewers 279" [ref=f57e161]:
+                      - paragraph [ref=f57e163]: Profile viewers
+                      - paragraph [ref=f57e164]: "279"
+                  - link [ref=f57e166] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/analytics/creator/content/
+                    - generic "Post impressions 1,521" [ref=f57e167]:
+                      - paragraph [ref=f57e169]: Post impressions
+                      - paragraph [ref=f57e170]: 1,521
+                - menu [ref=f57e171]:
+                  - link [ref=f57e173] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/premium/my-premium/
+                    - paragraph [ref=f57e178]: Your Premium features
+          - region "Primary content" [ref=f57e179]:
+            - generic [ref=f57e185]:
+              - listitem [ref=f57e190]:
+                - generic [ref=f57e192]:
+                  - heading "Feed post" [level=2]
+                  - generic [ref=f57e194]:
+                    - link [ref=f57e195] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/mariafranzoni/
+                      - figure [ref=f57e196]:
+                        - img "View Maria Franzoni’s profile" [ref=f57e197]
+                    - generic [ref=f57e199]:
+                      - link [ref=f57e202] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/mariafranzoni/
+                        - generic "Maria Franzoni Verified Profile 1st" [ref=f57e204]:
+                          - paragraph [ref=f57e207]: Maria Franzoni
+                          - paragraph [ref=f57e209]:
+                            - generic [ref=f57e210]: • 1st
+                      - paragraph [ref=f57e215]: "More bookings. Higher fees. Fast. I work with speakers, bureaus & agents to get results. Former international speaker bureau owner. Founder Speaking Business Academy. Author of #1 Bestseller: The Bookability Formula™"
+                      - link [ref=f57e219] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fwww%2Emariafranzoni%2Eme%2F&urlhash=Apg5&mt=ujQzJfAm0TJEdfWunpvJiEzja2KAW1yt8sOFV0QwMbaLBg_sbHXdbBDdDEWRddqDA8AnyFnlKkq6Aobg_r7fLQ70euBG3kyuL5Sj36k&isSdui=true
+                        - paragraph [ref=f57e220]: Visit my website
+                      - paragraph [ref=f57e222]: 3h • Edited
+                      - link "Maria Franzoni Verified Profile 1st":
+                        - /url: https://www.linkedin.com/in/mariafranzoni/
+                    - button "Open control menu for post by Maria Franzoni" [ref=f57e223] [cursor=pointer]
+                  - paragraph [ref=f57e227]:
+                    - generic [ref=f57e228]:
+                      - text: Stop pitching event organisers when you meet them. In a recent session, a speaker told me she was going to an event where she’d be speaking on a panel. She knew there would be event organisers there and asked me what she should do. My advice? Don’t pitch them. Most speakers meet an event organiser and immediately start thinking, “How can I tell this person about me?” Turn it around. Ask them:• What are you currently seeing in the industry?• What are clients finding difficult to source?• What’s happening with budgets? And then listen. You’ll learn far more than you will from giving them your rehearsed 30-second speaker pitch. When you meet the next event organiser, you can have a much more informed conversation because you understand what’s actually happening in their world. You don’t need to persuade everybody you meet to book you, you’ll go further by understanding your market well enough to recognise where the opportunities are and how you fit them. It’s one of the things we’ll be working on at Find It, Win It, Grow It on 29 October. Did I mention
+                      - link "View Mary Tillson-Wharton’s profile" [ref=f57e230] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/marytillsonwharton/
+                        - strong [ref=f57e231]: Mary Tillson-Wharton
+                      - text: and I are running an event? Come join us
+                      - link "Open https://lnkd.in/epJ4BdcW" [ref=f57e233] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2FepJ4BdcW&urlhash=yrrR&mt=LdpnWqIoWYpl7h7ANTKw3a9mYGDNKN1FdVXgxz9j1A8GvQrJQ3WvP1AU2myvFdU-8jRBCKuA11XTCKYQn5r60uv2skT2vYgNbXW9N4u52rqqjE6rxbnF&isSdui=true
+                        - strong [ref=f57e234]: https://lnkd.in/epJ4BdcW
+                      - text: Finding the work comes before winning it.
+                  - link [ref=f57e236] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/posts/mariafranzoni_stop-pitching-event-organisers-when-you-meet-share-7510941054892871681-lzMi/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                    - figure [ref=f57e237]:
+                      - img "NA" [ref=f57e238]
+                  - generic [ref=f57e239]:
+                    - link [ref=f57e240] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/posts/mariafranzoni_stop-pitching-event-organisers-when-you-meet-share-7510941054892871681-lzMi/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                      - generic "Switch to different account" [ref=f57e241]:
+                        - figure [aria-hidden] [ref=f57e242]
+                    - generic [ref=f57e245]:
+                      - 'button "Reaction button state: no reaction" [ref=f57e248] [cursor=pointer]':
+                        - generic [ref=f57e249]: "23"
+                      - button "Open reactions menu":
+                        - generic [ref=f57e255] [cursor=pointer]
+                    - button "Comment" [ref=f57e258] [cursor=pointer]:
+                      - generic [ref=f57e259]: "9"
+                    - button "Repost" [ref=f57e265] [cursor=pointer]
+                    - link "Send" [ref=f57e269] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/posts/mariafranzoni_stop-pitching-event-organisers-when-you-meet-share-7510941054892871681-lzMi/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                    - link [ref=f57e273] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/posts/mariafranzoni_stop-pitching-event-organisers-when-you-meet-share-7510941054892871681-lzMi/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                      - generic "23 reactions" [ref=f57e274]
+                - generic [ref=f57e300]:
+                  - generic [ref=f57e302]:
+                    - status [ref=f57e303]
+                    - textbox "Text editor for creating comment" [ref=f57e306]:
+                      - paragraph [ref=f57e307]: Add a comment...
+                  - generic [ref=f57e308]:
+                    - button "Show Emoji Picker" [ref=f57e309] [cursor=pointer]
+                    - button "Open GIF picker" [ref=f57e315] [cursor=pointer]
+                    - button "Share photo" [ref=f57e319] [cursor=pointer]
+              - link [ref=f57e324] [cursor=pointer]:
+                - /url: https://www.linkedin.com/posts/mariafranzoni_stop-pitching-event-organisers-when-you-meet-share-7510941054892871681-lzMi/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                - generic [ref=f57e326]:
+                  - link [ref=f57e327]:
+                    - /url: https://www.linkedin.com/in/mick-dawson-b503a172/
+                    - generic "Mick Dawson reacted with Like" [ref=f57e328]:
+                      - figure [aria-hidden] [ref=f57e329]
+                  - link [ref=f57e336]:
+                    - /url: https://www.linkedin.com/in/liam-stones-97896453/
+                    - generic "Liam Stones reacted with Love" [ref=f57e337]:
+                      - figure [aria-hidden] [ref=f57e338]
+                  - link [ref=f57e345]:
+                    - /url: https://www.linkedin.com/in/paul-colston-69595312/
+                    - generic "Paul Colston reacted with Like" [ref=f57e346]:
+                      - figure [aria-hidden] [ref=f57e347]
+                  - link [ref=f57e354]:
+                    - /url: https://www.linkedin.com/in/gracemarshall/
+                    - generic "Grace Marshall reacted with Love" [ref=f57e355]:
+                      - figure [aria-hidden] [ref=f57e356]
+                  - link [ref=f57e363]:
+                    - /url: https://www.linkedin.com/in/payal-irani-116799183/
+                    - generic "Payal Irani reacted with Support" [ref=f57e364]:
+                      - figure [aria-hidden] [ref=f57e365]
+                  - link [ref=f57e377]:
+                    - /url: https://www.linkedin.com/in/flourishfoundry/
+                    - generic "Dave Christie reacted with Like" [ref=f57e378]:
+                      - figure [aria-hidden] [ref=f57e379]
+                  - link [ref=f57e386]:
+                    - /url: https://www.linkedin.com/in/jo-dee-walmsley-speaker/
+                    - generic "Jo-Dee Walmsley reacted with Like" [ref=f57e387]:
+                      - figure [aria-hidden] [ref=f57e388]
+                  - link [ref=f57e395]:
+                    - /url: https://www.linkedin.com/in/shilshanghavi/
+                    - generic "Shil Shanghavi reacted with Celebrate" [ref=f57e396]:
+                      - figure [aria-hidden] [ref=f57e397]
+                  - link "View all reactions" [ref=f57e412]:
+                    - /url: https://www.linkedin.com/posts/mariafranzoni_stop-pitching-event-organisers-when-you-meet-share-7510941054892871681-lzMi/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+              - button [ref=f57e418] [cursor=pointer]:
+                - paragraph [ref=f57e422]: Most relevant
+              - generic [ref=f57e429]:
+                - link [ref=f57e431] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/davidespeaks/
+                  - figure [ref=f57e432]:
+                    - img "View Davide Di Giorgio’s profile" [ref=f57e433]
+                - generic [ref=f57e434]:
+                  - generic [ref=f57e436]:
+                    - link "Davide Di Giorgio Premium Profile Following Building teams who care enough to perform when nobody’s watching ★ Operations & Leadership Advisor ★ Keynote Speaker ★ Led Crumbl’s first international expansion ★ $100M+ net sales across three decades ★ Author ★ TEDx" [ref=f57e437] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/davidespeaks/
+                      - generic [ref=f57e438]:
+                        - paragraph [ref=f57e442]:
+                          - generic [ref=f57e443]:
+                            - generic [ref=f57e444]: Davide Di Giorgio Premium Profile Following
+                            - generic [aria-hidden] [ref=f57e445]:
+                              - text: Davide Di Giorgio
+                              - generic [ref=f57e449]: • Following
+                        - paragraph [ref=f57e451]: Building teams who care enough to perform when nobody’s watching ★ Operations & Leadership Advisor ★ Keynote Speaker ★ Led Crumbl’s first international expansion ★ $100M+ net sales across three decades ★ Author ★ TEDx
+                    - paragraph [ref=f57e453]: 3h
+                    - button "View more options for Davide Di Giorgio’s comment." [ref=f57e454] [cursor=pointer]
+                  - paragraph [ref=f57e461]:
+                    - generic [ref=f57e462]: The "UNpitch yourself" strategy (as I call it) is a great one!
+                  - generic [ref=f57e464]:
+                    - generic [ref=f57e465]:
+                      - generic [ref=f57e466]:
+                        - 'button "Reaction button state: no reaction 1 reaction" [ref=f57e469] [cursor=pointer]':
+                          - generic [ref=f57e470]:
+                            - 'img "Reaction button state: no reaction" [ref=f57e471]'
+                            - paragraph [ref=f57e474]:
+                              - generic [ref=f57e475]:
+                                - generic [ref=f57e476]: 1 reaction
+                                - text: "1"
+                        - button "Open reactions menu":
+                          - generic [ref=f57e477] [cursor=pointer]
+                      - generic [ref=f57e480]:
+                        - button "Reply" [ref=f57e481] [cursor=pointer]
+                        - paragraph [ref=f57e486]:
+                          - generic [ref=f57e487]:
+                            - generic [ref=f57e488]: "1"
+                            - text: "1"
+                    - link [ref=f57e489] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/posts/mariafranzoni_stop-pitching-event-organisers-when-you-meet-share-7510941054892871681-lzMi/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+              - generic [ref=f57e500]:
+                - link [ref=f57e502] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/mariafranzoni/
+                  - figure [ref=f57e503]:
+                    - img "View Maria Franzoni’s profile" [ref=f57e504]
+                - generic [ref=f57e505]:
+                  - generic [ref=f57e507]:
+                    - link [ref=f57e508] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/mariafranzoni/
+                      - generic [ref=f57e509]:
+                        - generic [ref=f57e510]:
+                          - paragraph [ref=f57e513]: Maria Franzoni
+                          - paragraph [ref=f57e514]: Author
+                        - paragraph [ref=f57e516]: "More bookings. Higher fees. Fast. I work with speakers, bureaus & agents to get results. Former international speaker bureau owner. Founder Speaking Business Academy. Author of #1 Bestseller: The Bookability Formula™"
+                    - paragraph [ref=f57e518]: 2h
+                    - button "View more options for Maria Franzoni’s comment." [ref=f57e519] [cursor=pointer]
+                  - generic [ref=f57e524]:
+                    - paragraph [ref=f57e527]:
+                      - generic [ref=f57e528]:
+                        - link "View Davide Di Giorgio’s profile" [ref=f57e530] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/davidespeaks/
+                          - strong [ref=f57e531]: Davide Di Giorgio
+                        - text: yay.
+                    - button "Show translation" [ref=f57e533] [cursor=pointer]
+                  - generic [ref=f57e538]:
+                    - generic [ref=f57e539]:
+                      - 'button "Reaction button state: no reaction 0" [ref=f57e542] [cursor=pointer]':
+                        - generic [ref=f57e543]:
+                          - 'img "Reaction button state: no reaction" [ref=f57e544]'
+                          - generic:
+                            - paragraph:
+                              - generic: "0"
+                      - button "Open reactions menu":
+                        - generic [ref=f57e547] [cursor=pointer]
+                    - button "Reply" [ref=f57e551] [cursor=pointer]
+              - generic [ref=f57e559]:
+                - link [ref=f57e561] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/anna-lecat/
+                  - figure [ref=f57e562]:
+                    - img "View Anna Lecat’s profile" [ref=f57e563]
+                - generic [ref=f57e564]:
+                  - generic [ref=f57e566]:
+                    - link "Anna Lecat Verified Profile 2nd Helping leaders have the hard conversations that make or break partnerships, teams, and deals | 3x CEO across 3 continents | TEDx Speaker | Author, Loving Conflict" [ref=f57e567] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/anna-lecat/
+                      - generic [ref=f57e568]:
+                        - paragraph [ref=f57e572]:
+                          - generic [ref=f57e573]:
+                            - generic [ref=f57e574]: Anna Lecat Verified Profile 2nd
+                            - generic [aria-hidden] [ref=f57e575]:
+                              - text: Anna Lecat
+                              - generic [ref=f57e579]: • 2nd
+                        - paragraph [ref=f57e581]: Helping leaders have the hard conversations that make or break partnerships, teams, and deals | 3x CEO across 3 continents | TEDx Speaker | Author, Loving Conflict
+                    - paragraph [ref=f57e583]: 2h
+                    - button [ref=f57e585] [cursor=pointer]:
+                      - generic "Follow Anna Lecat" [ref=f57e586]:
+                        - paragraph [ref=f57e588]: Follow
+                    - button "View more options for Anna Lecat’s comment." [ref=f57e589] [cursor=pointer]
+                  - paragraph [ref=f57e596]:
+                    - generic [ref=f57e597]:
+                      - text: Excellent advice as always
+                      - link "View Maria Franzoni’s profile" [ref=f57e599] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/mariafranzoni/
+                        - strong [ref=f57e600]: Maria Franzoni
+                  - generic [ref=f57e603]:
+                    - generic [ref=f57e604]:
+                      - 'button "Reaction button state: no reaction 0" [ref=f57e607] [cursor=pointer]':
+                        - generic [ref=f57e608]:
+                          - 'img "Reaction button state: no reaction" [ref=f57e609]'
+                          - generic:
+                            - paragraph:
+                              - generic: "0"
+                      - button "Open reactions menu":
+                        - generic [ref=f57e612] [cursor=pointer]
+                    - generic [ref=f57e615]:
+                      - button "Reply" [ref=f57e616] [cursor=pointer]
+                      - paragraph [ref=f57e621]:
+                        - generic [ref=f57e622]:
+                          - generic [ref=f57e623]: "1"
+                          - text: "1"
+              - generic [ref=f57e628]:
+                - link [ref=f57e630] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/mariafranzoni/
+                  - figure [ref=f57e631]:
+                    - img "View Maria Franzoni’s profile" [ref=f57e632]
+                - generic [ref=f57e633]:
+                  - generic [ref=f57e635]:
+                    - link [ref=f57e636] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/mariafranzoni/
+                      - generic [ref=f57e637]:
+                        - generic [ref=f57e638]:
+                          - paragraph [ref=f57e641]: Maria Franzoni
+                          - paragraph [ref=f57e642]: Author
+                        - paragraph [ref=f57e644]: "More bookings. Higher fees. Fast. I work with speakers, bureaus & agents to get results. Former international speaker bureau owner. Founder Speaking Business Academy. Author of #1 Bestseller: The Bookability Formula™"
+                    - paragraph [ref=f57e646]: 2h
+                    - button "View more options for Maria Franzoni’s comment." [ref=f57e647] [cursor=pointer]
+                  - paragraph [ref=f57e654]:
+                    - generic [ref=f57e655]:
+                      - link "View Anna Lecat’s profile" [ref=f57e657] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/anna-lecat/
+                        - strong [ref=f57e658]: Anna Lecat
+                      - text: thank you Anna
+                  - generic [ref=f57e661]:
+                    - generic [ref=f57e662]:
+                      - 'button "Reaction button state: no reaction 0" [ref=f57e665] [cursor=pointer]':
+                        - generic [ref=f57e666]:
+                          - 'img "Reaction button state: no reaction" [ref=f57e667]'
+                          - generic:
+                            - paragraph:
+                              - generic: "0"
+                      - button "Open reactions menu":
+                        - generic [ref=f57e670] [cursor=pointer]
+                    - button "Reply" [ref=f57e674] [cursor=pointer]
+              - generic [ref=f57e682]:
+                - link [ref=f57e684] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/gracemarshall/
+                  - figure [ref=f57e685]:
+                    - img "View Grace Marshall’s profile" [ref=f57e686]
+                - generic [ref=f57e687]:
+                  - generic [ref=f57e689]:
+                    - link "Grace Marshall Premium Profile 2nd Chief Encourager · Award-winning keynote speaker & author · Productivity Ninja · Helping leaders and teams do their best work in changing times" [ref=f57e690] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/gracemarshall/
+                      - generic [ref=f57e691]:
+                        - paragraph [ref=f57e695]:
+                          - generic [ref=f57e696]:
+                            - generic [ref=f57e697]: Grace Marshall Premium Profile 2nd
+                            - generic [aria-hidden] [ref=f57e698]:
+                              - text: Grace Marshall
+                              - generic [ref=f57e702]: • 2nd
+                        - paragraph [ref=f57e704]: Chief Encourager · Award-winning keynote speaker & author · Productivity Ninja · Helping leaders and teams do their best work in changing times
+                    - paragraph [ref=f57e706]: 55m
+                    - button [ref=f57e708] [cursor=pointer]:
+                      - generic "Follow Grace Marshall" [ref=f57e709]:
+                        - paragraph [ref=f57e711]: Follow
+                    - button "View more options for Grace Marshall’s comment." [ref=f57e712] [cursor=pointer]
+                  - paragraph [ref=f57e719]:
+                    - generic [ref=f57e720]: Great advice for networking in general too I think. Connect and learn comes much more naturally to me than pitch and impress - and makes for much more interesting conversations.
+                  - generic [ref=f57e723]:
+                    - generic [ref=f57e724]:
+                      - 'button "Reaction button state: no reaction 0" [ref=f57e727] [cursor=pointer]':
+                        - generic [ref=f57e728]:
+                          - 'img "Reaction button state: no reaction" [ref=f57e729]'
+                          - generic:
+                            - paragraph:
+                              - generic: "0"
+                      - button "Open reactions menu":
+                        - generic [ref=f57e732] [cursor=pointer]
+                    - button "Reply" [ref=f57e736] [cursor=pointer]
+              - generic [ref=f57e744]:
+                - link [ref=f57e746] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/marytillsonwharton/
+                  - figure [ref=f57e747]:
+                    - img "View Mary Tillson-Wharton’s profile" [ref=f57e748]
+                - generic [ref=f57e749]:
+                  - generic [ref=f57e751]:
+                    - link "Mary Tillson-Wharton 2nd Speaker Coach | Keynote Transformation Strategist | Helping Keynote Speakers Become More Relevant, Memorable & Bookable | Turning Speeches into Workshops, Learning Experiences & ROI-Driven Programmes.•" [ref=f57e752] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/marytillsonwharton/
+                      - generic [ref=f57e753]:
+                        - paragraph [ref=f57e757]:
+                          - generic [ref=f57e758]:
+                            - generic [ref=f57e759]: Mary Tillson-Wharton 2nd
+                            - generic [aria-hidden] [ref=f57e760]:
+                              - text: Mary Tillson-Wharton
+                              - generic [ref=f57e761]: • 2nd
+                        - paragraph [ref=f57e763]: Speaker Coach | Keynote Transformation Strategist | Helping Keynote Speakers Become More Relevant, Memorable & Bookable | Turning Speeches into Workshops, Learning Experiences & ROI-Driven Programmes.•
+                    - paragraph [ref=f57e765]: 1h
+                    - button [ref=f57e767] [cursor=pointer]:
+                      - generic "Follow Mary Tillson-Wharton" [ref=f57e768]:
+                        - paragraph [ref=f57e770]: Follow
+                    - button "View more options for Mary Tillson-Wharton’s comment." [ref=f57e771] [cursor=pointer]
+                  - paragraph [ref=f57e778]:
+                    - generic [ref=f57e779]: Such wise advice. It’s like someone proposing on the first date! Better to get to know each other !
+                  - generic [ref=f57e781]:
+                    - generic [ref=f57e782]:
+                      - generic [ref=f57e783]:
+                        - 'button "Reaction button state: no reaction 1 reaction" [ref=f57e786] [cursor=pointer]':
+                          - generic [ref=f57e787]:
+                            - 'img "Reaction button state: no reaction" [ref=f57e788]'
+                            - paragraph [ref=f57e791]:
+                              - generic [ref=f57e792]:
+                                - generic [ref=f57e793]: 1 reaction
+                                - text: "1"
+                        - button "Open reactions menu":
+                          - generic [ref=f57e794] [cursor=pointer]
+                      - generic [ref=f57e797]:
+                        - button "Reply" [ref=f57e798] [cursor=pointer]
+                        - paragraph [ref=f57e803]:
+                          - generic [ref=f57e804]:
+                            - generic [ref=f57e805]: "2"
+                            - text: "2"
+                    - link [ref=f57e806] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/posts/mariafranzoni_stop-pitching-event-organisers-when-you-meet-share-7510941054892871681-lzMi/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+              - button [ref=f57e816] [cursor=pointer]:
+                - paragraph [ref=f57e817]: See previous replies
+              - generic [ref=f57e822]:
+                - link [ref=f57e824] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/marytillsonwharton/
+                  - figure [ref=f57e825]:
+                    - img "View Mary Tillson-Wharton’s profile" [ref=f57e826]
+                - generic [ref=f57e827]:
+                  - generic [ref=f57e829]:
+                    - link "Mary Tillson-Wharton 2nd Speaker Coach | Keynote Transformation Strategist | Helping Keynote Speakers Become More Relevant, Memorable & Bookable | Turning Speeches into Workshops, Learning Experiences & ROI-Driven Programmes.•" [ref=f57e830] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/marytillsonwharton/
+                      - generic [ref=f57e831]:
+                        - paragraph [ref=f57e835]:
+                          - generic [ref=f57e836]:
+                            - generic [ref=f57e837]: Mary Tillson-Wharton 2nd
+                            - generic [aria-hidden] [ref=f57e838]:
+                              - text: Mary Tillson-Wharton
+                              - generic [ref=f57e839]: • 2nd
+                        - paragraph [ref=f57e841]: Speaker Coach | Keynote Transformation Strategist | Helping Keynote Speakers Become More Relevant, Memorable & Bookable | Turning Speeches into Workshops, Learning Experiences & ROI-Driven Programmes.•
+                    - paragraph [ref=f57e843]: 1h
+                    - button [ref=f57e845] [cursor=pointer]:
+                      - generic "Follow Mary Tillson-Wharton" [ref=f57e846]:
+                        - paragraph [ref=f57e848]: Follow
+                    - button "View more options for Mary Tillson-Wharton’s comment." [ref=f57e849] [cursor=pointer]
+                  - paragraph [ref=f57e856]:
+                    - generic [ref=f57e857]: Seriously???
+                  - generic [ref=f57e860]:
+                    - generic [ref=f57e861]:
+                      - 'button "Reaction button state: no reaction 0" [ref=f57e864] [cursor=pointer]':
+                        - generic [ref=f57e865]:
+                          - 'img "Reaction button state: no reaction" [ref=f57e866]'
+                          - generic:
+                            - paragraph:
+                              - generic: "0"
+                      - button "Open reactions menu":
+                        - generic [ref=f57e869] [cursor=pointer]
+                    - button "Reply" [ref=f57e873] [cursor=pointer]
+          - complementary "Aside" [ref=f57e877]:
+            - generic [ref=f57e880]:
+              - iframe [ref=f57e883]:
+                - generic [ref=f59e2]:
+                  - generic: Ad
+                  - img "overflow-web-small" [ref=f59e6] [cursor=pointer]
+                  - link "Capital One" [ref=f59e10] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Fwww.capitalonecareers.com%2Fcategory%2Ftechnology-jobs%2F234%2F4412%2F1%3Fsource%3Drd_linkedin_display_Tech_tm%26utm_source%3Dlinkedin.com%26utm_medium%3Dsocial_ad%26utm_campaign%3DTech%26utm_content%3Dsocial_media%26utm_term%3D441677112%26ss%3Dpaid%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg8ZcJ7uHTdL2exG8Jzh80EYLVHAROtG-J6zlIaEVjR0HIbwQ2O5sbMrqbjZN6LpYuKBNBHxd_PsQXdWWm7tUtWTvKGJBP1r32annr5I-I0AfM7uIJbh6wIWp5qslgJ44pofpPE4_nQDHD42mWoUDlLuAFGaZ65F35mp7T02-VwajILDaHcXXWY8RG6Yzi0-ft3v4R5OIuHtEVnG0VY_XC8m9Um3itTHSxdbNd29OMRgK3mwU12E_N0NzTf7YM9tLFC3B7EWykJ40giweWf22F_GEdMeSmJ4m3U_bUSGWDJJooF2_yaQBRU8ir8DbsICiuaQH6aHQBJbKHZ21gewF6E71-uWguLPoOlCh43EIIti-SLlhpS1YsMP6gtyV7epC0-VHnfSzLtetJEDELdZAzQm1tjr1JzLtw9UXKuJd06lc7sQuGQPYQwsTUeOsKhamffQoGDMEZLW67wS7h00KtoEtevvRBHrz-IzctQM_P2Dx5w1iAgOb1_9kqLBTyHZJwY11CSSKbyvZAF1j2J0gS3D9Zxn1Q3QWD8OeCSPOnnYY6oO_nxSIZj0-p5Lk3x63pwcsBue1O54XZVBVZQ9ymcEutJ9cVpblsvWt__Ygt2FzPHrRKHvjjKBa9DPzOLqsXzogVAepD5nBF60SPrfl0qPePZ1MiCEYczTEYgf7vI9NR-KAVZtfvqeGgg2PgCjdQ_uQoe3nIYeQmDqDuDDsRaZAikXjyaDpFdUTsuxKx9_keZJ2Qj1AjZyxCr2sf8MFTwK0IOoE84sjAq85TLe0MfKkXB9xP5ErzE8I03pCHA_oxfH8t9X6ObaggR_bRgR7bzzAOI6IzjZdWvKWMqyPhR0n7w4usv3D2Gt0jcJQrkTN9FNnXLz6y_Zzkp2cdEJ0wYO38zskhLEU_wML1OxoIVjMTdLavop7nvbufHwVKOPRnzMpg2bQTS0wpyY-1m1o4fDs-2dt6OEm9gC_CqfwUBvRZgZSH3EVa3usXiCr3C1ULJfzKha-D_xJSjvintKwAIEt-BxqtL2lwok9IPZeCXtucvVL1uXUCLvIHqbmd-JEAB84UwcGztB-wxyKO-FT4xY8J8h8i32AQzWiyX1EdHGh76j4Z7QDMMGRVwq0276SYR8jpSE8G5Oq8_poSwyV68Uel9W6rSdyrNSq9VJ9XLUETJKyEFak%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_detail_base%22%2C%22trackingId%22%3A%2205421151-ed4f-4dcd-a3cd-d4f6a829c03e%22%7D%2C%22time%22%3A1790759602598%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_detail_base%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                  - generic [ref=f59e11]:
+                    - heading "Create human-centered, innovative experiences for millions today." [level=2] [ref=f59e14]
+                    - generic [ref=f59e16]:
+                      - img "Kelly" [ref=f59e17]
+                      - generic [ref=f59e18]:
+                        - link [ref=f59e19] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Fwww.capitalonecareers.com%2Fcategory%2Ftechnology-jobs%2F234%2F4412%2F1%3Fsource%3Drd_linkedin_display_Tech_tm%26utm_source%3Dlinkedin.com%26utm_medium%3Dsocial_ad%26utm_campaign%3DTech%26utm_content%3Dsocial_media%26utm_term%3D441677112%26ss%3Dpaid%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg8ZcJ7uHTdL2exG8Jzh80EYLVHAROtG-J6zlIaEVjR0HIbwQ2O5sbMrqbjZN6LpYuKBNBHxd_PsQXdWWm7tUtWTvKGJBP1r32annr5I-I0AfM7uIJbh6wIWp5qslgJ44pofpPE4_nQDHD42mWoUDlLuAFGaZ65F35mp7T02-VwajILDaHcXXWY8RG6Yzi0-ft3v4R5OIuHtEVnG0VY_XC8m9Um3itTHSxdbNd29OMRgK3mwU12E_N0NzTf7YM9tLFC3B7EWykJ40giweWf22F_GEdMeSmJ4m3U_bUSGWDJJooF2_yaQBRU8ir8DbsICiuaQH6aHQBJbKHZ21gewF6E71-uWguLPoOlCh43EIIti-SLlhpS1YsMP6gtyV7epC0-VHnfSzLtetJEDELdZAzQm1tjr1JzLtw9UXKuJd06lc7sQuGQPYQwsTUeOsKhamffQoGDMEZLW67wS7h00KtoEtevvRBHrz-IzctQM_P2Dx5w1iAgOb1_9kqLBTyHZJwY11CSSKbyvZAF1j2J0gS3D9Zxn1Q3QWD8OeCSPOnnYY6oO_nxSIZj0-p5Lk3x63pwcsBue1O54XZVBVZQ9ymcEutJ9cVpblsvWt__Ygt2FzPHrRKHvjjKBa9DPzOLqsXzogVAepD5nBF60SPrfl0qPePZ1MiCEYczTEYgf7vI9NR-KAVZtfvqeGgg2PgCjdQ_uQoe3nIYeQmDqDuDDsRaZAikXjyaDpFdUTsuxKx9_keZJ2Qj1AjZyxCr2sf8MFTwK0IOoE84sjAq85TLe0MfKkXB9xP5ErzE8I03pCHA_oxfH8t9X6ObaggR_bRgR7bzzAOI6IzjZdWvKWMqyPhR0n7w4usv3D2Gt0jcJQrkTN9FNnXLz6y_Zzkp2cdEJ0wYO38zskhLEU_wML1OxoIVjMTdLavop7nvbufHwVKOPRnzMpg2bQTS0wpyY-1m1o4fDs-2dt6OEm9gC_CqfwUBvRZgZSH3EVa3usXiCr3C1ULJfzKha-D_xJSjvintKwAIEt-BxqtL2lwok9IPZeCXtucvVL1uXUCLvIHqbmd-JEAB84UwcGztB-wxyKO-FT4xY8J8h8i32AQzWiyX1EdHGh76j4Z7QDMMGRVwq0276SYR8jpSE8G5Oq8_poSwyV68Uel9W6rSdyrNSq9VJ9XLUETJKyEFak%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_detail_base%22%2C%22trackingId%22%3A%2205421151-ed4f-4dcd-a3cd-d4f6a829c03e%22%7D%2C%22time%22%3A1790759602598%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_detail_base%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                          - img "Capital One" [ref=f59e20]
+                        - tooltip "Capital One" [ref=f59e21]
+                    - generic [ref=f59e22]:
+                      - heading "Kelly, grow your tech career at Capital One." [level=2] [ref=f59e25]
+                      - link "Apply today" [ref=f59e27] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Fwww.capitalonecareers.com%2Fcategory%2Ftechnology-jobs%2F234%2F4412%2F1%3Fsource%3Drd_linkedin_display_Tech_tm%26utm_source%3Dlinkedin.com%26utm_medium%3Dsocial_ad%26utm_campaign%3DTech%26utm_content%3Dsocial_media%26utm_term%3D441677112%26ss%3Dpaid%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg8ZcJ7uHTdL2exG8Jzh80EYLVHAROtG-J6zlIaEVjR0HIbwQ2O5sbMrqbjZN6LpYuKBNBHxd_PsQXdWWm7tUtWTvKGJBP1r32annr5I-I0AfM7uIJbh6wIWp5qslgJ44pofpPE4_nQDHD42mWoUDlLuAFGaZ65F35mp7T02-VwajILDaHcXXWY8RG6Yzi0-ft3v4R5OIuHtEVnG0VY_XC8m9Um3itTHSxdbNd29OMRgK3mwU12E_N0NzTf7YM9tLFC3B7EWykJ40giweWf22F_GEdMeSmJ4m3U_bUSGWDJJooF2_yaQBRU8ir8DbsICiuaQH6aHQBJbKHZ21gewF6E71-uWguLPoOlCh43EIIti-SLlhpS1YsMP6gtyV7epC0-VHnfSzLtetJEDELdZAzQm1tjr1JzLtw9UXKuJd06lc7sQuGQPYQwsTUeOsKhamffQoGDMEZLW67wS7h00KtoEtevvRBHrz-IzctQM_P2Dx5w1iAgOb1_9kqLBTyHZJwY11CSSKbyvZAF1j2J0gS3D9Zxn1Q3QWD8OeCSPOnnYY6oO_nxSIZj0-p5Lk3x63pwcsBue1O54XZVBVZQ9ymcEutJ9cVpblsvWt__Ygt2FzPHrRKHvjjKBa9DPzOLqsXzogVAepD5nBF60SPrfl0qPePZ1MiCEYczTEYgf7vI9NR-KAVZtfvqeGgg2PgCjdQ_uQoe3nIYeQmDqDuDDsRaZAikXjyaDpFdUTsuxKx9_keZJ2Qj1AjZyxCr2sf8MFTwK0IOoE84sjAq85TLe0MfKkXB9xP5ErzE8I03pCHA_oxfH8t9X6ObaggR_bRgR7bzzAOI6IzjZdWvKWMqyPhR0n7w4usv3D2Gt0jcJQrkTN9FNnXLz6y_Zzkp2cdEJ0wYO38zskhLEU_wML1OxoIVjMTdLavop7nvbufHwVKOPRnzMpg2bQTS0wpyY-1m1o4fDs-2dt6OEm9gC_CqfwUBvRZgZSH3EVa3usXiCr3C1ULJfzKha-D_xJSjvintKwAIEt-BxqtL2lwok9IPZeCXtucvVL1uXUCLvIHqbmd-JEAB84UwcGztB-wxyKO-FT4xY8J8h8i32AQzWiyX1EdHGh76j4Z7QDMMGRVwq0276SYR8jpSE8G5Oq8_poSwyV68Uel9W6rSdyrNSq9VJ9XLUETJKyEFak%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_detail_base%22%2C%22trackingId%22%3A%2205421151-ed4f-4dcd-a3cd-d4f6a829c03e%22%7D%2C%22time%22%3A1790759602598%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_detail_base%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+              - generic [ref=f57e884]:
+                - generic [ref=f57e885]:
+                  - link [ref=f57e886] [cursor=pointer]:
+                    - /url: https://about.linkedin.com/
+                    - paragraph [ref=f57e887]: About
+                  - link [ref=f57e888] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/accessibility/
+                    - paragraph [ref=f57e889]: Accessibility
+                  - link [ref=f57e890] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/help/linkedin/
+                    - paragraph [ref=f57e891]: Help Center
+                  - button [ref=f57e892] [cursor=pointer]:
+                    - paragraph [ref=f57e894]: Privacy & Terms
+                  - link [ref=f57e897] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/help/linkedin/answer/62931/
+                    - paragraph [ref=f57e898]: Ad Choices
+                  - link [ref=f57e899] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/ad/start/?trk=n_nav_ads_rr
+                    - paragraph [ref=f57e900]: Advertising
+                  - button [ref=f57e901] [cursor=pointer]:
+                    - paragraph [ref=f57e903]: Business Services
+                  - link [ref=f57e906] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mobile/
+                    - paragraph [ref=f57e907]: Get the LinkedIn app
+                  - link [ref=f57e908] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/posts/mariafranzoni_stop-pitching-event-organisers-when-you-meet-share-7510941054892871681-lzMi/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                    - paragraph [ref=f57e909]: More
+                - paragraph [ref=f57e913]: LinkedIn Corporation © 2026
+  - iframe [ref=f57e914]

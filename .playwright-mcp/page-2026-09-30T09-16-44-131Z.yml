@@ -1,0 +1,756 @@
+- generic [ref=f102e1]:
+  - generic:
+    - region "Toast message":
+      - heading "0 notifications total" [level=2] [ref=f102e3]
+      - alert
+  - generic [ref=f102e4]:
+    - generic [ref=f102e6]:
+      - button "Skip to search" [ref=f102e7] [cursor=pointer]
+      - button "Skip to main content" [ref=f102e9] [cursor=pointer]
+      - button "Keyboard shortcuts" [ref=f102e11] [cursor=pointer]
+      - button "Close jump menu" [ref=f102e13] [cursor=pointer]
+    - banner "Global Navigation" [ref=f102e17]:
+      - generic [ref=f102e18]:
+        - link [ref=f102e19] [cursor=pointer]:
+          - /url: https://www.linkedin.com/feed/?nis=true
+          - img "LinkedIn" [ref=f102e22]
+        - combobox "I’m looking for..." [ref=f102e28]
+        - navigation "Primary Navigation" [ref=f102e29]:
+          - list [ref=f102e30]:
+            - listitem [ref=f102e31]:
+              - link "new feed updates notifications Home" [ref=f102e32] [cursor=pointer]:
+                - /url: https://www.linkedin.com/feed/?nis=true&
+                - generic [ref=f102e33]: new feed updates notifications
+                - generic "Home" [ref=f102e42]
+            - listitem [ref=f102e43]:
+              - link "41 new network updates notifications My Network" [ref=f102e44] [cursor=pointer]:
+                - /url: https://www.linkedin.com/mynetwork/?
+                - generic [ref=f102e46]:
+                  - generic [aria-hidden] [ref=f102e47]: "41"
+                  - generic [ref=f102e48]: 41 new network updates notifications
+                - generic "My Network" [ref=f102e54]
+            - listitem [ref=f102e55]:
+              - link "Jobs" [ref=f102e56] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/?
+            - listitem [ref=f102e63]:
+              - link "Messaging" [ref=f102e64] [cursor=pointer]:
+                - /url: https://www.linkedin.com/messaging/?
+            - listitem [ref=f102e71]:
+              - link "19 new notifications Notifications" [ref=f102e72] [cursor=pointer]:
+                - /url: https://www.linkedin.com/notifications/?
+                - generic [ref=f102e74]:
+                  - generic [aria-hidden] [ref=f102e75]: "19"
+                  - generic [ref=f102e76]: 19 new notifications
+                - generic "Notifications" [ref=f102e82]
+            - listitem [ref=f102e83]:
+              - button [ref=f102e85] [cursor=pointer]:
+                - img "Kelly Irving" [ref=f102e86]
+                - generic [ref=f102e87]: Me
+            - listitem [ref=f102e90]:
+              - button "For Business" [ref=f102e92] [cursor=pointer]
+            - listitem [ref=f102e101]:
+              - link "3 new Campaign Manager notifications Advertise" [ref=f102e102] [cursor=pointer]:
+                - /url: https://www.linkedin.com/campaignmanager/accounts?shouldShowNotificationPanelOnRender=true
+                - generic [ref=f102e104]:
+                  - generic [aria-hidden] [ref=f102e105]: "3"
+                  - generic [ref=f102e106]: 3 new Campaign Manager notifications
+                - generic "Advertise" [ref=f102e113]
+    - generic [ref=f102e119]:
+      - complementary [ref=f102e120]:
+        - generic [ref=f102e123]:
+          - link [ref=f102e126] [cursor=pointer]:
+            - /url: /in/emma-lagerlow-4a2849/
+            - img "Emma Lagerlow" [ref=f102e127]
+          - generic [ref=f102e128]:
+            - link [ref=f102e129] [cursor=pointer]:
+              - /url: /in/emma-lagerlow-4a2849/
+              - heading "Emma Lagerlow" [level=3] [ref=f102e130]
+            - heading "Media Consultant | Communications Professional | Author | Podcast Host | Coach" [level=4] [ref=f102e131]
+          - generic [ref=f102e133]:
+            - generic [ref=f102e134]:
+              - generic [ref=f102e135]: Followers
+              - generic [ref=f102e136]: 2,299
+            - button "Message Emma" [ref=f102e139] [cursor=pointer]:
+              - generic [ref=f102e140]: Message
+      - main [ref=f102e141]:
+        - generic [ref=f102e267]:
+          - heading "All activity" [level=2] [ref=f102e268]
+          - group "Select type of recent activity" [ref=f102e271]:
+            - button "Posts" [pressed] [ref=f102e272] [cursor=pointer]
+            - button "Comments" [ref=f102e274] [cursor=pointer]
+            - button "Images" [ref=f102e276] [cursor=pointer]
+            - button "Reactions" [ref=f102e278] [cursor=pointer]
+          - generic [ref=f102e300]:
+            - generic [ref=f102e301]:
+              - generic [ref=f102e302]: Loaded 20 Posts posts
+              - list [ref=f102e303]:
+                - listitem [ref=f102e304]:
+                  - article [ref=f102e309]:
+                    - generic [ref=f102e311]:
+                      - heading "Feed post number 1" [level=2] [ref=f102e312]
+                      - generic [ref=f102e313]:
+                        - generic [ref=f102e314]:
+                          - generic [ref=f102e316]:
+                            - link "View Emma Lagerlow’s graphic link" [ref=f102e317] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/emma-lagerlow-4a2849?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAf43oBab1GyPat36j43_8IMM0HXnCKeak
+                              - img "View Emma Lagerlow’s graphic link" [ref=f102e321]
+                            - generic [ref=f102e322]:
+                              - 'link "View: Emma Lagerlow Verified • 1st Media Consultant | Communications Professional | Author | Podcast Host | Coach" [ref=f102e323] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/emma-lagerlow-4a2849?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAf43oBab1GyPat36j43_8IMM0HXnCKeak
+                                - generic [ref=f102e324]:
+                                  - generic [ref=f102e325]: Emma Lagerlow
+                                  - generic [ref=f102e328]: • 1st
+                                - generic [ref=f102e332]: Media Consultant | Communications Professional | Author | Podcast Host | Coach
+                              - generic [ref=f102e334]: 2w •
+                          - button "Open control menu for post by Emma Lagerlow" [ref=f102e342] [cursor=pointer]
+                        - generic [ref=f102e346]:
+                          - generic [ref=f102e349]:
+                            - text: Such a great conversation with
+                            - link "Susan Hunter" [ref=f102e351] [cursor=pointer]:
+                              - /url: /in/susan-hunter-health/
+                            - text: about health, wellbeing and why more isn’t always better.And perfect timing, with Susan’s new book The Health Edit out this week.Thanks for joining me on It’s a Mindset, Susan. I loved this conversation. 🎙️I’ve added the links to listen in the comments below. 🔗
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f102e352] [cursor=pointer]:
+                            - generic [ref=f102e353]: …more
+                        - generic [ref=f102e354]:
+                          - generic [ref=f102e356]:
+                            - link "View Susan Hunter’s graphic link" [ref=f102e357] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/susan-hunter-health?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAUaxbYBLG-Y3gSZ0EqQC_S5gb0RgN5eGtY
+                              - img "View Susan Hunter’s graphic link" [ref=f102e361]
+                            - generic [ref=f102e362]:
+                              - 'link "View: Susan Hunter Premium • 1st Author of The Health Edit, Speaker, Podcast Host &amp; Women’s Health Strategist" [ref=f102e363] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/susan-hunter-health?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAUaxbYBLG-Y3gSZ0EqQC_S5gb0RgN5eGtY
+                                - generic [ref=f102e364]:
+                                  - generic [ref=f102e365]: Susan Hunter
+                                  - generic [ref=f102e368]: • 1st
+                                - generic [ref=f102e373]: Author of The Health Edit, Speaker, Podcast Host & Women’s Health Strategist
+                              - generic [ref=f102e375]: 3w •
+                          - link [ref=f102e382] [cursor=pointer]:
+                            - /url: /feed/update/urn:li:activity:7503239189468123136/
+                            - generic [ref=f102e383]:
+                              - generic [ref=f102e386]:
+                                - text: I recently joined
+                                - link "Emma Lagerlow" [ref=f102e388]:
+                                  - /url: /in/emma-lagerlow-4a2849/
+                                - text: "on the It’s a Mindset podcast to talk about why caring for our health has become so complicated, and why more information, more tracking and more things to do don’t always lead to better health.We spoke about:• Why Gen X women have become some of the wellness industry’s most overwhelmed consumers• How to identify the area of your health that needs your attention most• why one meaningful change can be more effective than trying to overhaul everything at once• When tracking can disconnect us from how we actually feel• The health foundations that still matter, even when they aren’t new or exciting• Why midlife can be an opportunity to become more intentional about our health and the way we want to liveThis conversation goes to the heart of why I wrote The Health Edit: looking after your health shouldn’t require you to make it your entire life.Thank you, Emma, for such a thoughtful and great conversation!Listen to the episode via the link in comments!"
+                              - button "see more, visually reveals content which is already detected by screen readers" [ref=f102e389]:
+                                - generic [ref=f102e390]: …more
+                          - generic [ref=f102e392]:
+                            - button "Activate to view larger image, View image" [ref=f102e394] [cursor=pointer]:
+                              - generic [ref=f102e395]: Activate to view larger image,
+                              - img "View image" [ref=f102e398]
+                            - generic [aria-hidden] [ref=f102e399]: Activate to view larger image,
+                        - generic [ref=f102e400]:
+                          - list [ref=f102e404]:
+                            - listitem [ref=f102e405]:
+                              - button "Kate Purificacion and 14 others" [ref=f102e406] [cursor=pointer]:
+                                - img "like" [ref=f102e407]
+                                - img "love" [ref=f102e408]
+                                - img "celebrate" [ref=f102e409]
+                                - generic [ref=f102e410]:
+                                  - generic [aria-hidden] [ref=f102e411]: "15"
+                                  - generic [ref=f102e412]: Kate Purificacion and 14 others
+                            - listitem [ref=f102e413]:
+                              - list [ref=f102e414]:
+                                - listitem [ref=f102e415]:
+                                  - button "4 comments on Emma Lagerlow’s post" [ref=f102e416] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f102e417]: 4 comments
+                          - generic [ref=f102e418]:
+                            - generic [ref=f102e419]:
+                              - button "React Like" [ref=f102e420] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f102e425]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f102e426] [cursor=pointer]
+                            - button "Comment" [ref=f102e431] [cursor=pointer]
+                            - button "Repost" [ref=f102e437] [cursor=pointer]
+                            - button "Send in a private message" [ref=f102e443] [cursor=pointer]:
+                              - generic [ref=f102e446]: Send
+                - listitem [ref=f102e448]:
+                  - article [ref=f102e453]:
+                    - generic [ref=f102e455]:
+                      - heading "Feed post number 2" [level=2] [ref=f102e456]
+                      - generic [ref=f102e457]:
+                        - generic [ref=f102e458]:
+                          - generic [ref=f102e460]:
+                            - link "View Emma Lagerlow’s graphic link" [ref=f102e461] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/emma-lagerlow-4a2849?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAf43oBab1GyPat36j43_8IMM0HXnCKeak
+                              - img "View Emma Lagerlow’s graphic link" [ref=f102e465]
+                            - generic [ref=f102e466]:
+                              - 'link "View: Emma Lagerlow Verified • 1st Media Consultant | Communications Professional | Author | Podcast Host | Coach" [ref=f102e467] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/emma-lagerlow-4a2849?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAf43oBab1GyPat36j43_8IMM0HXnCKeak
+                                - generic [ref=f102e468]:
+                                  - generic [ref=f102e469]: Emma Lagerlow
+                                  - generic [ref=f102e472]: • 1st
+                                - generic [ref=f102e476]: Media Consultant | Communications Professional | Author | Podcast Host | Coach
+                              - generic [ref=f102e478]: 3mo •
+                          - button "Open control menu for post by Emma Lagerlow" [ref=f102e486] [cursor=pointer]
+                        - generic [ref=f102e490]:
+                          - generic [ref=f102e493]:
+                            - text: I absolutely loved this conversation with
+                            - link "Gayle Smerdon, PhD" [ref=f102e495] [cursor=pointer]:
+                              - /url: /in/gayle-smerdon/
+                            - text: ". 🎙️It's one of those episodes that reminds us we're all human.As someone who's had a few bad days recently myself, Gayle's message really landed: a bad day doesn't have to become a bad life.Sometimes the most powerful thing we can do is pause, recognise what's happening, and ask ourselves, What's one small thing I need right now?If you've been having a tough week, I think you'll get a lot out of our conversation in Episode 98 of It's a Mindset: How Not to Turn a Bad Day Into a Bad Life.Thank you again, Gayle, for sharing your wisdom so generously. 💛🎧 Episode links in the comments."
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f102e496] [cursor=pointer]:
+                            - generic [ref=f102e497]: …more
+                        - generic [ref=f102e498]:
+                          - generic [ref=f102e500]:
+                            - link "View Gayle Smerdon, PhD’s graphic link" [ref=f102e501] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/gayle-smerdon?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAc3ysgBAdXiQKE32idqjipepeK6fhScykU
+                              - img "View Gayle Smerdon, PhD’s graphic link" [ref=f102e505]
+                            - generic [ref=f102e506]:
+                              - 'link "View: Gayle Smerdon, PhD Premium • 1st Helping people handle Bad Days better | Speaker &amp; Author" [ref=f102e507] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/gayle-smerdon?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAc3ysgBAdXiQKE32idqjipepeK6fhScykU
+                                - generic [ref=f102e508]:
+                                  - generic [ref=f102e509]: Gayle Smerdon, PhD
+                                  - generic [ref=f102e512]: • 1st
+                                - generic [ref=f102e517]: Helping people handle Bad Days better | Speaker & Author
+                              - generic [ref=f102e519]: 3mo •
+                          - link [ref=f102e526] [cursor=pointer]:
+                            - /url: /feed/update/urn:li:activity:7475684203309821952/
+                            - generic [ref=f102e527]:
+                              - generic [ref=f102e530]:
+                                - text: A bad day is not a life sentence.I loved joining
+                                - link "Emma Lagerlow" [ref=f102e532]:
+                                  - /url: /in/emma-lagerlow-4a2849/
+                                - text: "on It’s a Mindset to talk about what happens when a perfectly ordinary Bad Day starts gathering evidence against us. The alarm doesn’t go off. Someone says something a bit sharp. Your confidence takes a tiny hit. And suddenly your brain is writing a 12-part documentary called Everything Is Terrible And It Always Will Be.This is why I think it matters to catch Bad Days early. Not to deny them. Not to jolly ourselves out of them. Not to slap a gratitude sticker over the top.But to pause and ask: what is happening here, what do I need, and what is one small thing I can do next?Because Bad Days are inevitable. Staying stuck in them isn’t.Thanks, Emma Lagerlow, for such a generous conversation.Listen here:"
+                                - link "https://lnkd.in/eBziQQ-d" [ref=f102e533]:
+                                  - /url: https://lnkd.in/eBziQQ-d
+                                - link "hashtag BadDayPlaybook" [ref=f102e534]:
+                                  - /url: https://www.linkedin.com/search/results/all/?keywords=%23baddayplaybook&origin=HASH_TAG_FROM_FEED
+                                  - generic [ref=f102e535]: hashtag
+                                  - generic [ref=f102e536]: "#BadDayPlaybook"
+                                - link "hashtag WellbeingAtWork" [ref=f102e537]:
+                                  - /url: https://www.linkedin.com/search/results/all/?keywords=%23wellbeingatwork&origin=HASH_TAG_FROM_FEED
+                                  - generic [ref=f102e538]: hashtag
+                                  - generic [ref=f102e539]: "#WellbeingAtWork"
+                                - link "hashtag ItsAMindset" [ref=f102e540]:
+                                  - /url: https://www.linkedin.com/search/results/all/?keywords=%23itsamindset&origin=HASH_TAG_FROM_FEED
+                                  - generic [ref=f102e541]: hashtag
+                                  - generic [ref=f102e542]: "#ItsAMindset"
+                              - button "see more, visually reveals content which is already detected by screen readers" [ref=f102e543]:
+                                - generic [ref=f102e544]: …more
+                          - generic [ref=f102e545]:
+                            - 'link "Open article: It&#39;s a Mindset by podcasts.apple.com, Episode 98: How Not to Turn a Bad Day Into a Bad Life with Dr Gayle Smerdon, graphic" [ref=f102e547] [cursor=pointer]':
+                              - /url: https://podcasts.apple.com/au/podcast/episode-98-how-not-to-turn-a-bad-day-into-a-bad/id1715644781?i=1000773927578
+                              - 'img "Episode 98: How Not to Turn a Bad Day Into a Bad Life with Dr Gayle Smerdon" [ref=f102e550]'
+                            - link "It's a Mindset" [ref=f102e553] [cursor=pointer]:
+                              - /url: https://podcasts.apple.com/au/podcast/episode-98-how-not-to-turn-a-bad-day-into-a-bad/id1715644781?i=1000773927578
+                              - generic [ref=f102e556]:
+                                - generic [ref=f102e557]: It's a Mindset
+                                - generic [ref=f102e559]: podcasts.apple.com
+                        - generic [ref=f102e560]:
+                          - list [ref=f102e564]:
+                            - listitem [ref=f102e565]:
+                              - button "Kate Purificacion and 12 others" [ref=f102e566] [cursor=pointer]:
+                                - img "like" [ref=f102e567]
+                                - img "love" [ref=f102e568]
+                                - generic [ref=f102e569]:
+                                  - generic [aria-hidden] [ref=f102e570]: "13"
+                                  - generic [ref=f102e571]: Kate Purificacion and 12 others
+                            - listitem [ref=f102e572]:
+                              - list [ref=f102e573]:
+                                - listitem [ref=f102e574]:
+                                  - button "10 comments on Emma Lagerlow’s post" [ref=f102e575] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f102e576]: 10 comments
+                          - generic [ref=f102e577]:
+                            - generic [ref=f102e578]:
+                              - button "React Like" [ref=f102e579] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f102e584]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f102e585] [cursor=pointer]
+                            - button "Comment" [ref=f102e590] [cursor=pointer]
+                            - button "Repost" [ref=f102e596] [cursor=pointer]
+                            - button "Send in a private message" [ref=f102e602] [cursor=pointer]:
+                              - generic [ref=f102e605]: Send
+                - listitem [ref=f102e607]:
+                  - article [ref=f102e612]:
+                    - generic [ref=f102e614]:
+                      - heading "Feed post number 3" [level=2] [ref=f102e615]
+                      - generic [ref=f102e616]:
+                        - generic [ref=f102e617]:
+                          - generic [ref=f102e619]:
+                            - link "View Emma Lagerlow’s graphic link" [ref=f102e620] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/emma-lagerlow-4a2849?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAf43oBab1GyPat36j43_8IMM0HXnCKeak
+                              - img "View Emma Lagerlow’s graphic link" [ref=f102e624]
+                            - generic [ref=f102e625]:
+                              - 'link "View: Emma Lagerlow Verified • 1st Media Consultant | Communications Professional | Author | Podcast Host | Coach" [ref=f102e626] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/emma-lagerlow-4a2849?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAf43oBab1GyPat36j43_8IMM0HXnCKeak
+                                - generic [ref=f102e627]:
+                                  - generic [ref=f102e628]: Emma Lagerlow
+                                  - generic [ref=f102e631]: • 1st
+                                - generic [ref=f102e635]: Media Consultant | Communications Professional | Author | Podcast Host | Coach
+                              - generic [ref=f102e637]: 4mo •
+                          - button "Open control menu for post by Emma Lagerlow" [ref=f102e645] [cursor=pointer]
+                        - generic [ref=f102e649]:
+                          - generic [ref=f102e652]:
+                            - text: I absolutely loved this conversation with
+                            - link "Helen Baker" [ref=f102e654] [cursor=pointer]:
+                              - /url: /in/helenbaker2/
+                            - text: on It’s a Mindset.Financial empowerment for women is something I’m deeply passionate about because financial stability isn’t just about money - it’s about freedom, confidence, security and choice.One of the things that stayed with me from this conversation was just how many women are one major life event away from financial vulnerability, and why having knowledge, strategy and support matters so much.So grateful for Helen sharing her wisdom and practical guidance so generously.🎧 Listen to the episode via links in the comments.
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f102e655] [cursor=pointer]:
+                            - generic [ref=f102e656]: …more
+                        - generic [ref=f102e657]:
+                          - generic [ref=f102e658]:
+                            - generic [ref=f102e659]:
+                              - link "View Helen Baker’s graphic link" [ref=f102e660] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/in/helenbaker2?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAalVf8BEKdZradvfnksG5ynZEaq9n7PsIE
+                                - generic [ref=f102e661]: Helen Baker
+                              - generic [ref=f102e666]:
+                                - 'link "View: Helen Baker 2nd Former Financial Advisor, Author and Speaker, Charity Founder" [ref=f102e667] [cursor=pointer]':
+                                  - /url: https://www.linkedin.com/in/helenbaker2?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAalVf8BEKdZradvfnksG5ynZEaq9n7PsIE
+                                  - generic [ref=f102e668]:
+                                    - generic [ref=f102e669]: Helen Baker
+                                    - generic [ref=f102e672]: • 2nd
+                                  - generic [ref=f102e674]: Former Financial Advisor, Author and Speaker, Charity Founder
+                                - generic [ref=f102e676]: 4mo •
+                            - button "Follow Helen Baker" [ref=f102e682] [cursor=pointer]:
+                              - generic [aria-hidden] [ref=f102e685]: Follow
+                          - link [ref=f102e687] [cursor=pointer]:
+                            - /url: /feed/update/urn:li:activity:7465560652149882880/
+                            - generic [ref=f102e688]:
+                              - generic [ref=f102e691]:
+                                - text: Excited to share that I recently appeared on Episode 94 of the It's a Mindset podcast with
+                                - link "Emma Lagerlow" [ref=f102e693]:
+                                  - /url: /in/emma-lagerlow-4a2849/
+                                - text: "— Money for Life: Helping Women Protect Their Financial Future.We had a powerful conversation about financial empowerment, navigating major life changes, and why so many women are just one unexpected event away from financial struggle. If you’ve ever wanted to feel more confident, informed, and prepared when it comes to your financial future, this episode is for you.Thank you Emma for creating such an important platform for these conversations and for having me on the show. 💛Listen here:"
+                                - link "https://lnkd.in/g_ypWNU7" [ref=f102e694]:
+                                  - /url: https://lnkd.in/g_ypWNU7
+                                - text: ...
+                                - link "hashtag WomenAndMoney" [ref=f102e695]:
+                                  - /url: https://www.linkedin.com/search/results/all/?keywords=%23womenandmoney&origin=HASH_TAG_FROM_FEED
+                                  - generic [ref=f102e696]: hashtag
+                                  - generic [ref=f102e697]: "#WomenAndMoney"
+                                - link "hashtag FinancialEmpowerment" [ref=f102e698]:
+                                  - /url: https://www.linkedin.com/search/results/all/?keywords=%23financialempowerment&origin=HASH_TAG_FROM_FEED
+                                  - generic [ref=f102e699]: hashtag
+                                  - generic [ref=f102e700]: "#FinancialEmpowerment"
+                                - link "hashtag MoneyMindset" [ref=f102e701]:
+                                  - /url: https://www.linkedin.com/search/results/all/?keywords=%23moneymindset&origin=HASH_TAG_FROM_FEED
+                                  - generic [ref=f102e702]: hashtag
+                                  - generic [ref=f102e703]: "#MoneyMindset"
+                                - link "hashtag PodcastGuest" [ref=f102e704]:
+                                  - /url: https://www.linkedin.com/search/results/all/?keywords=%23podcastguest&origin=HASH_TAG_FROM_FEED
+                                  - generic [ref=f102e705]: hashtag
+                                  - generic [ref=f102e706]: "#PodcastGuest"
+                                - link "hashtag FinancialWellbeing" [ref=f102e707]:
+                                  - /url: https://www.linkedin.com/search/results/all/?keywords=%23financialwellbeing&origin=HASH_TAG_FROM_FEED
+                                  - generic [ref=f102e708]: hashtag
+                                  - generic [ref=f102e709]: "#FinancialWellbeing"
+                              - button "see more, visually reveals content which is already detected by screen readers" [ref=f102e710]:
+                                - generic [ref=f102e711]: …more
+                          - generic [ref=f102e713]:
+                            - button "Activate to view larger image, View image" [ref=f102e715] [cursor=pointer]:
+                              - generic [ref=f102e716]: Activate to view larger image,
+                              - img "View image" [ref=f102e719]
+                            - generic [aria-hidden] [ref=f102e720]: Activate to view larger image,
+                        - generic [ref=f102e721]:
+                          - list [ref=f102e725]:
+                            - listitem [ref=f102e726]:
+                              - button "15 reactions" [ref=f102e727] [cursor=pointer]:
+                                - img "like" [ref=f102e728]
+                                - img "love" [ref=f102e729]
+                                - img "support" [ref=f102e730]
+                                - generic [aria-hidden] [ref=f102e731]: "15"
+                            - listitem [ref=f102e732]:
+                              - list [ref=f102e733]:
+                                - listitem [ref=f102e734]:
+                                  - button "6 comments on Emma Lagerlow’s post" [ref=f102e735] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f102e736]: 6 comments
+                          - generic [ref=f102e737]:
+                            - generic [ref=f102e738]:
+                              - button "React Like" [ref=f102e739] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f102e744]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f102e745] [cursor=pointer]
+                            - button "Comment" [ref=f102e750] [cursor=pointer]
+                            - button "Repost" [ref=f102e756] [cursor=pointer]
+                            - button "Send in a private message" [ref=f102e762] [cursor=pointer]:
+                              - generic [ref=f102e765]: Send
+                - listitem [ref=f102e767]:
+                  - article [ref=f102e772]:
+                    - generic [ref=f102e774]:
+                      - heading "Feed post number 4" [level=2] [ref=f102e775]
+                      - generic [ref=f102e776]:
+                        - generic [ref=f102e777]:
+                          - generic [ref=f102e779]:
+                            - link "View Emma Lagerlow’s graphic link" [ref=f102e780] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/emma-lagerlow-4a2849?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAf43oBab1GyPat36j43_8IMM0HXnCKeak
+                              - img "View Emma Lagerlow’s graphic link" [ref=f102e784]
+                            - generic [ref=f102e785]:
+                              - 'link "View: Emma Lagerlow Verified • 1st Media Consultant | Communications Professional | Author | Podcast Host | Coach" [ref=f102e786] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/emma-lagerlow-4a2849?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAf43oBab1GyPat36j43_8IMM0HXnCKeak
+                                - generic [ref=f102e787]:
+                                  - generic [ref=f102e788]: Emma Lagerlow
+                                  - generic [ref=f102e791]: • 1st
+                                - generic [ref=f102e795]: Media Consultant | Communications Professional | Author | Podcast Host | Coach
+                              - generic [ref=f102e797]: 4mo •
+                          - button "Open control menu for post by Emma Lagerlow" [ref=f102e805] [cursor=pointer]
+                        - generic [ref=f102e809]:
+                          - generic [ref=f102e810]: 10,000 podcast downloads.When I launched It’s a Mindset just over two years ago, I had no idea where it would lead.What started as conversations about mindset, worth, wealth and wellbeing has become one of the most meaningful parts of my work - connecting me with incredible guests, listeners and opportunities I never could have predicted.There have now been more than 90 episodes and over 10,000 downloads across the podcast, and while the numbers are exciting, what matters most to me are the messages from listeners saying an episode helped them feel seen, rethink something, or make a meaningful change in their lives.Building a podcast has also reminded me that consistency matters more than perfection.One conversation at a time adds up.Grateful to every guest, listener and supporter who has been part of the journey so far. And if you haven’t tuned in yet, It’s a Mindset is available wherever you listen to podcasts.
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f102e813] [cursor=pointer]:
+                            - generic [ref=f102e814]: …more
+                        - generic [ref=f102e816]:
+                          - button "Activate to view larger image, View image" [ref=f102e818] [cursor=pointer]:
+                            - generic [ref=f102e819]: Activate to view larger image,
+                            - img "View image" [ref=f102e822]
+                          - generic [aria-hidden] [ref=f102e823]: Activate to view larger image,
+                        - generic [ref=f102e824]:
+                          - list [ref=f102e828]:
+                            - listitem [ref=f102e829]:
+                              - button "52 reactions" [ref=f102e830] [cursor=pointer]:
+                                - img "like" [ref=f102e831]
+                                - img "celebrate" [ref=f102e832]
+                                - img "love" [ref=f102e833]
+                                - generic [aria-hidden] [ref=f102e834]: "52"
+                            - listitem [ref=f102e835]:
+                              - list [ref=f102e836]:
+                                - listitem [ref=f102e837]:
+                                  - button "33 comments on Emma Lagerlow’s post" [ref=f102e838] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f102e839]: 33 comments
+                          - generic [ref=f102e840]:
+                            - generic [ref=f102e841]:
+                              - button "React Like" [ref=f102e842] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f102e847]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f102e848] [cursor=pointer]
+                            - button "Comment" [ref=f102e853] [cursor=pointer]
+                            - button "Repost" [ref=f102e859] [cursor=pointer]
+                            - button "Send in a private message" [ref=f102e865] [cursor=pointer]:
+                              - generic [ref=f102e868]: Send
+                - listitem [ref=f102e870]:
+                  - article [ref=f102e875]:
+                    - generic [ref=f102e877]:
+                      - heading "Feed post number 5" [level=2] [ref=f102e878]
+                      - generic [ref=f102e879]:
+                        - generic [ref=f102e880]:
+                          - generic [ref=f102e882]:
+                            - link "View Emma Lagerlow’s graphic link" [ref=f102e883] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/emma-lagerlow-4a2849?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAf43oBab1GyPat36j43_8IMM0HXnCKeak
+                              - img "View Emma Lagerlow’s graphic link" [ref=f102e887]
+                            - generic [ref=f102e888]:
+                              - 'link "View: Emma Lagerlow Verified • 1st Media Consultant | Communications Professional | Author | Podcast Host | Coach" [ref=f102e889] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/emma-lagerlow-4a2849?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAf43oBab1GyPat36j43_8IMM0HXnCKeak
+                                - generic [ref=f102e890]:
+                                  - generic [ref=f102e891]: Emma Lagerlow
+                                  - generic [ref=f102e894]: • 1st
+                                - generic [ref=f102e898]: Media Consultant | Communications Professional | Author | Podcast Host | Coach
+                              - generic [ref=f102e900]: 5mo •
+                          - button "Open control menu for post by Emma Lagerlow" [ref=f102e908] [cursor=pointer]
+                        - generic [ref=f102e912]:
+                          - generic [ref=f102e915]:
+                            - text: This was such a meaningful conversation with
+                            - link "Robyn Greaves" [ref=f102e917] [cursor=pointer]:
+                              - /url: /in/careercoachsydney/
+                            - text: "- and one that feels incredibly relevant right now.We often feel the pressure to move quickly when something shifts… to find the next role, the next answer, the next version of ourselves.But what if the most powerful thing we can do is pause?Not to reinvent - but to return.To reconnect with who we are beyond the roles we’ve held, and what truly gives us energy and meaning.This is something I see so often in my work, particularly in midlife - and it’s exactly why I’m so passionate about supporting people to consciously create their next chapter.If you’ve been asking yourself “what’s next?” lately, this conversation is for you. ✨🎧 Links to tune in are in the comments."
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f102e918] [cursor=pointer]:
+                            - generic [ref=f102e919]: …more
+                        - generic [ref=f102e920]:
+                          - generic [ref=f102e921]:
+                            - generic [ref=f102e922]:
+                              - link "View Robyn Greaves’ graphic link" [ref=f102e923] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/in/careercoachsydney?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAQNMLEB85P85lT8h3T3d2YpqLqMmE6nMH4
+                                - img "View Robyn Greaves’ graphic link" [ref=f102e927]
+                              - generic [ref=f102e928]:
+                                - 'link "View: Robyn Greaves Premium • 2nd Make Your Next 15 Years Your Best | I equip you to create a thriving career that brings you joy and meaning in your 50s, 60s and beyond. Ask me how!" [ref=f102e929] [cursor=pointer]':
+                                  - /url: https://www.linkedin.com/in/careercoachsydney?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAQNMLEB85P85lT8h3T3d2YpqLqMmE6nMH4
+                                  - generic [ref=f102e930]:
+                                    - generic [ref=f102e931]: Robyn Greaves
+                                    - generic [ref=f102e934]: • 2nd
+                                  - generic [ref=f102e939]: Make Your Next 15 Years Your Best | I equip you to create a thriving career that brings you joy and meaning in your 50s, 60s and beyond. Ask me how!
+                                - generic [ref=f102e941]: 5mo • Edited •
+                            - button "Follow Robyn Greaves" [ref=f102e947] [cursor=pointer]:
+                              - generic [aria-hidden] [ref=f102e950]: Follow
+                          - link [ref=f102e952] [cursor=pointer]:
+                            - /url: /feed/update/urn:li:activity:7449946032689278976/
+                            - generic [ref=f102e953]:
+                              - generic [ref=f102e956]:
+                                - text: “What do you do?”It’s a simple questionUntil it isn’tIt was such a pleasure to join It’s a Mindset Podcast with
+                                - link "Emma Lagerlow" [ref=f102e958]:
+                                  - /url: /in/emma-lagerlow-4a2849/
+                                - text: We spoke about how to rebuild momentum after redundancy or burnoutIt can be easy in these moments to reach for what’s knownOr jump quickly to a solutionThe next roleThe next titleThe safe answerBut rather than rushing back in, it helps to pause and create some spaceSpace to notice what’s changingSpace to reconnect with what gives you energySpace to do more of what you love, and find your flow againNot so much a reinventionBut a returnTo who you are beyond the roles you’ve heldTake small stepsExperimentStay flexibleThis can be the most powerful phase of your careerAn opportunity to create a Third Chapter of life and work that is uniquely your ownOut now on your favourite podcast platforms. Link in comments.If that question has been feeling harder to answer lately, you’re not alone
+                                - link "Brendan Wong" [ref=f102e960]:
+                                  - /url: /in/brendancwong/
+                              - button "see more, visually reveals content which is already detected by screen readers" [ref=f102e961]:
+                                - generic [ref=f102e962]: …more
+                          - generic [ref=f102e964]:
+                            - button "Activate to view larger image, View image" [ref=f102e966] [cursor=pointer]:
+                              - generic [ref=f102e967]: Activate to view larger image,
+                              - img "View image" [ref=f102e970]
+                            - generic [aria-hidden] [ref=f102e971]: Activate to view larger image,
+                        - generic [ref=f102e972]:
+                          - list [ref=f102e976]:
+                            - listitem [ref=f102e977]:
+                              - button "16 reactions" [ref=f102e978] [cursor=pointer]:
+                                - img "like" [ref=f102e979]
+                                - img "love" [ref=f102e980]
+                                - img "support" [ref=f102e981]
+                                - generic [aria-hidden] [ref=f102e982]: "16"
+                            - listitem [ref=f102e983]:
+                              - list [ref=f102e984]:
+                                - listitem [ref=f102e985]:
+                                  - button "3 comments on Emma Lagerlow’s post" [ref=f102e986] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f102e987]: 3 comments
+                          - generic [ref=f102e988]:
+                            - generic [ref=f102e989]:
+                              - button "React Like" [ref=f102e990] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f102e995]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f102e996] [cursor=pointer]
+                            - button "Comment" [ref=f102e1001] [cursor=pointer]
+                            - button "Repost" [ref=f102e1007] [cursor=pointer]
+                            - button "Send in a private message" [ref=f102e1013] [cursor=pointer]:
+                              - generic [ref=f102e1016]: Send
+                - listitem [ref=f102e1018]
+                - listitem [ref=f102e1022]
+                - listitem [ref=f102e1026]
+                - listitem [ref=f102e1030]
+                - listitem [ref=f102e1034]
+                - listitem [ref=f102e1038]
+                - listitem [ref=f102e1042]
+                - listitem [ref=f102e1046]
+                - listitem [ref=f102e1050]
+                - listitem [ref=f102e1054]
+                - listitem [ref=f102e1058]
+                - listitem [ref=f102e1062]
+                - listitem [ref=f102e1066]
+                - listitem [ref=f102e1070]
+                - listitem [ref=f102e1074]
+            - button "Show more results" [ref=f102e1080] [cursor=pointer]
+      - complementary "Interests" [ref=f102e174]:
+        - iframe [ref=f102e1083]:
+          - generic [ref=f103e2]:
+            - generic: Ad
+            - img "overflow-web-small" [ref=f103e6] [cursor=pointer]
+            - link "LinkedIn Ads" [ref=f103e10] [cursor=pointer]:
+              - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Ftraining.marketing.linkedin.com%2Fpage%2Fcertifications%3Fsrc%3Dli-dynamic%26veh%3DFxOS1xCUSTxDAxAPACxENxPDx202402xMarketingHelpCenterCertificationsxLMSActiveAdvertisersx1194xVisitsxv1a%26mcid%3D7387207745470369792%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg8ZoJxXQWfFuRZZ7bI8MmrfKDPvBilEanZ5iZSIN7ZmhndX1-m1I4kdQX57ApQs3DTsO743V-rQH-0qOwRhXllx6j-pcZNUilmHihiLPB-53MW1pi-3epVhOiZaXKu5Sxm-nMkP943NiFtIXdqQb7fdWdlm3JBtOavtEO5ZBGs_cdlZsiJHSqkm8hmErVuQIx_KecmPEagKD4K5RXY6t_JK06RofLydyFPkfQpe4YYtgb1CHXajAmzuH7sbQFHXt_AGU0AlTLIbyH9HjmhaZSLMkNaveBNvCrV_QB2r_NUTwAT22WEcjxGceQWPlq7PzW9DstpEauvA5BFMY_mpRLATT--D-J7pHlgMFd8oMYJgAq4Q0-wARqAz8KhLZC6zbMeLnKhHpNOIKTkQ6nt9ggfDLJTSIYiJobt367-FuHbL9FfzbR3GRSk39MGlVItqMPBYZWwAEIzHVXu-D_5-n_tY5jDnA8c2nwtyLCzJmN9x-yBxV0uFAxx9UyFfffZeqKoC8DgZG0iAEqQHXTK27aOtiAFJ4-S0uuVYwQxAdtKXjJwzGQOadWk2qKwkw9Ge0PHF1UcKuguCt4oYGqmPZzifalk_OSTKmslmX9W_LoPKod1r-rutdH4aPT_sbBwmDPdB6L64FUh9XqvLc6qZOxDgyjWYbYNDD31N4XysTqwQUbBK2ULjWroMw8ipE94YFXCLcrD0vX_THSinNMKGbcbWxs7aK4wgym64cIui1w2Zc562wPtI6hd7zEG1dNGdMLV4mBizTdd0WDeCZeU_hIuQNntAKYGd6wXmt8YHzZCHWgibWvPwtdGhE3P3CMDPp3PNoy6dD104bVdG9GzKsKPxFUG_Cqwv78tTIaIcbTOrVGKCOzx6vL831dzYon3GyJXxkdFpVvLYbzU7erEtywVLpWF0QUCwBuOVMG4jPPsEI3jJt4kRWmmCYKhHiLe3RXQZikPJYDNrIOtZ57s7YOwyUl9l3Mg_95KFcehh_6Fexa3V-cYyBmBMQ-UNje5kpmlufhaCFHOa6hcXaFYaoVu3ZYPCUd2D6slljz39nDto4pqhUb8bHkfGuHQedGK3tNx-H3cRdF8cD6OFklwsV3YkFRAtUxWKEVymjvK72XaRe6nLtpj4hvRu1fOq3Vmf5U_1rPdQpPB2djoQ9BkSjdBzZ7n5IgMf215cTTUfDwOUB8AQ%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%22%2C%22trackingId%22%3A%22f7124961-5850-4d61-a30d-82cbf4dd4731%22%7D%2C%22time%22%3A1790759799153%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_view_base_recent_activity_content_view%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+            - generic [ref=f103e11]:
+              - heading "Kelly, Get certified for your LinkedIn Ads skills - it's free!" [level=2] [ref=f103e14]
+              - generic [ref=f103e16]:
+                - img "Kelly" [ref=f103e17]
+                - generic [ref=f103e18]:
+                  - link [ref=f103e19] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Ftraining.marketing.linkedin.com%2Fpage%2Fcertifications%3Fsrc%3Dli-dynamic%26veh%3DFxOS1xCUSTxDAxAPACxENxPDx202402xMarketingHelpCenterCertificationsxLMSActiveAdvertisersx1194xVisitsxv1a%26mcid%3D7387207745470369792%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg8ZoJxXQWfFuRZZ7bI8MmrfKDPvBilEanZ5iZSIN7ZmhndX1-m1I4kdQX57ApQs3DTsO743V-rQH-0qOwRhXllx6j-pcZNUilmHihiLPB-53MW1pi-3epVhOiZaXKu5Sxm-nMkP943NiFtIXdqQb7fdWdlm3JBtOavtEO5ZBGs_cdlZsiJHSqkm8hmErVuQIx_KecmPEagKD4K5RXY6t_JK06RofLydyFPkfQpe4YYtgb1CHXajAmzuH7sbQFHXt_AGU0AlTLIbyH9HjmhaZSLMkNaveBNvCrV_QB2r_NUTwAT22WEcjxGceQWPlq7PzW9DstpEauvA5BFMY_mpRLATT--D-J7pHlgMFd8oMYJgAq4Q0-wARqAz8KhLZC6zbMeLnKhHpNOIKTkQ6nt9ggfDLJTSIYiJobt367-FuHbL9FfzbR3GRSk39MGlVItqMPBYZWwAEIzHVXu-D_5-n_tY5jDnA8c2nwtyLCzJmN9x-yBxV0uFAxx9UyFfffZeqKoC8DgZG0iAEqQHXTK27aOtiAFJ4-S0uuVYwQxAdtKXjJwzGQOadWk2qKwkw9Ge0PHF1UcKuguCt4oYGqmPZzifalk_OSTKmslmX9W_LoPKod1r-rutdH4aPT_sbBwmDPdB6L64FUh9XqvLc6qZOxDgyjWYbYNDD31N4XysTqwQUbBK2ULjWroMw8ipE94YFXCLcrD0vX_THSinNMKGbcbWxs7aK4wgym64cIui1w2Zc562wPtI6hd7zEG1dNGdMLV4mBizTdd0WDeCZeU_hIuQNntAKYGd6wXmt8YHzZCHWgibWvPwtdGhE3P3CMDPp3PNoy6dD104bVdG9GzKsKPxFUG_Cqwv78tTIaIcbTOrVGKCOzx6vL831dzYon3GyJXxkdFpVvLYbzU7erEtywVLpWF0QUCwBuOVMG4jPPsEI3jJt4kRWmmCYKhHiLe3RXQZikPJYDNrIOtZ57s7YOwyUl9l3Mg_95KFcehh_6Fexa3V-cYyBmBMQ-UNje5kpmlufhaCFHOa6hcXaFYaoVu3ZYPCUd2D6slljz39nDto4pqhUb8bHkfGuHQedGK3tNx-H3cRdF8cD6OFklwsV3YkFRAtUxWKEVymjvK72XaRe6nLtpj4hvRu1fOq3Vmf5U_1rPdQpPB2djoQ9BkSjdBzZ7n5IgMf215cTTUfDwOUB8AQ%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%22%2C%22trackingId%22%3A%22f7124961-5850-4d61-a30d-82cbf4dd4731%22%7D%2C%22time%22%3A1790759799153%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_view_base_recent_activity_content_view%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                    - img "LinkedIn Ads" [ref=f103e20]
+                  - tooltip "LinkedIn Ads" [ref=f103e21]
+              - generic [ref=f103e22]:
+                - heading "Earn up to 3 certifications with our free courses" [level=2] [ref=f103e25]
+                - link "Get Certified Now" [ref=f103e27] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Ftraining.marketing.linkedin.com%2Fpage%2Fcertifications%3Fsrc%3Dli-dynamic%26veh%3DFxOS1xCUSTxDAxAPACxENxPDx202402xMarketingHelpCenterCertificationsxLMSActiveAdvertisersx1194xVisitsxv1a%26mcid%3D7387207745470369792%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg8ZoJxXQWfFuRZZ7bI8MmrfKDPvBilEanZ5iZSIN7ZmhndX1-m1I4kdQX57ApQs3DTsO743V-rQH-0qOwRhXllx6j-pcZNUilmHihiLPB-53MW1pi-3epVhOiZaXKu5Sxm-nMkP943NiFtIXdqQb7fdWdlm3JBtOavtEO5ZBGs_cdlZsiJHSqkm8hmErVuQIx_KecmPEagKD4K5RXY6t_JK06RofLydyFPkfQpe4YYtgb1CHXajAmzuH7sbQFHXt_AGU0AlTLIbyH9HjmhaZSLMkNaveBNvCrV_QB2r_NUTwAT22WEcjxGceQWPlq7PzW9DstpEauvA5BFMY_mpRLATT--D-J7pHlgMFd8oMYJgAq4Q0-wARqAz8KhLZC6zbMeLnKhHpNOIKTkQ6nt9ggfDLJTSIYiJobt367-FuHbL9FfzbR3GRSk39MGlVItqMPBYZWwAEIzHVXu-D_5-n_tY5jDnA8c2nwtyLCzJmN9x-yBxV0uFAxx9UyFfffZeqKoC8DgZG0iAEqQHXTK27aOtiAFJ4-S0uuVYwQxAdtKXjJwzGQOadWk2qKwkw9Ge0PHF1UcKuguCt4oYGqmPZzifalk_OSTKmslmX9W_LoPKod1r-rutdH4aPT_sbBwmDPdB6L64FUh9XqvLc6qZOxDgyjWYbYNDD31N4XysTqwQUbBK2ULjWroMw8ipE94YFXCLcrD0vX_THSinNMKGbcbWxs7aK4wgym64cIui1w2Zc562wPtI6hd7zEG1dNGdMLV4mBizTdd0WDeCZeU_hIuQNntAKYGd6wXmt8YHzZCHWgibWvPwtdGhE3P3CMDPp3PNoy6dD104bVdG9GzKsKPxFUG_Cqwv78tTIaIcbTOrVGKCOzx6vL831dzYon3GyJXxkdFpVvLYbzU7erEtywVLpWF0QUCwBuOVMG4jPPsEI3jJt4kRWmmCYKhHiLe3RXQZikPJYDNrIOtZ57s7YOwyUl9l3Mg_95KFcehh_6Fexa3V-cYyBmBMQ-UNje5kpmlufhaCFHOa6hcXaFYaoVu3ZYPCUd2D6slljz39nDto4pqhUb8bHkfGuHQedGK3tNx-H3cRdF8cD6OFklwsV3YkFRAtUxWKEVymjvK72XaRe6nLtpj4hvRu1fOq3Vmf5U_1rPdQpPB2djoQ9BkSjdBzZ7n5IgMf215cTTUfDwOUB8AQ%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%22%2C%22trackingId%22%3A%22f7124961-5850-4d61-a30d-82cbf4dd4731%22%7D%2C%22time%22%3A1790759799153%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_view_base_recent_activity_content_view%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+        - generic [ref=f102e1084]:
+          - generic [ref=f102e1088]:
+            - heading "People you may know" [level=2] [ref=f102e1089]
+            - paragraph [ref=f102e1091]:
+              - generic [ref=f102e1092]: From Emma's company
+          - generic [ref=f102e1093]:
+            - list [ref=f102e1094]:
+              - listitem [ref=f102e1095]:
+                - generic [ref=f102e1096]:
+                  - link [ref=f102e1098] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/julie-flynn-68819b14
+                    - img "Julie Flynn" [ref=f102e1101]
+                  - generic [ref=f102e1102]:
+                    - link "Julie Flynn Former CEO, AANA, Freeview and Free TV" [ref=f102e1104] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/julie-flynn-68819b14?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAALf8wgBtfn8dNDWH-nWZZpUsk8ddNWF32k
+                      - generic [ref=f102e1105]: Julie Flynn
+                      - generic [ref=f102e1110]: Former CEO, AANA, Freeview and Free TV
+                    - list [ref=f102e1116]:
+                      - listitem [ref=f102e1117]:
+                        - button "Invite Julie Flynn to connect" [ref=f102e1119] [cursor=pointer]:
+                          - generic [ref=f102e1122]: Connect
+              - listitem [ref=f102e1123]:
+                - generic [ref=f102e1124]:
+                  - link [ref=f102e1126] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/sallybasser
+                    - img "Sally Basser" [ref=f102e1129]
+                  - generic [ref=f102e1130]:
+                    - link "Sally Basser Non-Executive Director | Consultant | Governance, Strategy & Organisational Effectiveness" [ref=f102e1132] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/sallybasser?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABwMbkMBdr83CD3rpCfBhoIPcoZ-0lPnKNk
+                      - generic [ref=f102e1133]: Sally Basser
+                      - generic [ref=f102e1138]: Non-Executive Director | Consultant | Governance, Strategy & Organisational Effectiveness
+                    - list [ref=f102e1144]:
+                      - listitem [ref=f102e1145]:
+                        - button "Invite Sally Basser to connect" [ref=f102e1147] [cursor=pointer]:
+                          - generic [ref=f102e1150]: Connect
+              - listitem [ref=f102e1151]:
+                - generic [ref=f102e1152]:
+                  - link [ref=f102e1154] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/russell-robinson-570b4068
+                    - img "Russell Robinson" [ref=f102e1157]
+                  - generic [ref=f102e1158]:
+                    - link "Russell Robinson journalist, speechwriter, communications consultant" [ref=f102e1160] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/russell-robinson-570b4068?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAA5oCyQB4-Xv4VB0v6TEwNT43oE0U7h4GEs
+                      - generic [ref=f102e1161]: Russell Robinson
+                      - generic [ref=f102e1166]: journalist, speechwriter, communications consultant
+                    - list [ref=f102e1172]:
+                      - listitem [ref=f102e1173]:
+                        - button "Invite Russell Robinson to connect" [ref=f102e1175] [cursor=pointer]:
+                          - generic [ref=f102e1178]: Connect
+              - listitem [ref=f102e1179]:
+                - generic [ref=f102e1180]:
+                  - link [ref=f102e1182] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/sarah-talbert-19450329
+                    - img "Sarah Talbert" [ref=f102e1185]
+                  - generic [ref=f102e1186]:
+                    - link "Sarah Talbert Barrister - Public Defenders Chambers" [ref=f102e1188] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/sarah-talbert-19450329?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAXyoUABcpnBsf_vkCYPKwwPxKaUUzH4GRg
+                      - generic [ref=f102e1189]: Sarah Talbert
+                      - generic [ref=f102e1194]: Barrister - Public Defenders Chambers
+                    - list [ref=f102e1200]:
+                      - listitem [ref=f102e1201]:
+                        - button "Invite Sarah Talbert to connect" [ref=f102e1203] [cursor=pointer]:
+                          - generic [ref=f102e1206]: Connect
+              - listitem [ref=f102e1207]:
+                - generic [ref=f102e1208]:
+                  - link [ref=f102e1210] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/alan-sunderland-author
+                    - img "Alan Sunderland" [ref=f102e1213]
+                  - generic [ref=f102e1214]:
+                    - link "Alan Sunderland Journalist, Author, Editorial Consultant" [ref=f102e1216] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/alan-sunderland-author?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAW8QCsBSC8wL_uszTc77ZbwazJlPxfQE6Q
+                      - generic [ref=f102e1217]: Alan Sunderland
+                      - generic [ref=f102e1226]: Journalist, Author, Editorial Consultant
+                    - list [ref=f102e1232]:
+                      - listitem [ref=f102e1233]:
+                        - button "Invite Alan Sunderland to connect" [ref=f102e1235] [cursor=pointer]:
+                          - generic [ref=f102e1238]: Connect
+            - button "Show more" [ref=f102e1241] [cursor=pointer]
+        - generic "LinkedIn Footer Content" [ref=f102e236]:
+          - generic [ref=f102e237]:
+            - list [ref=f102e1246]:
+              - listitem [ref=f102e1247]:
+                - link "About" [ref=f102e1248] [cursor=pointer]:
+                  - /url: https://about.linkedin.com/
+              - listitem [ref=f102e1250]:
+                - link "Accessibility" [ref=f102e1251] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/accessibility
+              - listitem [ref=f102e1253]:
+                - link "Help Center" [ref=f102e1254] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin?trk=footer_d_flagship3_profile_view_base_recent_activity_content_view
+              - listitem [ref=f102e1256]:
+                - button "Privacy & Terms" [ref=f102e1258] [cursor=pointer]
+              - listitem [ref=f102e1263]:
+                - link "Ad Choices" [ref=f102e1264] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin/answer/62931
+              - listitem [ref=f102e1266]:
+                - link "Advertising" [ref=f102e1267] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/ad/start?trk=n_nav_ads_rr
+              - listitem [ref=f102e1269]:
+                - button "Business Services" [ref=f102e1271] [cursor=pointer]
+              - listitem [ref=f102e1276]:
+                - button "Get the LinkedIn app" [ref=f102e1279] [cursor=pointer]
+              - listitem [ref=f102e1280]:
+                - button "More options" [ref=f102e1281] [cursor=pointer]: More
+            - generic [ref=f102e238]:
+              - img "LinkedIn" [ref=f102e239]
+              - text: LinkedIn Corporation © 2026
+    - generic:
+      - generic:
+        - complementary:
+          - generic [ref=f102e242]:
+            - generic [ref=f102e243]:
+              - generic [ref=f102e245] [cursor=pointer]:
+                - img "Kelly Irving" [ref=f102e247]
+                - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f102e248]:
+                  - generic [ref=f102e249]:
+                    - generic [aria-hidden] [ref=f102e250]: Messaging
+                    - generic [ref=f102e251]: You are on the messaging overlay. Press enter to open the list of conversations.
+              - generic [ref=f102e252]:
+                - button [ref=f102e254] [cursor=pointer]:
+                  - img "Open messenger dropdown menu" [ref=f102e255]
+                - button "Compose message" [ref=f102e258] [cursor=pointer]
+                - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f102e262] [cursor=pointer]
+            - generic [ref=f102e1282]:
+              - heading "Page inboxes" [level=3] [ref=f102e1284]
+              - generic [ref=f102e1285] [cursor=pointer]:
+                - generic [ref=f102e1286]: Click to see affiliated inboxes
+                - button "Page inboxes" [ref=f102e1287]
+          - dialog "Messaging" [ref=f102e1290]:
+            - generic [ref=f102e1291]:
+              - generic [ref=f102e1292] [cursor=pointer]:
+                - generic [ref=f102e1294]:
+                  - img "Veronica Millen - PCC" [ref=f102e1297]
+                  - heading "Veronica Millen - PCC" [level=2] [ref=f102e1299]
+                - button "Close your conversation with Veronica Millen - PCC and Kelly Irving" [ref=f102e1301]
+              - generic [ref=f102e1306]:
+                - list [ref=f102e1311]:
+                  - listitem
+                  - listitem [ref=f102e1312]:
+                    - time [ref=f102e1313]: Aug 2, 2022
+                    - generic [ref=f102e1314]: Kelly Irving sent the following messages at 10:49 AM
+                    - generic [ref=f102e1315]:
+                      - link "View Kelly’s profile Kelly Irving" [ref=f102e1316] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                        - generic [ref=f102e1317]: View Kelly’s profile
+                        - img "Kelly Irving" [ref=f102e1318]
+                      - generic [ref=f102e1319]:
+                        - generic [ref=f102e1320]:
+                          - link "Kelly Irving" [ref=f102e1321] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/in/ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                          - img "LinkedIn Premium" [ref=f102e1323]
+                        - time [ref=f102e1326]: • 10:49 AM
+                      - generic [ref=f102e1328]:
+                        - paragraph [ref=f102e1330]: Hi Veronica,I'm reaching out to you as my work involves helping thought leaders, such as yourself, write and publish books.Some of my clients include Peter Cook, Janine Garner, Mykel Dixon and Penny Locaso.Would love to stay in touch.Kelly
+                        - generic "Sent at 8/2/2022, 10:49 AM" [ref=f102e1331]
+                  - listitem [ref=f102e1334]:
+                    - generic [ref=f102e1335]:
+                      - link "View Kelly’s profile Kelly Irving" [ref=f102e1336] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                        - generic [ref=f102e1337]: View Kelly’s profile
+                        - img "Kelly Irving" [ref=f102e1338]
+                      - generic [ref=f102e1339]:
+                        - generic [ref=f102e1340]:
+                          - link "Kelly Irving" [ref=f102e1341] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/in/ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                          - img "LinkedIn Premium" [ref=f102e1343]
+                        - time [ref=f102e1346]: • 11:45 AM
+                      - generic [ref=f102e1348]:
+                        - paragraph [ref=f102e1350]: Thanks for connecting Veronica. I'm looking forward to finding out more about you and exchanging mutual value. 😃
+                        - generic "Sent at 8/2/2022, 11:45 AM" [ref=f102e1351]
+                  - listitem [ref=f102e1354]:
+                    - time [ref=f102e1355]: Today
+                    - generic [ref=f102e1356]: Veronica Millen - PCC sent the following messages at 3:22 PM
+                    - generic [ref=f102e1357]:
+                      - link "View Veronica’s profile Veronica Millen - PCC" [ref=f102e1358] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/ACoAAAIC_AABccPdFFYJLD-oqU5kc1c_Txg6Bgw
+                        - generic [ref=f102e1359]: View Veronica’s profile
+                        - img "Veronica Millen - PCC" [ref=f102e1360]
+                      - generic [ref=f102e1361]:
+                        - generic [ref=f102e1362]:
+                          - link "Veronica Millen - PCC" [ref=f102e1363] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/in/ACoAAAIC_AABccPdFFYJLD-oqU5kc1c_Txg6Bgw
+                          - img "LinkedIn Premium" [ref=f102e1365]
+                        - time [ref=f102e1368]: • 3:22 PM
+                      - paragraph [ref=f102e1372]: Hi Kelly, hope you are well. I am looking to update my book maybe a second edition and I was wondering if that is something you might be able to assist me with and if so how that could work? Many thanks, Veronica
+                  - listitem [ref=f102e1373]
+                  - listitem [ref=f102e1374]:
+                    - generic [ref=f102e1375]:
+                      - button "Scroll quick replies left" [disabled] [ref=f102e1376]
+                      - list [ref=f102e1377]:
+                        - listitem [ref=f102e1378]:
+                          - button "Reply to conversation with “Hi, Veronica ”" [ref=f102e1379] [cursor=pointer]:
+                            - generic [aria-hidden]: Hi, Veronica
+                        - listitem [ref=f102e1381]:
+                          - button "Reply to conversation with “Hey, Veronica ”" [ref=f102e1382] [cursor=pointer]:
+                            - generic [aria-hidden]: Hey, Veronica
+                        - listitem [ref=f102e1384]:
+                          - button "Reply to conversation with “Of course”" [ref=f102e1385] [cursor=pointer]:
+                            - generic [aria-hidden]: Of course
+                      - button "Scroll quick replies right" [ref=f102e1387] [cursor=pointer]
+                  - listitem
+                - generic [ref=f102e1391]:
+                  - generic [ref=f102e1392]:
+                    - generic [ref=f102e1394]:
+                      - textbox "Write a message…" [ref=f102e1395]:
+                        - paragraph [ref=f102e1396]
+                      - text: Write a message…
+                    - button "Maximize compose field" [ref=f102e1398] [cursor=pointer]
+                  - generic [ref=f102e1402]:
+                    - generic [ref=f102e1403]:
+                      - button "Attach an image to your conversation with Veronica Millen - PCC" [ref=f102e1405] [cursor=pointer]
+                      - button "Attach a file to your conversation with Veronica Millen - PCC" [ref=f102e1410] [cursor=pointer]
+                      - button "Open GIF Keyboard" [ref=f102e1415] [cursor=pointer]
+                      - button "Open Emoji Keyboard" [ref=f102e1421] [cursor=pointer]
+                    - generic [ref=f102e1423]:
+                      - generic [ref=f102e1424]: Press Enter to Send
+                      - button "Open send options" [ref=f102e1428] [cursor=pointer]
+        - complementary "AI-powered assistant to get help with your career, jobs etc"
+  - region [ref=f102e266]

@@ -1,0 +1,347 @@
+- generic [ref=f185e2]:
+  - heading "0 notifications" [level=2] [ref=f185e3]
+  - generic [ref=f185e4]:
+    - generic:
+      - generic "Skip navigation menu":
+        - generic [ref=f185e5]:
+          - button "Skip to search" [ref=f185e6] [cursor=pointer]
+          - button "Skip to main content" [ref=f185e9] [cursor=pointer]
+          - button "Skip to sidebar" [ref=f185e12] [cursor=pointer]
+          - button "Skip to primary content" [ref=f185e15] [cursor=pointer]
+          - button "Skip to aside" [ref=f185e18] [cursor=pointer]
+          - button "Close jump menu" [ref=f185e22] [cursor=pointer]
+    - generic [ref=f185e25]:
+      - banner [ref=f185e27]:
+        - generic [ref=f185e30]:
+          - button [ref=f185e31] [cursor=pointer]
+          - generic [ref=f185e33]:
+            - status [ref=f185e34]
+            - search [ref=f185e35]:
+              - textbox "I'm looking for…" [ref=f185e39]
+          - generic [ref=f185e41]:
+            - navigation [ref=f185e45]:
+              - list [ref=f185e46]:
+                - listitem [ref=f185e47]:
+                  - button "Home, 1 new notification" [ref=f185e48] [cursor=pointer]:
+                    - generic [ref=f185e53]: Home
+                - listitem [ref=f185e55]:
+                  - link "My Network, 41 new notifications" [ref=f185e56] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork
+                    - generic [ref=f185e57]: "41"
+                    - generic [ref=f185e61]: My Network
+                - listitem [ref=f185e63]:
+                  - link "Jobs, 0 new notifications" [ref=f185e64] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/
+                    - generic [ref=f185e68]: Jobs
+                - listitem [ref=f185e70]:
+                  - link "Messaging, 0 new notifications" [ref=f185e71] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/messaging/
+                    - generic [ref=f185e75]: Messaging
+                - listitem [ref=f185e77]:
+                  - link "Notifications, 19 new notifications" [ref=f185e78] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/notifications/
+                    - generic [ref=f185e79]: "19"
+                    - generic [ref=f185e83]: Notifications
+                - listitem [ref=f185e85]:
+                  - button "Me" [ref=f185e86] [cursor=pointer]:
+                    - figure [aria-hidden] [ref=f185e88]
+            - navigation [ref=f185e94]:
+              - list [ref=f185e95]:
+                - listitem [ref=f185e96]:
+                  - button "For Business" [ref=f185e97] [cursor=pointer]
+                - listitem [ref=f185e104]:
+                  - link "Advertise, 3 new notifications" [ref=f185e105] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/campaignmanager/accounts/
+                    - generic [ref=f185e106]: "3"
+                    - generic [ref=f185e109]: Advertise
+      - main [ref=f185e113]:
+        - generic [ref=f185e115]:
+          - complementary "Sidebar" [ref=f185e116]:
+            - generic [ref=f185e119]:
+              - generic [ref=f185e123]:
+                - link [ref=f185e124] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/kelly-irving/
+                  - generic [ref=f185e125]:
+                    - generic [ref=f185e126]:
+                      - figure [aria-hidden] [ref=f185e127]
+                      - paragraph [ref=f185e129]: Premium
+                    - figure [ref=f185e132]:
+                      - img "Kelly Irving" [ref=f185e133]
+                - generic [ref=f185e134]:
+                  - link [ref=f185e135] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic "Kelly Irving, Book coach and editor for changemakers and trailblazers / Publishing gymnast, Anglesea, Victoria, Premium profile" [ref=f185e136]:
+                      - paragraph [ref=f185e139]: Kelly Irving
+                      - paragraph [ref=f185e142]: Book coach and editor for changemakers and trailblazers / Publishing gymnast
+                      - paragraph [ref=f185e143]: Anglesea, Victoria
+                  - link [ref=f185e144] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic [ref=f185e145]:
+                      - figure [aria-hidden] [ref=f185e146]
+                      - paragraph [ref=f185e147]: Expert Author Community
+              - generic [ref=f185e149]:
+                - menu [ref=f185e150]:
+                  - link [ref=f185e152] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/me/profile-views/
+                    - generic "Profile viewers 279" [ref=f185e153]:
+                      - paragraph [ref=f185e155]: Profile viewers
+                      - paragraph [ref=f185e156]: "279"
+                  - link [ref=f185e158] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/analytics/creator/content/
+                    - generic "Post impressions 1,523" [ref=f185e159]:
+                      - paragraph [ref=f185e161]: Post impressions
+                      - paragraph [ref=f185e162]: 1,523
+                - menu [ref=f185e163]:
+                  - link [ref=f185e165] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/premium/my-premium/
+                    - paragraph [ref=f185e168]: Your Premium features
+          - region "Primary content" [ref=f185e169]:
+            - generic [ref=f185e175]:
+              - listitem [ref=f185e179]:
+                - generic [ref=f185e181]:
+                  - heading "Feed post" [level=2]
+                  - generic [ref=f185e183]:
+                    - link [ref=f185e184] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/benitabensch/
+                      - figure [ref=f185e185]:
+                        - img "View Benita Bensch’s profile" [ref=f185e186]
+                    - generic [ref=f185e188]:
+                      - link [ref=f185e191] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/benitabensch/
+                        - generic "Benita Bensch Premium Profile 1st" [ref=f185e193]:
+                          - paragraph [ref=f185e196]: Benita Bensch
+                          - paragraph [ref=f185e198]:
+                            - generic [ref=f185e199]: • 1st
+                      - paragraph [ref=f185e203]: Author of Seen Again | Speaker & Facilitator | Identity, Matrescence & Changing Roles | Farming-Family Planning & Alignment
+                      - paragraph [ref=f185e205]: 3mo
+                      - link "Benita Bensch Premium Profile 1st":
+                        - /url: https://www.linkedin.com/in/benitabensch/
+                    - button "Open control menu for post by Benita Bensch" [ref=f185e206] [cursor=pointer]
+                  - paragraph [ref=f185e209]:
+                    - generic [ref=f185e210]:
+                      - text: "I love that what starts as an idea ends in community.Bringing a book into the world is a long creative journey that requires focus, persistence and huge amounts of input.It’s not only about the end product and its effect on others, but the person you become in the process of creating it and those you gather on the journey. I've loved it.The seed for my new book Seen Again: Light on Matrescence started in my Illuminate coaching program for mothers, was nurtured by the"
+                      - link "View Kelly Irving’s profile" [ref=f185e212] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/kelly-irving/
+                        - strong [ref=f185e213]: Kelly Irving
+                      - text: and the
+                      - 'link "View company: Expert Author Community" [ref=f185e215] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/company/expert-author-community/
+                        - strong [ref=f185e216]: Expert Author Community
+                      - text: ", germinated within the community of contributors and experts Dr Sophie Brock and"
+                      - link "View Kelsey Perrykkad’s profile" [ref=f185e218] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/kelseyperrykkad/
+                        - strong [ref=f185e219]: Kelsey Perrykkad
+                      - text: ", and bloomed with"
+                      - link "View Natasha Gilmour’s profile" [ref=f185e221] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/thekindpress/
+                        - strong [ref=f185e222]: Natasha Gilmour
+                      - text: and The Kind Press.I thanked a long list of people on Instagram this morning who've supported me. I'm truly grateful for everyone who has got behind me, pre-ordered Seen Again and helped me spread the word!I'm excited to see it make its way into the world through partnering with
+                      - 'link "View company: Motherland" [ref=f185e224] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/company/motherland-australia/
+                        - strong [ref=f185e225]: Motherland
+                      - text: "and everyone who purchases a copy.I'm delighted to say that today is publication day... Seen Again is OUT NOW in all good bookstores. It's a modern companion through matrescence for every mother who has asked: Who am I now?"
+                  - link [ref=f185e227] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/posts/benitabensch_i-love-that-what-starts-as-an-idea-ends-in-share-7477546426974216192-KhgV/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                    - figure [ref=f185e228]:
+                      - img "View image" [ref=f185e229]
+                  - generic [ref=f185e230]:
+                    - link [ref=f185e231] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/posts/benitabensch_i-love-that-what-starts-as-an-idea-ends-in-share-7477546426974216192-KhgV/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                      - generic "Switch to different account" [ref=f185e232]:
+                        - figure [aria-hidden] [ref=f185e233]
+                    - generic [ref=f185e235]:
+                      - 'button "Reaction button state: Love" [ref=f185e238] [cursor=pointer]':
+                        - generic [ref=f185e239]: "13"
+                      - button "Open reactions menu"
+                    - button "Comment" [ref=f185e244] [cursor=pointer]:
+                      - generic [ref=f185e245]: "3"
+                    - button "Repost" [ref=f185e250] [cursor=pointer]
+                    - link "Send" [ref=f185e253] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/posts/benitabensch_i-love-that-what-starts-as-an-idea-ends-in-share-7477546426974216192-KhgV/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                    - link [ref=f185e256] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/posts/benitabensch_i-love-that-what-starts-as-an-idea-ends-in-share-7477546426974216192-KhgV/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                      - generic "13 reactions" [ref=f185e257]
+                - generic [ref=f185e266]:
+                  - status [ref=f185e269]
+                  - generic [ref=f185e270]:
+                    - button "Show Emoji Picker" [ref=f185e271] [cursor=pointer]
+                    - button "Open GIF picker" [ref=f185e276] [cursor=pointer]
+                    - button "Share photo" [ref=f185e279] [cursor=pointer]
+              - link [ref=f185e282] [cursor=pointer]:
+                - /url: https://www.linkedin.com/posts/benitabensch_i-love-that-what-starts-as-an-idea-ends-in-share-7477546426974216192-KhgV/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                - generic [ref=f185e284]:
+                  - link [ref=f185e285]:
+                    - /url: https://www.linkedin.com/in/sarah-gray-gaicd/
+                    - generic "Sarah Gray GAICD reacted with Like" [ref=f185e286]:
+                      - figure [aria-hidden] [ref=f185e287]
+                  - link [ref=f185e289]:
+                    - /url: https://www.linkedin.com/in/sophiebretag/
+                    - generic "Sophie Bretag reacted with Celebrate" [ref=f185e290]:
+                      - figure [aria-hidden] [ref=f185e291]
+                  - link [ref=f185e293]:
+                    - /url: https://www.linkedin.com/in/penelopebarr/
+                    - generic "Penelope Barr reacted with Celebrate" [ref=f185e294]:
+                      - figure [aria-hidden] [ref=f185e295]
+                  - link [ref=f185e297]:
+                    - /url: https://www.linkedin.com/in/stephschmidtfarmlifepsych/
+                    - generic "Steph Schmidt reacted with Love" [ref=f185e298]:
+                      - figure [aria-hidden] [ref=f185e299]
+                  - link [ref=f185e301]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic "Kelly Irving reacted with Love" [ref=f185e302]:
+                      - figure [aria-hidden] [ref=f185e303]
+                  - link [ref=f185e305]:
+                    - /url: https://www.linkedin.com/in/ninawitenden/
+                    - generic "Nina Witenden reacted with Like" [ref=f185e306]:
+                      - figure [aria-hidden] [ref=f185e307]
+                  - link [ref=f185e309]:
+                    - /url: https://www.linkedin.com/in/bevryan/
+                    - generic "Bev Ryan reacted with Love" [ref=f185e310]:
+                      - figure [aria-hidden] [ref=f185e311]
+                  - link [ref=f185e313]:
+                    - /url: https://www.linkedin.com/in/saoriordan/
+                    - generic "Siobhán O'Riordan reacted with Like" [ref=f185e314]:
+                      - figure [aria-hidden] [ref=f185e315]
+                  - link "View all reactions" [ref=f185e317]:
+                    - /url: https://www.linkedin.com/posts/benitabensch_i-love-that-what-starts-as-an-idea-ends-in-share-7477546426974216192-KhgV/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+              - button [ref=f185e321] [cursor=pointer]:
+                - paragraph [ref=f185e325]: Most relevant
+              - generic [ref=f185e331]:
+                - link [ref=f185e333] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/kelly-irving/
+                  - figure [ref=f185e334]:
+                    - img "View Kelly Irving’s profile" [ref=f185e335]
+                - generic [ref=f185e336]:
+                  - generic [ref=f185e338]:
+                    - link "Kelly Irving Premium Profile You Book coach and editor for changemakers and trailblazers / Publishing gymnast" [ref=f185e339] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/kelly-irving/
+                      - generic [ref=f185e340]:
+                        - paragraph [ref=f185e344]:
+                          - generic [ref=f185e345]:
+                            - generic [ref=f185e346]: Kelly Irving Premium Profile You
+                            - generic [aria-hidden] [ref=f185e347]:
+                              - text: Kelly Irving
+                              - generic [ref=f185e350]: • You
+                        - paragraph [ref=f185e352]: Book coach and editor for changemakers and trailblazers / Publishing gymnast
+                    - paragraph [ref=f185e354]: 3mo
+                    - button "View more options for Kelly Irving’s comment." [ref=f185e355] [cursor=pointer]
+                  - paragraph [ref=f185e361]:
+                    - generic [ref=f185e362]: Loving every moment of this with and for you Kx
+                  - generic [ref=f185e364]:
+                    - generic [ref=f185e365]:
+                      - generic [ref=f185e366]:
+                        - button "1 reaction" [ref=f185e369] [cursor=pointer]:
+                          - paragraph [ref=f185e373]:
+                            - generic [ref=f185e374]:
+                              - generic [ref=f185e375]: 1 reaction
+                              - text: "1"
+                        - button "Open reactions menu"
+                      - button "Reply" [ref=f185e377] [cursor=pointer]
+                      - paragraph [ref=f185e383]:
+                        - generic [ref=f185e384]:
+                          - generic [ref=f185e385]: 51 impressions
+                          - text: "51"
+                    - link [ref=f185e387] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/posts/benitabensch_i-love-that-what-starts-as-an-idea-ends-in-share-7477546426974216192-KhgV/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                      - generic "Reacted to by the author" [ref=f185e388]:
+                        - figure [aria-hidden] [ref=f185e389]
+              - generic [ref=f185e396]:
+                - link [ref=f185e398] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/sophiebretag/
+                  - figure [ref=f185e399]:
+                    - img "View Sophie Bretag’s profile" [ref=f185e400]
+                - generic [ref=f185e401]:
+                  - generic [ref=f185e403]:
+                    - link "Sophie Bretag Premium Profile 1st Bestselling Author of ‘The Kind Way’📚Global Leadership Keynote Speaker🎤Self Kindness Expert🧡 Helping leaders protect capacity & perform sustainably🔥 Fractional HR Consultant🌟Barefoot walker 👣 Squeezy hugger🩷" [ref=f185e404] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/sophiebretag/
+                      - generic [ref=f185e405]:
+                        - paragraph [ref=f185e409]:
+                          - generic [ref=f185e410]:
+                            - generic [ref=f185e411]: Sophie Bretag Premium Profile 1st
+                            - generic [aria-hidden] [ref=f185e412]:
+                              - text: Sophie Bretag
+                              - generic [ref=f185e415]: • 1st
+                        - paragraph [ref=f185e417]: Bestselling Author of ‘The Kind Way’📚Global Leadership Keynote Speaker🎤Self Kindness Expert🧡 Helping leaders protect capacity & perform sustainably🔥 Fractional HR Consultant🌟Barefoot walker 👣 Squeezy hugger🩷
+                    - paragraph [ref=f185e419]: 3mo
+                    - button "View more options for Sophie Bretag’s comment." [ref=f185e420] [cursor=pointer]
+                  - paragraph [ref=f185e426]:
+                    - generic [ref=f185e427]: Yesss! So excited for you B xx 😘
+                  - generic [ref=f185e429]:
+                    - generic [ref=f185e430]:
+                      - generic [ref=f185e431]:
+                        - button "1 reaction" [ref=f185e434] [cursor=pointer]:
+                          - paragraph [ref=f185e438]:
+                            - generic [ref=f185e439]:
+                              - generic [ref=f185e440]: 1 reaction
+                              - text: "1"
+                        - button "Open reactions menu"
+                      - button "Reply" [ref=f185e442] [cursor=pointer]
+                    - link [ref=f185e446] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/posts/benitabensch_i-love-that-what-starts-as-an-idea-ends-in-share-7477546426974216192-KhgV/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                      - generic "Reacted to by the author" [ref=f185e447]:
+                        - figure [aria-hidden] [ref=f185e448]
+              - generic [ref=f185e455]:
+                - link [ref=f185e457] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/penelopebarr/
+                  - figure [ref=f185e458]:
+                    - img "View Penelope Barr’s profile" [ref=f185e459]
+                - generic [ref=f185e460]:
+                  - generic [ref=f185e462]:
+                    - link "Penelope Barr Premium Profile 1st Portfolio Careerpreneur | Helping people and organisations transition through the messy middle to your personal best | Interim Executive | Author | Board Member | Speaker | Writing Retreat host | Coach" [ref=f185e463] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/penelopebarr/
+                      - generic [ref=f185e464]:
+                        - paragraph [ref=f185e468]:
+                          - generic [ref=f185e469]:
+                            - generic [ref=f185e470]: Penelope Barr Premium Profile 1st
+                            - generic [aria-hidden] [ref=f185e471]:
+                              - text: Penelope Barr
+                              - generic [ref=f185e474]: • 1st
+                        - paragraph [ref=f185e476]: Portfolio Careerpreneur | Helping people and organisations transition through the messy middle to your personal best | Interim Executive | Author | Board Member | Speaker | Writing Retreat host | Coach
+                    - paragraph [ref=f185e478]: 3mo
+                    - button "View more options for Penelope Barr’s comment." [ref=f185e479] [cursor=pointer]
+                  - paragraph [ref=f185e485]:
+                    - generic [ref=f185e486]: Such an exciting day for a beautiful piece of work. You've been able to gather so many incredible people and stories around you to produce this wonderful work. Enjoy the successes 💚
+                  - generic [ref=f185e488]:
+                    - generic [ref=f185e489]:
+                      - generic [ref=f185e490]:
+                        - button "1 reaction" [ref=f185e493] [cursor=pointer]:
+                          - paragraph [ref=f185e497]:
+                            - generic [ref=f185e498]:
+                              - generic [ref=f185e499]: 1 reaction
+                              - text: "1"
+                        - button "Open reactions menu"
+                      - button "Reply" [ref=f185e501] [cursor=pointer]
+                    - link [ref=f185e505] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/posts/benitabensch_i-love-that-what-starts-as-an-idea-ends-in-share-7477546426974216192-KhgV/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                      - generic "Reacted to by the author" [ref=f185e506]:
+                        - figure [aria-hidden] [ref=f185e507]
+          - complementary "Aside" [ref=f185e510]:
+            - generic [ref=f185e516]:
+              - generic [ref=f185e517]:
+                - link [ref=f185e518] [cursor=pointer]:
+                  - /url: https://about.linkedin.com/
+                  - paragraph [ref=f185e519]: About
+                - link [ref=f185e520] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/accessibility/
+                  - paragraph [ref=f185e521]: Accessibility
+                - link [ref=f185e522] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin/
+                  - paragraph [ref=f185e523]: Help Center
+                - button [ref=f185e524] [cursor=pointer]:
+                  - paragraph [ref=f185e526]: Privacy & Terms
+                - link [ref=f185e528] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin/answer/62931/
+                  - paragraph [ref=f185e529]: Ad Choices
+                - link [ref=f185e530] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/ad/start/?trk=n_nav_ads_rr
+                  - paragraph [ref=f185e531]: Advertising
+                - button [ref=f185e532] [cursor=pointer]:
+                  - paragraph [ref=f185e534]: Business Services
+                - link [ref=f185e536] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/mobile/
+                  - paragraph [ref=f185e537]: Get the LinkedIn app
+                - link [ref=f185e538] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/posts/benitabensch_i-love-that-what-starts-as-an-idea-ends-in-share-7477546426974216192-KhgV/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                  - paragraph [ref=f185e539]: More
+              - paragraph [ref=f185e542]: LinkedIn Corporation © 2026
+  - iframe [ref=f185e543]

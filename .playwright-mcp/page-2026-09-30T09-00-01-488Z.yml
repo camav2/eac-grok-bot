@@ -1,0 +1,306 @@
+- generic [ref=f62e2]:
+  - heading "0 notifications" [level=2] [ref=f62e3]
+  - generic [ref=f62e4]:
+    - generic:
+      - generic "Skip navigation menu":
+        - button "Close jump menu" [ref=f62e6] [cursor=pointer]
+    - generic [ref=f62e9]:
+      - banner [ref=f62e11]:
+        - generic [ref=f62e14]:
+          - button [ref=f62e15] [cursor=pointer]
+          - generic [ref=f62e17]:
+            - status [ref=f62e18]
+            - search [ref=f62e19]:
+              - textbox "I'm looking for…" [ref=f62e23]
+          - generic [ref=f62e25]:
+            - navigation [ref=f62e29]:
+              - list [ref=f62e30]:
+                - listitem [ref=f62e31]:
+                  - button "Home, 1 new notification" [ref=f62e32] [cursor=pointer]:
+                    - generic [ref=f62e36]: Home
+                - listitem [ref=f62e38]:
+                  - link "My Network, 41 new notifications" [ref=f62e39] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork
+                    - generic [ref=f62e40]: "41"
+                    - generic [ref=f62e44]: My Network
+                - listitem [ref=f62e46]:
+                  - link "Jobs, 0 new notifications" [ref=f62e47] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/
+                    - generic [ref=f62e51]: Jobs
+                - listitem [ref=f62e53]:
+                  - link "Messaging, 0 new notifications" [ref=f62e54] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/messaging/
+                    - generic [ref=f62e58]: Messaging
+                - listitem [ref=f62e60]:
+                  - link "Notifications, 19 new notifications" [ref=f62e61] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/notifications/
+                    - generic [ref=f62e62]: "19"
+                    - generic [ref=f62e66]: Notifications
+                - listitem [ref=f62e68]:
+                  - button "Me" [ref=f62e69] [cursor=pointer]:
+                    - figure [aria-hidden] [ref=f62e71]
+            - navigation [ref=f62e77]:
+              - list [ref=f62e78]:
+                - listitem [ref=f62e79]:
+                  - button "For Business" [ref=f62e80] [cursor=pointer]
+                - listitem [ref=f62e87]:
+                  - link "Advertise, 3 new notifications" [ref=f62e88] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/campaignmanager/accounts/
+                    - generic [ref=f62e89]: "3"
+                    - generic [ref=f62e92]: Advertise
+      - main [ref=f62e96]:
+        - generic [ref=f62e98]:
+          - complementary "Sidebar" [ref=f62e99]:
+            - generic [ref=f62e102]:
+              - generic [ref=f62e106]:
+                - link [ref=f62e107] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/kelly-irving/
+                  - generic [ref=f62e108]:
+                    - generic [ref=f62e109]:
+                      - figure [aria-hidden] [ref=f62e110]
+                      - paragraph [ref=f62e112]: Premium
+                    - figure [ref=f62e115]
+                - generic [ref=f62e116]:
+                  - link [ref=f62e117] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic "Kelly Irving, Book coach and editor for changemakers and trailblazers / Publishing gymnast, Anglesea, Victoria, Premium profile" [ref=f62e118]:
+                      - paragraph [ref=f62e121]: Kelly Irving
+                      - paragraph [ref=f62e124]: Book coach and editor for changemakers and trailblazers / Publishing gymnast
+                      - paragraph [ref=f62e125]: Anglesea, Victoria
+                  - link [ref=f62e126] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic [ref=f62e127]:
+                      - figure [aria-hidden] [ref=f62e128]
+                      - paragraph [ref=f62e129]: Expert Author Community
+              - generic [ref=f62e131]:
+                - menu [ref=f62e132]:
+                  - link [ref=f62e134] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/me/profile-views/
+                    - generic "Profile viewers 279" [ref=f62e135]:
+                      - paragraph [ref=f62e137]: Profile viewers
+                      - paragraph [ref=f62e138]: "279"
+                  - link [ref=f62e140] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/analytics/creator/content/
+                    - generic "Post impressions 1,519" [ref=f62e141]:
+                      - paragraph [ref=f62e143]: Post impressions
+                      - paragraph [ref=f62e144]: 1,519
+                - menu [ref=f62e145]:
+                  - link [ref=f62e147] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/premium/my-premium/
+                    - paragraph [ref=f62e150]: Your Premium features
+          - region "Primary content" [ref=f62e151]:
+            - generic [ref=f62e157]:
+              - listitem [ref=f62e161]:
+                - generic [ref=f62e163]:
+                  - heading "Feed post" [level=2]
+                  - generic [ref=f62e166]:
+                    - paragraph [ref=f62e168]: This post type can't be boosted.
+                    - button "Learn more about boosting posts" [ref=f62e170] [cursor=pointer]
+                  - generic [ref=f62e173]:
+                    - link [ref=f62e174] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/expert-author-community/
+                      - figure [ref=f62e175]
+                    - generic [ref=f62e177]:
+                      - link [ref=f62e180] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/company/expert-author-community/
+                        - generic "Expert Author Community Premium" [ref=f62e182]:
+                          - paragraph [ref=f62e185]: Expert Author Community
+                          - paragraph [ref=f62e187]
+                      - link [ref=f62e194] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fwww%2Eexpertauthor%2Ecommunity%2F&urlhash=tEBR&mt=c9pZhOqpi5UABTHQaSh-kZciUhMcCpmvUFxEi4b8TekqVmA7XMbwh89EbbJXJujDDUSxYvP-P6EohO6pw0iq4BiNyA&isSdui=true
+                        - paragraph [ref=f62e195]: Visit website
+                      - paragraph [ref=f62e197]: 2d
+                      - link "Expert Author Community Premium":
+                        - /url: https://www.linkedin.com/company/expert-author-community/
+                    - button "Open control menu for post by Expert Author Community" [ref=f62e198] [cursor=pointer]
+                  - paragraph [ref=f62e201]:
+                    - generic [ref=f62e202]:
+                      - text: Perimenopause is one of those stages women are often left to work out alone, with patchy information and little that is practical.It's Not You, It's Perimenopause pulls the science together and makes it usable, drawing on
+                      - link "View Sarah Gray GAICD’s profile" [ref=f62e204] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/sarah-gray-gaicd/
+                        - strong [ref=f62e205]: Sarah Gray
+                      - text: "'s work as a pharmacist, nutritionist and menopause practitioner. It has now been named a finalist in the 2026 ABLE Book Awards.A well earned nod, and a good night ahead in October with the other finalists. 💛"
+                  - generic [ref=f62e206]:
+                    - generic [ref=f62e207]:
+                      - link [ref=f62e208] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/sarah-gray-gaicd/
+                        - figure [ref=f62e209]
+                      - generic [ref=f62e211]:
+                        - link [ref=f62e214] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/sarah-gray-gaicd/
+                          - generic "Sarah Gray GAICD Verified Profile 1st" [ref=f62e216]:
+                            - paragraph [ref=f62e219]: Sarah Gray GAICD
+                            - paragraph [ref=f62e221]:
+                              - generic [ref=f62e222]: • 1st
+                        - paragraph [ref=f62e226]: Best Selling Author of It’s Not You, It’s Perimenopause | Award winning nutritionist 🎖️ I Chief of Health Operations | Global Executive MBA | Non-Executive Director I Certified Menopause Practitioner
+                        - paragraph [ref=f62e228]: 2w
+                        - link "Sarah Gray GAICD Verified Profile 1st":
+                          - /url: https://www.linkedin.com/in/sarah-gray-gaicd/
+                    - link [ref=f62e229] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:share:7503583661968101377/
+                      - paragraph [ref=f62e230]:
+                        - generic [ref=f62e231]: A little bit of exciting news to share… 📚I found out yesterday that It’s Not You, It’s Perimenopause has been named a finalist in the 2026 ABLE Book Awards!When I wrote this book, my goal was to make the science of perimenopause easier to understand and, importantly, more practical — bringing together my experience as a pharmacist, nutritionist and menopause practitioner to help women feel better informed and more confident navigating this stage of life.So to have the book recognised in this way feels incredibly special.I’m also really looking forward to the awards event in October and having the opportunity to meet and celebrate with the other finalists and authors. One of the unexpected joys of becoming an author has been connecting with so many people who are passionate about sharing knowledge, stories and ideas that can make a difference.Very proud to see It’s Not You, It’s Perimenopause amongst them. 💛
+                    - link [ref=f62e233] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - figure [ref=f62e234]:
+                        - img "View image" [ref=f62e235]
+                  - generic [ref=f62e236]:
+                    - link [ref=f62e237] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "Switch to different account" [ref=f62e238]:
+                        - figure [aria-hidden] [ref=f62e239]
+                    - generic [ref=f62e241]:
+                      - 'button "Reaction button state: Like" [ref=f62e244] [cursor=pointer]':
+                        - generic [ref=f62e245]: "12"
+                      - button "Open reactions menu"
+                    - button "Comment" [ref=f62e250] [cursor=pointer]:
+                      - generic [ref=f62e251]: "2"
+                    - button "Repost" [ref=f62e256] [cursor=pointer]
+                    - link [ref=f62e259] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "12 reactions" [ref=f62e260]
+                - generic [ref=f62e268]:
+                  - status [ref=f62e271]
+                  - generic [ref=f62e272]:
+                    - button "Show Emoji Picker" [ref=f62e273] [cursor=pointer]
+                    - button "Open GIF picker" [ref=f62e278] [cursor=pointer]
+                    - button "Share photo" [ref=f62e281] [cursor=pointer]
+              - link:
+                - /url: https://www.linkedin.com/
+              - generic [ref=f62e284]:
+                - link:
+                  - /url: https://www.linkedin.com/
+                - generic [ref=f62e285]:
+                  - link:
+                    - /url: https://www.linkedin.com/
+                  - link [ref=f62e286] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/lizstincelli/
+                    - generic "Liz Stincelli reacted with Like" [ref=f62e287]:
+                      - figure [aria-hidden] [ref=f62e288]
+                  - link [ref=f62e290] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/farzad-zare-9a541119a/
+                    - generic "Farzad Zare reacted with Like" [ref=f62e291]:
+                      - figure [aria-hidden] [ref=f62e292]
+                  - link [ref=f62e294] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/karen-stein-coaching/
+                    - generic "Karen Stein reacted with Celebrate" [ref=f62e295]:
+                      - figure [aria-hidden] [ref=f62e296]
+                  - link [ref=f62e298] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/chandu-bickford-9b85a6141/
+                    - generic "Chandu Bickford reacted with Like" [ref=f62e299]:
+                      - figure [aria-hidden] [ref=f62e300]
+                  - link [ref=f62e302] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/sarah-gray-gaicd/
+                    - generic "Sarah Gray GAICD reacted with Like" [ref=f62e303]:
+                      - figure [aria-hidden] [ref=f62e304]
+                  - link [ref=f62e306] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/susan-paczkowski/
+                    - generic "Susan Paczkowski reacted with Like" [ref=f62e307]:
+                      - figure [aria-hidden] [ref=f62e308]
+                  - link [ref=f62e310] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/cameronmcgrane/
+                    - generic "Cameron McGrane reacted with Like" [ref=f62e311]:
+                      - figure [aria-hidden] [ref=f62e312]
+                  - link [ref=f62e314] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/catherine-ngo-communications/
+                    - generic "Cathy Ngo reacted with Like" [ref=f62e315]:
+                      - figure [aria-hidden] [ref=f62e316]
+                  - link "View all reactions" [ref=f62e318] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/
+              - button [ref=f62e322] [cursor=pointer]:
+                - paragraph [ref=f62e326]: Most relevant
+              - generic [ref=f62e332]:
+                - link [ref=f62e334] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/sarah-gray-gaicd/
+                  - figure [ref=f62e335]
+                - generic [ref=f62e336]:
+                  - generic [ref=f62e338]:
+                    - link "Sarah Gray GAICD Verified Profile 1st Best Selling Author of It’s Not You, It’s Perimenopause | Award winning nutritionist 🎖️ I Chief of Health Operations | Global Executive MBA | Non-Executive Director I Certified Menopause Practitioner" [ref=f62e339] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/sarah-gray-gaicd/
+                      - generic [ref=f62e340]:
+                        - paragraph [ref=f62e344]:
+                          - generic [ref=f62e345]:
+                            - generic [ref=f62e346]: Sarah Gray GAICD Verified Profile 1st
+                            - generic [aria-hidden] [ref=f62e347]:
+                              - text: Sarah Gray GAICD
+                              - generic [ref=f62e350]: • 1st
+                        - paragraph [ref=f62e352]: Best Selling Author of It’s Not You, It’s Perimenopause | Award winning nutritionist 🎖️ I Chief of Health Operations | Global Executive MBA | Non-Executive Director I Certified Menopause Practitioner
+                    - paragraph [ref=f62e354]: 2d
+                    - button "View more options for Sarah Gray GAICD’s comment." [ref=f62e355] [cursor=pointer]
+                  - paragraph [ref=f62e361]:
+                    - generic [ref=f62e362]:
+                      - text: Thanks for sharing
+                      - 'link "View company: Expert Author Community" [ref=f62e364] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/company/expert-author-community/
+                        - strong [ref=f62e365]: Expert Author Community
+                      - text: 💙
+                  - generic [ref=f62e368]:
+                    - generic [ref=f62e369]:
+                      - button "0" [ref=f62e372] [cursor=pointer]:
+                        - generic [ref=f62e373]:
+                          - generic:
+                            - paragraph:
+                              - generic: "0"
+                      - button "Open reactions menu"
+                    - button "Reply" [ref=f62e377] [cursor=pointer]
+              - generic [ref=f62e384]:
+                - link [ref=f62e386] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/sidra-skcwriter-0507ab386/
+                  - figure [ref=f62e387]
+                - generic [ref=f62e388]:
+                  - generic [ref=f62e390]:
+                    - link "Sidra SKCwriter, Open to work 3rd+ Founder | Sidra | Website Developer | SEO Content Writer | 100% Human Copywriter | Helping Businesses Build High-Converting Websites That Rank & Convert" [ref=f62e391] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/sidra-skcwriter-0507ab386/
+                      - generic [ref=f62e392]:
+                        - paragraph [ref=f62e396]:
+                          - generic [ref=f62e397]:
+                            - generic [ref=f62e398]: Sidra SKCwriter, Open to work 3rd+
+                            - generic [aria-hidden] [ref=f62e399]:
+                              - text: Sidra SKCwriter
+                              - generic [ref=f62e400]: • 3rd+
+                        - paragraph [ref=f62e402]: Founder | Sidra | Website Developer | SEO Content Writer | 100% Human Copywriter | Helping Businesses Build High-Converting Websites That Rank & Convert
+                    - paragraph [ref=f62e404]: 20h
+                    - button [ref=f62e406] [cursor=pointer]:
+                      - generic "Follow Sidra SKCwriter" [ref=f62e407]:
+                        - paragraph [ref=f62e409]: Follow
+                    - button "View more options for Sidra SKCwriter’s comment." [ref=f62e410] [cursor=pointer]
+                  - paragraph [ref=f62e416]:
+                    - generic [ref=f62e417]: Congratulations, Sarah! Your achievement is truly inspiring. Wishing you all the best for the ABLE Book Awards! 👏✨
+                  - generic [ref=f62e420]:
+                    - generic [ref=f62e421]:
+                      - button "0" [ref=f62e424] [cursor=pointer]:
+                        - generic [ref=f62e425]:
+                          - generic:
+                            - paragraph:
+                              - generic: "0"
+                      - button "Open reactions menu"
+                    - button "Reply" [ref=f62e429] [cursor=pointer]
+          - complementary "Aside" [ref=f62e511]:
+            - generic [ref=f62e517]:
+              - generic [ref=f62e518]:
+                - link [ref=f62e519] [cursor=pointer]:
+                  - /url: https://about.linkedin.com/
+                  - paragraph [ref=f62e520]: About
+                - link [ref=f62e521] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/accessibility/
+                  - paragraph [ref=f62e522]: Accessibility
+                - link [ref=f62e523] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin/
+                  - paragraph [ref=f62e524]: Help Center
+                - button [ref=f62e525] [cursor=pointer]:
+                  - paragraph [ref=f62e527]: Privacy & Terms
+                - link [ref=f62e529] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin/answer/62931/
+                  - paragraph [ref=f62e530]: Ad Choices
+                - link [ref=f62e531] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/ad/start/?trk=n_nav_ads_rr
+                  - paragraph [ref=f62e532]: Advertising
+                - button [ref=f62e533] [cursor=pointer]:
+                  - paragraph [ref=f62e535]: Business Services
+                - link [ref=f62e537] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/mobile/
+                  - paragraph [ref=f62e538]: Get the LinkedIn app
+                - link [ref=f62e539] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/
+                  - paragraph [ref=f62e540]: More
+              - paragraph [ref=f62e543]: LinkedIn Corporation © 2026

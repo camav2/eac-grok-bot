@@ -1,0 +1,524 @@
+- generic [ref=f91e2]:
+  - heading "0 notifications" [level=2] [ref=f91e3]
+  - generic [ref=f91e4]:
+    - generic:
+      - generic "Skip navigation menu":
+        - button "Close jump menu" [ref=f91e6] [cursor=pointer]
+    - generic [ref=f91e9]:
+      - banner [ref=f91e11]:
+        - generic [ref=f91e14]:
+          - button [ref=f91e15] [cursor=pointer]
+          - generic [ref=f91e17]:
+            - status [ref=f91e18]
+            - search [ref=f91e19]:
+              - textbox "I'm looking for…" [ref=f91e23]
+          - generic [ref=f91e25]:
+            - navigation [ref=f91e29]:
+              - list [ref=f91e30]:
+                - listitem [ref=f91e31]:
+                  - button "Home, 1 new notification" [ref=f91e32] [cursor=pointer]:
+                    - generic [ref=f91e36]: Home
+                - listitem [ref=f91e38]:
+                  - link "My Network, 41 new notifications" [ref=f91e39] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork
+                    - generic [ref=f91e40]: "41"
+                    - generic [ref=f91e44]: My Network
+                - listitem [ref=f91e46]:
+                  - link "Jobs, 0 new notifications" [ref=f91e47] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/
+                    - generic [ref=f91e51]: Jobs
+                - listitem [ref=f91e53]:
+                  - link "Messaging, 0 new notifications" [ref=f91e54] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/messaging/
+                    - generic [ref=f91e58]: Messaging
+                - listitem [ref=f91e60]:
+                  - link "Notifications, 19 new notifications" [ref=f91e61] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/notifications/
+                    - generic [ref=f91e62]: "19"
+                    - generic [ref=f91e66]: Notifications
+                - listitem [ref=f91e68]:
+                  - button "Me" [ref=f91e69] [cursor=pointer]:
+                    - figure [aria-hidden] [ref=f91e71]
+            - navigation [ref=f91e77]:
+              - list [ref=f91e78]:
+                - listitem [ref=f91e79]:
+                  - button "For Business" [ref=f91e80] [cursor=pointer]
+                - listitem [ref=f91e87]:
+                  - link "Advertise, 3 new notifications" [ref=f91e88] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/campaignmanager/accounts/
+                    - generic [ref=f91e89]: "3"
+                    - generic [ref=f91e92]: Advertise
+      - main [ref=f91e96]:
+        - generic [ref=f91e98]:
+          - complementary "Sidebar" [ref=f91e99]:
+            - generic [ref=f91e102]:
+              - generic [ref=f91e106]:
+                - link [ref=f91e107] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/kelly-irving/
+                  - generic [ref=f91e108]:
+                    - generic [ref=f91e109]:
+                      - figure [aria-hidden] [ref=f91e110]
+                      - paragraph [ref=f91e112]: Premium
+                    - figure [ref=f91e115]
+                - generic [ref=f91e116]:
+                  - link [ref=f91e117] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic "Kelly Irving, Book coach and editor for changemakers and trailblazers / Publishing gymnast, Anglesea, Victoria, Premium profile" [ref=f91e118]:
+                      - paragraph [ref=f91e121]: Kelly Irving
+                      - paragraph [ref=f91e124]: Book coach and editor for changemakers and trailblazers / Publishing gymnast
+                      - paragraph [ref=f91e125]: Anglesea, Victoria
+                  - link [ref=f91e126] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic [ref=f91e127]:
+                      - figure [aria-hidden] [ref=f91e128]
+                      - paragraph [ref=f91e129]: Expert Author Community
+              - generic [ref=f91e131]:
+                - menu [ref=f91e132]:
+                  - link [ref=f91e134] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/me/profile-views/
+                    - generic "Profile viewers 279" [ref=f91e135]:
+                      - paragraph [ref=f91e137]: Profile viewers
+                      - paragraph [ref=f91e138]: "279"
+                  - link [ref=f91e140] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/analytics/creator/content/
+                    - generic "Post impressions 1,519" [ref=f91e141]:
+                      - paragraph [ref=f91e143]: Post impressions
+                      - paragraph [ref=f91e144]: 1,519
+                - menu [ref=f91e145]:
+                  - link [ref=f91e147] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/premium/my-premium/
+                    - paragraph [ref=f91e150]: Your Premium features
+          - region "Primary content" [ref=f91e151]:
+            - generic [ref=f91e157]:
+              - listitem [ref=f91e162]:
+                - generic [ref=f91e164]:
+                  - heading "Feed post" [level=2]
+                  - generic [ref=f91e166]:
+                    - link [ref=f91e167] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/karendunshea/
+                      - figure [ref=f91e168]
+                    - generic [ref=f91e170]:
+                      - link [ref=f91e173] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/karendunshea/
+                        - generic "Karen Dunshea Premium Profile 1st" [ref=f91e175]:
+                          - paragraph [ref=f91e178]: Karen Dunshea
+                          - paragraph [ref=f91e180]:
+                            - generic [ref=f91e181]: • 1st
+                      - paragraph [ref=f91e185]: 🔑 Writer | Exploring ideas and practices for conversing with complexity | Author of ‘More-Than’
+                      - paragraph [ref=f91e187]: 6d
+                      - link "Karen Dunshea Premium Profile 1st":
+                        - /url: https://www.linkedin.com/in/karendunshea/
+                    - button "Open control menu for post by Karen Dunshea" [ref=f91e188] [cursor=pointer]
+                  - paragraph [ref=f91e191]:
+                    - generic [ref=f91e192]:
+                      - text: Woohoo! I (almost) have a book! After three years writing, thinking, re-writing, discussing, editing, re-writing…. I have finished all that I need to do. I’m now having a couple of weeks off and in mid-October I should have my print copy from Grammar Factory for final approval.
+                      - 'link "View company: Expert Author Community" [ref=f91e194] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/company/expert-author-community/
+                        - strong [ref=f91e195]: Expert Author Community
+                      - link "View Kelly Irving’s profile" [ref=f91e197] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/kelly-irving/
+                        - strong [ref=f91e198]: Kelly Irving
+                      - link "View Scott A. MacMillan’s profile" [ref=f91e200] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/scottmacmillan/
+                        - strong [ref=f91e201]: Scott A. MacMillan
+                  - generic [ref=f91e202]:
+                    - generic [ref=f91e205]:
+                      - status [ref=f91e206]
+                      - list [ref=f91e207]:
+                        - listitem [ref=f91e208]:
+                          - button "Page 1 of 1" [ref=f91e209] [cursor=pointer]:
+                            - progressbar [ref=f91e213]
+                    - generic [ref=f91e216]:
+                      - paragraph [ref=f91e218]: Book cover
+                      - paragraph [ref=f91e220]: ·
+                      - paragraph [ref=f91e222]: 1 page
+                    - button "Full screen" [ref=f91e224] [cursor=pointer]
+                  - generic [ref=f91e227]:
+                    - link [ref=f91e228] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "Switch to different account" [ref=f91e229]:
+                        - figure [aria-hidden] [ref=f91e230]
+                    - generic [ref=f91e232]:
+                      - 'button "Reaction button state: Like" [ref=f91e235] [cursor=pointer]':
+                        - generic [ref=f91e236]: "39"
+                      - button "Open reactions menu"
+                    - button "Comment" [ref=f91e241] [cursor=pointer]:
+                      - generic [ref=f91e242]: "29"
+                    - button "Repost" [ref=f91e247] [cursor=pointer]
+                    - link [ref=f91e250] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "39 reactions" [ref=f91e251]
+                - generic [ref=f91e260]:
+                  - status [ref=f91e263]
+                  - generic [ref=f91e264]:
+                    - button "Show Emoji Picker" [ref=f91e265] [cursor=pointer]
+                    - button "Open GIF picker" [ref=f91e270] [cursor=pointer]
+                    - button "Share photo" [ref=f91e273] [cursor=pointer]
+              - generic [ref=f91e276]:
+                - link:
+                  - /url: https://www.linkedin.com/
+                - generic [ref=f91e277]:
+                  - link:
+                    - /url: https://www.linkedin.com/
+                  - generic [ref=f91e278]:
+                    - link:
+                      - /url: https://www.linkedin.com/
+                    - link [ref=f91e279] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/danielleduell/
+                      - generic "Danielle Duell reacted with Celebrate" [ref=f91e280]:
+                        - figure [aria-hidden] [ref=f91e281]
+                    - link [ref=f91e283] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/scottmacmillan/
+                      - generic "Scott A. MacMillan reacted with Celebrate" [ref=f91e284]:
+                        - figure [aria-hidden] [ref=f91e285]
+                    - link [ref=f91e287] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/ninawitenden/
+                      - generic "Nina Witenden reacted with Like" [ref=f91e288]:
+                        - figure [aria-hidden] [ref=f91e289]
+                    - link [ref=f91e291] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/ajustin-clarke/
+                      - generic "Justin Clarke (ICF PCC) reacted with Like" [ref=f91e292]:
+                        - figure [aria-hidden] [ref=f91e293]
+                    - link [ref=f91e295] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/taural/
+                      - generic "Taural Rhoden reacted with Celebrate" [ref=f91e296]:
+                        - figure [aria-hidden] [ref=f91e297]
+                    - link [ref=f91e299] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/hamishchadwick/
+                      - generic "Hamish Chadwick® reacted with Like" [ref=f91e300]:
+                        - figure [aria-hidden] [ref=f91e301]
+                    - link [ref=f91e303] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/sonja-cronj%C3%A9-professional-coach-healthcare/
+                      - generic "Sonja Cronjé reacted with Celebrate" [ref=f91e304]:
+                        - figure [aria-hidden] [ref=f91e305]
+                    - link [ref=f91e307] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/paul-watkins-92125499/
+                      - generic "Paul Watkins reacted with Celebrate" [ref=f91e308]:
+                        - figure [aria-hidden] [ref=f91e309]
+                    - link "View all reactions" [ref=f91e311] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+              - button [ref=f91e316] [cursor=pointer]:
+                - paragraph [ref=f91e320]: Most relevant
+              - generic [ref=f91e326]:
+                - link [ref=f91e328] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/sarah-cretegny-swiss/
+                  - figure [ref=f91e329]
+                - generic [ref=f91e330]:
+                  - generic [ref=f91e332]:
+                    - link "Sarah Cretegny ICF ACC Verified Profile 1st Transitions Coach - helping people navigate real life transitions without loosing themselves. Coach Your Wild is your creative oasis in the wildness of life. Your thinking partner for what matters most. Author. Mother." [ref=f91e333] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/sarah-cretegny-swiss/
+                      - generic [ref=f91e334]:
+                        - paragraph [ref=f91e338]:
+                          - generic [ref=f91e339]:
+                            - generic [ref=f91e340]: Sarah Cretegny ICF ACC Verified Profile 1st
+                            - generic [aria-hidden] [ref=f91e341]:
+                              - text: Sarah Cretegny ICF ACC
+                              - generic [ref=f91e344]: • 1st
+                        - paragraph [ref=f91e346]: Transitions Coach - helping people navigate real life transitions without loosing themselves. Coach Your Wild is your creative oasis in the wildness of life. Your thinking partner for what matters most. Author. Mother.
+                    - paragraph [ref=f91e348]: 5d
+                    - button "View more options for Sarah Cretegny ICF ACC’s comment." [ref=f91e349] [cursor=pointer]
+                  - paragraph [ref=f91e355]:
+                    - generic [ref=f91e356]:
+                      - text: There she is... cant wait to read this one...
+                      - link "View Karen Dunshea’s profile" [ref=f91e358] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/karendunshea/
+                        - strong [ref=f91e359]: Karen Dunshea
+                      - text: your book tour has a place to start here in Lausanne.. just let me know when you are coming!
+                  - generic [ref=f91e361]:
+                    - generic [ref=f91e362]:
+                      - generic [ref=f91e363]:
+                        - button "1 reaction" [ref=f91e366] [cursor=pointer]:
+                          - paragraph [ref=f91e370]:
+                            - generic [ref=f91e371]:
+                              - generic [ref=f91e372]: 1 reaction
+                              - text: "1"
+                        - button "Open reactions menu"
+                      - generic [ref=f91e373]:
+                        - button "Reply" [ref=f91e374] [cursor=pointer]
+                        - paragraph [ref=f91e378]:
+                          - generic [ref=f91e379]:
+                            - generic [ref=f91e380]: "1"
+                            - text: "1"
+                    - link [ref=f91e382] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "Reacted to by the author" [ref=f91e383]:
+                        - figure [aria-hidden] [ref=f91e384]
+              - generic [ref=f91e391]:
+                - link [ref=f91e393] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/karendunshea/
+                  - figure [ref=f91e394]
+                - generic [ref=f91e395]:
+                  - generic [ref=f91e397]:
+                    - link [ref=f91e398] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/karendunshea/
+                      - generic [ref=f91e399]:
+                        - generic [ref=f91e400]:
+                          - paragraph [ref=f91e403]: Karen Dunshea
+                          - paragraph [ref=f91e404]: Author
+                        - paragraph [ref=f91e406]: 🔑 Writer | Exploring ideas and practices for conversing with complexity | Author of ‘More-Than’
+                    - paragraph [ref=f91e408]: 5d
+                    - button "View more options for Karen Dunshea’s comment." [ref=f91e409] [cursor=pointer]
+                  - paragraph [ref=f91e415]:
+                    - generic [ref=f91e416]:
+                      - link "View Sarah Cretegny ICF ACC’s profile" [ref=f91e418] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/sarah-cretegny-swiss/
+                        - strong [ref=f91e419]: Sarah Cretegny ICF ACC
+                      - text: haha I would love to come back!!
+                  - generic [ref=f91e422]:
+                    - generic [ref=f91e423]:
+                      - button "0" [ref=f91e426] [cursor=pointer]:
+                        - generic [ref=f91e427]:
+                          - generic:
+                            - paragraph:
+                              - generic: "0"
+                      - button "Open reactions menu"
+                    - button "Reply" [ref=f91e431] [cursor=pointer]
+              - generic [ref=f91e438]:
+                - link [ref=f91e440] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/saoriordan/
+                  - figure [ref=f91e441]
+                - generic [ref=f91e442]:
+                  - generic [ref=f91e444]:
+                    - link "Siobhán O'Riordan Premium Profile 1st 🚀 Generalist Specialist 💪 Clifton Strengths-Obsessed Coach 📚 Author 🧭 Advisor 🌊 Support Leaders Navigating Change" [ref=f91e445] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/saoriordan/
+                      - generic [ref=f91e446]:
+                        - paragraph [ref=f91e450]:
+                          - generic [ref=f91e451]:
+                            - generic [ref=f91e452]: Siobhán O'Riordan Premium Profile 1st
+                            - generic [aria-hidden] [ref=f91e453]:
+                              - text: Siobhán O'Riordan
+                              - generic [ref=f91e456]: • 1st
+                        - paragraph [ref=f91e458]: 🚀 Generalist Specialist 💪 Clifton Strengths-Obsessed Coach 📚 Author 🧭 Advisor 🌊 Support Leaders Navigating Change
+                    - paragraph [ref=f91e460]: 5d
+                    - button "View more options for Siobhán O'Riordan’s comment." [ref=f91e461] [cursor=pointer]
+                  - paragraph [ref=f91e467]:
+                    - generic [ref=f91e468]: Congratulations!
+                  - generic [ref=f91e470]:
+                    - generic [ref=f91e471]:
+                      - generic [ref=f91e472]:
+                        - button "2 reactions" [ref=f91e475] [cursor=pointer]:
+                          - paragraph [ref=f91e479]:
+                            - generic [ref=f91e480]:
+                              - generic [ref=f91e481]: 2 reactions
+                              - text: "2"
+                        - button "Open reactions menu"
+                      - generic [ref=f91e482]:
+                        - button "Reply" [ref=f91e483] [cursor=pointer]
+                        - paragraph [ref=f91e487]:
+                          - generic [ref=f91e488]:
+                            - generic [ref=f91e489]: "1"
+                            - text: "1"
+                    - generic [ref=f91e490]:
+                      - link "View reactions" [ref=f91e491] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/
+                      - link [ref=f91e494] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/
+                        - generic "Reacted to by the author" [ref=f91e495]:
+                          - figure [aria-hidden] [ref=f91e496]
+              - generic [ref=f91e503]:
+                - link [ref=f91e505] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/karendunshea/
+                  - figure [ref=f91e506]
+                - generic [ref=f91e507]:
+                  - generic [ref=f91e509]:
+                    - link [ref=f91e510] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/karendunshea/
+                      - generic [ref=f91e511]:
+                        - generic [ref=f91e512]:
+                          - paragraph [ref=f91e515]: Karen Dunshea
+                          - paragraph [ref=f91e516]: Author
+                        - paragraph [ref=f91e518]: 🔑 Writer | Exploring ideas and practices for conversing with complexity | Author of ‘More-Than’
+                    - paragraph [ref=f91e520]: 5d
+                    - button "View more options for Karen Dunshea’s comment." [ref=f91e521] [cursor=pointer]
+                  - paragraph [ref=f91e527]:
+                    - generic [ref=f91e528]:
+                      - link "View Siobhán O'Riordan’s profile" [ref=f91e530] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/saoriordan/
+                        - strong [ref=f91e531]: Siobhán O'Riordan
+                      - text: thank you!
+                  - generic [ref=f91e534]:
+                    - generic [ref=f91e535]:
+                      - button "0" [ref=f91e538] [cursor=pointer]:
+                        - generic [ref=f91e539]:
+                          - generic:
+                            - paragraph:
+                              - generic: "0"
+                      - button "Open reactions menu"
+                    - button "Reply" [ref=f91e543] [cursor=pointer]
+              - generic [ref=f91e550]:
+                - link [ref=f91e552] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/michellescheibner/
+                  - figure [ref=f91e553]
+                - generic [ref=f91e554]:
+                  - generic [ref=f91e556]:
+                    - link "Michelle Scheibner Premium Profile 1st Strategic Identity Activator | Author of HUSH | Founder of UNBOUND | Discover the legacy life has prepared you to make | TEDx Speaker | 🌺" [ref=f91e557] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/michellescheibner/
+                      - generic [ref=f91e558]:
+                        - paragraph [ref=f91e562]:
+                          - generic [ref=f91e563]:
+                            - generic [ref=f91e564]: Michelle Scheibner Premium Profile 1st
+                            - generic [aria-hidden] [ref=f91e565]:
+                              - text: Michelle Scheibner
+                              - generic [ref=f91e568]: • 1st
+                        - paragraph [ref=f91e570]: Strategic Identity Activator | Author of HUSH | Founder of UNBOUND | Discover the legacy life has prepared you to make | TEDx Speaker | 🌺
+                    - paragraph [ref=f91e572]: 5d
+                    - button "View more options for Michelle Scheibner’s comment." [ref=f91e573] [cursor=pointer]
+                  - paragraph [ref=f91e579]:
+                    - generic [ref=f91e580]:
+                      - text: Well this is pretty exciting
+                      - link "View Karen Dunshea’s profile" [ref=f91e582] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/karendunshea/
+                        - strong [ref=f91e583]: Karen Dunshea
+                      - text: "🎈You must be feeling a sense of relief and anticipation right now. Love the cover ..:"
+                  - generic [ref=f91e585]:
+                    - generic [ref=f91e586]:
+                      - generic [ref=f91e587]:
+                        - button "1 reaction" [ref=f91e590] [cursor=pointer]:
+                          - paragraph [ref=f91e594]:
+                            - generic [ref=f91e595]:
+                              - generic [ref=f91e596]: 1 reaction
+                              - text: "1"
+                        - button "Open reactions menu"
+                      - generic [ref=f91e597]:
+                        - button "Reply" [ref=f91e598] [cursor=pointer]
+                        - paragraph [ref=f91e602]:
+                          - generic [ref=f91e603]:
+                            - generic [ref=f91e604]: "1"
+                            - text: "1"
+                    - link [ref=f91e606] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "Reacted to by the author" [ref=f91e607]:
+                        - figure [aria-hidden] [ref=f91e608]
+              - generic [ref=f91e615]:
+                - link [ref=f91e617] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/karendunshea/
+                  - figure [ref=f91e618]
+                - generic [ref=f91e619]:
+                  - generic [ref=f91e621]:
+                    - link [ref=f91e622] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/karendunshea/
+                      - generic [ref=f91e623]:
+                        - generic [ref=f91e624]:
+                          - paragraph [ref=f91e627]: Karen Dunshea
+                          - paragraph [ref=f91e628]: Author
+                        - paragraph [ref=f91e630]: 🔑 Writer | Exploring ideas and practices for conversing with complexity | Author of ‘More-Than’
+                    - paragraph [ref=f91e632]: 5d
+                    - button "View more options for Karen Dunshea’s comment." [ref=f91e633] [cursor=pointer]
+                  - paragraph [ref=f91e639]:
+                    - generic [ref=f91e640]:
+                      - link "View Michelle Scheibner’s profile" [ref=f91e642] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/michellescheibner/
+                        - strong [ref=f91e643]: Michelle Scheibner
+                      - text: thank you. ♥️
+                  - generic [ref=f91e646]:
+                    - generic [ref=f91e647]:
+                      - button "0" [ref=f91e650] [cursor=pointer]:
+                        - generic [ref=f91e651]:
+                          - generic:
+                            - paragraph:
+                              - generic: "0"
+                      - button "Open reactions menu"
+                    - button "Reply" [ref=f91e655] [cursor=pointer]
+              - generic [ref=f91e662]:
+                - link [ref=f91e664] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/dr-samantha-rush-decisionexpert/
+                  - figure [ref=f91e665]
+                - generic [ref=f91e666]:
+                  - generic [ref=f91e668]:
+                    - link "Dr Samantha Rush Premium Profile 1st Cognitive decision-making expert | Speaker | Executive teams & boards | Advisory" [ref=f91e669] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/dr-samantha-rush-decisionexpert/
+                      - generic [ref=f91e670]:
+                        - paragraph [ref=f91e674]:
+                          - generic [ref=f91e675]:
+                            - generic [ref=f91e676]: Dr Samantha Rush Premium Profile 1st
+                            - generic [aria-hidden] [ref=f91e677]:
+                              - text: Dr Samantha Rush
+                              - generic [ref=f91e680]: • 1st
+                        - paragraph [ref=f91e682]: Cognitive decision-making expert | Speaker | Executive teams & boards | Advisory
+                    - paragraph [ref=f91e684]: 6d
+                    - button "View more options for Dr Samantha Rush’s comment." [ref=f91e685] [cursor=pointer]
+                  - paragraph [ref=f91e691]:
+                    - generic [ref=f91e692]:
+                      - text: Congratulations
+                      - link "View Karen Dunshea’s profile" [ref=f91e694] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/karendunshea/
+                        - strong [ref=f91e695]: Karen Dunshea
+                      - text: "!"
+                  - generic [ref=f91e697]:
+                    - generic [ref=f91e698]:
+                      - generic [ref=f91e699]:
+                        - button "1 reaction" [ref=f91e702] [cursor=pointer]:
+                          - paragraph [ref=f91e706]:
+                            - generic [ref=f91e707]:
+                              - generic [ref=f91e708]: 1 reaction
+                              - text: "1"
+                        - button "Open reactions menu"
+                      - generic [ref=f91e709]:
+                        - button "Reply" [ref=f91e710] [cursor=pointer]
+                        - paragraph [ref=f91e714]:
+                          - generic [ref=f91e715]:
+                            - generic [ref=f91e716]: "1"
+                            - text: "1"
+                    - link [ref=f91e718] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "Reacted to by the author" [ref=f91e719]:
+                        - figure [aria-hidden] [ref=f91e720]
+              - generic [ref=f91e727]:
+                - link [ref=f91e729] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/karendunshea/
+                  - figure [ref=f91e730]
+                - generic [ref=f91e731]:
+                  - generic [ref=f91e733]:
+                    - link [ref=f91e734] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/karendunshea/
+                      - generic [ref=f91e735]:
+                        - generic [ref=f91e736]:
+                          - paragraph [ref=f91e739]: Karen Dunshea
+                          - paragraph [ref=f91e740]: Author
+                        - paragraph [ref=f91e742]: 🔑 Writer | Exploring ideas and practices for conversing with complexity | Author of ‘More-Than’
+                    - paragraph [ref=f91e744]: 5d
+                    - button "View more options for Karen Dunshea’s comment." [ref=f91e745] [cursor=pointer]
+                  - paragraph [ref=f91e751]:
+                    - generic [ref=f91e752]:
+                      - link "View Dr Samantha Rush’s profile" [ref=f91e754] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/dr-samantha-rush-decisionexpert/
+                        - strong [ref=f91e755]: Dr Samantha Rush
+                      - text: thank you. Hope you’re doing well?!
+                  - generic [ref=f91e758]:
+                    - generic [ref=f91e759]:
+                      - button "0" [ref=f91e762] [cursor=pointer]:
+                        - generic [ref=f91e763]:
+                          - generic:
+                            - paragraph:
+                              - generic: "0"
+                      - button "Open reactions menu"
+                    - button "Reply" [ref=f91e767] [cursor=pointer]
+          - complementary "Aside" [ref=f91e897]:
+            - generic [ref=f91e903]:
+              - generic [ref=f91e904]:
+                - link [ref=f91e905] [cursor=pointer]:
+                  - /url: https://about.linkedin.com/
+                  - paragraph [ref=f91e906]: About
+                - link [ref=f91e907] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/accessibility/
+                  - paragraph [ref=f91e908]: Accessibility
+                - link [ref=f91e909] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin/
+                  - paragraph [ref=f91e910]: Help Center
+                - button [ref=f91e911] [cursor=pointer]:
+                  - paragraph [ref=f91e913]: Privacy & Terms
+                - link [ref=f91e915] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin/answer/62931/
+                  - paragraph [ref=f91e916]: Ad Choices
+                - link [ref=f91e917] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/ad/start/?trk=n_nav_ads_rr
+                  - paragraph [ref=f91e918]: Advertising
+                - button [ref=f91e919] [cursor=pointer]:
+                  - paragraph [ref=f91e921]: Business Services
+                - link [ref=f91e923] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/mobile/
+                  - paragraph [ref=f91e924]: Get the LinkedIn app
+                - link [ref=f91e925] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/
+                  - paragraph [ref=f91e926]: More
+              - paragraph [ref=f91e929]: LinkedIn Corporation © 2026

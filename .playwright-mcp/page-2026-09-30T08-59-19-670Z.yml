@@ -1,0 +1,263 @@
+- generic [ref=f47e2]:
+  - heading "0 notifications" [level=2] [ref=f47e3]
+  - generic [ref=f47e4]:
+    - generic:
+      - generic "Skip navigation menu":
+        - button "Close jump menu" [ref=f47e6] [cursor=pointer]
+    - generic [ref=f47e9]:
+      - banner [ref=f47e11]:
+        - generic [ref=f47e14]:
+          - button [ref=f47e15] [cursor=pointer]
+          - generic [ref=f47e17]:
+            - status [ref=f47e18]
+            - search [ref=f47e19]:
+              - textbox "I'm looking for…" [ref=f47e23]
+          - generic [ref=f47e25]:
+            - navigation [ref=f47e29]:
+              - list [ref=f47e30]:
+                - listitem [ref=f47e31]:
+                  - button "Home, 1 new notification" [ref=f47e32] [cursor=pointer]:
+                    - generic [ref=f47e36]: Home
+                - listitem [ref=f47e38]:
+                  - link "My Network, 41 new notifications" [ref=f47e39] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork
+                    - generic [ref=f47e40]: "41"
+                    - generic [ref=f47e44]: My Network
+                - listitem [ref=f47e46]:
+                  - link "Jobs, 0 new notifications" [ref=f47e47] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/
+                    - generic [ref=f47e51]: Jobs
+                - listitem [ref=f47e53]:
+                  - link "Messaging, 0 new notifications" [ref=f47e54] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/messaging/
+                    - generic [ref=f47e58]: Messaging
+                - listitem [ref=f47e60]:
+                  - link "Notifications, 19 new notifications" [ref=f47e61] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/notifications/
+                    - generic [ref=f47e62]: "19"
+                    - generic [ref=f47e66]: Notifications
+                - listitem [ref=f47e68]:
+                  - button "Me" [ref=f47e69] [cursor=pointer]:
+                    - figure [aria-hidden] [ref=f47e71]
+            - navigation [ref=f47e77]:
+              - list [ref=f47e78]:
+                - listitem [ref=f47e79]:
+                  - button "For Business" [ref=f47e80] [cursor=pointer]
+                - listitem [ref=f47e87]:
+                  - link "Advertise, 3 new notifications" [ref=f47e88] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/campaignmanager/accounts/
+                    - generic [ref=f47e89]: "3"
+                    - generic [ref=f47e92]: Advertise
+      - main [ref=f47e96]:
+        - generic [ref=f47e98]:
+          - complementary "Sidebar" [ref=f47e99]:
+            - generic [ref=f47e102]:
+              - generic [ref=f47e106]:
+                - link [ref=f47e107] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/kelly-irving/
+                  - generic [ref=f47e108]:
+                    - generic [ref=f47e109]:
+                      - figure [aria-hidden] [ref=f47e110]
+                      - paragraph [ref=f47e112]: Premium
+                    - figure [ref=f47e115]
+                - generic [ref=f47e116]:
+                  - link [ref=f47e117] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic "Kelly Irving, Book coach and editor for changemakers and trailblazers / Publishing gymnast, Anglesea, Victoria, Premium profile" [ref=f47e118]:
+                      - paragraph [ref=f47e121]: Kelly Irving
+                      - paragraph [ref=f47e124]: Book coach and editor for changemakers and trailblazers / Publishing gymnast
+                      - paragraph [ref=f47e125]: Anglesea, Victoria
+                  - link [ref=f47e126] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic [ref=f47e127]:
+                      - figure [aria-hidden] [ref=f47e128]
+                      - paragraph [ref=f47e129]: Expert Author Community
+              - generic [ref=f47e131]:
+                - menu [ref=f47e132]:
+                  - link [ref=f47e134] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/me/profile-views/
+                    - generic "Profile viewers 279" [ref=f47e135]:
+                      - paragraph [ref=f47e137]: Profile viewers
+                      - paragraph [ref=f47e138]: "279"
+                  - link [ref=f47e140] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/analytics/creator/content/
+                    - generic "Post impressions 1,519" [ref=f47e141]:
+                      - paragraph [ref=f47e143]: Post impressions
+                      - paragraph [ref=f47e144]: 1,519
+                - menu [ref=f47e145]:
+                  - link [ref=f47e147] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/premium/my-premium/
+                    - paragraph [ref=f47e150]: Your Premium features
+          - region "Primary content" [ref=f47e151]:
+            - generic [ref=f47e157]:
+              - listitem [ref=f47e161]:
+                - generic [ref=f47e163]:
+                  - heading "Feed post" [level=2]
+                  - generic [ref=f47e165]:
+                    - link [ref=f47e166] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/salli-cohen/
+                      - figure [ref=f47e167]
+                    - generic [ref=f47e169]:
+                      - link [ref=f47e172] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/salli-cohen/
+                        - generic "Salli Cohen Verified Profile 1st" [ref=f47e174]:
+                          - paragraph [ref=f47e177]: Salli Cohen
+                          - paragraph [ref=f47e179]:
+                            - generic [ref=f47e180]: • 1st
+                      - paragraph [ref=f47e184]: Doing work I care about, with people I value, to create change that matters
+                      - paragraph [ref=f47e186]: 6h
+                      - link "Salli Cohen Verified Profile 1st":
+                        - /url: https://www.linkedin.com/in/salli-cohen/
+                    - button "Open control menu for post by Salli Cohen" [ref=f47e187] [cursor=pointer]
+                  - paragraph [ref=f47e190]:
+                    - generic [ref=f47e191]:
+                      - text: The wonderful
+                      - 'link "View company: Expert Author Community" [ref=f47e193] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/company/expert-author-community/
+                        - strong [ref=f47e194]: Expert Author Community
+                      - text: where real people, with extraordinary stories about the crazy world of humans, write real books. Wholesome goodness right there 🌼🌼 🌼
+                  - generic [ref=f47e195]:
+                    - generic [ref=f47e196]:
+                      - link [ref=f47e197] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/
+                        - generic "Posted with 2 other collaborators" [ref=f47e198]:
+                          - figure [aria-hidden] [ref=f47e199]
+                          - figure [aria-hidden] [ref=f47e200]
+                      - generic [ref=f47e202]:
+                        - link [ref=f47e205] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/kelly-irving/
+                          - generic "Kelly Irving Premium Profile You" [ref=f47e207]:
+                            - paragraph [ref=f47e210]: Kelly Irving
+                            - paragraph [ref=f47e212]:
+                              - generic [ref=f47e213]: • You
+                        - link [ref=f47e219] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fexpertauthor%2Ecommunity&urlhash=khjW&mt=tky16m89wwEoanpDyqKLrOiRMYpwlfQYuBAveOHBmxEmntEo6YzbgWho6xXA1ctV0fHOBRHSHTF5Ac_Z40KjM8lBzBy_t1kGwhcWfTY&isSdui=true
+                          - paragraph [ref=f47e220]: Visit my website
+                        - paragraph [ref=f47e224]:
+                          - generic [ref=f47e225]:
+                            - text: with
+                            - link "View all collaborators" [ref=f47e226] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/
+                              - strong [ref=f47e227]: 2 others
+                            - text: • 1d • Edited
+                        - link "Kelly Irving Premium Profile You":
+                          - /url: https://www.linkedin.com/in/kelly-irving/
+                    - link:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:share:7510582431058518016/
+                    - paragraph [ref=f47e228]:
+                      - link [ref=f47e229] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/feed/update/urn:li:share:7510582431058518016/
+                        - generic [ref=f47e230]: "Everyone’s talking about how fast we can now write.I keep thinking about how slowly trust is built.Two recent coaching conversations, in particular, keep niggling at me.In one, an author sent me a 100+ page book outline. There was no shortage of ideas, but it was missing a simple, clear decision about what the book was really about.In the other, the author was in a pickle. The writing was strong, but he’d been using AI to sense-check it, and every answer pulled him somewhere new.What he needed wasn’t more feedback.It was judgment he could trust.It’s so freaking easy to produce words.The hard part is building trust - with your readers and in yourself.Trust doesn’t come from polish or volume.It comes from discernment:- Choosing the idea worth developing- Shaping the work around a real reader- Knowing where tools can help—and where your judgment must leadNone of that can be, or should be, rushed.A book can make you visible.But a meaningful book can make you trusted.That kind of work rarely gets stronger in isolation.It needs structure, honest feedback and other people doing the work alongside you.So I’m curious: what makes you trust an expert’s writing?It’s the question at the heart of the"
+                      - 'link "View company: Expert Author Community" [ref=f47e232] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/company/expert-author-community/
+                        - strong [ref=f47e233]: Expert Author Community
+                      - text: Open House I’m preparing for 29 October.I’d love you to join us for this 90-minute conversation.RSVP
+                      - link "Open https://lnkd.in/eSaXc2SK" [ref=f47e236] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2FeSaXc2SK&urlhash=sFNS&mt=-aycXNCrAUOxNmKVmjdkpCB3ALCAbV__mZ93yujC4OZzbkFV_KMJ7XUnQCX9Q9gWaOrgAWpFMMQ8Yd515TKTYxZMDqJjAschUx5vff-TxpAIljL9P9bx&isSdui=true
+                        - strong [ref=f47e237]: https://lnkd.in/eSaXc2SK
+                      - text: Come and meet
+                      - link "View Michelle Scheibner’s profile" [ref=f47e239] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/michellescheibner/
+                        - strong [ref=f47e240]: Michelle Scheibner
+                      - link "View Graeme Cowan’s profile" [ref=f47e242] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/graemecowan1/
+                        - strong [ref=f47e243]: Graeme Cowan
+                      - link "View Emma Lagerlow’s profile" [ref=f47e245] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/emma-lagerlow-4a2849/
+                        - strong [ref=f47e246]: Emma Lagerlow
+                      - link "View Sophie Bretag’s profile" [ref=f47e248] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/sophiebretag/
+                        - strong [ref=f47e249]: Sophie Bretag
+                      - link "View Andrew Sloan’s profile" [ref=f47e251] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/andrewwilliamsloan/
+                        - strong [ref=f47e252]: Andrew Sloan
+                      - link "View Paul Watkins’ profile" [ref=f47e254] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/paul-watkins-92125499/
+                        - strong [ref=f47e255]: Paul Watkins
+                      - link "View Jennifer Mulveny’s profile" [ref=f47e257] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/jennifer-mulveny-06313086/
+                        - strong [ref=f47e258]: Jennifer Mulveny
+                      - link "View Tee-Jay 💎 Ramnarain-Little’s profile" [ref=f47e260] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/teejayramnarainlittle/
+                        - strong [ref=f47e261]: Tee-Jay 💎 Ramnarain-Little
+                      - link "View Laurice Temple’s profile" [ref=f47e263] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/lauricetemple/
+                        - strong [ref=f47e264]: Laurice Temple
+                      - text: and many moreKx
+                    - link [ref=f47e266] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - figure [ref=f47e267]:
+                        - img "View image" [ref=f47e268]
+                  - generic [ref=f47e269]:
+                    - link [ref=f47e270] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "Switch to different account" [ref=f47e271]:
+                        - figure [aria-hidden] [ref=f47e272]
+                    - generic [ref=f47e274]:
+                      - 'button "Reaction button state: no reaction" [ref=f47e277] [cursor=pointer]':
+                        - generic [ref=f47e278]: "4"
+                      - button "Open reactions menu"
+                    - button "Comment" [ref=f47e283] [cursor=pointer]
+                    - button "Repost" [ref=f47e286] [cursor=pointer]
+                    - link [ref=f47e289] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "4 reactions" [ref=f47e290]
+                - generic [ref=f47e297]:
+                  - status [ref=f47e300]
+                  - generic [ref=f47e301]:
+                    - button "Show Emoji Picker" [ref=f47e302] [cursor=pointer]
+                    - button "Open GIF picker" [ref=f47e307] [cursor=pointer]
+                    - button "Share photo" [ref=f47e310] [cursor=pointer]
+              - link:
+                - /url: https://www.linkedin.com/
+              - generic [ref=f47e313]:
+                - link:
+                  - /url: https://www.linkedin.com/
+                - generic [ref=f47e314]:
+                  - link:
+                    - /url: https://www.linkedin.com/
+                  - link [ref=f47e315] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/samantha-abbato-822064a/
+                    - generic "Samantha Abbato reacted with Like" [ref=f47e316]:
+                      - figure [aria-hidden] [ref=f47e317]
+                  - link [ref=f47e319] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/dee-aria-gorra-847b5716/
+                    - generic "Dee Aria Gorra reacted with Like" [ref=f47e320]:
+                      - figure [aria-hidden] [ref=f47e321]
+                  - link [ref=f47e323] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/maria-nolan-b3a5706/
+                    - generic "Maria Nolan reacted with Like" [ref=f47e324]:
+                      - figure [aria-hidden] [ref=f47e325]
+                  - link [ref=f47e327] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/yolandakannyai/
+                    - generic "Yolanda K. reacted with Like" [ref=f47e328]:
+                      - figure [aria-hidden] [ref=f47e329]
+          - complementary "Aside" [ref=f47e410]:
+            - generic [ref=f47e416]:
+              - generic [ref=f47e417]:
+                - link [ref=f47e418] [cursor=pointer]:
+                  - /url: https://about.linkedin.com/
+                  - paragraph [ref=f47e419]: About
+                - link [ref=f47e420] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/accessibility/
+                  - paragraph [ref=f47e421]: Accessibility
+                - link [ref=f47e422] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin/
+                  - paragraph [ref=f47e423]: Help Center
+                - button [ref=f47e424] [cursor=pointer]:
+                  - paragraph [ref=f47e426]: Privacy & Terms
+                - link [ref=f47e428] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin/answer/62931/
+                  - paragraph [ref=f47e429]: Ad Choices
+                - link [ref=f47e430] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/ad/start/?trk=n_nav_ads_rr
+                  - paragraph [ref=f47e431]: Advertising
+                - button [ref=f47e432] [cursor=pointer]:
+                  - paragraph [ref=f47e434]: Business Services
+                - link [ref=f47e436] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/mobile/
+                  - paragraph [ref=f47e437]: Get the LinkedIn app
+                - link [ref=f47e438] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/
+                  - paragraph [ref=f47e439]: More
+              - paragraph [ref=f47e442]: LinkedIn Corporation © 2026

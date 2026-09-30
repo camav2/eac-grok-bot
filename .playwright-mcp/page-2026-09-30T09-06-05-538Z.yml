@@ -1,0 +1,55 @@
+- generic [ref=f145e2]:
+  - heading "0 notifications" [level=2] [ref=f145e3]
+  - generic [ref=f145e4]:
+    - generic:
+      - generic "Skip navigation menu":
+        - button "Close jump menu" [ref=f145e6] [cursor=pointer]
+    - generic [ref=f145e9]:
+      - banner [ref=f145e11]:
+        - generic [ref=f145e14]:
+          - button [ref=f145e15] [cursor=pointer]
+          - generic [ref=f145e17]:
+            - status [ref=f145e18]
+            - search [ref=f145e19]:
+              - textbox "I'm looking for…" [ref=f145e23]
+          - generic [ref=f145e25]:
+            - navigation [ref=f145e29]:
+              - list [ref=f145e30]:
+                - listitem [ref=f145e31]:
+                  - button "Home, 1 new notification" [ref=f145e32] [cursor=pointer]:
+                    - generic [ref=f145e36]: Home
+                - listitem [ref=f145e38]:
+                  - link "My Network, 41 new notifications" [ref=f145e39] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork
+                    - generic [ref=f145e40]: "41"
+                    - generic [ref=f145e44]: My Network
+                - listitem [ref=f145e46]:
+                  - link "Jobs, 0 new notifications" [ref=f145e47] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/
+                    - generic [ref=f145e51]: Jobs
+                - listitem [ref=f145e53]:
+                  - link "Messaging, 0 new notifications" [ref=f145e54] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/messaging/
+                    - generic [ref=f145e58]: Messaging
+                - listitem [ref=f145e60]:
+                  - link "Notifications, 19 new notifications" [ref=f145e61] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/notifications/
+                    - generic [ref=f145e62]: "19"
+                    - generic [ref=f145e66]: Notifications
+                - listitem [ref=f145e68]:
+                  - button "Me" [ref=f145e69] [cursor=pointer]:
+                    - figure [aria-hidden] [ref=f145e71]
+            - navigation [ref=f145e77]:
+              - list [ref=f145e78]:
+                - listitem [ref=f145e79]:
+                  - button "For Business" [ref=f145e80] [cursor=pointer]
+                - listitem [ref=f145e87]:
+                  - link "Advertise, 3 new notifications" [ref=f145e88] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/campaignmanager/accounts/
+                    - generic [ref=f145e89]: "3"
+                    - generic [ref=f145e92]: Advertise
+      - generic [ref=f145e95]:
+        - heading "This page doesn’t exist" [level=2] [ref=f145e97]
+        - paragraph [ref=f145e98]: Please check your URL or return to LinkedIn home.
+        - link "Go to your feed" [ref=f145e99] [cursor=pointer]:
+          - /url: https://www.linkedin.com/feed/

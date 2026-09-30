@@ -1,0 +1,702 @@
+- generic:
+  - generic:
+    - generic:
+      - heading "0 notifications" [level=2]
+    - generic:
+      - generic:
+        - generic "Skip navigation menu":
+          - generic:
+            - button "Skip to search"
+            - button "Skip to main content"
+            - button "Skip to sidebar"
+            - button "Skip to primary content"
+            - button "Skip to aside"
+            - generic:
+              - button "Close jump menu"
+      - generic:
+        - generic:
+          - banner:
+            - generic:
+              - generic:
+                - generic:
+                  - button "LinkedIn":
+                    - img "LinkedIn"
+                  - generic:
+                    - status
+                    - search:
+                      - generic:
+                        - textbox "I'm looking for…"
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - figure [aria-hidden]
+                      - generic:
+                        - generic:
+                          - generic:
+                            - navigation:
+                              - list:
+                                - listitem:
+                                  - button "Home, 1 new notification":
+                                    - generic: Home
+                                - listitem:
+                                  - link "My Network, 41 new notifications":
+                                    - /url: https://www.linkedin.com/mynetwork
+                                    - generic: "41"
+                                    - generic: My Network
+                                - listitem:
+                                  - link "Jobs, 0 new notifications":
+                                    - /url: https://www.linkedin.com/jobs/
+                                    - generic: Jobs
+                                - listitem:
+                                  - link "Messaging, 0 new notifications":
+                                    - /url: https://www.linkedin.com/messaging/
+                                    - generic: Messaging
+                                - listitem:
+                                  - link "Notifications, 19 new notifications":
+                                    - /url: https://www.linkedin.com/notifications/
+                                    - generic: "19"
+                                    - generic: Notifications
+                                - listitem:
+                                  - button "Me":
+                                    - generic:
+                                      - figure [aria-hidden]
+                      - generic:
+                        - generic:
+                          - navigation:
+                            - list:
+                              - listitem:
+                                - button "For Business"
+                              - listitem:
+                                - link "Advertise, 3 new notifications":
+                                  - /url: https://www.linkedin.com/campaignmanager/accounts/
+                                  - generic: "3"
+                                  - generic: Advertise
+        - generic:
+          - generic:
+            - main:
+              - generic:
+                - generic:
+                  - complementary "Sidebar":
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - link "Premium":
+                                    - /url: https://www.linkedin.com/in/kelly-irving/
+                                    - generic:
+                                      - generic:
+                                        - figure [aria-hidden]
+                                        - generic:
+                                          - paragraph: Premium
+                                      - generic:
+                                        - figure:
+                                          - img "Kelly Irving"
+                                  - generic:
+                                    - link "Kelly Irving, Book coach and editor for changemakers and trailblazers / Publishing gymnast, Anglesea, Victoria, Premium profile":
+                                      - /url: https://www.linkedin.com/in/kelly-irving/
+                                      - generic "Kelly Irving, Book coach and editor for changemakers and trailblazers / Publishing gymnast, Anglesea, Victoria, Premium profile":
+                                        - generic:
+                                          - generic:
+                                            - paragraph: Kelly Irving
+                                          - img "Premium profile"
+                                        - generic:
+                                          - paragraph: Book coach and editor for changemakers and trailblazers / Publishing gymnast
+                                        - paragraph: Anglesea, Victoria
+                                    - link "Expert Author Community":
+                                      - /url: https://www.linkedin.com/in/kelly-irving/
+                                      - generic:
+                                        - figure [aria-hidden]
+                                        - paragraph: Expert Author Community
+                          - generic:
+                            - generic:
+                              - menu:
+                                - generic:
+                                  - link "Profile viewers 279":
+                                    - /url: https://www.linkedin.com/me/profile-views/
+                                    - generic "Profile viewers 279":
+                                      - generic:
+                                        - paragraph: Profile viewers
+                                      - paragraph: "279"
+                                - generic:
+                                  - link "Post impressions 1,524":
+                                    - /url: https://www.linkedin.com/analytics/creator/content/
+                                    - generic "Post impressions 1,524":
+                                      - generic:
+                                        - paragraph: Post impressions
+                                      - paragraph: 1,524
+                              - menu:
+                                - generic:
+                                  - link "Your Premium features":
+                                    - /url: https://www.linkedin.com/premium/my-premium/
+                                    - generic:
+                                      - paragraph: Your Premium features
+                  - region "Primary content":
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - listitem:
+                                        - generic:
+                                          - generic:
+                                            - heading "Feed post" [level=2]
+                                            - generic:
+                                              - link:
+                                                - /url: https://www.linkedin.com/in/benitabensch/
+                                                - figure:
+                                                  - img "View Benita Bensch’s profile"
+                                              - generic:
+                                                - generic:
+                                                  - generic:
+                                                    - generic:
+                                                      - link "Benita Bensch Premium Profile 1st":
+                                                        - /url: https://www.linkedin.com/in/benitabensch/
+                                                        - generic:
+                                                          - generic "Benita Bensch Premium Profile 1st":
+                                                            - generic:
+                                                              - generic:
+                                                                - paragraph: Benita Bensch
+                                                            - generic:
+                                                              - paragraph:
+                                                                - generic: • 1st
+                                                  - generic:
+                                                    - paragraph: Author of Seen Again | Speaker & Facilitator | Identity, Matrescence & Changing Roles | Farming-Family Planning & Alignment
+                                                  - generic:
+                                                    - paragraph: 3mo
+                                                  - link "Benita Bensch Premium Profile 1st":
+                                                    - /url: https://www.linkedin.com/in/benitabensch/
+                                              - button "Open control menu for post by Benita Bensch"
+                                            - paragraph:
+                                              - generic:
+                                                - text: "I love that what starts as an idea ends in community.Bringing a book into the world is a long creative journey that requires focus, persistence and huge amounts of input.It’s not only about the end product and its effect on others, but the person you become in the process of creating it and those you gather on the journey. I've loved it.The seed for my new book Seen Again: Light on Matrescence started in my Illuminate coaching program for mothers, was nurtured by the"
+                                                - generic:
+                                                  - link "View Kelly Irving’s profile":
+                                                    - /url: https://www.linkedin.com/in/kelly-irving/
+                                                    - strong: Kelly Irving
+                                                - text: and the
+                                                - generic:
+                                                  - 'link "View company: Expert Author Community"':
+                                                    - /url: https://www.linkedin.com/company/expert-author-community/
+                                                    - strong: Expert Author Community
+                                                - text: ", germinated within the community of contributors and experts Dr Sophie Brock and"
+                                                - generic:
+                                                  - link "View Kelsey Perrykkad’s profile":
+                                                    - /url: https://www.linkedin.com/in/kelseyperrykkad/
+                                                    - strong: Kelsey Perrykkad
+                                                - text: ", and bloomed with"
+                                                - generic:
+                                                  - link "View Natasha Gilmour’s profile":
+                                                    - /url: https://www.linkedin.com/in/thekindpress/
+                                                    - strong: Natasha Gilmour
+                                                - text: and The Kind Press.I thanked a long list of people on Instagram this morning who've supported me. I'm truly grateful for everyone who has got behind me, pre-ordered Seen Again and helped me spread the word!I'm excited to see it make its way into the world through partnering with
+                                                - generic:
+                                                  - 'link "View company: Motherland"':
+                                                    - /url: https://www.linkedin.com/company/motherland-australia/
+                                                    - strong: Motherland
+                                                - text: "and everyone who purchases a copy.I'm delighted to say that today is publication day... Seen Again is OUT NOW in all good bookstores. It's a modern companion through matrescence for every mother who has asked: Who am I now?"
+                                            - generic:
+                                              - link:
+                                                - /url: https://www.linkedin.com/posts/benitabensch_i-love-that-what-starts-as-an-idea-ends-in-share-7477546426974216192-KhgV/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                                                - figure:
+                                                  - img "View image"
+                                            - generic:
+                                              - link "Switch to different account":
+                                                - /url: https://www.linkedin.com/posts/benitabensch_i-love-that-what-starts-as-an-idea-ends-in-share-7477546426974216192-KhgV/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                                                - generic "Switch to different account":
+                                                  - figure [aria-hidden]
+                                              - generic:
+                                                - 'button "Reaction button state: Like" [active] [ref=f213e1015] [cursor=pointer]':
+                                                  - generic [ref=f213e239]: "13"
+                                                - button "Open reactions menu" [expanded]
+                                              - button "Comment":
+                                                - generic: "3"
+                                              - button "Repost"
+                                              - link "Send":
+                                                - /url: https://www.linkedin.com/posts/benitabensch_i-love-that-what-starts-as-an-idea-ends-in-share-7477546426974216192-KhgV/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                                              - link:
+                                                - /url: https://www.linkedin.com/posts/benitabensch_i-love-that-what-starts-as-an-idea-ends-in-share-7477546426974216192-KhgV/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                                                - generic "13 reactions"
+                                        - generic:
+                                          - generic:
+                                            - generic:
+                                              - generic:
+                                                - generic:
+                                                  - generic:
+                                                    - generic:
+                                                      - generic:
+                                                        - status
+                                                        - generic:
+                                                          - generic:
+                                                            - textbox "Text editor for creating comment":
+                                                              - paragraph: Add a comment...
+                                                    - generic:
+                                                      - button "Show Emoji Picker"
+                                                      - generic:
+                                                        - generic:
+                                                          - button "Open GIF picker"
+                                                      - button "Share photo"
+                                - link "Kelly Irving reacted with Like Sarah Gray GAICD reacted with Like Sophie Bretag reacted with Celebrate Penelope Barr reacted with Celebrate Steph Schmidt reacted with Love Nina Witenden reacted with Like Bev Ryan reacted with Love Siobhán O'Riordan reacted with Like View all reactions":
+                                  - /url: https://www.linkedin.com/posts/benitabensch_i-love-that-what-starts-as-an-idea-ends-in-share-7477546426974216192-KhgV/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                                  - generic:
+                                    - generic:
+                                      - link "Kelly Irving reacted with Like":
+                                        - /url: https://www.linkedin.com/in/kelly-irving/
+                                        - generic "Kelly Irving reacted with Like":
+                                          - figure [aria-hidden]
+                                      - link "Sarah Gray GAICD reacted with Like":
+                                        - /url: https://www.linkedin.com/in/sarah-gray-gaicd/
+                                        - generic "Sarah Gray GAICD reacted with Like":
+                                          - figure [aria-hidden]
+                                      - link "Sophie Bretag reacted with Celebrate":
+                                        - /url: https://www.linkedin.com/in/sophiebretag/
+                                        - generic "Sophie Bretag reacted with Celebrate":
+                                          - figure [aria-hidden]
+                                      - link "Penelope Barr reacted with Celebrate":
+                                        - /url: https://www.linkedin.com/in/penelopebarr/
+                                        - generic "Penelope Barr reacted with Celebrate":
+                                          - figure [aria-hidden]
+                                      - link "Steph Schmidt reacted with Love":
+                                        - /url: https://www.linkedin.com/in/stephschmidtfarmlifepsych/
+                                        - generic "Steph Schmidt reacted with Love":
+                                          - figure [aria-hidden]
+                                      - link "Nina Witenden reacted with Like":
+                                        - /url: https://www.linkedin.com/in/ninawitenden/
+                                        - generic "Nina Witenden reacted with Like":
+                                          - figure [aria-hidden]
+                                      - link "Bev Ryan reacted with Love":
+                                        - /url: https://www.linkedin.com/in/bevryan/
+                                        - generic "Bev Ryan reacted with Love":
+                                          - figure [aria-hidden]
+                                      - link "Siobhán O'Riordan reacted with Like":
+                                        - /url: https://www.linkedin.com/in/saoriordan/
+                                        - generic "Siobhán O'Riordan reacted with Like":
+                                          - figure [aria-hidden]
+                                      - link "View all reactions":
+                                        - /url: https://www.linkedin.com/posts/benitabensch_i-love-that-what-starts-as-an-idea-ends-in-share-7477546426974216192-KhgV/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                                - button "Most relevant":
+                                  - generic:
+                                    - generic:
+                                      - generic:
+                                        - paragraph: Most relevant
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - link:
+                                              - /url: https://www.linkedin.com/in/kelly-irving/
+                                              - figure:
+                                                - img "View Kelly Irving’s profile"
+                                          - generic:
+                                            - generic:
+                                              - generic:
+                                                - link "Kelly Irving Premium Profile You Book coach and editor for changemakers and trailblazers / Publishing gymnast":
+                                                  - /url: https://www.linkedin.com/in/kelly-irving/
+                                                  - generic:
+                                                    - generic:
+                                                      - generic:
+                                                        - generic:
+                                                          - paragraph:
+                                                            - generic:
+                                                              - generic: Kelly Irving Premium Profile You
+                                                              - generic [aria-hidden]:
+                                                                - text: Kelly Irving
+                                                                - generic: • You
+                                                    - generic:
+                                                      - paragraph: Book coach and editor for changemakers and trailblazers / Publishing gymnast
+                                                - generic:
+                                                  - paragraph: 3mo
+                                                - button "View more options for Kelly Irving’s comment."
+                                            - generic:
+                                              - generic:
+                                                - generic:
+                                                  - paragraph:
+                                                    - generic: Loving every moment of this with and for you Kx
+                                            - generic:
+                                              - generic:
+                                                - generic:
+                                                  - generic:
+                                                    - generic:
+                                                      - generic:
+                                                        - 'button "Reaction button state: no reaction 1 reaction"':
+                                                          - generic:
+                                                            - 'img "Reaction button state: no reaction"'
+                                                            - generic:
+                                                              - paragraph:
+                                                                - generic:
+                                                                  - generic: 1 reaction
+                                                                  - text: "1"
+                                                    - button "Open reactions menu"
+                                                  - generic:
+                                                    - button "Reply"
+                                                  - generic:
+                                                    - img "57 impressions"
+                                                    - generic:
+                                                      - paragraph:
+                                                        - generic:
+                                                          - generic: 57 impressions
+                                                          - text: "57"
+                                                - generic:
+                                                  - link "Reacted to by the author":
+                                                    - /url: https://www.linkedin.com/posts/benitabensch_i-love-that-what-starts-as-an-idea-ends-in-share-7477546426974216192-KhgV/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                                                    - generic "Reacted to by the author":
+                                                      - figure [aria-hidden]
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - link:
+                                              - /url: https://www.linkedin.com/in/sophiebretag/
+                                              - figure:
+                                                - img "View Sophie Bretag’s profile"
+                                          - generic:
+                                            - generic:
+                                              - generic:
+                                                - link "Sophie Bretag Premium Profile 1st Bestselling Author of ‘The Kind Way’📚Global Leadership Keynote Speaker🎤Self Kindness Expert🧡 Helping leaders protect capacity & perform sustainably🔥 Fractional HR Consultant🌟Barefoot walker 👣 Squeezy hugger🩷":
+                                                  - /url: https://www.linkedin.com/in/sophiebretag/
+                                                  - generic:
+                                                    - generic:
+                                                      - generic:
+                                                        - generic:
+                                                          - paragraph:
+                                                            - generic:
+                                                              - generic: Sophie Bretag Premium Profile 1st
+                                                              - generic [aria-hidden]:
+                                                                - text: Sophie Bretag
+                                                                - generic: • 1st
+                                                    - generic:
+                                                      - paragraph: Bestselling Author of ‘The Kind Way’📚Global Leadership Keynote Speaker🎤Self Kindness Expert🧡 Helping leaders protect capacity & perform sustainably🔥 Fractional HR Consultant🌟Barefoot walker 👣 Squeezy hugger🩷
+                                                - generic:
+                                                  - paragraph: 3mo
+                                                - button "View more options for Sophie Bretag’s comment."
+                                            - generic:
+                                              - generic:
+                                                - generic:
+                                                  - paragraph:
+                                                    - generic: Yesss! So excited for you B xx 😘
+                                            - generic:
+                                              - generic:
+                                                - generic:
+                                                  - generic:
+                                                    - generic:
+                                                      - generic:
+                                                        - 'button "Reaction button state: no reaction 1 reaction"':
+                                                          - generic:
+                                                            - 'img "Reaction button state: no reaction"'
+                                                            - generic:
+                                                              - paragraph:
+                                                                - generic:
+                                                                  - generic: 1 reaction
+                                                                  - text: "1"
+                                                    - button "Open reactions menu"
+                                                  - generic:
+                                                    - button "Reply"
+                                                - generic:
+                                                  - link "Reacted to by the author":
+                                                    - /url: https://www.linkedin.com/posts/benitabensch_i-love-that-what-starts-as-an-idea-ends-in-share-7477546426974216192-KhgV/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                                                    - generic "Reacted to by the author":
+                                                      - figure [aria-hidden]
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - link:
+                                              - /url: https://www.linkedin.com/in/penelopebarr/
+                                              - figure:
+                                                - img "View Penelope Barr’s profile"
+                                          - generic:
+                                            - generic:
+                                              - generic:
+                                                - link "Penelope Barr Premium Profile 1st Portfolio Careerpreneur | Helping people and organisations transition through the messy middle to your personal best | Interim Executive | Author | Board Member | Speaker | Writing Retreat host | Coach":
+                                                  - /url: https://www.linkedin.com/in/penelopebarr/
+                                                  - generic:
+                                                    - generic:
+                                                      - generic:
+                                                        - generic:
+                                                          - paragraph:
+                                                            - generic:
+                                                              - generic: Penelope Barr Premium Profile 1st
+                                                              - generic [aria-hidden]:
+                                                                - text: Penelope Barr
+                                                                - generic: • 1st
+                                                    - generic:
+                                                      - paragraph: Portfolio Careerpreneur | Helping people and organisations transition through the messy middle to your personal best | Interim Executive | Author | Board Member | Speaker | Writing Retreat host | Coach
+                                                - generic:
+                                                  - paragraph: 3mo
+                                                - button "View more options for Penelope Barr’s comment."
+                                            - generic:
+                                              - generic:
+                                                - generic:
+                                                  - paragraph:
+                                                    - generic: Such an exciting day for a beautiful piece of work. You've been able to gather so many incredible people and stories around you to produce this wonderful work. Enjoy the successes 💚
+                                            - generic:
+                                              - generic:
+                                                - generic:
+                                                  - generic:
+                                                    - generic:
+                                                      - generic:
+                                                        - 'button "Reaction button state: no reaction 1 reaction"':
+                                                          - generic:
+                                                            - 'img "Reaction button state: no reaction"'
+                                                            - generic:
+                                                              - paragraph:
+                                                                - generic:
+                                                                  - generic: 1 reaction
+                                                                  - text: "1"
+                                                    - button "Open reactions menu"
+                                                  - generic:
+                                                    - button "Reply"
+                                                - generic:
+                                                  - link "Reacted to by the author":
+                                                    - /url: https://www.linkedin.com/posts/benitabensch_i-love-that-what-starts-as-an-idea-ends-in-share-7477546426974216192-KhgV/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                                                    - generic "Reacted to by the author":
+                                                      - figure [aria-hidden]
+                  - complementary "Aside":
+                    - generic:
+                      - generic:
+                        - generic:
+                          - iframe [ref=f213e729]:
+                            - generic [ref=f215e2]:
+                              - generic: Ad
+                              - img "overflow-web-small" [ref=f215e6] [cursor=pointer]
+                              - link "LinkedIn for Marketing" [ref=f215e10] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Fbusiness.linkedin.com%2Fmarketing-solutions%2Fwebinars%2F25%2F11%2Ffull-funnel-b2b-success-driving-results-with-video-on-linkedin-namer%3Fmcid%3D7406781578799984662%26src%3Dli-scin%26cid%3D701Kf000000UZ6lIAG%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg8aLTootMmCexOlwae9VFD1A202Zi1y3fbUwyuB6c6crrv-0fOVT2NSzwYS-CPetPxWfggwPisODAWFl8I7mKLAnf57tRk8OJS2GY519bcDrp7L9BqyigGR75Z5qSVTkpVbUzoBgysyE2w0x9YPxKnUUtUyxrBVcN-JvcZid13N_LrXBoumWcntjNRLbqD1okoEZNZIk7Aipg6oobysa97gktO370uzvFuDLvwX9kzTEXCiv-7Efxgwgx6DCufET5mV8E5_iHvYEWmHUfWjMRqHSMZEuzrmmjadEIR_6D0Qu8Oy_TxJDS0LGyHydfrkpNqWR14DGsxkZX8ZIeGdgQYJY8PpN_ska3C6uooJD_dT4iT2gkHYATcp1x7MmyumP6gEelyFHmAo3XHl09LAWZnX4oKSJXe80CDDSMWsFHF4egoXilKkHh841dw_3c7jKjZrY5o_SnS5YZqb4NDJrhuxD96tEvQ11pvwIYMt8kDSjpSICpJnA8Kuf7CYIISg-er9Q0Q0V32Afr6hYjBgxVJ0caAD0Sfb7-qRt86RuMMrgYzPIzMRgMReJ7LX1pf41saxlbYWp6c_vBBoxxH1txJK9JPNuPgY6wy7soqcexWjFHr6JoR9mYkxBkeUjLZ2IK7EiJBYmq3MWWlGq9fm73qDAh_wTY4pka4rq2HPouWCZNVDUzx75QfiOxGvQ5bUfiIe3fgsd6gH0rQMHp0pZ6eK332foERvyYxqK7s-L_RM_MgGIRImaOa9lxieaFhgPtaMWwsaAg9ordkfcqk78chGlLMk3N51BSGHDKftWc6IQiBECoTnkBDauJGmWeDvFMmNld5QPKkMs5b3gJOXW1m9aizWsPhZSIc3FPx_xiNFUyWL139H94xqHo_h8Z802RIBF9q_57HvRYj6lRyDb3xwxTZ2sxdRDg7Tcfs7Tco-2LUJrzNfN1NpNc--QaeYn_-S5X_8jkhqUAtBNAdr2KKXTtxZtr7m7505axoE2o77rf26XmXIpfXj8qfMmhOSGlQmw4w2BlBNsYIPkQ2PvPtVKNHBIK8y6RwkAsI1tFLLlegYnswa3yuXWuaM5CbX0okxKg5Gu3ORk4DtSCtle3q2vNBGjH0WvcYl3-0V0ILvOJP8MAZ_5ecAGSlC_zALlYbG08Rh1Cwm6_jS2cViZkvxQdocDW1OyAte8a6c9owCKRjo_KqTOJGw%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_detail_base%22%2C%22trackingId%22%3A%22ed99afc7-c357-4f8b-bed8-f92a8e4fc5d1%22%7D%2C%22time%22%3A1790760375120%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_detail_base%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                              - generic [ref=f215e11]:
+                                - heading "Learn how video is revolutionizing the B2B buyer's journey" [level=2] [ref=f215e14]
+                                - generic [ref=f215e16]:
+                                  - img "Kelly" [ref=f215e17]
+                                  - generic [ref=f215e18]:
+                                    - link [ref=f215e19] [cursor=pointer]:
+                                      - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Fbusiness.linkedin.com%2Fmarketing-solutions%2Fwebinars%2F25%2F11%2Ffull-funnel-b2b-success-driving-results-with-video-on-linkedin-namer%3Fmcid%3D7406781578799984662%26src%3Dli-scin%26cid%3D701Kf000000UZ6lIAG%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg8aLTootMmCexOlwae9VFD1A202Zi1y3fbUwyuB6c6crrv-0fOVT2NSzwYS-CPetPxWfggwPisODAWFl8I7mKLAnf57tRk8OJS2GY519bcDrp7L9BqyigGR75Z5qSVTkpVbUzoBgysyE2w0x9YPxKnUUtUyxrBVcN-JvcZid13N_LrXBoumWcntjNRLbqD1okoEZNZIk7Aipg6oobysa97gktO370uzvFuDLvwX9kzTEXCiv-7Efxgwgx6DCufET5mV8E5_iHvYEWmHUfWjMRqHSMZEuzrmmjadEIR_6D0Qu8Oy_TxJDS0LGyHydfrkpNqWR14DGsxkZX8ZIeGdgQYJY8PpN_ska3C6uooJD_dT4iT2gkHYATcp1x7MmyumP6gEelyFHmAo3XHl09LAWZnX4oKSJXe80CDDSMWsFHF4egoXilKkHh841dw_3c7jKjZrY5o_SnS5YZqb4NDJrhuxD96tEvQ11pvwIYMt8kDSjpSICpJnA8Kuf7CYIISg-er9Q0Q0V32Afr6hYjBgxVJ0caAD0Sfb7-qRt86RuMMrgYzPIzMRgMReJ7LX1pf41saxlbYWp6c_vBBoxxH1txJK9JPNuPgY6wy7soqcexWjFHr6JoR9mYkxBkeUjLZ2IK7EiJBYmq3MWWlGq9fm73qDAh_wTY4pka4rq2HPouWCZNVDUzx75QfiOxGvQ5bUfiIe3fgsd6gH0rQMHp0pZ6eK332foERvyYxqK7s-L_RM_MgGIRImaOa9lxieaFhgPtaMWwsaAg9ordkfcqk78chGlLMk3N51BSGHDKftWc6IQiBECoTnkBDauJGmWeDvFMmNld5QPKkMs5b3gJOXW1m9aizWsPhZSIc3FPx_xiNFUyWL139H94xqHo_h8Z802RIBF9q_57HvRYj6lRyDb3xwxTZ2sxdRDg7Tcfs7Tco-2LUJrzNfN1NpNc--QaeYn_-S5X_8jkhqUAtBNAdr2KKXTtxZtr7m7505axoE2o77rf26XmXIpfXj8qfMmhOSGlQmw4w2BlBNsYIPkQ2PvPtVKNHBIK8y6RwkAsI1tFLLlegYnswa3yuXWuaM5CbX0okxKg5Gu3ORk4DtSCtle3q2vNBGjH0WvcYl3-0V0ILvOJP8MAZ_5ecAGSlC_zALlYbG08Rh1Cwm6_jS2cViZkvxQdocDW1OyAte8a6c9owCKRjo_KqTOJGw%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_detail_base%22%2C%22trackingId%22%3A%22ed99afc7-c357-4f8b-bed8-f92a8e4fc5d1%22%7D%2C%22time%22%3A1790760375120%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_detail_base%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                                      - img "LinkedIn for Marketing" [ref=f215e20]
+                                    - tooltip "LinkedIn for Marketing" [ref=f215e21]
+                                - generic [ref=f215e22]:
+                                  - heading "Kelly, drive results with video on LinkedIn" [level=2] [ref=f215e25]
+                                  - link "Watch webinar now" [ref=f215e27] [cursor=pointer]:
+                                    - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Fbusiness.linkedin.com%2Fmarketing-solutions%2Fwebinars%2F25%2F11%2Ffull-funnel-b2b-success-driving-results-with-video-on-linkedin-namer%3Fmcid%3D7406781578799984662%26src%3Dli-scin%26cid%3D701Kf000000UZ6lIAG%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg8aLTootMmCexOlwae9VFD1A202Zi1y3fbUwyuB6c6crrv-0fOVT2NSzwYS-CPetPxWfggwPisODAWFl8I7mKLAnf57tRk8OJS2GY519bcDrp7L9BqyigGR75Z5qSVTkpVbUzoBgysyE2w0x9YPxKnUUtUyxrBVcN-JvcZid13N_LrXBoumWcntjNRLbqD1okoEZNZIk7Aipg6oobysa97gktO370uzvFuDLvwX9kzTEXCiv-7Efxgwgx6DCufET5mV8E5_iHvYEWmHUfWjMRqHSMZEuzrmmjadEIR_6D0Qu8Oy_TxJDS0LGyHydfrkpNqWR14DGsxkZX8ZIeGdgQYJY8PpN_ska3C6uooJD_dT4iT2gkHYATcp1x7MmyumP6gEelyFHmAo3XHl09LAWZnX4oKSJXe80CDDSMWsFHF4egoXilKkHh841dw_3c7jKjZrY5o_SnS5YZqb4NDJrhuxD96tEvQ11pvwIYMt8kDSjpSICpJnA8Kuf7CYIISg-er9Q0Q0V32Afr6hYjBgxVJ0caAD0Sfb7-qRt86RuMMrgYzPIzMRgMReJ7LX1pf41saxlbYWp6c_vBBoxxH1txJK9JPNuPgY6wy7soqcexWjFHr6JoR9mYkxBkeUjLZ2IK7EiJBYmq3MWWlGq9fm73qDAh_wTY4pka4rq2HPouWCZNVDUzx75QfiOxGvQ5bUfiIe3fgsd6gH0rQMHp0pZ6eK332foERvyYxqK7s-L_RM_MgGIRImaOa9lxieaFhgPtaMWwsaAg9ordkfcqk78chGlLMk3N51BSGHDKftWc6IQiBECoTnkBDauJGmWeDvFMmNld5QPKkMs5b3gJOXW1m9aizWsPhZSIc3FPx_xiNFUyWL139H94xqHo_h8Z802RIBF9q_57HvRYj6lRyDb3xwxTZ2sxdRDg7Tcfs7Tco-2LUJrzNfN1NpNc--QaeYn_-S5X_8jkhqUAtBNAdr2KKXTtxZtr7m7505axoE2o77rf26XmXIpfXj8qfMmhOSGlQmw4w2BlBNsYIPkQ2PvPtVKNHBIK8y6RwkAsI1tFLLlegYnswa3yuXWuaM5CbX0okxKg5Gu3ORk4DtSCtle3q2vNBGjH0WvcYl3-0V0ILvOJP8MAZ_5ecAGSlC_zALlYbG08Rh1Cwm6_jS2cViZkvxQdocDW1OyAte8a6c9owCKRjo_KqTOJGw%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_detail_base%22%2C%22trackingId%22%3A%22ed99afc7-c357-4f8b-bed8-f92a8e4fc5d1%22%7D%2C%22time%22%3A1790760375120%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_detail_base%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                          - generic:
+                            - generic:
+                              - link "About":
+                                - /url: https://about.linkedin.com/
+                                - paragraph: About
+                              - link "Accessibility":
+                                - /url: https://www.linkedin.com/accessibility/
+                                - paragraph: Accessibility
+                              - link "Help Center":
+                                - /url: https://www.linkedin.com/help/linkedin/
+                                - paragraph: Help Center
+                              - button "Privacy & Terms":
+                                - generic:
+                                  - paragraph: Privacy & Terms
+                              - link "Ad Choices":
+                                - /url: https://www.linkedin.com/help/linkedin/answer/62931/
+                                - paragraph: Ad Choices
+                              - link "Advertising":
+                                - /url: https://www.linkedin.com/ad/start/?trk=n_nav_ads_rr
+                                - paragraph: Advertising
+                              - button "Business Services":
+                                - generic:
+                                  - paragraph: Business Services
+                              - link "Get the LinkedIn app":
+                                - /url: https://www.linkedin.com/mobile/
+                                - paragraph: Get the LinkedIn app
+                              - link "More":
+                                - /url: https://www.linkedin.com/posts/benitabensch_i-love-that-what-starts-as-an-idea-ends-in-share-7477546426974216192-KhgV/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                                - paragraph: More
+                            - generic:
+                              - paragraph: LinkedIn Corporation © 2026
+      - list [ref=f213e932]:
+        - button "Like" [ref=f213e933] [cursor=pointer]
+        - button "Celebrate" [ref=f213e943] [cursor=pointer]
+        - button "Support" [ref=f213e963] [cursor=pointer]
+        - button "Love" [ref=f213e978] [cursor=pointer]
+        - button "Insightful" [ref=f213e989] [cursor=pointer]
+        - button "Funny" [ref=f213e1003] [cursor=pointer]
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - complementary:
+              - generic [ref=f213e755]:
+                - generic [ref=f213e756]:
+                  - generic [ref=f213e758] [cursor=pointer]:
+                    - img "Kelly Irving" [ref=f213e760]
+                    - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f213e761]:
+                      - generic [ref=f213e762]:
+                        - generic [aria-hidden] [ref=f213e763]: Messaging
+                        - generic [ref=f213e764]: You are on the messaging overlay. Press enter to open the list of conversations.
+                  - generic [ref=f213e765]:
+                    - button [ref=f213e767] [cursor=pointer]:
+                      - img "Open messenger dropdown menu" [ref=f213e768]
+                    - button "Compose message" [ref=f213e771] [cursor=pointer]
+                    - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f213e775] [cursor=pointer]
+                - generic [ref=f213e779]:
+                  - heading "Page inboxes" [level=3] [ref=f213e781]
+                  - generic [ref=f213e782] [cursor=pointer]:
+                    - generic [ref=f213e783]: Click to see affiliated inboxes
+                    - button "Page inboxes" [ref=f213e784]
+              - dialog "Messaging" [ref=f213e787]:
+                - generic [ref=f213e788]:
+                  - generic [ref=f213e789] [cursor=pointer]:
+                    - generic [ref=f213e791]:
+                      - img "Veronica Millen - PCC" [ref=f213e794]
+                      - heading "Veronica Millen - PCC" [level=2] [ref=f213e796]
+                    - button "Close your conversation with Veronica Millen - PCC and Kelly Irving" [ref=f213e798]
+                  - generic [ref=f213e803]:
+                    - list [ref=f213e808]:
+                      - listitem
+                      - listitem [ref=f213e809]:
+                        - time [ref=f213e810]: Aug 2, 2022
+                        - generic [ref=f213e811]: Kelly Irving sent the following messages at 10:49 AM
+                        - generic [ref=f213e812]:
+                          - link "View Kelly’s profile Kelly Irving" [ref=f213e813] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/in/ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                            - generic [ref=f213e814]: View Kelly’s profile
+                            - img "Kelly Irving" [ref=f213e815]
+                          - generic [ref=f213e816]:
+                            - generic [ref=f213e817]:
+                              - link "Kelly Irving" [ref=f213e818] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/in/ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                              - img "LinkedIn Premium" [ref=f213e820]
+                            - time [ref=f213e823]: • 10:49 AM
+                          - generic [ref=f213e825]:
+                            - paragraph [ref=f213e827]: Hi Veronica,I'm reaching out to you as my work involves helping thought leaders, such as yourself, write and publish books.Some of my clients include Peter Cook, Janine Garner, Mykel Dixon and Penny Locaso.Would love to stay in touch.Kelly
+                            - generic "Sent at 8/2/2022, 10:49 AM" [ref=f213e828]
+                      - listitem [ref=f213e831]:
+                        - generic [ref=f213e832]:
+                          - link "View Kelly’s profile Kelly Irving" [ref=f213e833] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/in/ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                            - generic [ref=f213e834]: View Kelly’s profile
+                            - img "Kelly Irving" [ref=f213e835]
+                          - generic [ref=f213e836]:
+                            - generic [ref=f213e837]:
+                              - link "Kelly Irving" [ref=f213e838] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/in/ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                              - img "LinkedIn Premium" [ref=f213e840]
+                            - time [ref=f213e843]: • 11:45 AM
+                          - generic [ref=f213e845]:
+                            - paragraph [ref=f213e847]: Thanks for connecting Veronica. I'm looking forward to finding out more about you and exchanging mutual value. 😃
+                            - generic "Sent at 8/2/2022, 11:45 AM" [ref=f213e848]
+                      - listitem [ref=f213e851]:
+                        - time [ref=f213e852]: Today
+                        - generic [ref=f213e853]: Veronica Millen - PCC sent the following messages at 3:22 PM
+                        - generic [ref=f213e854]:
+                          - link "View Veronica’s profile Veronica Millen - PCC" [ref=f213e855] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/in/ACoAAAIC_AABccPdFFYJLD-oqU5kc1c_Txg6Bgw
+                            - generic [ref=f213e856]: View Veronica’s profile
+                            - img "Veronica Millen - PCC" [ref=f213e857]
+                          - generic [ref=f213e858]:
+                            - generic [ref=f213e859]:
+                              - link "Veronica Millen - PCC" [ref=f213e860] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/in/ACoAAAIC_AABccPdFFYJLD-oqU5kc1c_Txg6Bgw
+                              - img "LinkedIn Premium" [ref=f213e862]
+                            - time [ref=f213e865]: • 3:22 PM
+                          - paragraph [ref=f213e869]: Hi Kelly, hope you are well. I am looking to update my book maybe a second edition and I was wondering if that is something you might be able to assist me with and if so how that could work? Many thanks, Veronica
+                      - listitem [ref=f213e870]
+                      - listitem [ref=f213e871]:
+                        - generic [ref=f213e872]:
+                          - button "Scroll quick replies left" [disabled] [ref=f213e873]
+                          - list [ref=f213e874]:
+                            - listitem [ref=f213e875]:
+                              - button "Reply to conversation with “Hi, Veronica ”" [ref=f213e876] [cursor=pointer]:
+                                - generic [aria-hidden]: Hi, Veronica
+                            - listitem [ref=f213e878]:
+                              - button "Reply to conversation with “Hey, Veronica ”" [ref=f213e879] [cursor=pointer]:
+                                - generic [aria-hidden]: Hey, Veronica
+                            - listitem [ref=f213e881]:
+                              - button "Reply to conversation with “Of course”" [ref=f213e882] [cursor=pointer]:
+                                - generic [aria-hidden]: Of course
+                          - button "Scroll quick replies right" [ref=f213e884] [cursor=pointer]
+                      - listitem
+                    - generic [ref=f213e888]:
+                      - generic [ref=f213e889]:
+                        - generic [ref=f213e891]:
+                          - textbox "Write a message…" [ref=f213e892]:
+                            - paragraph [ref=f213e893]
+                          - text: Write a message…
+                        - button "Maximize compose field" [ref=f213e895] [cursor=pointer]
+                      - generic [ref=f213e899]:
+                        - generic [ref=f213e900]:
+                          - button "Attach an image to your conversation with Veronica Millen - PCC" [ref=f213e902] [cursor=pointer]
+                          - button "Attach a file to your conversation with Veronica Millen - PCC" [ref=f213e907] [cursor=pointer]
+                          - button "Open GIF Keyboard" [ref=f213e912] [cursor=pointer]
+                          - button "Open Emoji Keyboard" [ref=f213e918] [cursor=pointer]
+                        - generic [ref=f213e920]:
+                          - generic [ref=f213e921]: Press Enter to Send
+                          - button "Open send options" [ref=f213e925] [cursor=pointer]
+            - complementary "AI-powered assistant to get help with your career, jobs etc"
+    - iframe [ref=f213e543]:
+      - generic [ref=f216e1]:
+        - generic:
+          - region "Toast message":
+            - heading "0 notifications total" [level=2] [ref=f216e3]
+            - alert
+        - region [ref=f216e4]
+        - generic [ref=f216e5]:
+          - generic [ref=f216e7]:
+            - button "Skip to search" [ref=f216e8] [cursor=pointer]
+            - button "Skip to main content" [ref=f216e10] [cursor=pointer]
+            - button "Keyboard shortcuts" [ref=f216e12] [cursor=pointer]
+            - button "Close jump menu" [ref=f216e14] [cursor=pointer]
+          - banner "Global Navigation" [ref=f216e18]:
+            - generic [ref=f216e19]:
+              - link [ref=f216e20] [cursor=pointer]:
+                - /url: https://www.linkedin.com/feed/
+                - img "LinkedIn" [ref=f216e23]
+              - combobox "I’m looking for..." [ref=f216e29]
+              - navigation "Primary Navigation" [ref=f216e30]:
+                - list [ref=f216e31]:
+                  - listitem [ref=f216e32]:
+                    - link "new feed updates notifications Home" [ref=f216e33] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/feed/
+                      - generic [ref=f216e34]: new feed updates notifications
+                      - generic "Home" [ref=f216e43]
+                  - listitem [ref=f216e44]:
+                    - link "41 new network updates notifications My Network" [ref=f216e45] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/mynetwork/?
+                      - generic [ref=f216e47]:
+                        - generic [aria-hidden] [ref=f216e48]: "41"
+                        - generic [ref=f216e49]: 41 new network updates notifications
+                      - generic "My Network" [ref=f216e55]
+                  - listitem [ref=f216e56]:
+                    - link "Jobs" [ref=f216e57] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/jobs/?
+                  - listitem [ref=f216e64]:
+                    - link "Messaging" [ref=f216e65] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/messaging/?
+                  - listitem [ref=f216e72]:
+                    - link "19 new notifications Notifications" [ref=f216e73] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/notifications/?
+                      - generic [ref=f216e75]:
+                        - generic [aria-hidden] [ref=f216e76]: "19"
+                        - generic [ref=f216e77]: 19 new notifications
+                      - generic "Notifications" [ref=f216e83]
+                  - listitem [ref=f216e84]:
+                    - button [ref=f216e86] [cursor=pointer]:
+                      - img "Kelly Irving" [ref=f216e87]
+                      - generic [ref=f216e88]: Me
+                  - listitem [ref=f216e91]:
+                    - button "For Business" [ref=f216e93] [cursor=pointer]
+                  - listitem [ref=f216e102]:
+                    - link "3 new Campaign Manager notifications Advertise" [ref=f216e103] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/campaignmanager/accounts?shouldShowNotificationPanelOnRender=true
+                      - generic [ref=f216e105]:
+                        - generic [aria-hidden] [ref=f216e106]: "3"
+                        - generic [ref=f216e107]: 3 new Campaign Manager notifications
+                      - generic "Advertise" [ref=f216e114]

@@ -1,0 +1,862 @@
+- generic [ref=f172e13]:
+  - generic:
+    - region "Toast message":
+      - heading "0 notifications total" [level=2] [ref=f172e15]
+      - alert
+  - region [ref=f172e12]
+  - generic [ref=f172e16]:
+    - generic [ref=f172e18]:
+      - button "Skip to search" [ref=f172e19] [cursor=pointer]
+      - button "Skip to main content" [ref=f172e21] [cursor=pointer]
+      - button "Keyboard shortcuts" [ref=f172e23] [cursor=pointer]
+      - button "Close jump menu" [ref=f172e25] [cursor=pointer]
+    - banner "Global Navigation" [ref=f172e29]:
+      - generic [ref=f172e30]:
+        - link [ref=f172e31] [cursor=pointer]:
+          - /url: https://www.linkedin.com/feed/?nis=true
+          - img "LinkedIn" [ref=f172e34]
+        - combobox "I’m looking for..." [ref=f172e40]
+        - navigation "Primary Navigation" [ref=f172e41]:
+          - list [ref=f172e42]:
+            - listitem [ref=f172e43]:
+              - link "new feed updates notifications Home" [ref=f172e44] [cursor=pointer]:
+                - /url: https://www.linkedin.com/feed/?nis=true&
+                - generic [ref=f172e45]: new feed updates notifications
+                - generic "Home" [ref=f172e54]
+            - listitem [ref=f172e55]:
+              - link "41 new network updates notifications My Network" [ref=f172e56] [cursor=pointer]:
+                - /url: https://www.linkedin.com/mynetwork/?
+                - generic [ref=f172e58]:
+                  - generic [aria-hidden] [ref=f172e59]: "41"
+                  - generic [ref=f172e60]: 41 new network updates notifications
+                - generic "My Network" [ref=f172e66]
+            - listitem [ref=f172e67]:
+              - link "Jobs" [ref=f172e68] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/?
+            - listitem [ref=f172e75]:
+              - link "Messaging" [ref=f172e76] [cursor=pointer]:
+                - /url: https://www.linkedin.com/messaging/?
+            - listitem [ref=f172e83]:
+              - link "19 new notifications Notifications" [ref=f172e84] [cursor=pointer]:
+                - /url: https://www.linkedin.com/notifications/?
+                - generic [ref=f172e86]:
+                  - generic [aria-hidden] [ref=f172e87]: "19"
+                  - generic [ref=f172e88]: 19 new notifications
+                - generic "Notifications" [ref=f172e94]
+            - listitem [ref=f172e95]:
+              - button [ref=f172e97] [cursor=pointer]:
+                - img "Kelly Irving" [ref=f172e98]
+                - generic [ref=f172e99]: Me
+            - listitem [ref=f172e102]:
+              - button "For Business" [ref=f172e104] [cursor=pointer]
+            - listitem [ref=f172e113]:
+              - link "3 new Campaign Manager notifications Advertise" [ref=f172e114] [cursor=pointer]:
+                - /url: https://www.linkedin.com/campaignmanager/accounts?shouldShowNotificationPanelOnRender=true
+                - generic [ref=f172e116]:
+                  - generic [aria-hidden] [ref=f172e117]: "3"
+                  - generic [ref=f172e118]: 3 new Campaign Manager notifications
+                - generic "Advertise" [ref=f172e125]
+    - generic [ref=f172e131]:
+      - complementary [ref=f172e132]:
+        - generic [ref=f172e135]:
+          - img "PREMIUM" [ref=f172e140]
+          - link [ref=f172e144] [cursor=pointer]:
+            - /url: /in/benitabensch/
+            - img "Benita Bensch" [ref=f172e145]
+          - generic [ref=f172e146]:
+            - link [ref=f172e147] [cursor=pointer]:
+              - /url: /in/benitabensch/
+              - heading [level=3] [ref=f172e148]:
+                - text: Benita Bensch
+                - img "Benita Bensch is a Premium member" [ref=f172e150]
+            - heading "Author of Seen Again | Speaker & Facilitator | Identity, Matrescence & Changing Roles | Farming-Family Planning & Alignment" [level=4] [ref=f172e153]
+          - button "Message Benita" [ref=f172e161] [cursor=pointer]:
+            - generic [ref=f172e162]: Message
+      - main [ref=f172e163]:
+        - generic [ref=f172e165]:
+          - heading "All activity" [level=2] [ref=f172e166]
+          - group "Select type of recent activity" [ref=f172e169]:
+            - button "Posts" [pressed] [ref=f172e170] [cursor=pointer]
+            - button "Comments" [ref=f172e172] [cursor=pointer]
+            - button "Images" [ref=f172e174] [cursor=pointer]
+            - button "Reactions" [ref=f172e176] [cursor=pointer]
+          - generic [ref=f172e180]:
+            - generic [ref=f172e181]:
+              - generic [ref=f172e182]: Loaded 20 Posts posts
+              - list [ref=f172e183]:
+                - listitem [ref=f172e184]:
+                  - article [ref=f172e189]:
+                    - generic [ref=f172e191]:
+                      - heading "Feed post number 1" [level=2] [ref=f172e192]
+                      - generic [ref=f172e193]:
+                        - generic [ref=f172e194]:
+                          - generic [ref=f172e196]:
+                            - link [ref=f172e197] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/benitabensch?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAEivUwkBlwWq3IpiphOKNYm8wDOr0E8wWE4
+                              - img "Benita’s profile photo" [ref=f172e200]
+                            - generic [ref=f172e201]:
+                              - link "Benita Bensch" [ref=f172e203] [cursor=pointer]:
+                                - /url: /in/benitabensch/
+                              - text: reposted this
+                          - button "Open control menu for post by Angela Cochrane" [ref=f172e206] [cursor=pointer]
+                          - generic [ref=f172e209]:
+                            - generic [ref=f172e210]:
+                              - link "View Angela Cochrane’s graphic link" [ref=f172e211] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/in/tfcp?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAEelSFAB0LatWqgvhK1T6upABN-TFxTbiUk
+                                - img "View Angela Cochrane’s graphic link" [ref=f172e215]
+                              - generic [ref=f172e216]:
+                                - 'link "View: Angela Cochrane Premium • 2nd Advocate for Regional Rural and Remote Childcare | Lover of Strong Coffee &amp; Even Stronger Policy Reform | Founder of The Future Care Project" [ref=f172e217] [cursor=pointer]':
+                                  - /url: https://www.linkedin.com/in/tfcp?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAEelSFAB0LatWqgvhK1T6upABN-TFxTbiUk
+                                  - generic [ref=f172e218]:
+                                    - generic [ref=f172e219]: Angela Cochrane
+                                    - generic [ref=f172e222]: • 2nd
+                                  - generic [ref=f172e227]: Advocate for Regional Rural and Remote Childcare | Lover of Strong Coffee & Even Stronger Policy Reform | Founder of The Future Care Project
+                                - generic [ref=f172e229]: 2mo •
+                            - button "Follow Angela Cochrane" [ref=f172e235] [cursor=pointer]:
+                              - generic [aria-hidden] [ref=f172e238]: Follow
+                        - generic [ref=f172e240]:
+                          - generic [ref=f172e243]:
+                            - text: I’ve spend years trying to reframe the narrative around a lack of access to childcare being simply a “family issue”. Not having access to this critical infrastructure has wide spread eccominc implications which are most often than not amplified in rural and remote communities.This week, the data caught up with the reality. One week into our Regional Childcare Access Survey bring delivered in partnership with
+                            - link "RAPAD - Remote Area Planning and Development Board" [ref=f172e244] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/company/rapad/
+                            - text: the numbers are stark. Some families are losing close to $90,000 a year because they can’t access childcare.Not because they chose not to access care. Because there is no service available.Here is the part most people miss.Government childcare data counts who is using subsidised care. It does not count who needs care and can't access it. So when a town has no approved provider, it shows up as zero demand instead of unmet need.The communities most underserved become the most invisible to the people funding the solutions. We are written out of the data before the conversation even starts.That is the gap we are working to close. Not simply by building more centres, but by also strengthening the flexible CCS-eligible models that already fit regional life. In-Home Care. Family Day Care. In-Venue Care. While simultaneously collecting the data and cost of having to rely on informal care arrangements which can include, Nannie’s, Au Pairs and even grandparents because there is no approved provider. Together we are creating a first of its kind evidence base which will make the case for change.If your region is wrestling with the same problem and you want to know what we are doing about it, reach out. Together we are stronger ✌️
+                            - link "hashtag RegionalAustralia" [ref=f172e247] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=%23regionalaustralia&origin=HASH_TAG_FROM_FEED
+                              - generic [ref=f172e248]: hashtag
+                              - generic [ref=f172e249]: "#RegionalAustralia"
+                            - link "hashtag ChildcareAccess" [ref=f172e250] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=%23childcareaccess&origin=HASH_TAG_FROM_FEED
+                              - generic [ref=f172e251]: hashtag
+                              - generic [ref=f172e252]: "#ChildcareAccess"
+                            - link "hashtag ECEC" [ref=f172e253] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=%23ecec&origin=HASH_TAG_FROM_FEED
+                              - generic [ref=f172e254]: hashtag
+                              - generic [ref=f172e255]: "#ECEC"
+                            - link "hashtag RegionalDevelopment" [ref=f172e256] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/search/results/all/?keywords=%23regionaldevelopment&origin=HASH_TAG_FROM_FEED
+                              - generic [ref=f172e257]: hashtag
+                              - generic [ref=f172e258]: "#RegionalDevelopment"
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f172e259] [cursor=pointer]:
+                            - generic [ref=f172e260]: …more
+                        - generic [ref=f172e262]:
+                          - button "Activate to view larger image, graphical user interface, text, application, Teams" [ref=f172e264] [cursor=pointer]:
+                            - generic [ref=f172e265]: Activate to view larger image,
+                            - img "graphical user interface, text, application, Teams" [ref=f172e268]
+                          - generic [aria-hidden] [ref=f172e269]: Activate to view larger image,
+                        - generic [ref=f172e270]:
+                          - list [ref=f172e274]:
+                            - listitem [ref=f172e275]:
+                              - button "Jade Warne and 15 others" [ref=f172e276] [cursor=pointer]:
+                                - img "like" [ref=f172e277]
+                                - img "support" [ref=f172e278]
+                                - generic [ref=f172e279]:
+                                  - generic [aria-hidden] [ref=f172e280]: "16"
+                                  - generic [ref=f172e281]: Jade Warne and 15 others
+                            - listitem [ref=f172e282]:
+                              - list [ref=f172e283]:
+                                - listitem [ref=f172e284]:
+                                  - button "1 comment on Angela Cochrane’s post" [ref=f172e285] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f172e286]: 1 comment
+                                  - text: ·
+                                - listitem [ref=f172e287]:
+                                  - button "3 reposts of Angela Cochrane’s post" [ref=f172e288] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f172e289]: 3 reposts
+                          - generic [ref=f172e290]:
+                            - generic [ref=f172e291]:
+                              - button "React Like" [ref=f172e292] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f172e297]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f172e298] [cursor=pointer]
+                            - button "Comment" [ref=f172e303] [cursor=pointer]
+                            - button "Repost" [ref=f172e309] [cursor=pointer]
+                            - button "Send in a private message" [ref=f172e315] [cursor=pointer]:
+                              - generic [ref=f172e318]: Send
+                - listitem [ref=f172e320]:
+                  - article [ref=f172e325]:
+                    - generic [ref=f172e327]:
+                      - heading "Feed post number 2" [level=2] [ref=f172e328]
+                      - generic [ref=f172e329]:
+                        - generic [ref=f172e330]:
+                          - generic [ref=f172e332]:
+                            - link "View Benita Bensch’s graphic link" [ref=f172e333] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/benitabensch?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAEivUwkBlwWq3IpiphOKNYm8wDOr0E8wWE4
+                              - img "View Benita Bensch’s graphic link" [ref=f172e337]
+                            - generic [ref=f172e338]:
+                              - 'link "View: Benita Bensch Premium • 1st Author of Seen Again | Speaker &amp; Facilitator | Identity, Matrescence &amp; Changing Roles | Farming-Family Planning &amp; Alignment" [ref=f172e339] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/benitabensch?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAEivUwkBlwWq3IpiphOKNYm8wDOr0E8wWE4
+                                - generic [ref=f172e340]:
+                                  - generic [ref=f172e341]: Benita Bensch
+                                  - generic [ref=f172e344]: • 1st
+                                - generic [ref=f172e349]: Author of Seen Again | Speaker & Facilitator | Identity, Matrescence & Changing Roles | Farming-Family Planning & Alignment
+                              - generic [ref=f172e351]: 3mo •
+                          - generic [ref=f172e358] [cursor=pointer]:
+                            - button "Open control menu for post by Benita Bensch" [expanded] [ref=f172e359]
+                            - generic "Control Menu Options" [active] [ref=f172e1382]:
+                              - list [ref=f172e1384]:
+                                - listitem [ref=f172e1385]:
+                                  - button [ref=f172e1386]:
+                                    - generic [ref=f172e1391]:
+                                      - text: Save
+                                      - paragraph
+                                - listitem [ref=f172e1392]:
+                                  - button [ref=f172e1393]:
+                                    - generic [ref=f172e1398]:
+                                      - text: Copy link to post
+                                      - paragraph
+                                - listitem [ref=f172e1399]:
+                                  - button [ref=f172e1400]:
+                                    - generic [ref=f172e1406]:
+                                      - text: Embed this post
+                                      - paragraph
+                                - listitem [ref=f172e1407]:
+                                  - button [ref=f172e1408]:
+                                    - generic [ref=f172e1413]:
+                                      - text: Remove mention
+                                      - paragraph
+                                - listitem [ref=f172e1414]:
+                                  - button [ref=f172e1415]:
+                                    - generic [ref=f172e1420]:
+                                      - text: Unfollow Benita Bensch
+                                      - paragraph
+                                - listitem [ref=f172e1421]:
+                                  - button [ref=f172e1422]:
+                                    - generic [ref=f172e1427]:
+                                      - text: Report post
+                                      - paragraph
+                        - generic [ref=f172e366]:
+                          - text: "I love that what starts as an idea ends in community.Bringing a book into the world is a long creative journey that requires focus, persistence and huge amounts of input.It’s not only about the end product and its effect on others, but the person you become in the process of creating it and those you gather on the journey. I've loved it.The seed for my new book Seen Again: Light on Matrescence started in my Illuminate coaching program for mothers, was nurtured by the"
+                          - link "Kelly Irving" [ref=f172e368] [cursor=pointer]:
+                            - /url: /in/kelly-irving/
+                          - text: and the
+                          - link "Expert Author Community" [ref=f172e369] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/company/expert-author-community/
+                          - text: ", germinated within the community of contributors and experts Dr Sophie Brock and"
+                          - link "Kelsey Perrykkad" [ref=f172e373] [cursor=pointer]:
+                            - /url: /in/kelseyperrykkad/
+                          - text: ", and bloomed with"
+                          - link "Natasha Gilmour" [ref=f172e375] [cursor=pointer]:
+                            - /url: /in/thekindpress/
+                          - text: and The Kind Press.I thanked a long list of people on Instagram this morning who've supported me. I'm truly grateful for everyone who has got behind me, pre-ordered Seen Again and helped me spread the word!I'm excited to see it make its way into the world through partnering with
+                          - link "Motherland" [ref=f172e376] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/company/motherland-australia/
+                          - text: "and everyone who purchases a copy.I'm delighted to say that today is publication day... Seen Again is OUT NOW in all good bookstores. It's a modern companion through matrescence for every mother who has asked: Who am I now?"
+                        - generic [ref=f172e382]:
+                          - button "Activate to view larger image, View image" [ref=f172e384] [cursor=pointer]:
+                            - generic [ref=f172e385]: Activate to view larger image,
+                            - img "View image" [ref=f172e388]
+                          - generic [aria-hidden] [ref=f172e389]: Activate to view larger image,
+                        - generic [ref=f172e390]:
+                          - list [ref=f172e394]:
+                            - listitem [ref=f172e395]:
+                              - button "You and 12 others" [ref=f172e396] [cursor=pointer]:
+                                - img "like" [ref=f172e397]
+                                - img "love" [ref=f172e398]
+                                - img "celebrate" [ref=f172e399]
+                                - generic [ref=f172e400]:
+                                  - generic [aria-hidden] [ref=f172e401]: "13"
+                                  - generic [ref=f172e402]: You and 12 others
+                            - listitem [ref=f172e403]:
+                              - list [ref=f172e404]:
+                                - listitem [ref=f172e405]:
+                                  - button "3 comments on Benita Bensch’s post" [ref=f172e406] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f172e407]: 3 comments
+                          - generic [ref=f172e408]:
+                            - generic [ref=f172e409]:
+                              - button "Unreact Love" [pressed] [ref=f172e410] [cursor=pointer]:
+                                - generic [ref=f172e412]:
+                                  - img "love" [ref=f172e413]
+                                  - generic [aria-hidden] [ref=f172e414]: Love
+                              - button "Open reactions menu":
+                                - generic [ref=f172e415] [cursor=pointer]
+                            - button "Comment" [ref=f172e420] [cursor=pointer]
+                            - button "Repost" [ref=f172e426] [cursor=pointer]
+                            - button "Send in a private message" [ref=f172e432] [cursor=pointer]:
+                              - generic [ref=f172e435]: Send
+                - listitem [ref=f172e437]:
+                  - article [ref=f172e442]:
+                    - generic [ref=f172e444]:
+                      - heading "Feed post number 3" [level=2] [ref=f172e445]
+                      - generic [ref=f172e446]:
+                        - generic [ref=f172e447]:
+                          - generic [ref=f172e449]:
+                            - link [ref=f172e450] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/benitabensch?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAEivUwkBlwWq3IpiphOKNYm8wDOr0E8wWE4
+                              - img "Benita’s profile photo" [ref=f172e453]
+                            - generic [ref=f172e454]:
+                              - link "Benita Bensch" [ref=f172e456] [cursor=pointer]:
+                                - /url: /in/benitabensch/
+                              - text: reposted this
+                          - button "Open control menu for post by Kelly Irving" [ref=f172e459] [cursor=pointer]
+                          - generic [ref=f172e463]:
+                            - link "View Kelly Irving’s graphic link" [ref=f172e464] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/kelly-irving?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                              - img "View Kelly Irving’s graphic link" [ref=f172e468]
+                            - generic [ref=f172e469]:
+                              - 'link "View: Kelly Irving Premium • You Book coach and editor for changemakers and trailblazers / Publishing gymnast" [ref=f172e470] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/kelly-irving?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                                - generic [ref=f172e471]:
+                                  - generic [ref=f172e472]: Kelly Irving
+                                  - generic [ref=f172e475]: • You
+                                - generic [ref=f172e480]: Book coach and editor for changemakers and trailblazers / Publishing gymnast
+                              - link "Visit my website" [ref=f172e482] [cursor=pointer]:
+                                - /url: https://expertauthor.community
+                              - generic [ref=f172e484]: 3mo • Edited •
+                        - generic [ref=f172e491]:
+                          - generic [ref=f172e494]:
+                            - text: 7 months ago,
+                            - link "Benita Bensch" [ref=f172e496] [cursor=pointer]:
+                              - /url: /in/benitabensch/
+                            - text: pitched her book idea to a small Zoom room of publishers and publishing professionals. Like the 35 other authors there that day, she was nervous as hell.Today, her book landed in my hands.I think about that experience a lot because nothing about it was luck, and it definitely wasn’t about landing a book deal or which way she ended up publishing.The real value was everything that came before it.Completing the book proposal process that turned a half-formed idea into something structured. The community of fellow writers who provided feedback, challenged it, sharpened it, and asked the hard questions along the way. The courage it took to say the idea out loud to others before she even believed in it herself.That's the part that's meaningful and carries weight.
+                            - link "Graeme Cowan" [ref=f172e498] [cursor=pointer]:
+                              - /url: /in/graemecowan1/
+                            - text: ","
+                            - link "Penelope Barr" [ref=f172e500] [cursor=pointer]:
+                              - /url: /in/penelopebarr/
+                            - link "Andrew Sloan" [ref=f172e502] [cursor=pointer]:
+                              - /url: /in/andrewwilliamsloan/
+                            - text: ","
+                            - link "Sophie Bretag" [ref=f172e504] [cursor=pointer]:
+                              - /url: /in/sophiebretag/
+                            - text: ","
+                            - link "Sarah Gray GAICD" [ref=f172e506] [cursor=pointer]:
+                              - /url: /in/sarah-gray-gaicd/
+                            - link "Bee Lim, Ph.D." [ref=f172e508] [cursor=pointer]:
+                              - /url: /in/drbeelim/
+                            - text: all had different ideas and different books, but the same room, process and same willingness to bring something half-formed and let it be pulled into shape.An idea shared early, with the right humans, can be pressure-tested before it's anywhere near ready, and pulled into shape long before you'd ever trust it alone.That's the conversation I want more writers having. Not with a blank page, or with Claude but with people who ask the questions you've been avoiding.What's the idea you've been sitting on, the one you haven't said out loud just yet?Kx****HI I’m Kelly, founder of the
+                            - link "Expert Author Community" [ref=f172e509] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/company/expert-author-community/
+                            - text: ", where we’ve helped 317+ alumni and authors.Intake 5 is open for early enrolment. Enrol by 30 June to lock in current pricing and step into a stronger intake."
+                            - link "https://lnkd.in/gahnAupf" [ref=f172e512] [cursor=pointer]:
+                              - /url: https://lnkd.in/gahnAupf
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f172e513] [cursor=pointer]:
+                            - generic [ref=f172e514]: …more
+                        - generic [ref=f172e516]:
+                          - generic [ref=f172e517]:
+                            - button "Activate to view larger image, View image" [ref=f172e518] [cursor=pointer]
+                            - button "Activate to view larger image, View image" [ref=f172e522] [cursor=pointer]
+                            - button "Activate to view larger image, View image" [ref=f172e526] [cursor=pointer]
+                          - generic [aria-hidden] [ref=f172e530]: Activate to view larger image,
+                        - generic [ref=f172e531]:
+                          - list [ref=f172e535]:
+                            - listitem [ref=f172e536]:
+                              - button "Karen Dunshea and 48 others" [ref=f172e537] [cursor=pointer]:
+                                - img "like" [ref=f172e538]
+                                - img "celebrate" [ref=f172e539]
+                                - img "love" [ref=f172e540]
+                                - generic [ref=f172e541]:
+                                  - generic [aria-hidden] [ref=f172e542]: "49"
+                                  - generic [ref=f172e543]: Karen Dunshea and 48 others
+                            - listitem [ref=f172e544]:
+                              - list [ref=f172e545]:
+                                - listitem [ref=f172e546]:
+                                  - button "6 comments on Kelly Irving’s post" [ref=f172e547] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f172e548]: 6 comments
+                                  - text: ·
+                                - listitem [ref=f172e549]:
+                                  - button "1 repost of Kelly Irving’s post" [ref=f172e550] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f172e551]: 1 repost
+                          - generic [ref=f172e552]:
+                            - generic [ref=f172e553]:
+                              - button "React Like" [ref=f172e554] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f172e559]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f172e560] [cursor=pointer]
+                            - button "Comment" [ref=f172e565] [cursor=pointer]
+                            - button "Repost" [ref=f172e571] [cursor=pointer]
+                            - button "Send in a private message" [ref=f172e577] [cursor=pointer]:
+                              - generic [ref=f172e580]: Send
+                - listitem [ref=f172e582]:
+                  - article [ref=f172e587]:
+                    - generic [ref=f172e589]:
+                      - heading "Feed post number 4" [level=2] [ref=f172e590]
+                      - generic [ref=f172e591]:
+                        - generic [ref=f172e592]:
+                          - generic [ref=f172e594]:
+                            - link "View Benita Bensch’s graphic link" [ref=f172e595] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/benitabensch?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAEivUwkBlwWq3IpiphOKNYm8wDOr0E8wWE4
+                              - img "View Benita Bensch’s graphic link" [ref=f172e599]
+                            - generic [ref=f172e600]:
+                              - 'link "View: Benita Bensch Premium • 1st Author of Seen Again | Speaker &amp; Facilitator | Identity, Matrescence &amp; Changing Roles | Farming-Family Planning &amp; Alignment" [ref=f172e601] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/benitabensch?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAEivUwkBlwWq3IpiphOKNYm8wDOr0E8wWE4
+                                - generic [ref=f172e602]:
+                                  - generic [ref=f172e603]: Benita Bensch
+                                  - generic [ref=f172e606]: • 1st
+                                - generic [ref=f172e611]: Author of Seen Again | Speaker & Facilitator | Identity, Matrescence & Changing Roles | Farming-Family Planning & Alignment
+                              - generic [ref=f172e613]: 3mo •
+                          - button "Open control menu for post by Benita Bensch" [ref=f172e621] [cursor=pointer]
+                        - generic [ref=f172e625]:
+                          - generic [ref=f172e628]:
+                            - text: I'm very proud to be included in this list of 28 books posted by
+                            - link "Kelly Irving" [ref=f172e630] [cursor=pointer]:
+                              - /url: /in/kelly-irving/
+                            - text: of the
+                            - link "Expert Author Community" [ref=f172e631] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/company/expert-author-community/
+                            - text: "(EAC). The EAC has offered community, guidance, resources, and access to professionals and opportunities that I didn't have before I joined.I attribute the completion of my new book Seen Again: Light on Matrescence (out 30 June) to the"
+                            - link "Expert Author Community" [ref=f172e634] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/company/expert-author-community/
+                            - text: and Natasha Gilmour at The Kind Press. I would have got there with it eventually, but probably not this year, not with the support I've had, and not to the finished standard that it is. Writing a book is a long and often tedious process that's been made joyful by these women and their organisations!Thank you for all you do
+                            - link "Kelly Irving" [ref=f172e638] [cursor=pointer]:
+                              - /url: /in/kelly-irving/
+                            - text: and for helping me bring another book baby into being! I'm so grateful to you, Cam and your team.
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f172e639] [cursor=pointer]:
+                            - generic [ref=f172e640]: …more
+                        - generic [ref=f172e641]:
+                          - generic [ref=f172e643]:
+                            - link "View Kelly Irving’s graphic link" [ref=f172e644] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/kelly-irving?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                              - img "View Kelly Irving’s graphic link" [ref=f172e648]
+                            - generic [ref=f172e649]:
+                              - 'link "View: Kelly Irving Premium • You Book coach and editor for changemakers and trailblazers / Publishing gymnast" [ref=f172e650] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/kelly-irving?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                                - generic [ref=f172e651]:
+                                  - generic [ref=f172e652]: Kelly Irving
+                                  - generic [ref=f172e655]: • You
+                                - generic [ref=f172e660]: Book coach and editor for changemakers and trailblazers / Publishing gymnast
+                              - generic [ref=f172e662]: 4mo •
+                          - link [ref=f172e669] [cursor=pointer]:
+                            - /url: /feed/update/urn:li:activity:7457964939417112576/
+                            - generic [ref=f172e670]:
+                              - generic [ref=f172e673]:
+                                - text: This year, 28 books from the
+                                - link "Expert Author Community" [ref=f172e674]:
+                                  - /url: https://www.linkedin.com/company/expert-author-community/
+                                - text: "have been released.That feels huge to me.Because in a world full of fast content, these books remind us why this work matters so much: books still give ideas space. They still build trust. They still help real voices stand out.I’m incredibly proud of these authors, and very grateful that through the EAC, I get to support work like this.I wrote more about our 28 books, the authors behind them, and why this matters in this article. I’d love for you to take a look, and if you spot one you love, tag a friend who would enjoy it too.KxOur 28 authors"
+                                - link "Graeme Cowan" [ref=f172e678]:
+                                  - /url: /in/graemecowan1/
+                                - link "Andrew Sloan" [ref=f172e680]:
+                                  - /url: /in/andrewwilliamsloan/
+                                - link "Lisa Taylor" [ref=f172e682]:
+                                  - /url: /in/lisa-taylor-83226195/
+                                - link "Gayle Dallaston" [ref=f172e684]:
+                                  - /url: /in/gayledallaston/
+                                - link "Kerryn Harvey" [ref=f172e686]:
+                                  - /url: /in/kerryn-harvey-611b5671/
+                                - link "Dr Kat Page" [ref=f172e688]:
+                                  - /url: /in/dr-kat-page-2366514/
+                                - link "Penelope Barr" [ref=f172e690]:
+                                  - /url: /in/penelopebarr/
+                                - link "Janine Stratford PCC" [ref=f172e692]:
+                                  - /url: /in/janinestratford/
+                                - link "Benita Bensch" [ref=f172e694]:
+                                  - /url: /in/benitabensch/
+                                - link "Clint Rahe" [ref=f172e696]:
+                                  - /url: /in/clintrahe/
+                                - link "Wendy Walker" [ref=f172e698]:
+                                  - /url: /in/wendywalkersg/
+                                - link "Sleiman “Slayman” Abou-Hamdan" [ref=f172e700]:
+                                  - /url: /in/sleiman-abouhamdan/
+                                - link "Sarah Gray GAICD" [ref=f172e702]:
+                                  - /url: /in/sarah-gray-gaicd/
+                                - link "Donna McGeorge" [ref=f172e704]:
+                                  - /url: /in/donnamcgeorge/
+                                - link "Gabrielle Dolan" [ref=f172e706]:
+                                  - /url: /in/gabrielledolan/
+                                - link "Fleur Marks" [ref=f172e708]:
+                                  - /url: /in/fleurmarks/
+                                - link "Chris Harrop" [ref=f172e710]:
+                                  - /url: /in/chrisnharrop/
+                                - link "Siobhán O'Riordan" [ref=f172e712]:
+                                  - /url: /in/saoriordan/
+                                - link "Bee Lim, Ph.D." [ref=f172e714]:
+                                  - /url: /in/drbeelim/
+                                - link "Gemma Mitchell" [ref=f172e716]:
+                                  - /url: /in/gemma-mitchell/
+                                - link "Sophie Bretag" [ref=f172e718]:
+                                  - /url: /in/sophiebretag/
+                                - link "Tony Frost" [ref=f172e720]:
+                                  - /url: /in/tony-frost-cmc/
+                                - link "Prosper Taruvinga" [ref=f172e722]:
+                                  - /url: /in/ptaruvinga/
+                                - link "TyAnn Osborn" [ref=f172e724]:
+                                  - /url: /in/tyannosborn/
+                                - link "Caroline Patrick MBA GAICD" [ref=f172e726]:
+                                  - /url: /in/carolinepatrick/
+                                - link "Fay Calderone" [ref=f172e728]:
+                                  - /url: /in/faycalderone/
+                                - link "Gerard Wood" [ref=f172e730]:
+                                  - /url: /in/gerard-wood-146a3212/
+                                - link "Renee Rubin Ross Ph.D" [ref=f172e732]:
+                                  - /url: /in/reneerubinross/
+                                - text: And partners
+                                - link "Lucy Raymond" [ref=f172e734]:
+                                  - /url: /in/lucy-raymond-6b5a5621/
+                                - link "Jordon Lott" [ref=f172e736]:
+                                  - /url: /in/jordonlott/
+                                - link "Natasha Gilmour" [ref=f172e738]:
+                                  - /url: /in/thekindpress/
+                                - link "Alicia Cohen" [ref=f172e740]:
+                                  - /url: /in/alicia-cohen-10110211/
+                                - link "Scott A. MacMillan" [ref=f172e742]:
+                                  - /url: /in/scottmacmillan/
+                                - link "Courtney Nicholls" [ref=f172e744]:
+                                  - /url: /in/courtney-nicholls-82964949/
+                                - text: "***I'd love to connect further, hit reply or follow the 🔔 for more tips about playful and credible writing."
+                              - button "see more, visually reveals content which is already detected by screen readers" [ref=f172e745]:
+                                - generic [ref=f172e746]: …more
+                          - article [ref=f172e747]:
+                            - generic [ref=f172e748]:
+                              - 'link "Open article: The 2̶6̶ 28 books worth reading right now by Kelly Irving • 11 min read" [ref=f172e750] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/pulse/26-28-books-worth-reading-right-now-kelly-irving-vx4vc?trackingId=klM9k6OMMeGDWMCX%2F3kzYQ%3D%3D
+                              - 'link "Open article: The 2̶6̶ 28 books worth reading right now by Kelly Irving • 11 min read" [ref=f172e754] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/pulse/26-28-books-worth-reading-right-now-kelly-irving-vx4vc?trackingId=klM9k6OMMeGDWMCX%2F3kzYQ%3D%3D
+                                - generic [ref=f172e756]:
+                                  - generic [ref=f172e757]: The 2̶6̶ 28 books worth reading right now
+                                  - generic [ref=f172e759]: Kelly Irving
+                        - generic [ref=f172e760]:
+                          - list [ref=f172e764]:
+                            - listitem [ref=f172e765]:
+                              - button "Kate Purificacion and 2 others" [ref=f172e766] [cursor=pointer]:
+                                - img "like" [ref=f172e767]
+                                - generic [ref=f172e768]:
+                                  - generic [aria-hidden] [ref=f172e769]: "3"
+                                  - generic [ref=f172e770]: Kate Purificacion and 2 others
+                          - generic [ref=f172e771]:
+                            - generic [ref=f172e772]:
+                              - button "React Like" [ref=f172e773] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f172e778]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f172e779] [cursor=pointer]
+                            - button "Comment" [ref=f172e784] [cursor=pointer]
+                            - button "Repost" [ref=f172e790] [cursor=pointer]
+                            - button "Send in a private message" [ref=f172e796] [cursor=pointer]:
+                              - generic [ref=f172e799]: Send
+                - listitem [ref=f172e801]:
+                  - article [ref=f172e806]:
+                    - generic [ref=f172e808]:
+                      - heading "Feed post number 5" [level=2] [ref=f172e809]
+                      - generic [ref=f172e810]:
+                        - generic [ref=f172e811]:
+                          - generic [ref=f172e813]:
+                            - link [ref=f172e814] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/benitabensch?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAEivUwkBlwWq3IpiphOKNYm8wDOr0E8wWE4
+                              - img "Benita’s profile photo" [ref=f172e817]
+                            - generic [ref=f172e818]:
+                              - link "Benita Bensch" [ref=f172e820] [cursor=pointer]:
+                                - /url: /in/benitabensch/
+                              - text: reposted this
+                          - button "Open control menu for post by Steph Schmidt" [ref=f172e823] [cursor=pointer]
+                          - generic [ref=f172e827]:
+                            - link "View Steph Schmidt’s graphic link" [ref=f172e828] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/stephschmidtfarmlifepsych?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADAqhq8B519r8b0hb0vF9d_gBflV-ceHzmY
+                              - img "View Steph Schmidt’s graphic link" [ref=f172e832]
+                            - generic [ref=f172e833]:
+                              - 'link "View: Steph Schmidt 1st Farmer + Psychologist | Building Farming Mental Health | Workshops, Podcast, Skills to build capacity across rural Australia" [ref=f172e834] [cursor=pointer]':
+                                - /url: https://www.linkedin.com/in/stephschmidtfarmlifepsych?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADAqhq8B519r8b0hb0vF9d_gBflV-ceHzmY
+                                - generic [ref=f172e835]:
+                                  - generic [ref=f172e836]: Steph Schmidt
+                                  - generic [ref=f172e839]: • 1st
+                                - generic [ref=f172e841]: Farmer + Psychologist | Building Farming Mental Health | Workshops, Podcast, Skills to build capacity across rural Australia
+                              - link "Visit my website" [ref=f172e843] [cursor=pointer]:
+                                - /url: http://www.stephschmidt.com.au
+                              - generic [ref=f172e845]: 6mo • Edited •
+                        - generic [ref=f172e852]:
+                          - generic [ref=f172e855]:
+                            - text: Farming is one of the most demanding professions there is — not just physically, but mentally and emotionally.And Right Now - the pressure couldn't be higher. When stress builds, it can make everything feel urgent, as if every decision could break something. That kind of pressure is real, and it deserves a real response.This short video is from the Right Now series, developed in partnership with
+                            - link "GrainGrowers" [ref=f172e856] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/company/graingrowers/
+                            - text: "Australia to bring practical, evidence-based wellbeing tools directly to grain growers and farming families — in language that actually fits farming life.The full series is free to access and covers a range of tools for managing stress, overwhelm, and the mental load of life on the land.If you work in ag, know a farmer, or support rural communities, please share this resource. The more people who know it exists, the better.▶️ Watch the full series here:"
+                            - link "https://lnkd.in/gF2tvYAW" [ref=f172e859] [cursor=pointer]:
+                              - /url: https://lnkd.in/gF2tvYAW
+                          - button "see more, visually reveals content which is already detected by screen readers" [ref=f172e860] [cursor=pointer]:
+                            - generic [ref=f172e861]: …more
+                        - region "Video player" [ref=f172e866]:
+                          - generic [ref=f172e870] [cursor=pointer]
+                          - button "Play" [ref=f172e871] [cursor=pointer]
+                        - generic [ref=f172e873]:
+                          - list [ref=f172e877]:
+                            - listitem [ref=f172e878]:
+                              - button "88 reactions" [ref=f172e879] [cursor=pointer]:
+                                - img "like" [ref=f172e880]
+                                - img "love" [ref=f172e881]
+                                - img "support" [ref=f172e882]
+                                - generic [aria-hidden] [ref=f172e883]: "88"
+                            - listitem [ref=f172e884]:
+                              - list [ref=f172e885]:
+                                - listitem [ref=f172e886]:
+                                  - button "4 comments on Steph Schmidt’s post" [ref=f172e887] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f172e888]: 4 comments
+                                  - text: ·
+                                - listitem [ref=f172e889]:
+                                  - button "7 reposts of Steph Schmidt’s post" [ref=f172e890] [cursor=pointer]:
+                                    - generic [aria-hidden] [ref=f172e891]: 7 reposts
+                          - generic [ref=f172e892]:
+                            - generic [ref=f172e893]:
+                              - button "React Like" [ref=f172e894] [cursor=pointer]:
+                                - generic [aria-hidden] [ref=f172e899]: Like
+                              - button "Open reactions menu":
+                                - generic [ref=f172e900] [cursor=pointer]
+                            - button "Comment" [ref=f172e905] [cursor=pointer]
+                            - button "Repost" [ref=f172e911] [cursor=pointer]
+                            - button "Send in a private message" [ref=f172e917] [cursor=pointer]:
+                              - generic [ref=f172e920]: Send
+                - listitem [ref=f172e922]
+                - listitem [ref=f172e926]
+                - listitem [ref=f172e930]
+                - listitem [ref=f172e934]
+                - listitem [ref=f172e938]
+                - listitem [ref=f172e942]
+                - listitem [ref=f172e946]
+                - listitem [ref=f172e950]
+                - listitem [ref=f172e954]
+                - listitem [ref=f172e958]
+                - listitem [ref=f172e962]
+                - listitem [ref=f172e966]
+                - listitem [ref=f172e970]
+                - listitem [ref=f172e974]
+                - listitem [ref=f172e978]
+            - button "Show more results" [ref=f172e984] [cursor=pointer]
+      - complementary "Interests" [ref=f172e986]:
+        - iframe [ref=f172e988]:
+          - generic [ref=f173e2]:
+            - generic: Ad
+            - img "overflow-web-small" [ref=f173e6] [cursor=pointer]
+            - link "LinkedIn for Marketing" [ref=f173e10] [cursor=pointer]:
+              - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Fbusiness.linkedin.com%2Fmarketing-solutions%2Fwebinars%2F25%2F09%2Fthe-art-and-science%3Fmcid%3D7418940812358709248%26src%3Dli-dynamic%26cid%3D701Kf000000UbVFIA0%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg8ZrV9PjT3XTZfObMMeTAXAJGSDO7rJbJuLEUM8hYj2FRcywOeWpujwmHDhmNxuzKJ3qV9D9fG7bt7Olv7l1nZpXv2FiwBZbg11f-6I8c2ojpc2lKQWzZfK2NQNDpRmsiahlZYwMz30ZgZOZNtGH_Bf_qxOLZKSaF3o5BDjuR-KtMu1z2lNRF5sh8WcbD0rFnprArm1Iy0WfyMqJRJ_Y6cTdkrXg24KWtgyHT1MccBnwqqNJmqtwAsdTtKzppAJtKHIjTvT9_2Q3AmghV3hm0QJBdn6jw2uWyy-mQ6vqgOTHeCWbFL2NSKFvQ3-ummI1tZQ8C1wxiZSZ9JgJFrmk7jOzk4PkhMtXk7wXCPTdl5oCQ8bFPMMJYKabqhkjsfRTKlDA_FuB8YtOslSfeVMcefeCYaR9gcgOP-X5buY3Q3lG8p5qGp7FhBedKmvWwkwdTR7NZpxIfB9bMhwKtFOuGfG3S0mPBVKCbDTALndymuEI7uJNTYWLrFbGHrD1Bxz_KleqssCJp6Vz7mHQ7oL99ejP_JJEX9ounQHINdbSHOJXQorwwSrKqQJvV20_hJHE13cTmsd2JEY57yb2_Oq508fUepD15rY8NtbN0qsOVxZQwikqMMEZEXbBuuM__jRxMUocFdgTCkxly-Li1VzMLU313-Ee8ue3rdWYYQU1h4IBIVFeqQwvh6Kf5TOwAvNWxXMrIFMjf_R8BowlyW0wCDKTPfoFXkCYMIy3BHhUUmm553iZNVyRNl5NnbCn67ZuT3ChTgKl88ZuVkcYSKWG_9fabbLOk9Q6Ju9zQis62bDm8JZ7MypF6EvMir8w3WIruY4GWvRxzCUXmXDLBie5K6sgZicktdLjkvN--E54XwvVzzLVdrVI9Avw6RGi-1zbiDX3qpH0sGSMDVmjlgWbH4sDxIytd5qPQXzqZHOMQG-02hDWRjq2VntX_uIZnCmfGrNnJYkhftsjDeK_nl2st2oOVLrPCavs1AA997si5GjWsgmBuBOcviMe4_fhEalCSBJ7bQewTx5nD07ErnE_nSiKXKrtki5LgOZxPktpeDhLo1sLpzg4Y-jNaTnapW2v65NCHZ4iusDRslYLF1JRVLw8UWQB76eTBagRtRws_0rcNcz4cSWMBZ1BNW-AaGInN5TFohzHhOQfNeLldtywiqWCOH3m2wHCRc0p47kgU111qenoN8Rd4JQ%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%22%2C%22trackingId%22%3A%2283e6840e-8f47-4618-a2e7-4ddfd0176035%22%7D%2C%22time%22%3A1790759851373%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_view_base_recent_activity_content_view%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+            - generic [ref=f173e11]:
+              - heading "Kelly, LinkedIn data reveals 5 video themes for impact" [level=2] [ref=f173e14]
+              - generic [ref=f173e16]:
+                - img "Kelly" [ref=f173e17]
+                - generic [ref=f173e18]:
+                  - link [ref=f173e19] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Fbusiness.linkedin.com%2Fmarketing-solutions%2Fwebinars%2F25%2F09%2Fthe-art-and-science%3Fmcid%3D7418940812358709248%26src%3Dli-dynamic%26cid%3D701Kf000000UbVFIA0%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg8ZrV9PjT3XTZfObMMeTAXAJGSDO7rJbJuLEUM8hYj2FRcywOeWpujwmHDhmNxuzKJ3qV9D9fG7bt7Olv7l1nZpXv2FiwBZbg11f-6I8c2ojpc2lKQWzZfK2NQNDpRmsiahlZYwMz30ZgZOZNtGH_Bf_qxOLZKSaF3o5BDjuR-KtMu1z2lNRF5sh8WcbD0rFnprArm1Iy0WfyMqJRJ_Y6cTdkrXg24KWtgyHT1MccBnwqqNJmqtwAsdTtKzppAJtKHIjTvT9_2Q3AmghV3hm0QJBdn6jw2uWyy-mQ6vqgOTHeCWbFL2NSKFvQ3-ummI1tZQ8C1wxiZSZ9JgJFrmk7jOzk4PkhMtXk7wXCPTdl5oCQ8bFPMMJYKabqhkjsfRTKlDA_FuB8YtOslSfeVMcefeCYaR9gcgOP-X5buY3Q3lG8p5qGp7FhBedKmvWwkwdTR7NZpxIfB9bMhwKtFOuGfG3S0mPBVKCbDTALndymuEI7uJNTYWLrFbGHrD1Bxz_KleqssCJp6Vz7mHQ7oL99ejP_JJEX9ounQHINdbSHOJXQorwwSrKqQJvV20_hJHE13cTmsd2JEY57yb2_Oq508fUepD15rY8NtbN0qsOVxZQwikqMMEZEXbBuuM__jRxMUocFdgTCkxly-Li1VzMLU313-Ee8ue3rdWYYQU1h4IBIVFeqQwvh6Kf5TOwAvNWxXMrIFMjf_R8BowlyW0wCDKTPfoFXkCYMIy3BHhUUmm553iZNVyRNl5NnbCn67ZuT3ChTgKl88ZuVkcYSKWG_9fabbLOk9Q6Ju9zQis62bDm8JZ7MypF6EvMir8w3WIruY4GWvRxzCUXmXDLBie5K6sgZicktdLjkvN--E54XwvVzzLVdrVI9Avw6RGi-1zbiDX3qpH0sGSMDVmjlgWbH4sDxIytd5qPQXzqZHOMQG-02hDWRjq2VntX_uIZnCmfGrNnJYkhftsjDeK_nl2st2oOVLrPCavs1AA997si5GjWsgmBuBOcviMe4_fhEalCSBJ7bQewTx5nD07ErnE_nSiKXKrtki5LgOZxPktpeDhLo1sLpzg4Y-jNaTnapW2v65NCHZ4iusDRslYLF1JRVLw8UWQB76eTBagRtRws_0rcNcz4cSWMBZ1BNW-AaGInN5TFohzHhOQfNeLldtywiqWCOH3m2wHCRc0p47kgU111qenoN8Rd4JQ%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%22%2C%22trackingId%22%3A%2283e6840e-8f47-4618-a2e7-4ddfd0176035%22%7D%2C%22time%22%3A1790759851373%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_view_base_recent_activity_content_view%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                    - img "LinkedIn for Marketing" [ref=f173e20]
+                  - tooltip "LinkedIn for Marketing" [ref=f173e21]
+              - generic [ref=f173e22]:
+                - heading "Unlock high-performing videos with LinkedIn Ads" [level=2] [ref=f173e25]
+                - link "Watch webinar now" [ref=f173e27] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Fbusiness.linkedin.com%2Fmarketing-solutions%2Fwebinars%2F25%2F09%2Fthe-art-and-science%3Fmcid%3D7418940812358709248%26src%3Dli-dynamic%26cid%3D701Kf000000UbVFIA0%26li_fat_id%3Dbd7f0f5d-7e4d-4b36-bd30-6d74563d09bd&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg8ZrV9PjT3XTZfObMMeTAXAJGSDO7rJbJuLEUM8hYj2FRcywOeWpujwmHDhmNxuzKJ3qV9D9fG7bt7Olv7l1nZpXv2FiwBZbg11f-6I8c2ojpc2lKQWzZfK2NQNDpRmsiahlZYwMz30ZgZOZNtGH_Bf_qxOLZKSaF3o5BDjuR-KtMu1z2lNRF5sh8WcbD0rFnprArm1Iy0WfyMqJRJ_Y6cTdkrXg24KWtgyHT1MccBnwqqNJmqtwAsdTtKzppAJtKHIjTvT9_2Q3AmghV3hm0QJBdn6jw2uWyy-mQ6vqgOTHeCWbFL2NSKFvQ3-ummI1tZQ8C1wxiZSZ9JgJFrmk7jOzk4PkhMtXk7wXCPTdl5oCQ8bFPMMJYKabqhkjsfRTKlDA_FuB8YtOslSfeVMcefeCYaR9gcgOP-X5buY3Q3lG8p5qGp7FhBedKmvWwkwdTR7NZpxIfB9bMhwKtFOuGfG3S0mPBVKCbDTALndymuEI7uJNTYWLrFbGHrD1Bxz_KleqssCJp6Vz7mHQ7oL99ejP_JJEX9ounQHINdbSHOJXQorwwSrKqQJvV20_hJHE13cTmsd2JEY57yb2_Oq508fUepD15rY8NtbN0qsOVxZQwikqMMEZEXbBuuM__jRxMUocFdgTCkxly-Li1VzMLU313-Ee8ue3rdWYYQU1h4IBIVFeqQwvh6Kf5TOwAvNWxXMrIFMjf_R8BowlyW0wCDKTPfoFXkCYMIy3BHhUUmm553iZNVyRNl5NnbCn67ZuT3ChTgKl88ZuVkcYSKWG_9fabbLOk9Q6Ju9zQis62bDm8JZ7MypF6EvMir8w3WIruY4GWvRxzCUXmXDLBie5K6sgZicktdLjkvN--E54XwvVzzLVdrVI9Avw6RGi-1zbiDX3qpH0sGSMDVmjlgWbH4sDxIytd5qPQXzqZHOMQG-02hDWRjq2VntX_uIZnCmfGrNnJYkhftsjDeK_nl2st2oOVLrPCavs1AA997si5GjWsgmBuBOcviMe4_fhEalCSBJ7bQewTx5nD07ErnE_nSiKXKrtki5LgOZxPktpeDhLo1sLpzg4Y-jNaTnapW2v65NCHZ4iusDRslYLF1JRVLw8UWQB76eTBagRtRws_0rcNcz4cSWMBZ1BNW-AaGInN5TFohzHhOQfNeLldtywiqWCOH3m2wHCRc0p47kgU111qenoN8Rd4JQ%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%22%2C%22trackingId%22%3A%2283e6840e-8f47-4618-a2e7-4ddfd0176035%22%7D%2C%22time%22%3A1790759851373%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_view_base_recent_activity_content_view%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+        - generic [ref=f172e989]:
+          - generic [ref=f172e993]:
+            - heading "People you may know" [level=2] [ref=f172e994]
+            - paragraph [ref=f172e996]:
+              - generic [ref=f172e997]: From Benita's industry
+          - generic [ref=f172e998]:
+            - list [ref=f172e999]:
+              - listitem [ref=f172e1000]:
+                - generic [ref=f172e1001]:
+                  - link [ref=f172e1003] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/tracey-wright-26002945
+                    - img "Tracey Wright" [ref=f172e1006]
+                  - generic [ref=f172e1007]:
+                    - link "Tracey Wright Founder & Lead Facilitator | Nature, challenge & human capacity | Leadership development, workplace wellbeing & regenerative systems | Take Shape Adventures + Impact Adventures | MAPP" [ref=f172e1009] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/tracey-wright-26002945?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAlvsCgB0-d0dAdEEk2fevMuiSjLQcCxH60
+                      - generic [ref=f172e1010]: Tracey Wright
+                      - generic [ref=f172e1019]: Founder & Lead Facilitator | Nature, challenge & human capacity | Leadership development, workplace wellbeing & regenerative systems | Take Shape Adventures + Impact Adventures | MAPP
+                    - list [ref=f172e1025]:
+                      - listitem [ref=f172e1026]:
+                        - button "Invite Tracey Wright to connect" [ref=f172e1028] [cursor=pointer]:
+                          - generic [ref=f172e1031]: Connect
+              - listitem [ref=f172e1032]:
+                - generic [ref=f172e1033]:
+                  - link [ref=f172e1035] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/loukeisha-huff-5b220b437
+                    - img "Loukeisha Huff" [ref=f172e1038]
+                  - generic [ref=f172e1039]:
+                    - link "Loukeisha Huff Co Author at Herpreneur Group" [ref=f172e1041] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/loukeisha-huff-5b220b437?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAG4zFZYBX06f6ajsDYZB1ZyukQrxjEKXsM4
+                      - generic [ref=f172e1042]: Loukeisha Huff
+                      - generic [ref=f172e1051]: Co Author at Herpreneur Group
+                    - list [ref=f172e1057]:
+                      - listitem [ref=f172e1058]:
+                        - button "Invite Loukeisha Huff to connect" [ref=f172e1060] [cursor=pointer]:
+                          - generic [ref=f172e1063]: Connect
+              - listitem [ref=f172e1064]:
+                - generic [ref=f172e1065]:
+                  - link [ref=f172e1067] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/cathy-smith
+                    - img "Cathy Smith" [ref=f172e1070]
+                  - generic [ref=f172e1071]:
+                    - link "Cathy Smith Business Coach at Cathy Smith Coaching. The Coaches Coach ✔️ Author of Coaches Marketing Roadmap✔️ Business Coach ✔️ Helping coaches build a thriving coaching practice without burnout" [ref=f172e1073] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/cathy-smith?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAARbXEcBOgUYDO8vINT4QwmSNBwjDasdMn8
+                      - generic [ref=f172e1074]: Cathy Smith
+                      - generic [ref=f172e1079]: Business Coach at Cathy Smith Coaching. The Coaches Coach ✔️ Author of Coaches Marketing Roadmap✔️ Business Coach ✔️ Helping coaches build a thriving coaching practice without burnout
+                    - list [ref=f172e1085]:
+                      - listitem [ref=f172e1086]:
+                        - button "Invite Cathy Smith to connect" [ref=f172e1088] [cursor=pointer]:
+                          - generic [ref=f172e1091]: Connect
+              - listitem [ref=f172e1092]:
+                - generic [ref=f172e1093]:
+                  - link "lauren caldwell" [ref=f172e1095] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/lauren-caldwell-17171a434
+                  - generic [ref=f172e1100]:
+                    - link "lauren caldwell Trainer/Consultant at Workplace Emergency Management" [ref=f172e1102] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/lauren-caldwell-17171a434?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAG29qWUBjydQd5ntiikdBfFCCx54rEU7mBs
+                      - generic [ref=f172e1103]: lauren caldwell
+                      - generic [ref=f172e1108]: Trainer/Consultant at Workplace Emergency Management
+                    - list [ref=f172e1114]:
+                      - listitem [ref=f172e1115]:
+                        - button "Invite lauren caldwell to connect" [ref=f172e1117] [cursor=pointer]:
+                          - generic [ref=f172e1120]: Connect
+              - listitem [ref=f172e1121]:
+                - generic [ref=f172e1122]:
+                  - link [ref=f172e1124] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kirsty-leadership-founder-coach-sydney
+                    - img "Kirsty Allen" [ref=f172e1127]
+                  - generic [ref=f172e1128]:
+                    - link "Kirsty Allen Founder Leadership Coach | From Overdrive to Integrated Leader | Lead with Clarity, Authority & Care Under Pressure" [ref=f172e1130] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/kirsty-leadership-founder-coach-sydney?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAA5E8ysBB5QIv7WX7v4m20FYzqzaF_9uvYg
+                      - generic [ref=f172e1131]: Kirsty Allen
+                      - generic [ref=f172e1140]: Founder Leadership Coach | From Overdrive to Integrated Leader | Lead with Clarity, Authority & Care Under Pressure
+                    - list [ref=f172e1146]:
+                      - listitem [ref=f172e1147]:
+                        - button "Invite Kirsty Allen to connect" [ref=f172e1149] [cursor=pointer]:
+                          - generic [ref=f172e1152]: Connect
+            - button "Show more" [ref=f172e1155] [cursor=pointer]
+        - generic [ref=f172e1161]:
+          - iframe [ref=f172e1379]:
+            - main "Work With Us Container" [ref=f174e3]:
+              - generic [ref=f174e7]:
+                - img "Kelly" [ref=f174e8]
+                - link [ref=f174e9] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=http%3A%2F%2Fwww.linkedin.com%2Fcompany%2F573780%2Flife&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg8Zr5EF_cyItUKyvPEOGBXAMfjcpaqyf-VWIq7uyuuQpoiJvt-6It8IH68qHdvd8MX1tMo7CGFtqn9JgOXakTbELy68L7bhnFdRkim58Sh578XDgTd-4kVkrc06931eGXhjrWridEbKmHAe-K6uJ1KZEAwkVQhYDvpVsKPJMGSugpasR-WTa12wmPEqhL1CFiw6M8maH4BLxiXSbCpwGfTwAh_iiZjmguqFztxGbzBi-NymjRqQcbW2jRc3z2Wggryv9_0f57ftBP5kSgleiP4L5BkjMVpE-rkAoJhveH4jv6BiRC5vrVh5Wmjc5rXOKaB5lnmpcuqIXyOU-AosydlnxCdyNWZ8vp4PUDGAKTFcAdj8Q1c0oWTTH5maMuFl1HudaPfBAnokpZ-LR-Xqx1N0WQHtz5J96qsZuCPfxmlHdCYuLxlFWnSCHl5ZA7KvyTLyMwq0xeH7wPYHAQRieAI6E1DG_CaD3w_WjHUxWjId9qRUDByTIJrsTBN9n5pAim_T1ImL_OzVQ_3xtGwbbhTQflSH-SRRpiU6dkn9Cg_iAmMtY2tAgQYouQliyzrq24xEC4em3MYvlUTHHqe6Ka0MuPThxmmUekATEtdud_F3qOwJGiNL78eAlEljUO9HfoKcifafw_e9h6pgCn5zwWv3LiXBDWNJaO7Ts-LyWit4Tx8swc54as9wnqJZaQNfQg4DOWtq2I988DwU9TVyYY5gS5gGWBta812UBsB5i0OZrmQzfQby-IV52vz8eqRagF5Qhvhn99nvINpLkxpTtisq6a5K0md3Oe3CHrz6ywsaYEX7ArGnpaohh32oSi-xyKSaQu6UTm7-xodpRa3rTlBzUV6DIeancWxX-Kgso-w6vbv1A5RNwvgp51UFPZtoZ2qSaj3ttRNWQT3M55FTgwL5Haaj5UXGAaY_ZmEV4ZxgceENktXtG3npO2NBWWnqpxveHhjPNrTAE4bHo91cYNrZHj0vhY0N9mhg4q2GAT_ApwK8vHl0aFUrjuiLxteUrAWgCd64hCO7o5RXIWt-KqE4gMcOHckcrBxLGR6KKYyTNC0vy4D4xKa3WWWXirhzt3nfiMV3VDFXKTxipQGuYndfFQ-yO4Veb1VoxnvSZ-5dnx4OPpIL_PnO7VoNrlZ3QIIO3EiEtx1RS8oJr32JjlYlMyJlSqHoHvbpOzVYIB1pt5kWeBTwk6%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%22%2C%22trackingId%22%3A%22a9880d81-80fa-461e-b049-21fa17e82bed%22%7D%2C%22time%22%3A1790759860434%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_view_base_recent_activity_content_view%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+                  - img "VicRoads" [ref=f174e10]
+              - generic [ref=f174e11]:
+                - generic [ref=f174e12]:
+                  - paragraph [ref=f174e13]: Kelly, explore relevant opportunities with VicRoads
+                  - paragraph [ref=f174e14]: Get the latest jobs and industry news
+                - link "Follow" [ref=f174e15] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=http%3A%2F%2Fwww.linkedin.com%2Fcompany%2F573780%2Flife%3FisFollowingPage%3Dtrue&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGg8Zr5ETdfUU3VTuZtIuVMtbi404ASJ_2KJ_PfQDy8vRTyz5ua8hEk27hJ-un2WqeTHjCR_GzsbsWlcIfOI9YIsNzlRt3sK-AYOP3dImD1GbxVW5N6X6pouhIHsKTR_1XbFqgkFs0vTCl2b53wTrjl664vF-oLfr4yYOuiwxZIlSFRyv8bD2ONshxHcpNbV3CRUfN4-qAs8rP62_Ioadl4CkDRv39xaPRZ3CocSNbTQNZ7EU-SPWCdmHb7Tibi-RG_GXa-f8XhbMiqAFS3iJgopxV3OJBXXZ0rm4fGmSBHoxYJaTMvqy2VWoI3iP9YT6RoU7k2oBRUdo94gYER42GF5o6QASxXn5iHvhluMxdbOmNdXhiBsjVfyBsBoQVqOU1dQ_oEYgQ4HwWYppKGbGGTiatpID49eKQbhZ3PQNMGLSbMg9NF0jJtX10a-6UEDtlR0cCEeA8wrPjH0AyBKywKgIYOtDCCJtbzdmsEGDD_OegO45fwtiV0ZhoQMIXAG-4vgHNYtvh-izxPwKX6YoAhaq3bp3drfTL6o7iqbBrus2BDs-duxoQmoLTpZEoij5uc-6OKhqctIZqvq2yjJ-wfTWAUxorZ4xcLJsHihglyw465TGNpV5V-ShVAO1ozFpR-N5ZUBTvbOxIjO_lRt3mlize6GTZ-0HvA2Jtjk3GgyaqUYH0t56cG43LzQXw9JmwiML1jN5SzV-DzdslbEvH2hPxYNaCH983zbtFVU_-RIoPpw7Gxj58IvlBeDSBn_xm-_mZULb6aHP6zNS17nbIuV43b_BRzSGhqgP5PdTX5H9FlM7zWkhOc_BlcnBqvNxxC6NodWMFiMsdiqsrldioUohYrvdIWp7ouGQ8UjaE6vyiiCmfexeHQ5j5E8AE6dRw6Q2Aq8eBqLayH7-ARvZzR36AlOgmxQkofoEESt0QxMwuiwA-PQtQf8MnhCXSE9KDdgBld9fjD26ILSYXnXph564TzMemI7E7cUnX1gRxqgs1ViaCIDH3hhIqJaeFkZnqMEsKnWQV079myqGrinztv-5nojMFgQRcOaf51PkJUfbganpm95USRe67NzVXvhv2iWlY-x6wH2-gCxFKNmZ4H-U-73_XI9FRKzs_4Qhm6xx0PXvGO5dDa2TGlvf_Fzz7FH7EJEnQpkuaxkYlP_PZ_PE7X9w-lXrtGbPdyKyFurfkVNrusl9mPecp7QGajyUgrpYDW5VhpwBWeIb921iK8aLhsFG0UvQ%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%22%2C%22trackingId%22%3A%227422b906-7f57-4f9c-b169-fd5dbc8473de%22%7D%2C%22time%22%3A1790759860434%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_view_base_recent_activity_content_view%22%2C%22interfaceLocale%22%3A%22en-US%22%7D%7D%7D%5D&csrfToken=ajax%3A6729468156343823666
+              - generic [ref=f174e16]:
+                - paragraph [ref=f174e17]: Promoted
+                - button "Ad Options" [ref=f174e18] [cursor=pointer]
+          - generic "LinkedIn Footer Content" [ref=f172e1163]:
+            - generic [ref=f172e1164]:
+              - list [ref=f172e1165]:
+                - listitem [ref=f172e1166]:
+                  - link "About" [ref=f172e1167] [cursor=pointer]:
+                    - /url: https://about.linkedin.com/
+                - listitem [ref=f172e1169]:
+                  - link "Accessibility" [ref=f172e1170] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/accessibility
+                - listitem [ref=f172e1172]:
+                  - link "Help Center" [ref=f172e1173] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/help/linkedin?trk=footer_d_flagship3_profile_view_base_recent_activity_content_view
+                - listitem [ref=f172e1175]:
+                  - button "Privacy & Terms" [ref=f172e1177] [cursor=pointer]
+                - listitem [ref=f172e1182]:
+                  - link "Ad Choices" [ref=f172e1183] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/help/linkedin/answer/62931
+                - listitem [ref=f172e1185]:
+                  - link "Advertising" [ref=f172e1186] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/ad/start?trk=n_nav_ads_rr
+                - listitem [ref=f172e1188]:
+                  - button "Business Services" [ref=f172e1190] [cursor=pointer]
+                - listitem [ref=f172e1195]:
+                  - button "Get the LinkedIn app" [ref=f172e1198] [cursor=pointer]
+                - listitem [ref=f172e1199]:
+                  - button "More options" [ref=f172e1200] [cursor=pointer]: More
+              - generic [ref=f172e1201]:
+                - img "LinkedIn" [ref=f172e1202]
+                - text: LinkedIn Corporation © 2026
+    - generic:
+      - generic:
+        - complementary:
+          - generic [ref=f172e1205]:
+            - generic [ref=f172e1206]:
+              - generic [ref=f172e1208] [cursor=pointer]:
+                - img "Kelly Irving" [ref=f172e1210]
+                - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f172e1211]:
+                  - generic [ref=f172e1212]:
+                    - generic [aria-hidden] [ref=f172e1213]: Messaging
+                    - generic [ref=f172e1214]: You are on the messaging overlay. Press enter to open the list of conversations.
+              - generic [ref=f172e1215]:
+                - button [ref=f172e1217] [cursor=pointer]:
+                  - img "Open messenger dropdown menu" [ref=f172e1218]
+                - button "Compose message" [ref=f172e1221] [cursor=pointer]
+                - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f172e1225] [cursor=pointer]
+            - generic [ref=f172e1229]:
+              - heading "Page inboxes" [level=3] [ref=f172e1231]
+              - generic [ref=f172e1232] [cursor=pointer]:
+                - generic [ref=f172e1233]: Click to see affiliated inboxes
+                - button "Page inboxes" [ref=f172e1234]
+          - dialog "Messaging" [ref=f172e1237]:
+            - generic [ref=f172e1238]:
+              - generic [ref=f172e1239] [cursor=pointer]:
+                - generic [ref=f172e1241]:
+                  - img "Veronica Millen - PCC" [ref=f172e1244]
+                  - heading "Veronica Millen - PCC" [level=2] [ref=f172e1246]
+                - button "Close your conversation with Veronica Millen - PCC and Kelly Irving" [ref=f172e1248]
+              - generic [ref=f172e1253]:
+                - list [ref=f172e1258]:
+                  - listitem
+                  - listitem [ref=f172e1259]:
+                    - time [ref=f172e1260]: Aug 2, 2022
+                    - generic [ref=f172e1261]: Kelly Irving sent the following messages at 10:49 AM
+                    - generic [ref=f172e1262]:
+                      - link "View Kelly’s profile Kelly Irving" [ref=f172e1263] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                        - generic [ref=f172e1264]: View Kelly’s profile
+                        - img "Kelly Irving" [ref=f172e1265]
+                      - generic [ref=f172e1266]:
+                        - generic [ref=f172e1267]:
+                          - link "Kelly Irving" [ref=f172e1268] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/in/ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                          - img "LinkedIn Premium" [ref=f172e1270]
+                        - time [ref=f172e1273]: • 10:49 AM
+                      - generic [ref=f172e1275]:
+                        - paragraph [ref=f172e1277]: Hi Veronica,I'm reaching out to you as my work involves helping thought leaders, such as yourself, write and publish books.Some of my clients include Peter Cook, Janine Garner, Mykel Dixon and Penny Locaso.Would love to stay in touch.Kelly
+                        - generic "Sent at 8/2/2022, 10:49 AM" [ref=f172e1278]
+                  - listitem [ref=f172e1281]:
+                    - generic [ref=f172e1282]:
+                      - link "View Kelly’s profile Kelly Irving" [ref=f172e1283] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                        - generic [ref=f172e1284]: View Kelly’s profile
+                        - img "Kelly Irving" [ref=f172e1285]
+                      - generic [ref=f172e1286]:
+                        - generic [ref=f172e1287]:
+                          - link "Kelly Irving" [ref=f172e1288] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/in/ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                          - img "LinkedIn Premium" [ref=f172e1290]
+                        - time [ref=f172e1293]: • 11:45 AM
+                      - generic [ref=f172e1295]:
+                        - paragraph [ref=f172e1297]: Thanks for connecting Veronica. I'm looking forward to finding out more about you and exchanging mutual value. 😃
+                        - generic "Sent at 8/2/2022, 11:45 AM" [ref=f172e1298]
+                  - listitem [ref=f172e1301]:
+                    - time [ref=f172e1302]: Today
+                    - generic [ref=f172e1303]: Veronica Millen - PCC sent the following messages at 3:22 PM
+                    - generic [ref=f172e1304]:
+                      - link "View Veronica’s profile Veronica Millen - PCC" [ref=f172e1305] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/ACoAAAIC_AABccPdFFYJLD-oqU5kc1c_Txg6Bgw
+                        - generic [ref=f172e1306]: View Veronica’s profile
+                        - img "Veronica Millen - PCC" [ref=f172e1307]
+                      - generic [ref=f172e1308]:
+                        - generic [ref=f172e1309]:
+                          - link "Veronica Millen - PCC" [ref=f172e1310] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/in/ACoAAAIC_AABccPdFFYJLD-oqU5kc1c_Txg6Bgw
+                          - img "LinkedIn Premium" [ref=f172e1312]
+                        - time [ref=f172e1315]: • 3:22 PM
+                      - paragraph [ref=f172e1319]: Hi Kelly, hope you are well. I am looking to update my book maybe a second edition and I was wondering if that is something you might be able to assist me with and if so how that could work? Many thanks, Veronica
+                  - listitem [ref=f172e1320]
+                  - listitem [ref=f172e1321]:
+                    - generic [ref=f172e1322]:
+                      - button "Scroll quick replies left" [disabled] [ref=f172e1323]
+                      - list [ref=f172e1324]:
+                        - listitem [ref=f172e1325]:
+                          - button "Reply to conversation with “Hi, Veronica ”" [ref=f172e1326] [cursor=pointer]:
+                            - generic [aria-hidden]: Hi, Veronica
+                        - listitem [ref=f172e1328]:
+                          - button "Reply to conversation with “Hey, Veronica ”" [ref=f172e1329] [cursor=pointer]:
+                            - generic [aria-hidden]: Hey, Veronica
+                        - listitem [ref=f172e1331]:
+                          - button "Reply to conversation with “Of course”" [ref=f172e1332] [cursor=pointer]:
+                            - generic [aria-hidden]: Of course
+                      - button "Scroll quick replies right" [ref=f172e1334] [cursor=pointer]
+                  - listitem
+                - generic [ref=f172e1338]:
+                  - generic [ref=f172e1339]:
+                    - generic [ref=f172e1341]:
+                      - textbox "Write a message…" [ref=f172e1342]:
+                        - paragraph [ref=f172e1343]
+                      - text: Write a message…
+                    - button "Maximize compose field" [ref=f172e1345] [cursor=pointer]
+                  - generic [ref=f172e1349]:
+                    - generic [ref=f172e1350]:
+                      - button "Attach an image to your conversation with Veronica Millen - PCC" [ref=f172e1352] [cursor=pointer]
+                      - button "Attach a file to your conversation with Veronica Millen - PCC" [ref=f172e1357] [cursor=pointer]
+                      - button "Open GIF Keyboard" [ref=f172e1362] [cursor=pointer]
+                      - button "Open Emoji Keyboard" [ref=f172e1368] [cursor=pointer]
+                    - generic [ref=f172e1370]:
+                      - generic [ref=f172e1371]: Press Enter to Send
+                      - button "Open send options" [ref=f172e1375] [cursor=pointer]
+        - complementary "AI-powered assistant to get help with your career, jobs etc"

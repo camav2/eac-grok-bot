@@ -1,0 +1,390 @@
+- generic [ref=f115e2]:
+  - heading "0 notifications" [level=2] [ref=f115e3]
+  - generic [ref=f115e4]:
+    - generic:
+      - generic "Skip navigation menu":
+        - button "Close jump menu" [ref=f115e6] [cursor=pointer]
+    - generic [ref=f115e9]:
+      - banner [ref=f115e11]:
+        - generic [ref=f115e14]:
+          - button [ref=f115e15] [cursor=pointer]
+          - generic [ref=f115e17]:
+            - status [ref=f115e18]
+            - search [ref=f115e19]:
+              - textbox "I'm looking for…" [ref=f115e23]
+          - generic [ref=f115e25]:
+            - navigation [ref=f115e29]:
+              - list [ref=f115e30]:
+                - listitem [ref=f115e31]:
+                  - button "Home, 1 new notification" [ref=f115e32] [cursor=pointer]:
+                    - generic [ref=f115e36]: Home
+                - listitem [ref=f115e38]:
+                  - link "My Network, 41 new notifications" [ref=f115e39] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork
+                    - generic [ref=f115e40]: "41"
+                    - generic [ref=f115e44]: My Network
+                - listitem [ref=f115e46]:
+                  - link "Jobs, 0 new notifications" [ref=f115e47] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/
+                    - generic [ref=f115e51]: Jobs
+                - listitem [ref=f115e53]:
+                  - link "Messaging, 0 new notifications" [ref=f115e54] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/messaging/
+                    - generic [ref=f115e58]: Messaging
+                - listitem [ref=f115e60]:
+                  - link "Notifications, 19 new notifications" [ref=f115e61] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/notifications/
+                    - generic [ref=f115e62]: "19"
+                    - generic [ref=f115e66]: Notifications
+                - listitem [ref=f115e68]:
+                  - button "Me" [ref=f115e69] [cursor=pointer]:
+                    - figure [aria-hidden] [ref=f115e71]
+            - navigation [ref=f115e77]:
+              - list [ref=f115e78]:
+                - listitem [ref=f115e79]:
+                  - button "For Business" [ref=f115e80] [cursor=pointer]
+                - listitem [ref=f115e87]:
+                  - link "Advertise, 3 new notifications" [ref=f115e88] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/campaignmanager/accounts/
+                    - generic [ref=f115e89]: "3"
+                    - generic [ref=f115e92]: Advertise
+      - main [ref=f115e96]:
+        - generic [ref=f115e98]:
+          - complementary "Sidebar" [ref=f115e99]:
+            - generic [ref=f115e102]:
+              - generic [ref=f115e106]:
+                - link [ref=f115e107] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/kelly-irving/
+                  - generic [ref=f115e108]:
+                    - generic [ref=f115e109]:
+                      - figure [aria-hidden] [ref=f115e110]
+                      - paragraph [ref=f115e112]: Premium
+                    - figure [ref=f115e115]
+                - generic [ref=f115e116]:
+                  - link [ref=f115e117] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic "Kelly Irving, Book coach and editor for changemakers and trailblazers / Publishing gymnast, Anglesea, Victoria, Premium profile" [ref=f115e118]:
+                      - paragraph [ref=f115e121]: Kelly Irving
+                      - paragraph [ref=f115e124]: Book coach and editor for changemakers and trailblazers / Publishing gymnast
+                      - paragraph [ref=f115e125]: Anglesea, Victoria
+                  - link [ref=f115e126] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic [ref=f115e127]:
+                      - figure [aria-hidden] [ref=f115e128]
+                      - paragraph [ref=f115e129]: Expert Author Community
+              - generic [ref=f115e131]:
+                - menu [ref=f115e132]:
+                  - link [ref=f115e134] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/me/profile-views/
+                    - generic "Profile viewers 279" [ref=f115e135]:
+                      - paragraph [ref=f115e137]: Profile viewers
+                      - paragraph [ref=f115e138]: "279"
+                  - link [ref=f115e140] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/analytics/creator/content/
+                    - generic "Post impressions 1,521" [ref=f115e141]:
+                      - paragraph [ref=f115e143]: Post impressions
+                      - paragraph [ref=f115e144]: 1,521
+                - menu [ref=f115e145]:
+                  - link [ref=f115e147] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/premium/my-premium/
+                    - paragraph [ref=f115e150]: Your Premium features
+          - region "Primary content" [ref=f115e151]:
+            - generic [ref=f115e157]:
+              - listitem [ref=f115e161]:
+                - generic [ref=f115e163]:
+                  - heading "Feed post" [level=2]
+                  - generic [ref=f115e165]:
+                    - link [ref=f115e166] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/emma-lagerlow-4a2849/
+                      - figure [ref=f115e167]
+                    - generic [ref=f115e169]:
+                      - link [ref=f115e172] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/emma-lagerlow-4a2849/
+                        - generic "Emma Lagerlow Verified Profile 1st" [ref=f115e174]:
+                          - paragraph [ref=f115e177]: Emma Lagerlow
+                          - paragraph [ref=f115e179]:
+                            - generic [ref=f115e180]: • 1st
+                      - paragraph [ref=f115e184]: Media Consultant | Communications Professional | Author | Podcast Host | Coach
+                      - paragraph [ref=f115e186]: 2w
+                      - link "Emma Lagerlow Verified Profile 1st":
+                        - /url: https://www.linkedin.com/in/emma-lagerlow-4a2849/
+                    - button "Open control menu for post by Emma Lagerlow" [ref=f115e187] [cursor=pointer]
+                  - paragraph [ref=f115e190]:
+                    - generic [ref=f115e191]:
+                      - text: Such a great conversation with
+                      - link "View Susan Hunter’s profile" [ref=f115e193] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/susan-hunter-health/
+                        - strong [ref=f115e194]: Susan Hunter
+                      - text: about health, wellbeing and why more isn’t always better.And perfect timing, with Susan’s new book The Health Edit out this week.Thanks for joining me on It’s a Mindset, Susan. I loved this conversation. 🎙️I’ve added the links to listen in the comments below. 🔗
+                  - generic [ref=f115e195]:
+                    - generic [ref=f115e196]:
+                      - link [ref=f115e197] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/susan-hunter-health/
+                        - figure [ref=f115e198]
+                      - generic [ref=f115e200]:
+                        - link [ref=f115e203] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/susan-hunter-health/
+                          - generic "Susan Hunter Premium Profile 1st" [ref=f115e205]:
+                            - paragraph [ref=f115e208]: Susan Hunter
+                            - paragraph [ref=f115e210]:
+                              - generic [ref=f115e211]: • 1st
+                        - paragraph [ref=f115e215]: Author of The Health Edit, Speaker, Podcast Host & Women’s Health Strategist
+                        - link [ref=f115e219] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/services/page/a283773078b67a8862/
+                          - paragraph [ref=f115e220]: View my services
+                        - paragraph [ref=f115e222]: 3w
+                        - link "Susan Hunter Premium Profile 1st":
+                          - /url: https://www.linkedin.com/in/susan-hunter-health/
+                    - link:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:share:7503239188084084737/
+                    - paragraph [ref=f115e223]:
+                      - link "I recently joined" [ref=f115e224] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/feed/update/urn:li:share:7503239188084084737/
+                      - link "View Emma Lagerlow’s profile" [ref=f115e226] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/emma-lagerlow-4a2849/
+                        - strong [ref=f115e227]:
+                          - strong [ref=f115e228]: Emma Lagerlow
+                      - text: "on the It’s a Mindset podcast to talk about why caring for our health has become so complicated, and why more information, more tracking and more things to do don’t always lead to better health.We spoke about:• Why Gen X women have become some of the wellness industry’s most overwhelmed consumers• How to identify the area of your health that needs your attention most• why one meaningful change can be more effective than trying to overhaul everything at once• When tracking can disconnect us from how we actually feel• The health foundations that still matter, even when they aren’t new or exciting• Why midlife can be an opportunity to become more intentional about our health and the way we want to liveThis conversation goes to the heart of why I wrote The Health Edit: looking after your health shouldn’t require you to make it your entire life.Thank you, Emma, for such a thoughtful and great conversation!Listen to the episode via the link in comments!"
+                    - link [ref=f115e231] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - figure [ref=f115e232]:
+                        - img "View image" [ref=f115e233]
+                  - generic [ref=f115e234]:
+                    - link [ref=f115e235] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "Switch to different account" [ref=f115e236]:
+                        - figure [aria-hidden] [ref=f115e237]
+                    - generic [ref=f115e239]:
+                      - 'button "Reaction button state: Like" [ref=f115e242] [cursor=pointer]':
+                        - generic [ref=f115e243]: "16"
+                      - button "Open reactions menu"
+                    - button "Comment" [ref=f115e248] [cursor=pointer]:
+                      - generic [ref=f115e249]: "4"
+                    - button "Repost" [ref=f115e254] [cursor=pointer]
+                    - link "Send" [ref=f115e257] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                    - link [ref=f115e260] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "16 reactions" [ref=f115e261]
+                - generic [ref=f115e270]:
+                  - status [ref=f115e273]
+                  - generic [ref=f115e274]:
+                    - button "Show Emoji Picker" [ref=f115e275] [cursor=pointer]
+                    - button "Open GIF picker" [ref=f115e280] [cursor=pointer]
+                    - button "Share photo" [ref=f115e283] [cursor=pointer]
+              - link:
+                - /url: https://www.linkedin.com/
+              - generic [ref=f115e286]:
+                - link:
+                  - /url: https://www.linkedin.com/
+                - generic [ref=f115e287]:
+                  - link:
+                    - /url: https://www.linkedin.com/
+                  - link [ref=f115e288] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic "Kelly Irving reacted with Like" [ref=f115e289]:
+                      - figure [aria-hidden] [ref=f115e290]
+                  - link [ref=f115e292] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/lisamerryweather/
+                    - generic "Lisa Merryweather reacted with Like" [ref=f115e293]:
+                      - figure [aria-hidden] [ref=f115e294]
+                  - link [ref=f115e296] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/clintrahe/
+                    - generic "Clint Rahe reacted with Like" [ref=f115e297]:
+                      - figure [aria-hidden] [ref=f115e298]
+                  - link [ref=f115e300] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kate-purificacion/
+                    - generic "Kate Purificacion reacted with Like" [ref=f115e301]:
+                      - figure [aria-hidden] [ref=f115e302]
+                  - link [ref=f115e304] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/susan-hunter-health/
+                    - generic "Susan Hunter reacted with Love" [ref=f115e305]:
+                      - figure [aria-hidden] [ref=f115e306]
+                  - link [ref=f115e308] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/fayeevans/
+                    - generic "Faye Evans reacted with Like" [ref=f115e309]:
+                      - figure [aria-hidden] [ref=f115e310]
+                  - link [ref=f115e312] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/unna-goldsworthy/
+                    - generic "Unna Goldsworthy reacted with Like" [ref=f115e313]:
+                      - figure [aria-hidden] [ref=f115e314]
+                  - link [ref=f115e316] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/karentisdell/
+                    - generic "Karen Tisdell reacted with Love" [ref=f115e317]:
+                      - figure [aria-hidden] [ref=f115e318]
+                  - link "View all reactions" [ref=f115e320] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/
+              - button [ref=f115e324] [cursor=pointer]:
+                - paragraph [ref=f115e328]: Most relevant
+              - generic [ref=f115e334]:
+                - link [ref=f115e336] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/emma-lagerlow-4a2849/
+                  - figure [ref=f115e337]
+                - generic [ref=f115e338]:
+                  - generic [ref=f115e340]:
+                    - link [ref=f115e341] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/emma-lagerlow-4a2849/
+                      - generic [ref=f115e342]:
+                        - generic [ref=f115e343]:
+                          - paragraph [ref=f115e346]: Emma Lagerlow
+                          - paragraph [ref=f115e347]: Author
+                        - paragraph [ref=f115e349]: Media Consultant | Communications Professional | Author | Podcast Host | Coach
+                    - paragraph [ref=f115e351]: 2w
+                    - button "View more options for Emma Lagerlow’s comment." [ref=f115e352] [cursor=pointer]
+                  - generic [ref=f115e356]:
+                    - paragraph [ref=f115e358]:
+                      - generic [ref=f115e359]:
+                        - text: "🎧 Listen on Apple Podcast:"
+                        - link "Open https://podcasts.apple.com/au/podcast/its-a-mindset/id1715644781?i=1000788520023" [ref=f115e361] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fpodcasts%2Eapple%2Ecom%2Fau%2Fpodcast%2Fits-a-mindset%2Fid1715644781%3Fi%3D1000788520023&urlhash=5TKY&mt=W2WV9QQKLz8SBvm6sr0arSRgqJxigilGUvQ05H0YGzCyIh2Odd53fRwTGf8dUC2ohpLzslw7SMqJ_uL5hDa838kv2s4pbHouo94QoZtdZnWB5YPx2TjTIcJD13PKS7szl5KJ2Y2X2zAIF5gWbyDgnNpUDDXrvxKL&isSdui=true
+                          - strong [ref=f115e362]: https://podcasts.apple.com/au/podcast/its-a-mindset/id1715644781?i=1000788520023
+                    - link [ref=f115e364] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fpodcasts%2Eapple%2Ecom%2Fau%2Fpodcast%2Fepisode-109-when-wellness-becomes-overwhelming-rethinking%2Fid1715644781%3Fi%3D1000788520023&urlhash=Xw6g&mt=YiEYtvD499aKwJu1i04BSnlwaJ21nErkn6V932ucSIuelJKRGmh9vvR4QHb8OzDOlts_3D-kbSmLWg8ynQ9BVUC2nqwxnR9tbfANPFrrbrp6uBCpmINcDWwjJk9PuId1jlKGtzQ0CS27ttPPwk6TUT0Lo-T7baxW&isSdui=true
+                      - generic [ref=f115e365]:
+                        - figure [aria-hidden] [ref=f115e366]
+                        - generic [ref=f115e367]:
+                          - paragraph [ref=f115e369]: It's a Mindset
+                          - paragraph [ref=f115e371]: podcasts.apple.com
+                  - generic [ref=f115e373]:
+                    - generic [ref=f115e374]:
+                      - generic [ref=f115e375]:
+                        - button "2 reactions" [ref=f115e378] [cursor=pointer]:
+                          - paragraph [ref=f115e382]:
+                            - generic [ref=f115e383]:
+                              - generic [ref=f115e384]: 2 reactions
+                              - text: "2"
+                        - button "Open reactions menu"
+                      - button "Reply" [ref=f115e386] [cursor=pointer]
+                    - link [ref=f115e389] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+              - generic [ref=f115e396]:
+                - link [ref=f115e398] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/emma-lagerlow-4a2849/
+                  - figure [ref=f115e399]
+                - generic [ref=f115e400]:
+                  - generic [ref=f115e402]:
+                    - link [ref=f115e403] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/emma-lagerlow-4a2849/
+                      - generic [ref=f115e404]:
+                        - generic [ref=f115e405]:
+                          - paragraph [ref=f115e408]: Emma Lagerlow
+                          - paragraph [ref=f115e409]: Author
+                        - paragraph [ref=f115e411]: Media Consultant | Communications Professional | Author | Podcast Host | Coach
+                    - paragraph [ref=f115e413]: 2w
+                    - button "View more options for Emma Lagerlow’s comment." [ref=f115e414] [cursor=pointer]
+                  - paragraph [ref=f115e420]:
+                    - generic [ref=f115e421]:
+                      - text: "🎧 Listen on Spotify:"
+                      - link "Open https://open.spotify.com/episode/0BflqB3CPY0VrKOeoAp29i?si=9d7b22c8888a416d" [ref=f115e423] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fopen%2Espotify%2Ecom%2Fepisode%2F0BflqB3CPY0VrKOeoAp29i%3Fsi%3D9d7b22c8888a416d&urlhash=72H5&mt=bYi8CYXLSEcgzm496yFaQ0Sf-Sdl1rfGapAj6CWFynLlcWHcM8ZeEcAnUp_-l2uUlzoOKDmcNVA4R8Xh5emjI40dHL176o16pfE0V8KU9EtrSEffbkHRPKarxFcZo2AF-qBNCE_yk0DzLUNJQWltRPQkjx__KbnC&isSdui=true
+                        - strong [ref=f115e424]: https://open.spotify.com/episode/0BflqB3CPY0VrKOeoAp29i?si=9d7b22c8888a416d
+                  - generic [ref=f115e426]:
+                    - generic [ref=f115e427]:
+                      - generic [ref=f115e428]:
+                        - button "1 reaction" [ref=f115e431] [cursor=pointer]:
+                          - paragraph [ref=f115e435]:
+                            - generic [ref=f115e436]:
+                              - generic [ref=f115e437]: 1 reaction
+                              - text: "1"
+                        - button "Open reactions menu"
+                      - button "Reply" [ref=f115e439] [cursor=pointer]
+                    - link [ref=f115e442] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+              - generic [ref=f115e448]:
+                - link [ref=f115e450] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/susan-hunter-health/
+                  - figure [ref=f115e451]
+                - generic [ref=f115e452]:
+                  - generic [ref=f115e454]:
+                    - link "Susan Hunter Premium Profile 1st Author of The Health Edit, Speaker, Podcast Host & Women’s Health Strategist" [ref=f115e455] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/susan-hunter-health/
+                      - generic [ref=f115e456]:
+                        - paragraph [ref=f115e460]:
+                          - generic [ref=f115e461]:
+                            - generic [ref=f115e462]: Susan Hunter Premium Profile 1st
+                            - generic [aria-hidden] [ref=f115e463]:
+                              - text: Susan Hunter
+                              - generic [ref=f115e466]: • 1st
+                        - paragraph [ref=f115e468]: Author of The Health Edit, Speaker, Podcast Host & Women’s Health Strategist
+                    - paragraph [ref=f115e470]: 2w
+                    - button "View more options for Susan Hunter’s comment." [ref=f115e471] [cursor=pointer]
+                  - paragraph [ref=f115e477]:
+                    - generic [ref=f115e478]:
+                      - text: Hoping I can get you on my podcast in 2027
+                      - link "View Emma Lagerlow’s profile" [ref=f115e480] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/emma-lagerlow-4a2849/
+                        - strong [ref=f115e481]: Emma Lagerlow
+                      - text: "!"
+                  - generic [ref=f115e484]:
+                    - generic [ref=f115e485]:
+                      - button "0" [ref=f115e488] [cursor=pointer]:
+                        - generic [ref=f115e489]:
+                          - generic:
+                            - paragraph:
+                              - generic: "0"
+                      - button "Open reactions menu"
+                    - generic [ref=f115e492]:
+                      - button "Reply" [ref=f115e493] [cursor=pointer]
+                      - paragraph [ref=f115e497]:
+                        - generic [ref=f115e498]:
+                          - generic [ref=f115e499]: "1"
+                          - text: "1"
+              - generic [ref=f115e504]:
+                - link [ref=f115e506] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/emma-lagerlow-4a2849/
+                  - figure [ref=f115e507]
+                - generic [ref=f115e508]:
+                  - generic [ref=f115e510]:
+                    - link [ref=f115e511] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/emma-lagerlow-4a2849/
+                      - generic [ref=f115e512]:
+                        - generic [ref=f115e513]:
+                          - paragraph [ref=f115e516]: Emma Lagerlow
+                          - paragraph [ref=f115e517]: Author
+                        - paragraph [ref=f115e519]: Media Consultant | Communications Professional | Author | Podcast Host | Coach
+                    - paragraph [ref=f115e521]: 2w
+                    - button "View more options for Emma Lagerlow’s comment." [ref=f115e522] [cursor=pointer]
+                  - paragraph [ref=f115e528]:
+                    - generic [ref=f115e529]:
+                      - link "View Susan Hunter’s profile" [ref=f115e531] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/susan-hunter-health/
+                        - strong [ref=f115e532]: Susan Hunter
+                      - text: I’d love that, Susan! Let’s definitely make it happen in 2027. 🎉 🎙️
+                  - generic [ref=f115e535]:
+                    - generic [ref=f115e536]:
+                      - button "0" [ref=f115e539] [cursor=pointer]:
+                        - generic [ref=f115e540]:
+                          - generic:
+                            - paragraph:
+                              - generic: "0"
+                      - button "Open reactions menu"
+                    - button "Reply" [ref=f115e544] [cursor=pointer]
+          - complementary "Aside" [ref=f115e626]:
+            - generic [ref=f115e632]:
+              - generic [ref=f115e633]:
+                - link [ref=f115e634] [cursor=pointer]:
+                  - /url: https://about.linkedin.com/
+                  - paragraph [ref=f115e635]: About
+                - link [ref=f115e636] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/accessibility/
+                  - paragraph [ref=f115e637]: Accessibility
+                - link [ref=f115e638] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin/
+                  - paragraph [ref=f115e639]: Help Center
+                - button [ref=f115e640] [cursor=pointer]:
+                  - paragraph [ref=f115e642]: Privacy & Terms
+                - link [ref=f115e644] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin/answer/62931/
+                  - paragraph [ref=f115e645]: Ad Choices
+                - link [ref=f115e646] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/ad/start/?trk=n_nav_ads_rr
+                  - paragraph [ref=f115e647]: Advertising
+                - button [ref=f115e648] [cursor=pointer]:
+                  - paragraph [ref=f115e650]: Business Services
+                - link [ref=f115e652] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/mobile/
+                  - paragraph [ref=f115e653]: Get the LinkedIn app
+                - link [ref=f115e654] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/
+                  - paragraph [ref=f115e655]: More
+              - paragraph [ref=f115e658]: LinkedIn Corporation © 2026
