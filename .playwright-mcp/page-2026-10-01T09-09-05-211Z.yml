@@ -1,0 +1,21 @@
+- generic [ref=f64e2]:
+  - heading "0 notifications" [level=2] [ref=f64e3]
+  - generic [ref=f64e4]:
+    - generic:
+      - generic "Skip navigation menu":
+        - button "Close jump menu" [ref=f64e6] [cursor=pointer]
+    - banner [ref=f64e11]:
+      - generic [ref=f64e14]:
+        - button [ref=f64e15] [cursor=pointer]
+        - generic [ref=f64e17]:
+          - status [ref=f64e18]
+          - search [ref=f64e19]:
+            - textbox "I'm looking for…" [ref=f64e23]
+        - navigation [ref=f64e29]:
+          - list [ref=f64e30]:
+            - listitem [ref=f64e31]:
+              - button "Home, 1 new notification" [ref=f64e32] [cursor=pointer]:
+                - generic [ref=f64e36]: Home
+            - listitem [ref=f64e38]:
+              - link "My Network, 1 new notification" [ref=f64e39] [cursor=pointer]:
+                - /url: https://www.linkedin.com/mynetwork

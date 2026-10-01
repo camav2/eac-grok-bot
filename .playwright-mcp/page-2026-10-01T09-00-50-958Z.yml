@@ -1,0 +1,99 @@
+- generic [active] [ref=f16e1]:
+  - generic:
+    - region "Toast message":
+      - heading "0 notifications total" [level=2] [ref=f16e3]
+      - alert
+  - generic [ref=f16e4]:
+    - generic [ref=f16e6]:
+      - button "Skip to search" [ref=f16e7] [cursor=pointer]
+      - button "Skip to main content" [ref=f16e9] [cursor=pointer]
+      - button "Keyboard shortcuts" [ref=f16e11] [cursor=pointer]
+      - button "Close jump menu" [ref=f16e13] [cursor=pointer]
+    - banner "Global Navigation" [ref=f16e17]:
+      - generic [ref=f16e18]:
+        - link [ref=f16e19] [cursor=pointer]:
+          - /url: https://www.linkedin.com/feed/?nis=true
+          - img "LinkedIn" [ref=f16e22]
+        - combobox "I’m looking for..." [ref=f16e28]
+        - navigation "Primary Navigation" [ref=f16e29]:
+          - list [ref=f16e30]:
+            - listitem [ref=f16e31]:
+              - link "new feed updates notifications Home" [ref=f16e32] [cursor=pointer]:
+                - /url: https://www.linkedin.com/feed/?nis=true&
+                - generic [ref=f16e33]: new feed updates notifications
+                - generic "Home" [ref=f16e42]
+            - listitem [ref=f16e43]:
+              - link "1 new network update notification My Network" [ref=f16e44] [cursor=pointer]:
+                - /url: https://www.linkedin.com/mynetwork/?
+                - generic [ref=f16e46]:
+                  - generic [aria-hidden] [ref=f16e47]: "1"
+                  - generic [ref=f16e48]: 1 new network update notification
+                - generic "My Network" [ref=f16e54]
+            - listitem [ref=f16e55]:
+              - link "Jobs" [ref=f16e56] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/?
+            - listitem [ref=f16e63]:
+              - link "Messaging" [ref=f16e64] [cursor=pointer]:
+                - /url: https://www.linkedin.com/messaging/?
+            - listitem [ref=f16e71]:
+              - link "Notifications" [ref=f16e72] [cursor=pointer]:
+                - /url: https://www.linkedin.com/notifications/?
+            - listitem [ref=f16e79]:
+              - button [ref=f16e81] [cursor=pointer]:
+                - img "Kelly Irving" [ref=f16e82]
+                - generic [ref=f16e83]: Me
+            - listitem [ref=f16e86]:
+              - button "For Business" [ref=f16e88] [cursor=pointer]
+            - listitem [ref=f16e97]:
+              - link "4 new Campaign Manager notifications Advertise" [ref=f16e98] [cursor=pointer]:
+                - /url: https://www.linkedin.com/campaignmanager/accounts?shouldShowNotificationPanelOnRender=true
+                - generic [ref=f16e100]:
+                  - generic [aria-hidden] [ref=f16e101]: "4"
+                  - generic [ref=f16e102]: 4 new Campaign Manager notifications
+                - generic "Advertise" [ref=f16e109]
+    - generic [ref=f16e115]:
+      - complementary [ref=f16e116]:
+        - generic [ref=f16e119]:
+          - img "PREMIUM" [ref=f16e124]
+          - link [ref=f16e128] [cursor=pointer]:
+            - /url: /in/michellescheibner/
+            - img "Michelle Scheibner" [ref=f16e129]
+          - generic [ref=f16e130]:
+            - link [ref=f16e131] [cursor=pointer]:
+              - /url: /in/michellescheibner/
+              - heading [level=3] [ref=f16e132]:
+                - text: Michelle Scheibner
+                - img "Michelle Scheibner is a Premium member" [ref=f16e134]
+            - heading "Strategic Identity Activator | Author of HUSH | Founder of UNBOUND | Discover the legacy life has prepared you to make | TEDx Speaker | 🌺" [level=4] [ref=f16e137]
+          - generic [ref=f16e139]:
+            - generic [ref=f16e140]:
+              - generic [ref=f16e141]: Followers
+              - generic [ref=f16e142]: 2,827
+            - button "Message Michelle" [ref=f16e145] [cursor=pointer]:
+              - generic [ref=f16e146]: Message
+      - main [ref=f16e147]:
+        - separator [ref=f16e172]
+      - complementary "Interests" [ref=f16e180]:
+        - generic "LinkedIn Footer Content" [ref=f16e244]:
+          - generic [ref=f16e245]:
+            - list
+            - generic [ref=f16e246]:
+              - img "LinkedIn" [ref=f16e247]
+              - text: LinkedIn Corporation © 2026
+    - generic:
+      - generic:
+        - complementary:
+          - generic [ref=f16e251]:
+            - generic [ref=f16e253] [cursor=pointer]:
+              - img "Kelly Irving" [ref=f16e255]
+              - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f16e256]:
+                - generic [ref=f16e257]:
+                  - generic [aria-hidden] [ref=f16e258]: Messaging
+                  - generic [ref=f16e259]: You are on the messaging overlay. Press enter to open the list of conversations.
+            - generic [ref=f16e260]:
+              - button [ref=f16e262] [cursor=pointer]:
+                - img "Open messenger dropdown menu" [ref=f16e263]
+              - button "Compose message" [ref=f16e266] [cursor=pointer]
+              - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f16e270] [cursor=pointer]
+        - complementary "AI-powered assistant to get help with your career, jobs etc"
+  - region [ref=f16e274]

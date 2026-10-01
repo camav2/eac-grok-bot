@@ -1,0 +1,493 @@
+- generic [ref=f48e2]:
+  - heading "0 notifications" [level=2] [ref=f48e3]
+  - generic [ref=f48e4]:
+    - generic:
+      - generic "Skip navigation menu":
+        - button "Close jump menu" [ref=f48e6] [cursor=pointer]
+    - generic [ref=f48e9]:
+      - banner [ref=f48e11]:
+        - generic [ref=f48e14]:
+          - button [ref=f48e15] [cursor=pointer]
+          - generic [ref=f48e17]:
+            - status [ref=f48e18]
+            - search [ref=f48e19]:
+              - textbox "I'm looking for…" [ref=f48e23]
+          - generic [ref=f48e25]:
+            - navigation [ref=f48e29]:
+              - list [ref=f48e30]:
+                - listitem [ref=f48e31]:
+                  - button "Home, 1 new notification" [ref=f48e32] [cursor=pointer]:
+                    - generic [ref=f48e36]: Home
+                - listitem [ref=f48e38]:
+                  - link "My Network, 1 new notification" [ref=f48e39] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork
+                    - generic [ref=f48e40]: "1"
+                    - generic [ref=f48e44]: My Network
+                - listitem [ref=f48e46]:
+                  - link "Jobs, 0 new notifications" [ref=f48e47] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/
+                    - generic [ref=f48e51]: Jobs
+                - listitem [ref=f48e53]:
+                  - link "Messaging, 0 new notifications" [ref=f48e54] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/messaging/
+                    - generic [ref=f48e58]: Messaging
+                - listitem [ref=f48e60]:
+                  - link "Notifications, 0 new notifications" [ref=f48e61] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/notifications/
+                    - generic [ref=f48e65]: Notifications
+                - listitem [ref=f48e67]:
+                  - button "Me" [ref=f48e68] [cursor=pointer]:
+                    - figure [aria-hidden] [ref=f48e70]
+            - navigation [ref=f48e76]:
+              - list [ref=f48e77]:
+                - listitem [ref=f48e78]:
+                  - button "For Business" [ref=f48e79] [cursor=pointer]
+                - listitem [ref=f48e86]:
+                  - link "Advertise, 4 new notifications" [ref=f48e87] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/campaignmanager/accounts/
+                    - generic [ref=f48e88]: "4"
+                    - generic [ref=f48e91]: Advertise
+      - main [ref=f48e95]:
+        - generic [ref=f48e97]:
+          - complementary "Sidebar" [ref=f48e98]:
+            - generic [ref=f48e101]:
+              - generic [ref=f48e105]:
+                - link [ref=f48e106] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/kelly-irving/
+                  - generic [ref=f48e107]:
+                    - generic [ref=f48e108]:
+                      - figure [aria-hidden] [ref=f48e109]
+                      - paragraph [ref=f48e111]: Premium
+                    - figure [ref=f48e114]
+                - generic [ref=f48e115]:
+                  - link [ref=f48e116] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic "Kelly Irving, Book coach and editor for changemakers and trailblazers / Publishing gymnast, Anglesea, Victoria, Premium profile" [ref=f48e117]:
+                      - paragraph [ref=f48e120]: Kelly Irving
+                      - paragraph [ref=f48e123]: Book coach and editor for changemakers and trailblazers / Publishing gymnast
+                      - paragraph [ref=f48e124]: Anglesea, Victoria
+                  - link [ref=f48e125] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/kelly-irving/
+                    - generic [ref=f48e126]:
+                      - figure [aria-hidden] [ref=f48e127]
+                      - paragraph [ref=f48e128]: Expert Author Community
+              - generic [ref=f48e130]:
+                - menu [ref=f48e131]:
+                  - link [ref=f48e133] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/me/profile-views/
+                    - generic "Profile viewers 279" [ref=f48e134]:
+                      - paragraph [ref=f48e136]: Profile viewers
+                      - paragraph [ref=f48e137]: "279"
+                  - link [ref=f48e139] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/analytics/creator/content/
+                    - generic "Post impressions 1,737" [ref=f48e140]:
+                      - paragraph [ref=f48e142]: Post impressions
+                      - paragraph [ref=f48e143]: 1,737
+                - menu [ref=f48e144]:
+                  - link [ref=f48e146] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/premium/my-premium/
+                    - paragraph [ref=f48e149]: Your Premium features
+              - menu [ref=f48e153]:
+                - paragraph [ref=f48e155]: My pages (3)
+                - link [ref=f48e157] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/
+                  - generic [ref=f48e159]:
+                    - figure [ref=f48e160]
+                    - paragraph [ref=f48e164]:
+                      - generic [ref=f48e165]: Expert Author Community
+                - link [ref=f48e168] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/notifications/
+                  - generic [ref=f48e169]:
+                    - paragraph [ref=f48e170]: Activity
+                    - paragraph [ref=f48e171]: "0"
+                - link [ref=f48e173] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/14424344/admin/
+                  - generic [ref=f48e175]:
+                    - figure [ref=f48e176]
+                    - paragraph [ref=f48e180]: Kelly Irving
+                - link [ref=f48e181] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/14424344/admin/notifications/
+                  - generic [ref=f48e182]:
+                    - paragraph [ref=f48e183]: Activity
+                    - paragraph [ref=f48e184]: "0"
+                - link [ref=f48e186] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/showcase/108996937/admin/
+                  - generic [ref=f48e188]:
+                    - figure [ref=f48e189]
+                    - paragraph [ref=f48e193]: EAC Books
+                - link [ref=f48e194] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/showcase/108996937/admin/notifications/
+                  - generic [ref=f48e195]:
+                    - paragraph [ref=f48e196]: Activity
+                    - paragraph [ref=f48e197]: "0"
+                - paragraph [ref=f48e200]: Grow your business faster
+                - button [ref=f48e202] [cursor=pointer]:
+                  - paragraph [ref=f48e205]:
+                    - strong [ref=f48e206]: Try Premium Page
+                - link [ref=f48e207] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/campaignmanager/accounts/
+                  - paragraph [ref=f48e210]: Advertise on LinkedIn
+              - menu [ref=f48e213]:
+                - link [ref=f48e214] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/my-items/saved-posts/
+                  - paragraph [ref=f48e217]: Saved items
+                - link [ref=f48e218] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/groups/
+                  - paragraph [ref=f48e221]: Groups
+                - link [ref=f48e222] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/mynetwork/network-manager/newsletters/
+                  - paragraph [ref=f48e225]: Newsletters
+                - link [ref=f48e226] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/events/
+                  - paragraph [ref=f48e229]: Events
+          - region "Primary content" [ref=f48e230]:
+            - list [ref=f48e231]:
+              - listitem [ref=f48e233]:
+                - generic [ref=f48e234]:
+                  - generic [ref=f48e235]:
+                    - link [ref=f48e237] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/kelly-irving/
+                      - figure [aria-hidden] [ref=f48e238]
+                    - button [ref=f48e240] [cursor=pointer]:
+                      - generic "Start a post" [ref=f48e241]:
+                        - generic [ref=f48e243]:
+                          - paragraph [ref=f48e244]: Start a post
+                          - generic:
+                            - paragraph
+                  - generic [ref=f48e245]:
+                    - button [ref=f48e246] [cursor=pointer]:
+                      - paragraph [ref=f48e249]: Video
+                    - button [ref=f48e250] [cursor=pointer]:
+                      - paragraph [ref=f48e253]: Photo
+                    - link [ref=f48e254] [cursor=pointer]:
+                      - /url: /article/new/
+                      - paragraph [ref=f48e257]: Write article
+              - listitem [ref=f48e262]:
+                - generic [ref=f48e264]:
+                  - heading "Feed post" [level=2]
+                  - generic [ref=f48e266]:
+                    - link [ref=f48e267] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/bryonycole/
+                      - figure [ref=f48e268]
+                    - generic [ref=f48e270]:
+                      - link [ref=f48e273] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/bryonycole/
+                        - generic "Bryony Cole Verified Profile 1st" [ref=f48e275]:
+                          - paragraph [ref=f48e278]: Bryony Cole
+                          - paragraph [ref=f48e280]:
+                            - generic [ref=f48e281]: • 1st
+                      - paragraph [ref=f48e285]: Keynote Speaker on Emotional AI & the Future of Human Connection
+                      - link [ref=f48e289] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/newsletters/ai-relationships-7091258368283025408/
+                        - paragraph [ref=f48e290]: View my newsletter
+                      - paragraph [ref=f48e292]: 1h
+                      - link "Bryony Cole Verified Profile 1st":
+                        - /url: https://www.linkedin.com/in/bryonycole/
+                    - button "Open control menu for post by Bryony Cole" [ref=f48e293] [cursor=pointer]
+                    - button "Hide post by Bryony Cole" [ref=f48e296] [cursor=pointer]
+                  - paragraph [ref=f48e299]:
+                    - generic [ref=f48e300]:
+                      - text: It's 2004. I'm three months into a trip to India. Tonight, I'll save this photo to my iPod photo. I'll get out my Nokia and press the buttons to send a 60 cent SMS back home. Three presses for an O. Two for a K. "I'm OK" I text mum. Every day, as promised.There's no Facebook, no smartphones, no using Google Maps.There's eye contact, "hi", writing down a new friend's hotmail in your diary to keep in touch. Maps are those tissue-thin pages in my Lonely Planet I lug around with me (1kg of precious cargo!), but mostly I'll be guided by the people I meet on my travels who scrawl guesthouse names and cafes for banana pancakes in the back of my diary.I wonder how different that trip would have felt if I’d been able to share *every moment*.What if I had a smartphone to ask for advice at every turn?How would it have changed if I had AI to reach for reassurance whenever I felt... lost? There were many times I did... What would I have gained? What might I have missed?Next week, I’ll be back in India. I'm excited. India was a character-defining place for me. That iPod photo is long gone. So there's just this one photo I found, shared on email years later.Next week, I'll be speaking at
+                      - 'link "View company: India Today Conclave" [ref=f48e303] [cursor=pointer]':
+                        - /url: https://www.linkedin.com/showcase/india-today-conclave/
+                        - strong [ref=f48e304]: India Today Conclave
+                      - text: on how AI is changing our relationships and how we preserve human connection as it does... and you know what?I suspect 21 year old me armed with her dog-eared copy of Shantaram had some pretty good tips on connecting with strangers. She'd find it hard to believe that people use a machine to figure out their next move.Is there something you’re glad you experienced before you could ask your phone what to do?
+                  - link [ref=f48e306] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/
+                    - figure [ref=f48e307]:
+                      - img "View image" [ref=f48e308]
+                  - generic [ref=f48e309]:
+                    - link [ref=f48e310] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "Switch to different account" [ref=f48e311]:
+                        - figure [aria-hidden] [ref=f48e312]
+                    - generic [ref=f48e314]:
+                      - 'button "Reaction button state: no reaction" [ref=f48e317] [cursor=pointer]':
+                        - generic [ref=f48e318]: "17"
+                      - button "Open reactions menu"
+                    - button "Comment" [ref=f48e323] [cursor=pointer]:
+                      - generic [ref=f48e324]: "4"
+                    - button "Repost" [ref=f48e329] [cursor=pointer]
+                    - link "Send" [ref=f48e332] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                    - link [ref=f48e335] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "17 reactions" [ref=f48e336]
+                - generic [ref=f48e341]:
+                  - generic [ref=f48e346]:
+                    - link [ref=f48e348] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/steph-clarke/
+                      - figure [ref=f48e349]
+                    - generic [ref=f48e350]:
+                      - generic [ref=f48e352]:
+                        - link "Steph Clarke 1st Futurist | Facilitator | Friendship Enthusiast" [ref=f48e353] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/steph-clarke/
+                          - generic [ref=f48e354]:
+                            - paragraph [ref=f48e358]:
+                              - generic [ref=f48e359]:
+                                - generic [ref=f48e360]: Steph Clarke 1st
+                                - generic [aria-hidden] [ref=f48e361]:
+                                  - text: Steph Clarke
+                                  - generic [ref=f48e362]: • 1st
+                            - paragraph [ref=f48e364]: Futurist | Facilitator | Friendship Enthusiast
+                        - paragraph [ref=f48e366]: 1h
+                        - button "View more options for Steph Clarke’s comment." [ref=f48e367] [cursor=pointer]
+                      - paragraph [ref=f48e373]:
+                        - generic [ref=f48e374]: I was talking to a couple of friends about travel x tech recently and it was interesting to hear the guys (particularly) feeling like tech had somewhat ruined travel. I can see why that feels true, but I felt like tech had totally opened up travel from a safety perspective, especially for women, for LGBTQIA+ folk, and people with disabilities. Don’t get me wrong, social media hype element of travel x tech has made a lot of places pretty unbearable (to visit and live) and has of course had a lot of other bad stuff to answer for on its travel influence.1000% here for more scrawled email addresses, banana pancake cafe recommendations from strangers, creative problem solving required when travelling, and unexpected adventures that don’t come from the same sanitised AI itinerary that everyone else is following.
+                      - generic [ref=f48e376]:
+                        - generic [ref=f48e377]:
+                          - generic [ref=f48e378]:
+                            - button "1 reaction" [ref=f48e381] [cursor=pointer]:
+                              - paragraph [ref=f48e385]:
+                                - generic [ref=f48e386]:
+                                  - generic [ref=f48e387]: 1 reaction
+                                  - text: "1"
+                            - button "Open reactions menu"
+                          - generic [ref=f48e388]:
+                            - button "Reply" [ref=f48e389] [cursor=pointer]
+                            - paragraph [ref=f48e393]:
+                              - generic [ref=f48e394]:
+                                - generic [ref=f48e395]: "1"
+                                - text: "1"
+                        - link [ref=f48e397] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/
+                          - generic "Reacted to by the author" [ref=f48e398]:
+                            - figure [aria-hidden] [ref=f48e399]
+                  - button [ref=f48e404] [cursor=pointer]:
+                    - paragraph [ref=f48e405]: See 3 more comments
+              - listitem [ref=f48e410]:
+                - generic [ref=f48e412]:
+                  - heading "Feed post" [level=2]
+                  - generic [ref=f48e414]:
+                    - link [ref=f48e415] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/sheila-donnelly-theroux-apr-b811042/
+                      - figure [ref=f48e416]
+                    - generic [ref=f48e418]:
+                      - link [ref=f48e421] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/sheila-donnelly-theroux-apr-b811042/
+                        - generic "Sheila Donnelly Theroux, APR Premium Profile 2nd" [ref=f48e423]:
+                          - paragraph [ref=f48e426]: Sheila Donnelly Theroux, APR
+                          - paragraph [ref=f48e428]:
+                            - generic [ref=f48e429]: • 2nd
+                      - paragraph [ref=f48e433]:
+                        - generic [ref=f48e434]: Founder and Strategist for Luxury CEOs, Brands and Marketing Leadership helping businesses prosper through media exposure, marketing communications, creative ideas, and the wisdom of experience. You get us.
+                      - paragraph [ref=f48e436]: Promoted
+                      - link "Sheila Donnelly Theroux, APR Premium Profile 2nd":
+                        - /url: https://www.linkedin.com/in/sheila-donnelly-theroux-apr-b811042/
+                    - button "Follow Sheila Donnelly Theroux, APR" [ref=f48e440] [cursor=pointer]:
+                      - generic [ref=f48e441]: Follow
+                    - button "Open control menu for post by Sheila Donnelly Theroux, APR" [ref=f48e445] [cursor=pointer]
+                  - paragraph [ref=f48e448]:
+                    - generic [ref=f48e449]:
+                      - text: This WSJ review by the unflinching journalist
+                      - link "View Tunku Varadarajan’s profile" [ref=f48e451] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/tunku-varadarajan-8b616717a/
+                        - strong [ref=f48e452]: Tunku Varadarajan
+                      - text: and the cover of the @NewYorkTimes book section tomorrow is more than anyone can even dream of — and it’s happening!
+                      - link "Open https://lnkd.in/gyNEyZX2" [ref=f48e454] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2FgyNEyZX2&urlhash=hC09&mt=O5-DJWIp0BSIEcXtMJR6uQwHgcHrZCj68nWDqdt1pfEcqbgjE3al164O2U1vo0PyKfKfunyogGNxhyF6xIdxSOdsmbrZ9NqMlMLHo-u7px032FFwvgF-clzoKdv3i7PnqFKovLTpObhS3590EyCeWdpAz358P__7PfpbmvWkFKv0GmsfLsfCa0M3m35-_tKtSuUXjowuG50nGQ&isSdui=true
+                        - strong [ref=f48e455]: https://lnkd.in/gyNEyZX2
+                  - generic [ref=f48e456]:
+                    - link [ref=f48e458] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fwww%2Ewsj%2Ecom%2Farts-culture%2Fbooks%2Ftrue-north-review-a-canadian-odyssey-and-swan-song-f31711a8&urlhash=rdpS&mt=e8pzFChQvBJWViktj84uVCCmnMPUbzJ_MqTp8Yy8h_75nmxrU0i9RV7hgnOQF1hEdqsSdzAH26YdaxSmEKVtNrMJ7s9QFxm1fVzYhcn6eD8ZdLxNzgiWs5QqiZ9khVD91CgE-VETh4Q_LaP2FftqDk-t7HpNeFf5HkAlz4fc5dKjz-PpDXF4lbL1COYIXjmujJak-JeUkBi6mw&isSdui=true
+                      - figure [ref=f48e459]:
+                        - img "View Sponsored Content" [ref=f48e460]
+                    - 'link "‘True North’ Review: A Canadian Odyssey and Swan Song wsj.com" [ref=f48e461] [cursor=pointer]':
+                      - /url: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fwww%2Ewsj%2Ecom%2Farts-culture%2Fbooks%2Ftrue-north-review-a-canadian-odyssey-and-swan-song-f31711a8&urlhash=rdpS&mt=nRKfqNzIJPmw6JEgFQJuHymb_-v9wk3YSP0q-nx5jl8m3WMF95VH06aESG8WHKiNImvr1hqi1pYBpeypEAQe_uMvChHFkiwMl3kyNJEl2UqfPQ05xMXkimsdmGhJhwPyEMPQ5gFcS1axGwuHEiyNKVgax5BIetD-sup_OCOPvrxohPLSY3AOKOfLyKbIb85hK_nWccCKhwzDdA&isSdui=true
+                      - generic [ref=f48e463]:
+                        - paragraph [ref=f48e465]:
+                          - generic [ref=f48e466]:
+                            - generic [ref=f48e467]: "‘True North’ Review: A Canadian Odyssey and Swan Song"
+                            - text: "‘True North’ Review: A Canadian Odyssey and Swan Song"
+                        - paragraph [ref=f48e469]: wsj.com
+                  - generic [ref=f48e471]:
+                    - link [ref=f48e472] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "Switch to different account" [ref=f48e473]:
+                        - figure [aria-hidden] [ref=f48e474]
+                    - generic [ref=f48e476]:
+                      - 'button "Reaction button state: no reaction" [ref=f48e479] [cursor=pointer]':
+                        - generic [ref=f48e480]: "17"
+                      - button "Open reactions menu"
+                    - button "Comment" [ref=f48e485] [cursor=pointer]:
+                      - generic [ref=f48e486]: "6"
+                    - button "Repost" [ref=f48e491] [cursor=pointer]:
+                      - generic [ref=f48e492]: "1"
+                    - link "Send" [ref=f48e497] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                    - link [ref=f48e500] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "17 reactions" [ref=f48e501]
+              - listitem [ref=f48e509]:
+                - generic [ref=f48e511]:
+                  - heading "Feed post" [level=2]
+                  - generic [ref=f48e513]:
+                    - link [ref=f48e514] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/declan-edwards-bu-happiness-college/
+                      - figure [ref=f48e515]
+                    - generic [ref=f48e517]:
+                      - link [ref=f48e520] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/declan-edwards-bu-happiness-college/
+                        - generic "Declan Edwards Verified Profile 1st" [ref=f48e522]:
+                          - paragraph [ref=f48e525]: Declan Edwards
+                          - paragraph [ref=f48e527]:
+                            - generic [ref=f48e528]: • 1st
+                      - paragraph [ref=f48e532]: Happiness Expert | Speaker on Wellbeing, Performance & Culture | Positive Psychology Lecturer | Founder of BU Happiness College
+                      - paragraph [ref=f48e534]: 7h
+                      - link "Declan Edwards Verified Profile 1st":
+                        - /url: https://www.linkedin.com/in/declan-edwards-bu-happiness-college/
+                    - button "Open control menu for post by Declan Edwards" [ref=f48e535] [cursor=pointer]
+                    - button "Hide post by Declan Edwards" [ref=f48e538] [cursor=pointer]
+                  - paragraph [ref=f48e541]:
+                    - generic [ref=f48e542]:
+                      - text: "LA friends, connections, legends: I need a hand.My wife and I are heading to Mexico shortly, and on our way back home to Australia, we’re stopping in Los Angeles from"
+                      - strong [ref=f48e543]: Monday 9th to Friday 13th of November
+                      - text: ".I’ve deliberately left my schedule wide open for the week because I’m coming with a very specific mission: I want to start bringing my work on the science and skills of happiness to the US on a much more regular basis.For those who don't know: despite my thick Aussie accent, I’m actually a dual US/Australian citizen. I was born in Orange County, just down the road from LA, and we’re currently finalising my Social Security setup—meaning working and delivering keynotes in the States is completely seamless from a logistics standpoint.Over the last 10 years in Australia, I’ve had the absolute privilege of speaking on stages for hundreds of organisations, corporate teams, and conferences, teaching evidence-based, practical skillsets for mental and emotional performance as well as higher wellbeing. Now, I’m ready to expand that impact into the US market.So, if you’re based in LA (or have great connections there), I’d love to connect while I'm in town:"
+                      - strong [ref=f48e544]: "Speaking Bureaus, Event Agencies, & Talent Managers:"
+                      - text: I’d love 20 minutes to grab a coffee, introduce myself, and share my Speaker Kit and keynote topics.
+                      - strong [ref=f48e545]: "Corporate Leaders & Event Organisers:"
+                      - text: If you’re looking for a refreshing, high-impact keynote on workplace wellbeing, burnout prevention, or psychological resilience, let's chat.
+                      - strong [ref=f48e546]: "Good people doing good work:"
+                      - text: If you know someone in the personal development, human performance, or event space who I should know, I’d be immensely grateful for an introduction.If you know someone in LA who fits the bill (or if you are that person) drop a comment below or send me a direct message.Coffee is on me (I'll even include a Tim Tam to go with your coffee - an Australian delicacy). See you soon, LA!
+                  - link [ref=f48e548] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/
+                    - figure [ref=f48e549]:
+                      - img "View image" [ref=f48e550]
+                  - generic [ref=f48e551]:
+                    - link [ref=f48e552] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "Switch to different account" [ref=f48e553]:
+                        - figure [aria-hidden] [ref=f48e554]
+                    - generic [ref=f48e556]:
+                      - 'button "Reaction button state: no reaction" [ref=f48e559] [cursor=pointer]':
+                        - generic [ref=f48e560]: "8"
+                      - button "Open reactions menu"
+                    - button "Comment" [ref=f48e565] [cursor=pointer]:
+                      - generic [ref=f48e566]: "2"
+                    - button "Repost" [ref=f48e571] [cursor=pointer]:
+                      - generic [ref=f48e572]: "2"
+                    - link "Send" [ref=f48e577] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                    - link [ref=f48e580] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic "8 reactions" [ref=f48e581]
+              - progressbar "In progress" [ref=f48e589]
+          - complementary "Aside" [ref=f48e590]:
+            - generic [ref=f48e591]:
+              - generic [ref=f48e592]:
+                - generic [ref=f48e596]:
+                  - generic [ref=f48e597]:
+                    - paragraph [ref=f48e598]: LinkedIn News
+                    - button "Info tooltip" [ref=f48e599] [cursor=pointer]
+                  - paragraph [ref=f48e602]: Top stories
+                  - generic [ref=f48e603]:
+                    - link [ref=f48e605] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/news/story/what-inflation-means-for-rba-rates-8656969/
+                      - generic [ref=f48e607]:
+                        - paragraph [ref=f48e609]: What inflation means for RBA rates
+                        - generic [ref=f48e610]:
+                          - paragraph [ref=f48e611]: 11h ago
+                          - paragraph [ref=f48e612]: •
+                          - paragraph [ref=f48e613]: 924 readers
+                    - link [ref=f48e615] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/news/story/top-ai-voices-to-follow-9420946/
+                      - generic [ref=f48e617]:
+                        - paragraph [ref=f48e619]: Top AI voices to follow
+                        - generic [ref=f48e620]:
+                          - paragraph [ref=f48e621]: 11h ago
+                          - paragraph [ref=f48e622]: •
+                          - paragraph [ref=f48e623]: 578 readers
+                    - link [ref=f48e625] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/news/story/how-do-aussies-feel-about-ai-9432154/
+                      - generic [ref=f48e627]:
+                        - paragraph [ref=f48e629]: How do Aussies feel about AI?
+                        - generic [ref=f48e630]:
+                          - paragraph [ref=f48e631]: 11h ago
+                          - paragraph [ref=f48e632]: •
+                          - paragraph [ref=f48e633]: 256 readers
+                    - link [ref=f48e635] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/news/story/why-home-prices-have-fallen-again-7632340/
+                      - generic [ref=f48e637]:
+                        - paragraph [ref=f48e639]: Why home prices have fallen again
+                        - generic [ref=f48e640]:
+                          - paragraph [ref=f48e641]: 2h ago
+                          - paragraph [ref=f48e642]: •
+                          - paragraph [ref=f48e643]: 199 readers
+                    - link [ref=f48e645] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/news/story/manchester-city-guilty-of-sham-deals-9445402/
+                      - generic [ref=f48e647]:
+                        - paragraph [ref=f48e649]: Manchester City guilty of sham deals
+                        - paragraph [ref=f48e651]: 6h ago
+                    - button "Show more news" [ref=f48e652] [cursor=pointer]
+                - generic [ref=f48e661]:
+                  - paragraph [ref=f48e662]: Today’s puzzles
+                  - generic [ref=f48e663]:
+                    - link [ref=f48e665] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/games/zip/
+                      - generic "Play Zip" [ref=f48e666]:
+                        - generic [ref=f48e667]:
+                          - figure [aria-hidden] [ref=f48e668]
+                          - generic [ref=f48e669]:
+                            - paragraph [ref=f48e670]:
+                              - strong [ref=f48e671]: Zip
+                              - text: "#563"
+                            - paragraph [ref=f48e672]: 56 connections played
+                    - link [ref=f48e675] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/games/wend/
+                      - generic "Play Wend" [ref=f48e676]:
+                        - generic [ref=f48e677]:
+                          - figure [aria-hidden] [ref=f48e678]
+                          - generic [ref=f48e679]:
+                            - paragraph [ref=f48e680]:
+                              - strong [ref=f48e681]: Wend
+                              - text: "#115"
+                            - paragraph [ref=f48e682]: 42 connections played
+                    - link [ref=f48e685] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/games/patches/
+                      - generic "Play Patches" [ref=f48e686]:
+                        - generic [ref=f48e687]:
+                          - figure [aria-hidden] [ref=f48e688]
+                          - generic [ref=f48e689]:
+                            - paragraph [ref=f48e690]:
+                              - strong [ref=f48e691]: Patches
+                              - text: "#198"
+                            - paragraph [ref=f48e692]: 44 connections played
+                    - link [ref=f48e695] [cursor=pointer]:
+                      - /url: /games/mini-sudoku/
+                      - generic "Play MiniSudoku" [ref=f48e696]:
+                        - generic [ref=f48e697]:
+                          - figure [aria-hidden] [ref=f48e698]
+                          - generic [ref=f48e699]:
+                            - paragraph [ref=f48e700]:
+                              - strong [ref=f48e701]: Mini Sudoku
+                              - text: "#416"
+                            - paragraph [ref=f48e702]: 36 connections played
+                    - button "Show more" [ref=f48e705] [cursor=pointer]
+              - generic [ref=f48e713]:
+                - generic [ref=f48e714]:
+                  - link [ref=f48e715] [cursor=pointer]:
+                    - /url: https://about.linkedin.com/
+                    - paragraph [ref=f48e716]: About
+                  - link [ref=f48e717] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/accessibility/
+                    - paragraph [ref=f48e718]: Accessibility
+                  - link [ref=f48e719] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/help/linkedin/
+                    - paragraph [ref=f48e720]: Help Center
+                  - button [ref=f48e721] [cursor=pointer]:
+                    - paragraph [ref=f48e723]: Privacy & Terms
+                  - link [ref=f48e725] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/help/linkedin/answer/62931/
+                    - paragraph [ref=f48e726]: Ad Choices
+                  - link [ref=f48e727] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/ad/start/?trk=n_nav_ads_rr
+                    - paragraph [ref=f48e728]: Advertising
+                  - button [ref=f48e729] [cursor=pointer]:
+                    - paragraph [ref=f48e731]: Business Services
+                  - link [ref=f48e733] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mobile/
+                    - paragraph [ref=f48e734]: Get the LinkedIn app
+                  - link [ref=f48e735] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/
+                    - paragraph [ref=f48e736]: More
+                - paragraph [ref=f48e739]: LinkedIn Corporation © 2026

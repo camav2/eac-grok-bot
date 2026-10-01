@@ -1,0 +1,296 @@
+- generic [ref=e2]:
+  - heading "0 notifications" [level=2] [ref=e3]
+  - generic [ref=e4]:
+    - generic:
+      - generic "Skip navigation menu":
+        - generic [ref=e5]:
+          - button "Skip to search" [ref=e6] [cursor=pointer]
+          - button "Skip to main content" [ref=e9] [cursor=pointer]
+          - button "Skip to primary content" [ref=e12] [cursor=pointer]
+          - button "Skip to aside" [ref=e15] [cursor=pointer]
+          - button "Skip to footer" [ref=e18] [cursor=pointer]
+          - button "Close jump menu" [ref=e22] [cursor=pointer]
+    - generic [ref=e25]:
+      - banner [ref=e27]:
+        - generic [ref=e30]:
+          - button [ref=e31] [cursor=pointer]
+          - generic [ref=e33]:
+            - status [ref=e34]
+            - search [ref=e35]:
+              - textbox "I'm looking for…" [ref=e39]
+          - generic [ref=e41]:
+            - navigation [ref=e45]:
+              - list [ref=e46]:
+                - listitem [ref=e47]:
+                  - button "Home, 1 new notification" [ref=e48] [cursor=pointer]:
+                    - generic [ref=e53]: Home
+                - listitem [ref=e55]:
+                  - link "My Network, 1 new notification" [ref=e56] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork
+                    - generic [ref=e57]: "1"
+                    - generic [ref=e61]: My Network
+                - listitem [ref=e63]:
+                  - link "Jobs, 0 new notifications" [ref=e64] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/
+                    - generic [ref=e68]: Jobs
+                - listitem [ref=e70]:
+                  - link "Messaging, 0 new notifications" [ref=e71] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/messaging/
+                    - generic [ref=e75]: Messaging
+                - listitem [ref=e77]:
+                  - link "Notifications, 0 new notifications" [ref=e78] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/notifications/
+                    - generic [ref=e82]: Notifications
+                - listitem [ref=e84]:
+                  - button "Me" [ref=e85] [cursor=pointer]:
+                    - figure [aria-hidden] [ref=e87]
+            - navigation [ref=e93]:
+              - list [ref=e94]:
+                - listitem [ref=e95]:
+                  - button "For Business" [ref=e96] [cursor=pointer]
+                - listitem [ref=e103]:
+                  - link "Advertise, 4 new notifications" [ref=e104] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/campaignmanager/accounts/
+                    - generic [ref=e105]: "4"
+                    - generic [ref=e108]: Advertise
+      - generic [ref=e111]:
+        - toolbar [aria-hidden] [ref=e112]:
+          - generic [ref=e116]:
+            - link [ref=e117] [cursor=pointer]:
+              - /url: https://www.linkedin.com/in/michellescheibner/
+              - generic [ref=e118]:
+                - figure [aria-hidden] [ref=e119]
+                - generic [ref=e120]:
+                  - paragraph [ref=e121]: Michelle Scheibner
+                  - paragraph [ref=e123]: Strategic Identity Activator | Author of HUSH | Founder of UNBOUND | Discover the legacy life has prepared you to make | TEDx Speaker | 🌺
+            - generic [ref=e124]:
+              - button [ref=e126] [cursor=pointer]
+              - link [ref=e130] [cursor=pointer]:
+                - /url: /messaging/compose/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAyPL0BxVlQuv7xhr-71gM5mGh-Gxg7RKM&recipient=ACoAAAAyPL0BxVlQuv7xhr-71gM5mGh-Gxg7RKM&screenContext=NON_SELF_PROFILE_VIEW&interop=msgOverlay
+                - generic [ref=e131]: Message
+        - main [ref=e134]:
+          - generic [ref=e136]:
+            - region "Primary content" [ref=e137]:
+              - generic [ref=e144]:
+                - generic [ref=e145]:
+                  - button [ref=e148] [cursor=pointer]:
+                    - figure [ref=e149]:
+                      - img "Cover photo" [ref=e150]
+                  - link [ref=e151] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/michellescheibner/
+                    - generic "Profile photo" [ref=e152]:
+                      - figure [aria-hidden] [ref=e154]
+                  - generic [ref=e155]:
+                    - link [ref=e157] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/michellescheibner/
+                    - link "Manage notifications about Michelle Scheibner" [ref=e159] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/michellescheibner/
+                - generic [ref=e162]:
+                  - generic [ref=e163]:
+                    - generic [ref=e165]:
+                      - generic [ref=e166]:
+                        - link [ref=e169] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/michellescheibner/
+                          - heading "Michelle Scheibner" [level=2] [ref=e172]
+                        - paragraph [ref=e174]: Recalibration for Leaders
+                        - paragraph [ref=e175]: · 1st
+                      - paragraph [ref=e176]: Strategic Identity Activator | Author of HUSH | Founder of UNBOUND | Discover the legacy life has prepared you to make | TEDx Speaker | 🌺
+                      - generic [ref=e177]:
+                        - paragraph [ref=e178]: Greater Melbourne Area
+                        - paragraph [ref=e179]: ·
+                        - paragraph [ref=e180]:
+                          - link "Contact info" [ref=e181] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/in/michellescheibner/overlay/contact-info/
+                    - generic [ref=e183]:
+                      - button [ref=e184] [cursor=pointer]:
+                        - generic [ref=e185]:
+                          - figure [aria-hidden] [ref=e186]
+                          - paragraph [ref=e190]: Michellescheibner.com
+                      - button [ref=e191] [cursor=pointer]:
+                        - generic [ref=e192]:
+                          - figure [aria-hidden] [ref=e193]
+                          - paragraph [ref=e197]: Deakin University
+                  - paragraph [ref=e199]: 2,827 followers
+                  - link [ref=e200] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/search/results/people/?origin=MEMBER_PROFILE_CANNED_SEARCH&network=%5B%22F%22%5D&connectionOf=%5B%22ACoAAAAyPL0BxVlQuv7xhr-71gM5mGh-Gxg7RKM%22%5D
+                    - generic [ref=e201]:
+                      - figure [aria-hidden] [ref=e202]
+                      - figure [aria-hidden] [ref=e203]
+                      - paragraph [ref=e205]:
+                        - link "Open http://www.linkedin.com/search/results/people/?origin=MEMBER_PROFILE_CANNED_SEARCH&network=%5B%22F%22%5D&connectionOf=%5B%22ACoAAAAyPL0BxVlQuv7xhr-71gM5mGh-Gxg7RKM%22%5D" [ref=e207]:
+                          - /url: https://www.linkedin.com/search/results/people/?origin=MEMBER_PROFILE_CANNED_SEARCH&network=%5B%22F%22%5D&connectionOf=%5B%22ACoAAAAyPL0BxVlQuv7xhr-71gM5mGh-Gxg7RKM%22%5D
+                          - strong [ref=e208]: Karen
+                          - text: ","
+                          - strong [ref=e209]: Justin
+                          - text: and 627 other mutual connections
+                  - generic [ref=e213]:
+                    - link "Message" [ref=e215] [cursor=pointer]:
+                      - /url: /messaging/compose/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAyPL0BxVlQuv7xhr-71gM5mGh-Gxg7RKM&recipient=ACoAAAAyPL0BxVlQuv7xhr-71gM5mGh-Gxg7RKM&screenContext=NON_SELF_PROFILE_VIEW&interop=msgOverlay
+                    - button "More" [ref=e220] [cursor=pointer]
+            - complementary "Aside" [ref=e368]:
+              - generic [ref=e406]:
+                - heading "Explore Premium profiles" [level=2] [ref=e408]
+                - generic [ref=e410]:
+                  - generic [ref=e412]:
+                    - link [ref=e415] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/rachel-blazey-37b073a3/
+                      - generic [ref=e416]:
+                        - figure [aria-hidden] [ref=e417]
+                        - generic [ref=e418]:
+                          - generic [ref=e419]:
+                            - paragraph [ref=e421]:
+                              - generic [ref=e422]:
+                                - text: Rachel Blazey
+                                - img "Premium" [ref=e423]
+                            - paragraph [ref=e425]: · 2nd
+                          - paragraph [ref=e427]: Leading philanthropic initiatives to empower communities and ecosystems.
+                    - button "Invite Rachel Blazey to connect" [ref=e433] [cursor=pointer]:
+                      - generic [ref=e434]: Connect
+                  - generic [ref=e439]:
+                    - link [ref=e442] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/taryn-hocking-48332645/
+                      - generic [ref=e443]:
+                        - figure [aria-hidden] [ref=e444]
+                        - generic [ref=e445]:
+                          - generic [ref=e446]:
+                            - paragraph [ref=e448]:
+                              - generic [ref=e449]:
+                                - text: Taryn Hocking
+                                - img "Premium" [ref=e450]
+                            - paragraph [ref=e452]: · 2nd
+                          - paragraph [ref=e454]: Mindset & Empowerment Coach | Master NLP Coach | Director at Sierra Coaching | MAHRI | HR Consultant
+                    - button "Follow Taryn Hocking" [ref=e460] [cursor=pointer]:
+                      - generic [ref=e461]: Follow
+                  - generic [ref=e466]:
+                    - link [ref=e469] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/kathryn-eyre-aalia/
+                      - generic [ref=e470]:
+                        - figure [aria-hidden] [ref=e471]
+                        - generic [ref=e472]:
+                          - generic [ref=e473]:
+                            - paragraph [ref=e475]:
+                              - generic [ref=e476]:
+                                - text: Kathryn Eyre AALIA, MAICD
+                                - img "Premium" [ref=e477]
+                            - paragraph [ref=e479]: · 2nd
+                          - paragraph [ref=e481]: Experienced and dedicated library professional and leader, board director and Keynote speaker. CBCA Book of the Year judge. Past CBCA NSW Branch President and ALIA Board Director. Winner John H Lee Memorial Award 2022.
+                    - button "Follow Kathryn Eyre AALIA, MAICD" [ref=e487] [cursor=pointer]:
+                      - generic [ref=e488]: Follow
+                  - generic [ref=e493]:
+                    - link [ref=e496] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/emily-keen-0614aa265/
+                      - generic [ref=e497]:
+                        - figure [aria-hidden] [ref=e498]
+                        - generic [ref=e499]:
+                          - generic [ref=e500]:
+                            - paragraph [ref=e502]:
+                              - generic [ref=e503]:
+                                - text: Emily Keen
+                                - img "Premium" [ref=e504]
+                            - paragraph [ref=e506]: · 2nd
+                          - paragraph [ref=e508]: Private Practice at The Grand Hand
+                    - button "Invite Emily Keen to connect" [ref=e514] [cursor=pointer]:
+                      - generic [ref=e515]: Connect
+            - generic "Footer" [ref=e581]:
+              - generic [ref=e584]:
+                - generic [ref=e585]:
+                  - navigation [ref=e586]:
+                    - link [ref=e587] [cursor=pointer]:
+                      - /url: https://about.linkedin.com/
+                      - paragraph [ref=e588]: About
+                    - link [ref=e589] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/accessibility/
+                      - paragraph [ref=e590]: Accessibility
+                    - link [ref=e592] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/talent/post-a-job/?trk=footer_jobs_home&src=li-footer
+                      - paragraph [ref=e593]: Talent Solutions
+                    - link [ref=e594] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/legal/professional-community-policies/
+                      - paragraph [ref=e595]: Community Guidelines
+                    - link [ref=e596] [cursor=pointer]:
+                      - /url: https://careers.linkedin.com/
+                      - paragraph [ref=e597]: Careers
+                    - link [ref=e598] [cursor=pointer]:
+                      - /url: https://business.linkedin.com/advertise?trk=n_nav_lms_f&src=li-footer
+                      - paragraph [ref=e599]: Marketing Solutions
+                    - button [ref=e600] [cursor=pointer]:
+                      - paragraph [ref=e602]: Privacy & Terms
+                    - link [ref=e604] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/help/linkedin/answer/62931/
+                      - paragraph [ref=e605]: Ad Choices
+                    - link [ref=e606] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/ad/start/?trk=n_nav_ads_rr
+                      - paragraph [ref=e607]: Advertising
+                    - link [ref=e608] [cursor=pointer]:
+                      - /url: https://business.linkedin.com/sales-solutions?trk=flagship_nav&veh=li-footer-lss-control&src=li-footer
+                      - paragraph [ref=e609]: Sales Solutions
+                    - link [ref=e610] [cursor=pointer]:
+                      - /url: https://mobile.linkedin.com/
+                      - paragraph [ref=e611]: Mobile
+                    - link [ref=e612] [cursor=pointer]:
+                      - /url: https://business.linkedin.com/grow?src=li-footer
+                      - paragraph [ref=e613]: Small Business
+                    - link [ref=e614] [cursor=pointer]:
+                      - /url: https://safety.linkedin.com/
+                      - paragraph [ref=e615]: Safety Center
+                  - paragraph [ref=e617]: LinkedIn Corporation © 2026
+                - generic [ref=e618]:
+                  - list [ref=e619]:
+                    - listitem [ref=e620]:
+                      - generic [ref=e623]:
+                        - link [ref=e624] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/help/linkedin/
+                          - paragraph [ref=e625]: Questions?
+                        - paragraph [ref=e626]: Visit our Help Center.
+                    - listitem [ref=e627]:
+                      - generic [ref=e630]:
+                        - link [ref=e631] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/mypreferences/d/
+                          - paragraph [ref=e632]: Manage your account and privacy
+                        - paragraph [ref=e633]: Go to your Settings.
+                    - listitem [ref=e634]:
+                      - generic [ref=e637]:
+                        - link [ref=e638] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/help/linkedin/answer/a1339724/
+                          - paragraph [ref=e639]: Recommendation transparency
+                        - paragraph [ref=e640]: Learn more about Recommended Content.
+                  - generic [ref=e642]:
+                    - paragraph [ref=e644]: Select language
+                    - combobox "Select language" [ref=e646] [cursor=pointer]:
+                      - option "العربية (Arabic)"
+                      - option "বাংলা (Bangla)"
+                      - option "Čeština (Czech)"
+                      - option "Dansk (Danish)"
+                      - option "Deutsch (German)"
+                      - option "Ελληνικά (Greek)"
+                      - option "English (English)" [selected]
+                      - option "Español (Spanish)"
+                      - option "فارسی (Persian)"
+                      - option "Suomi (Finnish)"
+                      - option "Français (French)"
+                      - option "हिंदी (Hindi)"
+                      - option "Magyar (Hungarian)"
+                      - option "Bahasa Indonesia (Indonesian)"
+                      - option "Italiano (Italian)"
+                      - option "עברית (Hebrew)"
+                      - option "日本語 (Japanese)"
+                      - option "한국어 (Korean)"
+                      - option "मराठी (Marathi)"
+                      - option "Bahasa Malaysia (Malay)"
+                      - option "Nederlands (Dutch)"
+                      - option "Norsk (Norwegian)"
+                      - option "ਪੰਜਾਬੀ (Punjabi)"
+                      - option "Polski (Polish)"
+                      - option "Português (Portuguese)"
+                      - option "Română (Romanian)"
+                      - option "Русский (Russian)"
+                      - option "Svenska (Swedish)"
+                      - option "తెలుగు (Telugu)"
+                      - option "ภาษาไทย (Thai)"
+                      - option "Tagalog (Tagalog)"
+                      - option "Türkçe (Turkish)"
+                      - option "Українська (Ukrainian)"
+                      - option "Tiếng Việt (Vietnamese)"
+                      - option "简体中文 (Chinese (Simplified))"
+                      - option "正體中文 (Chinese (Traditional))"
+  - iframe [ref=e647]

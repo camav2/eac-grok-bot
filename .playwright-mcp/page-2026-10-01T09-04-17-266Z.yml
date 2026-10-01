@@ -1,0 +1,112 @@
+- generic [active] [ref=f35e1]:
+  - generic:
+    - region "Toast message":
+      - heading "0 notifications total" [level=2] [ref=f35e3]
+      - alert
+  - generic [ref=f35e4]:
+    - generic [ref=f35e6]:
+      - button "Skip to search" [ref=f35e7] [cursor=pointer]
+      - button "Skip to main content" [ref=f35e9] [cursor=pointer]
+      - button "Keyboard shortcuts" [ref=f35e11] [cursor=pointer]
+      - button "Close jump menu" [ref=f35e13] [cursor=pointer]
+    - banner "Global Navigation" [ref=f35e17]:
+      - generic [ref=f35e18]:
+        - link [ref=f35e19] [cursor=pointer]:
+          - /url: https://www.linkedin.com/feed/?nis=true
+          - img "LinkedIn" [ref=f35e22]
+        - combobox "I’m looking for..." [ref=f35e28]
+        - navigation "Primary Navigation" [ref=f35e29]:
+          - list [ref=f35e30]:
+            - listitem [ref=f35e31]:
+              - link "new feed updates notifications Home" [ref=f35e32] [cursor=pointer]:
+                - /url: https://www.linkedin.com/feed/?nis=true&
+                - generic [ref=f35e33]: new feed updates notifications
+                - generic "Home" [ref=f35e42]
+            - listitem [ref=f35e43]:
+              - link "1 new network update notification My Network" [ref=f35e44] [cursor=pointer]:
+                - /url: https://www.linkedin.com/mynetwork/?
+                - generic [ref=f35e46]:
+                  - generic [aria-hidden] [ref=f35e47]: "1"
+                  - generic [ref=f35e48]: 1 new network update notification
+                - generic "My Network" [ref=f35e54]
+            - listitem [ref=f35e55]:
+              - link "Jobs" [ref=f35e56] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/?
+            - listitem [ref=f35e63]:
+              - link "Messaging" [ref=f35e64] [cursor=pointer]:
+                - /url: https://www.linkedin.com/messaging/?
+            - listitem [ref=f35e71]:
+              - link "Notifications" [ref=f35e72] [cursor=pointer]:
+                - /url: https://www.linkedin.com/notifications/?
+            - listitem [ref=f35e79]:
+              - button [ref=f35e81] [cursor=pointer]:
+                - img "Kelly Irving" [ref=f35e82]
+                - generic [ref=f35e83]: Me
+            - listitem [ref=f35e86]:
+              - button "For Business" [ref=f35e88] [cursor=pointer]
+            - listitem [ref=f35e97]:
+              - link "4 new Campaign Manager notifications Advertise" [ref=f35e98] [cursor=pointer]:
+                - /url: https://www.linkedin.com/campaignmanager/accounts?shouldShowNotificationPanelOnRender=true
+                - generic [ref=f35e100]:
+                  - generic [aria-hidden] [ref=f35e101]: "4"
+                  - generic [ref=f35e102]: 4 new Campaign Manager notifications
+                - generic "Advertise" [ref=f35e109]
+    - generic [ref=f35e115]:
+      - complementary [ref=f35e116]:
+        - generic [ref=f35e119]:
+          - img "PREMIUM" [ref=f35e124]
+          - link [ref=f35e128] [cursor=pointer]:
+            - /url: /in/kelly-irving/
+            - img "Kelly Irving" [ref=f35e129]
+          - generic [ref=f35e130]:
+            - link [ref=f35e131] [cursor=pointer]:
+              - /url: /in/kelly-irving/
+              - heading [level=3] [ref=f35e132]:
+                - text: Kelly Irving
+                - img "Kelly Irving is a Premium member" [ref=f35e134]
+            - heading "Book coach and editor for changemakers and trailblazers / Publishing gymnast" [level=4] [ref=f35e137]
+          - generic [ref=f35e139]:
+            - generic [ref=f35e140]:
+              - generic [ref=f35e141]: Followers
+              - link "17,225" [ref=f35e142] [cursor=pointer]:
+                - /url: /mynetwork/network-manager/people-follow/followers/
+            - generic [ref=f35e144]:
+              - generic [ref=f35e145]: Drafts
+              - link "9" [ref=f35e146] [cursor=pointer]:
+                - /url: https://www.linkedin.com/article/manage/drafts
+      - main [ref=f35e148]:
+        - generic [ref=f35e150]:
+          - heading "All activity" [level=2] [ref=f35e151]
+          - group "Select type of recent activity" [ref=f35e154]:
+            - button "Posts" [pressed] [ref=f35e155] [cursor=pointer]
+            - button "Comments" [ref=f35e157] [cursor=pointer]
+            - button "Videos" [ref=f35e159] [cursor=pointer]
+            - button "Images" [ref=f35e161] [cursor=pointer]
+            - button "More" [ref=f35e163] [cursor=pointer]
+          - generic [ref=f35e168]:
+            - generic "Loading Posts posts" [ref=f35e169]
+            - separator [ref=f35e179]
+      - complementary "Interests" [ref=f35e187]:
+        - generic "LinkedIn Footer Content" [ref=f35e249]:
+          - generic [ref=f35e250]:
+            - list
+            - generic [ref=f35e251]:
+              - img "LinkedIn" [ref=f35e252]
+              - text: LinkedIn Corporation © 2026
+    - generic:
+      - generic:
+        - complementary:
+          - generic [ref=f35e256]:
+            - generic [ref=f35e258] [cursor=pointer]:
+              - img "Kelly Irving" [ref=f35e260]
+              - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f35e261]:
+                - generic [ref=f35e262]:
+                  - generic [aria-hidden] [ref=f35e263]: Messaging
+                  - generic [ref=f35e264]: You are on the messaging overlay. Press enter to open the list of conversations.
+            - generic [ref=f35e265]:
+              - button [ref=f35e267] [cursor=pointer]:
+                - img "Open messenger dropdown menu" [ref=f35e268]
+              - button "Compose message" [ref=f35e271] [cursor=pointer]
+              - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=f35e275] [cursor=pointer]
+        - complementary "AI-powered assistant to get help with your career, jobs etc"
+  - region [ref=f35e279]
