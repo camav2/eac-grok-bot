@@ -1,0 +1,860 @@
+- generic [ref=e12]:
+  - generic:
+    - region "Toast message":
+      - heading "0 notifications total" [level=2] [ref=e14]
+      - alert
+  - generic [ref=e15]:
+    - generic [ref=e17]:
+      - button "Skip to search" [ref=e18] [cursor=pointer]
+      - button "Skip to main content" [ref=e20] [cursor=pointer]
+      - button "Keyboard shortcuts" [ref=e22] [cursor=pointer]
+      - button "Close jump menu" [ref=e24] [cursor=pointer]
+    - banner "Global Navigation" [ref=e28]:
+      - generic [ref=e29]:
+        - link [ref=e30] [cursor=pointer]:
+          - /url: https://www.linkedin.com/feed/?nis=true
+          - img "LinkedIn" [ref=e33]
+        - combobox "I’m looking for..." [ref=e39]
+        - navigation "Primary Navigation" [ref=e40]:
+          - list [ref=e41]:
+            - listitem [ref=e42]:
+              - link "new feed updates notifications Home" [ref=e43] [cursor=pointer]:
+                - /url: https://www.linkedin.com/feed/?nis=true&
+                - generic [ref=e44]: new feed updates notifications
+                - generic "Home" [ref=e53]
+            - listitem [ref=e54]:
+              - link "3 new network updates notifications Network" [ref=e55] [cursor=pointer]:
+                - /url: https://www.linkedin.com/mynetwork/?
+                - generic [ref=e57]:
+                  - generic [aria-hidden] [ref=e58]: "3"
+                  - generic [ref=e59]: 3 new network updates notifications
+                - generic "Network" [ref=e65]
+            - listitem [ref=e66]:
+              - link "Jobs" [ref=e67] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/?
+            - listitem [ref=e74]:
+              - link "Messaging" [ref=e75] [cursor=pointer]:
+                - /url: https://www.linkedin.com/messaging/?
+            - listitem [ref=e82]:
+              - link "9 new notifications Notifications" [ref=e83] [cursor=pointer]:
+                - /url: https://www.linkedin.com/notifications/?
+                - generic [ref=e85]:
+                  - generic [aria-hidden] [ref=e86]: "9"
+                  - generic [ref=e87]: 9 new notifications
+                - generic "Notifications" [ref=e93]
+            - listitem [ref=e94]:
+              - button [ref=e96] [cursor=pointer]:
+                - img "Kelly Irving" [ref=e97]
+                - generic [ref=e98]: Me
+            - listitem [ref=e101]:
+              - button "For Business" [ref=e103] [cursor=pointer]
+            - listitem [ref=e112]:
+              - link "4 new Campaign Manager notifications Advertise" [ref=e113] [cursor=pointer]:
+                - /url: https://www.linkedin.com/campaignmanager/accounts?shouldShowNotificationPanelOnRender=true
+                - generic [ref=e115]:
+                  - generic [aria-hidden] [ref=e116]: "4"
+                  - generic [ref=e117]: 4 new Campaign Manager notifications
+                - generic "Advertise" [ref=e124]
+    - generic [ref=e131]:
+      - complementary [ref=e132]:
+        - region "Organizational page admin navigation section" [ref=e134]:
+          - generic [ref=e135]:
+            - button [ref=e136]
+            - generic [ref=e139]: Premium
+          - generic [ref=e141]:
+            - img "Expert Author Community logo" [ref=e142]
+            - heading [level=1] [ref=e143]:
+              - text: Expert Author Community
+              - link "Verifications" [ref=e147] [cursor=pointer]:
+                - /url: /company/89798536/admin/settings/verification-control/
+            - link "3,409 followers" [ref=e150] [cursor=pointer]:
+              - /url: /company/89798536/admin/analytics/followers/
+            - generic [ref=e151]:
+              - link "Create" [ref=e152] [cursor=pointer]
+              - link "View as member" [ref=e156] [cursor=pointer]
+          - navigation [ref=e160]:
+            - list [ref=e161]:
+              - listitem [ref=e162]:
+                - link "Dashboard" [ref=e163] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/dashboard
+              - listitem [ref=e168]:
+                - link "Page posts" [ref=e169] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/page-posts/published
+              - listitem [ref=e174]:
+                - link "Analytics" [ref=e175] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/analytics/updates
+              - listitem [ref=e180]:
+                - link "Feed" [ref=e181] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/feed/following
+              - listitem [ref=e186]:
+                - link "Activity" [ref=e187] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/notifications/all
+              - listitem [ref=e192]:
+                - link "Inbox" [ref=e193] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/inbox?pageMailboxUrn=urn%3Ali%3Afsd_pageMailbox%3A16608703
+              - listitem [ref=e198]:
+                - link "Edit Page" [ref=e199] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/edit
+            - list [ref=e204]:
+              - listitem [ref=e205]:
+                - link "Products" [ref=e206] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/products
+              - listitem [ref=e211]:
+                - link "Jobs" [ref=e212] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/posted-jobs/open
+              - listitem [ref=e217]:
+                - link "Events" [ref=e218] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/notifications/all/?viewEvents=true
+            - list [ref=e223]:
+              - listitem [ref=e224]:
+                - link "Premium features" [ref=e225] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/premium/my-premium/?companyUrn=urn%3Ali%3Afsd_company%3A89798536
+              - listitem [ref=e233]:
+                - link "Advertise" [ref=e234] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/ad-beta/accounts
+              - listitem [ref=e242]:
+                - link "Invite to follow" [ref=e243] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/notifications/all/?invite=true
+              - listitem [ref=e248]:
+                - link "Settings" [ref=e249] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/settings
+      - generic [ref=e255]:
+        - main [ref=e256]:
+          - generic [ref=e257]:
+            - generic [ref=e260]:
+              - heading "Activity" [level=2] [ref=e261]
+              - paragraph [ref=e262]: Keep track of the activity around your page
+            - list [ref=e263]:
+              - listitem [ref=e264]:
+                - link "All" [ref=e265] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/notifications/all
+              - listitem [ref=e270]:
+                - link "Comments" [ref=e271] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/notifications/comments
+              - listitem [ref=e276]:
+                - link "Mentions" [ref=e277] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/notifications/mentions
+              - listitem [ref=e282]:
+                - link "Reactions" [ref=e283] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/notifications/reactions
+              - listitem [ref=e288]:
+                - button "More" [ref=e290] [cursor=pointer]
+          - generic [ref=e296]:
+            - generic [ref=e298]:
+              - article "Unread notification." [ref=e300] [cursor=pointer]:
+                - generic [ref=e301]:
+                  - generic [ref=e302]:
+                    - figure [aria-hidden] [ref=e303]
+                    - img "Karen Dunshea" [ref=e309]
+                  - generic [ref=e310]:
+                    - strong [ref=e313]:
+                      - generic [ref=e314]: EMPLOYEE ACTIVITY
+                    - link [ref=e315]:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7511599113692422145?dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287511678337497513984%2Curn%3Ali%3AugcPost%3A7511599113109651456%29&actorCompanyId=89798536
+                      - paragraph [ref=e316]: Unread notification.
+                      - generic [ref=e317]:
+                        - text: Karen Dunshea
+                        - strong [ref=e318]: mentioned your company in a comment
+                    - link [aria-hidden] [ref=e319]:
+                      - generic [ref=e320]: Thank you Expert Author Community Kelly Irving, it has all been a wonderful help.
+                      - separator [ref=e322]
+                      - generic [ref=e329]:
+                        - text: Three years of work, and
+                        - link [ref=e330]:
+                          - /url: /in/karendunshea/
+                          - text: Karen Dunshea
+                        - text: can nearly hold it in her hands. 📚 We are cheering loudly over here at
+                        - link [ref=e331]:
+                          - /url: https://www.linkedin.com/company/expert-author-community/
+                          - generic [ref=e332]: Expert Author Community
+                        - text: . Enjoy every bit of this moment, Karen.
+                    - link "Respond" [ref=e335]
+                  - paragraph [ref=e339]: 2h
+              - article "Unread notification." [ref=e341] [cursor=pointer]:
+                - generic [ref=e342]:
+                  - generic [ref=e343]:
+                    - figure [aria-hidden] [ref=e344]
+                    - img "Karen Dunshea" [ref=e350]
+                  - generic [ref=e351]:
+                    - strong [ref=e354]:
+                      - generic [ref=e355]: EMPLOYEE ACTIVITY
+                    - link [ref=e356]:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7511599113692422145?dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287511678337497513984%2Curn%3Ali%3AugcPost%3A7511599113109651456%29&actorCompanyId=89798536
+                      - paragraph [ref=e357]: Unread notification.
+                      - generic [ref=e358]:
+                        - text: Karen Dunshea
+                        - strong [ref=e359]: commented on your company's update
+                    - link [aria-hidden] [ref=e360]:
+                      - generic [ref=e361]: Thank you Expert Author Community Kelly Irving, it has all been a wonderful help.
+                      - separator [ref=e363]
+                      - generic [ref=e370]:
+                        - text: Three years of work, and
+                        - link [ref=e371]:
+                          - /url: /in/karendunshea/
+                          - text: Karen Dunshea
+                        - text: can nearly hold it in her hands. 📚 We are cheering loudly over here at
+                        - link [ref=e372]:
+                          - /url: https://www.linkedin.com/company/expert-author-community/
+                          - generic [ref=e373]: Expert Author Community
+                        - text: . Enjoy every bit of this moment, Karen.
+                    - link "Respond" [ref=e376]
+                  - paragraph [ref=e380]: 2h
+              - article "Unread notification." [ref=e382] [cursor=pointer]:
+                - generic [ref=e383]:
+                  - generic [ref=e384]:
+                    - figure [aria-hidden] [ref=e385]
+                    - img "Karen Dunshea" [ref=e391]
+                  - generic [ref=e392]:
+                    - strong [ref=e395]:
+                      - generic [ref=e396]: EMPLOYEE ACTIVITY
+                    - link [ref=e397]:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7511599113692422145?actorCompanyId=89798536
+                      - paragraph [ref=e398]: Unread notification.
+                      - generic [ref=e399]:
+                        - text: Karen Dunshea
+                        - strong [ref=e400]: reacted to your company's update
+                    - link [aria-hidden] [ref=e401]:
+                      - generic [ref=e403]:
+                        - text: Three years of work, and
+                        - link [ref=e404]:
+                          - /url: /in/karendunshea/
+                          - text: Karen Dunshea
+                        - text: can nearly hold it in her hands. 📚 We are cheering loudly over here at
+                        - link [ref=e405]:
+                          - /url: https://www.linkedin.com/company/expert-author-community/
+                          - generic [ref=e406]: Expert Author Community
+                        - text: . Enjoy every bit of this moment, Karen.
+                      - separator [ref=e407]
+                      - generic [ref=e408]: Book cover
+                  - paragraph [ref=e415]: 2h
+              - article "Unread notification." [ref=e417] [cursor=pointer]:
+                - generic [ref=e418]:
+                  - generic [ref=e419]:
+                    - figure [aria-hidden] [ref=e420]
+                    - img "Jean Moncrieff" [ref=e426]
+                  - generic [ref=e427]:
+                    - link "Unread notification. Jean Moncrieff visited Expert Author Community" [ref=e428]:
+                      - /url: https://www.linkedin.com/company/89798536/admin/analytics/visitors/viewer-of-the-day
+                      - paragraph [ref=e429]: Unread notification.
+                      - generic [ref=e430]: Jean Moncrieff visited Expert Author Community
+                    - generic [ref=e431]: Powered by Premium
+                  - paragraph [ref=e435]: 7h
+              - article "Unread notification." [ref=e437] [cursor=pointer]:
+                - generic [ref=e438]:
+                  - generic [ref=e439]:
+                    - figure [aria-hidden] [ref=e440]
+                    - img "Caroline Pilot is open to work" [ref=e446]
+                  - generic [ref=e447]:
+                    - link [ref=e448]:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7511239196272070657?actorCompanyId=89798536
+                      - paragraph [ref=e449]: Unread notification.
+                      - generic [ref=e450]:
+                        - text: Caroline Pilot
+                        - strong [ref=e451]: reacted to your company's update
+                    - link [aria-hidden] [ref=e452]:
+                      - generic [ref=e460]:
+                        - link [ref=e461]:
+                          - /url: /in/sarah-cretegny-swiss/
+                          - text: Sarah Cretegny
+                        - text: "is one month from becoming an author of The Wild Within. She shares three hard-won lessons from the last stretch of writing: let challenge take you deeper, ask when you do not understand, and listen to yourself while you explain what matters. Huge congratulations @Sarah Cretegny. Proud to cheer this journey from"
+                        - link [ref=e462]:
+                          - /url: https://www.linkedin.com/company/expert-author-community/
+                          - generic [ref=e463]: Expert Author Community
+                        - text: .
+                    - generic [ref=e464]: 1 reaction
+                  - paragraph [ref=e467]: 10h
+              - article "Unread notification." [ref=e469] [cursor=pointer]:
+                - generic [ref=e470]:
+                  - generic [ref=e471]:
+                    - figure [aria-hidden] [ref=e472]
+                    - img "Karen Dunshea" [ref=e478]
+                  - generic [ref=e479]:
+                    - link [ref=e480]:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7511485250875813888?actorCompanyId=89798536
+                      - paragraph [ref=e481]: Unread notification.
+                      - generic [ref=e482]:
+                        - text: Karen Dunshea
+                        - strong [ref=e483]: mentioned your company in an update
+                    - link [aria-hidden] [ref=e484]:
+                      - generic [ref=e488]:
+                        - text: Writing a book can feel like a big step out of your comfort zone. It can be lonely, you may not have any idea of where to start and there’s always something to learn… regardless of what you know already. I received a load of support, direction and guidance in the
+                        - link [ref=e489]:
+                          - /url: https://www.linkedin.com/company/expert-author-community/
+                          - generic [ref=e490]: Expert Author Community
+                        - text: (EAC) from many already published authors as well as those writing their first book. If you are thinking of turning an idea or knowledge into a book, there’s an EAC Open House on 29 October to find out what it’s about. Open House is a relaxed no-pressure way to check out if EAC would be helpful for you. The next intake kicks off on 13 November. RSVP
+                        - link [ref=e491]:
+                          - /url: https://lnkd.in/eSaXc2SK
+                          - text: https://lnkd.in/eSaXc2SK
+                        - link [ref=e492]:
+                          - /url: /in/michellescheibner/
+                          - text: Michelle Scheibner
+                        - link [ref=e493]:
+                          - /url: /in/graemecowan1/
+                          - text: Graeme Cowan
+                        - link [ref=e494]:
+                          - /url: /in/emma-lagerlow-4a2849/
+                          - text: Emma Lagerlow
+                        - link [ref=e495]:
+                          - /url: /in/sophiebretag/
+                          - text: Sophie Bretag
+                        - link [ref=e496]:
+                          - /url: /in/andrewwilliamsloan/
+                          - text: Andrew Sloan
+                        - link [ref=e497]:
+                          - /url: /in/paul-watkins-92125499/
+                          - text: Paul Watkins
+                        - link [ref=e498]:
+                          - /url: /in/jennifer-mulveny-06313086/
+                          - text: Jennifer Mulveny
+                        - link [ref=e499]:
+                          - /url: /in/teejayramnarainlittle/
+                          - text: Tee-Jay
+                        - link [ref=e500]:
+                          - /url: /in/teejayramnarainlittle/
+                          - text: 💎
+                        - link [ref=e501]:
+                          - /url: /in/teejayramnarainlittle/
+                          - text: Ramnarain-Little
+                        - link [ref=e502]:
+                          - /url: /in/lauricetemple/
+                          - text: Laurice Temple
+                        - text: and many more
+                    - generic [ref=e503]:
+                      - generic [ref=e504]: 5 reactions
+                      - generic [ref=e505]: • 4 comments
+                    - link "Comment" [ref=e508]
+                  - paragraph [ref=e512]: 14h
+              - article "Notification" [ref=e514] [cursor=pointer]:
+                - generic [ref=e515]:
+                  - img "Chris Smith" [ref=e520]
+                  - generic [ref=e521]:
+                    - strong [ref=e524]:
+                      - generic [ref=e525]: EMPLOYEE ACTIVITY
+                    - link [ref=e526]:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7511240480936898560?dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287511304217408684032%2Curn%3Ali%3Aactivity%3A7511240480936898560%29&actorCompanyId=89798536
+                      - generic [ref=e527]:
+                        - text: Chris Smith
+                        - strong [ref=e528]: commented on your company's update
+                    - link [aria-hidden] [ref=e529]:
+                      - generic [ref=e530]: Thank you so much to all at EAC!
+                      - separator [ref=e532]
+                      - generic [ref=e533]: HR Leader just ran an extract from Chris Smith's forthcoming book. He shared the piece from that ongoing publishing relationship, and pointed readers to the work still coming. Huge congratulations @Chris Smith.
+                    - generic [ref=e540]: 1 comment
+                    - link "Respond" [ref=e544]
+                  - paragraph [ref=e548]: 1d
+              - article "Notification" [ref=e550] [cursor=pointer]:
+                - generic [ref=e551]:
+                  - img "Nina Witenden" [ref=e556]
+                  - generic [ref=e557]:
+                    - strong [ref=e560]:
+                      - generic [ref=e561]: EMPLOYEE ACTIVITY
+                    - link [ref=e562]:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7508406098165407744?dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287511180841331417088%2Curn%3Ali%3AugcPost%3A7508406097171369984%29&actorCompanyId=89798536
+                      - generic [ref=e563]:
+                        - text: Nina Witenden
+                        - strong [ref=e564]: commented on your company's update
+                    - link [aria-hidden] [ref=e565]:
+                      - generic [ref=e566]: I’m so sad I can’t attend. The books making a difference !
+                      - separator [ref=e568]
+                      - generic [ref=e569]: Anyone can generate words. The harder work is creating a book people trust. That takes a clear idea, writing that sounds unmistakably like you, thoughtful feedback and human judgment. For more than a decade, EAC has helped experts develop books that strengthen reputations and open doors. Join our free Open House to meet the authors, alumni and coaches behind the work, and see how a trusted book is developed from the inside. Reserve your place.
+                    - link "Respond" [ref=e575]
+                  - paragraph [ref=e579]: 1d
+              - article "Notification" [ref=e581] [cursor=pointer]:
+                - generic [ref=e582]:
+                  - img "Nina Witenden" [ref=e587]
+                  - generic [ref=e588]:
+                    - strong [ref=e591]:
+                      - generic [ref=e592]: EMPLOYEE ACTIVITY
+                    - link [ref=e593]:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7508406098165407744?actorCompanyId=89798536
+                      - generic [ref=e594]:
+                        - text: Nina Witenden and 1 other
+                        - strong [ref=e595]: reacted to your company's update
+                    - link [aria-hidden] [ref=e596]:
+                      - generic [ref=e597]: Anyone can generate words. The harder work is creating a book people trust. That takes a clear idea, writing that sounds unmistakably like you, thoughtful feedback and human judgment. For more than a decade, EAC has helped experts develop books that strengthen reputations and open doors. Join our free Open House to meet the authors, alumni and coaches behind the work, and see how a trusted book is developed from the inside. Reserve your place.
+                      - separator [ref=e599]
+                      - generic [ref=e600]: Write a book people trust | Open House Expert Author Community
+                  - paragraph [ref=e604]: 1d
+              - article "Notification" [ref=e606] [cursor=pointer]:
+                - generic [ref=e607]:
+                  - img "Indran Purushothaman" [ref=e612]
+                  - generic [ref=e613]:
+                    - link "Indran Purushothaman visited Expert Author Community" [ref=e614]:
+                      - /url: https://www.linkedin.com/company/89798536/admin/analytics/visitors/viewer-of-the-day
+                    - generic [ref=e616]: Powered by Premium
+                  - paragraph [ref=e620]: 1d
+              - article "Notification" [ref=e622] [cursor=pointer]:
+                - generic [ref=e623]:
+                  - img "Salli Cohen" [ref=e628]
+                  - generic [ref=e629]:
+                    - link [ref=e630]:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7510886010994573312?actorCompanyId=89798536
+                      - generic [ref=e631]:
+                        - text: Salli Cohen
+                        - strong [ref=e632]: mentioned your company in an update
+                    - link [aria-hidden] [ref=e633]:
+                      - generic [ref=e641]:
+                        - text: The wonderful
+                        - link [ref=e642]:
+                          - /url: https://www.linkedin.com/company/expert-author-community/
+                          - generic [ref=e643]: Expert Author Community
+                        - text: where real people, with extraordinary stories about the crazy world of humans, write real books. Wholesome goodness right there 🌼🌼 🌼
+                    - generic [ref=e644]:
+                      - generic [ref=e645]: 10 reactions
+                      - generic [ref=e646]: • 1 comment
+                    - link "Comment" [ref=e649]
+                  - paragraph [ref=e653]: 2d
+              - article "Notification" [ref=e655] [cursor=pointer]:
+                - generic [ref=e656]:
+                  - generic [ref=e657]: Leo Liou
+                  - generic [ref=e662]:
+                    - link "Leo Liou visited Expert Author Community" [ref=e663]:
+                      - /url: https://www.linkedin.com/company/89798536/admin/analytics/visitors/viewer-of-the-day
+                    - generic [ref=e665]: Powered by Premium
+                  - paragraph [ref=e669]: 2d
+              - article "Notification" [ref=e671] [cursor=pointer]:
+                - generic [ref=e672]:
+                  - img "Siobhán O'Riordan" [ref=e677]
+                  - generic [ref=e678]:
+                    - link [ref=e679]:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7508015419816026114?actorCompanyId=89798536
+                      - generic [ref=e680]:
+                        - text: Siobhán O'Riordan and 12 others
+                        - strong [ref=e681]: reacted to your company's update
+                    - link [aria-hidden] [ref=e682]:
+                      - generic [ref=e684]:
+                        - text: It’s easy to churn out words. It’s harder to make them mean something. Harder still to make them trustworthy. Trust doesn’t come from putting “author” after your name. It is earned through ideas that stand up, writing that sounds like you, decisions made with care and people who are willing to challenge your thinking. For more than a decade, this has been the work of EAC. We’ve helped experts develop books that have strengthened their reputations and opened doors to publishing, speaking, consulting, partnerships and conversations that matter. And we’ve earned trust in the same way. Slowly. Through the quality of the books, the strength of the relationships and the community built around the work. Our Open House is a chance to meet the authors, alumni and coaches behind EAC and see what developing a trusted book looks like from the inside. If you know our work, add your voice below. What has EAC made possible for you?
+                        - link [ref=e685]:
+                          - /url: /in/melo-calarco/
+                          - text: Melo Calarco
+                        - link [ref=e686]:
+                          - /url: /in/emma-lagerlow-4a2849/
+                          - text: Emma Lagerlow
+                        - link [ref=e687]:
+                          - /url: /in/michellescheibner/
+                          - text: Michelle Scheibner
+                        - link [ref=e688]:
+                          - /url: /in/sarah-gray-gaicd/
+                          - text: Sarah Gray GAICD
+                        - link [ref=e689]:
+                          - /url: /in/taural/
+                          - text: Taural Rhoden
+                        - link [ref=e690]:
+                          - /url: /in/andrewwilliamsloan/
+                          - text: Andrew Sloan
+                        - link [ref=e691]:
+                          - /url: /in/karen-stein-coaching/
+                          - text: Karen Stein
+                        - link [ref=e692]:
+                          - /url: /in/jo-clancy/
+                          - text: Jo Clancy (GAICD, MBA)
+                        - link [ref=e693]:
+                          - /url: /in/penelopebarr/
+                          - text: Penelope Barr
+                        - link [ref=e694]:
+                          - /url: /in/graemecowan1/
+                          - text: Graeme Cowan
+                        - link [ref=e695]:
+                          - /url: /in/sophiebretag/
+                          - text: Sophie Bretag
+                        - link [ref=e696]:
+                          - /url: /in/kerryn-harvey-611b5671/
+                          - text: Kerryn Harvey
+                        - link [ref=e697]:
+                          - /url: /in/karendunshea/
+                          - text: Karen Dunshea
+                        - link [ref=e698]:
+                          - /url: /in/jennifer-mulveny-06313086/
+                          - text: Jennifer Mulveny
+                        - link [ref=e699]:
+                          - /url: /in/susan-paczkowski/
+                          - text: Susan Paczkowski
+                        - link [ref=e700]:
+                          - /url: /in/annahutchison/
+                          - text: Anna Hutchison
+                        - link [ref=e701]:
+                          - /url: /in/benitabensch/
+                          - text: Benita Bensch
+                        - link [ref=e702]:
+                          - /url: /in/clintrahe/
+                          - text: Clint Rahe
+                        - link [ref=e703]:
+                          - /url: /in/karentisdell/
+                          - text: Karen Tisdell
+                        - link [ref=e704]:
+                          - /url: /in/paul-watkins-92125499/
+                          - text: Paul Watkins
+                        - link [ref=e705]:
+                          - /url: /in/ajustin-clarke/
+                          - text: Justin Clarke (ICF PCC)
+                        - link [ref=e706]:
+                          - /url: /in/saoriordan/
+                          - text: Siobhán O'Riordan
+                      - separator [ref=e707]
+                      - generic [ref=e708]: EAC Open House | Write a book people trust
+                  - paragraph [ref=e712]: 2d
+              - article "Notification" [ref=e714] [cursor=pointer]:
+                - generic [ref=e715]:
+                  - generic [ref=e719]:
+                    - link [ref=e720]:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7504307236492722176?actorCompanyId=89798536
+                      - generic [ref=e721]:
+                        - text: sidra skc writer and 5 others
+                        - strong [ref=e722]: reacted to your company's update
+                    - link [aria-hidden] [ref=e723]:
+                      - generic [ref=e730]:
+                        - text: A fantastic session to come along to IRL in Melbourne and meet some of our authors and our founder Book Coach
+                        - link [ref=e731]:
+                          - /url: /in/kelly-irving/
+                          - text: Kelly Irving
+                    - generic [ref=e732]: 6 reactions
+                  - paragraph [ref=e735]: 2d
+              - article "Notification" [ref=e737] [cursor=pointer]:
+                - generic [ref=e738]:
+                  - img "Sidra SKCwriter is open to work" [ref=e743]
+                  - generic [ref=e744]:
+                    - link [ref=e745]:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7508778376623706112?actorCompanyId=89798536
+                      - generic [ref=e746]:
+                        - text: Sidra SKCwriter and 3 others
+                        - strong [ref=e747]: reacted to your company's update
+                    - link [aria-hidden] [ref=e748]:
+                      - generic [ref=e758]:
+                        - text: The waitlist is open.
+                        - link [ref=e759]:
+                          - /url: /in/michellesales/
+                          - text: Michelle Sales
+                        - text: just said her new book is coming soon, and she opened the list for early readers. First in line beats late applause. 📚
+                  - paragraph [ref=e761]: 2d
+              - article "Notification" [ref=e763] [cursor=pointer]:
+                - generic [ref=e764]:
+                  - generic [ref=e768]:
+                    - link [ref=e769]:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7508787747499782144?actorCompanyId=89798536
+                      - generic [ref=e770]:
+                        - text: sidra skc writer and 4 others
+                        - strong [ref=e771]: reacted to your company's update
+                    - link [aria-hidden] [ref=e772]:
+                      - generic [ref=e782]:
+                        - text: Half sold already.
+                        - link [ref=e783]:
+                          - /url: /in/mykeldixon/
+                          - text: Mykel Dixon
+                        - text: ’s Wild Day Out lands 20 November near Melbourne. One day. 100 places. Half gone. If you want a full-day reset with a creative crowd, this is the one. ⭐
+                  - paragraph [ref=e785]: 2d
+              - article "Notification" [ref=e787] [cursor=pointer]:
+                - generic [ref=e788]:
+                  - generic [ref=e792]:
+                    - link [ref=e793]:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7509059178431324161?actorCompanyId=89798536
+                      - generic [ref=e794]:
+                        - text: sidra skc writer and 2 others
+                        - strong [ref=e795]: reacted to your company's update
+                    - link [aria-hidden] [ref=e796]:
+                      - generic [ref=e797]: She held the book. Faye Evans’s Soulful Simplicity is out of the draft folder and into her hands. Years of lived experience, reflection, and research, now on the page. This is the quiet win before the louder ones. 📚
+                  - paragraph [ref=e808]: 2d
+              - article "Notification" [ref=e810] [cursor=pointer]:
+                - generic [ref=e811]:
+                  - img "Sidra SKCwriter is open to work" [ref=e816]
+                  - generic [ref=e817]:
+                    - link [ref=e818]:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7510235988091219969?dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287510683317894246400%2Curn%3Ali%3Aactivity%3A7510235988091219969%29&actorCompanyId=89798536
+                      - generic [ref=e819]:
+                        - text: Sidra SKCwriter
+                        - strong [ref=e820]: commented on your company's update
+                    - link [aria-hidden] [ref=e821]:
+                      - generic [ref=e822]: Sounds like a practical, engaging session. Turning ideas into actionable performance plans can make learning truly impactful. Wishing you a successful ATEM IGNITE 2026.
+                      - separator [ref=e824]
+                      - generic [ref=e832]:
+                        - text: Books signed, bags packed, ready to go. 👏
+                        - link [ref=e833]:
+                          - /url: /in/clintrahe/
+                          - text: Clint Rahe
+                        - text: is on at ATEM IGNITE tomorrow. If you are there, go and say hi.
+                    - generic [ref=e834]:
+                      - generic [ref=e835]: 3 reactions
+                      - generic [ref=e836]: • 1 comment
+                    - link "Respond" [ref=e839]
+                  - paragraph [ref=e843]: 2d
+              - article "Notification" [ref=e845] [cursor=pointer]:
+                - generic [ref=e846]:
+                  - generic [ref=e850]:
+                    - link [ref=e851]:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7510235988091219969?actorCompanyId=89798536
+                      - generic [ref=e852]:
+                        - text: sidra skc writer and 2 others
+                        - strong [ref=e853]: reacted to your company's update
+                    - link [aria-hidden] [ref=e854]:
+                      - generic [ref=e862]:
+                        - text: Books signed, bags packed, ready to go. 👏
+                        - link [ref=e863]:
+                          - /url: /in/clintrahe/
+                          - text: Clint Rahe
+                        - text: is on at ATEM IGNITE tomorrow. If you are there, go and say hi.
+                    - generic [ref=e864]:
+                      - generic [ref=e865]: 3 reactions
+                      - generic [ref=e866]: • 1 comment
+                  - paragraph [ref=e868]: 2d
+              - article "Notification" [ref=e870] [cursor=pointer]:
+                - generic [ref=e871]:
+                  - img "Sidra SKCwriter is open to work" [ref=e876]
+                  - generic [ref=e877]:
+                    - link [ref=e878]:
+                      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7510229415746936832?actorCompanyId=89798536
+                      - generic [ref=e879]:
+                        - text: Sidra SKCwriter and 11 others
+                        - strong [ref=e880]: reacted to your company's update
+                    - link [aria-hidden] [ref=e881]:
+                      - generic [ref=e888]:
+                        - text: Perimenopause is one of those stages women are often left to work out alone, with patchy information and little that is practical. It's Not You, It's Perimenopause pulls the science together and makes it usable, drawing on
+                        - link [ref=e889]:
+                          - /url: /in/sarah-gray-gaicd/
+                          - text: Sarah Gray
+                        - text: "'s work as a pharmacist, nutritionist and menopause practitioner. It has now been named a finalist in the 2026 ABLE Book Awards. A well earned nod, and a good night ahead in October with the other finalists. 💛"
+                    - generic [ref=e890]:
+                      - generic [ref=e891]: 12 reactions
+                      - generic [ref=e892]: • 2 comments
+                  - paragraph [ref=e894]: 2d
+            - button "Show more results" [ref=e897] [cursor=pointer]
+        - complementary "Admin notifications aside section" [ref=e899]:
+          - generic [ref=e900]:
+            - generic [ref=e901]:
+              - heading "Post highlights" [level=2] [ref=e902]
+              - button "Post highlights information" [ref=e904] [cursor=pointer]
+            - heading "In the last 30 days" [level=2] [ref=e907]
+            - generic [ref=e908]:
+              - heading "Most engagement" [level=3] [ref=e910]
+              - generic [ref=e911]:
+                - generic [ref=e912]:
+                  - link [ref=e913] [cursor=pointer]:
+                    - /url: /feed/update/urn:li:activity:7510582433927458817/?actorCompanyId=89798536
+                    - generic [ref=e914]:
+                      - img "No alternative text description for this image" [ref=e917]
+                      - generic [ref=e919]:
+                        - text: "Everyone’s talking about how fast we can now write. I keep thinking about how slowly trust is built. Two recent coaching conversations, in particular, keep niggling at me. In one, an author sent me a 100+ page book outline. There was no shortage of ideas, but it was missing a simple, clear decision about what the book was really about. In the other, the author was in a pickle. The writing was strong, but he’d been using AI to sense-check it, and every answer pulled him somewhere new. What he needed wasn’t more feedback. It was judgment he could trust. It’s so freaking easy to produce words. The hard part is building trust - with your readers and in yourself. Trust doesn’t come from polish or volume. It comes from discernment: - Choosing the idea worth developing - Shaping the work around a real reader - Knowing where tools can help—and where your judgment must lead None of that can be, or should be, rushed. A book can make you visible. But a meaningful book can make you trusted. That kind of work rarely gets stronger in isolation. It needs structure, honest feedback and other people doing the work alongside you. So I’m curious: what makes you trust an expert’s writing? It’s the question at the heart of the"
+                        - link "Expert Author Community" [ref=e920]:
+                          - /url: https://www.linkedin.com/company/expert-author-community/
+                        - text: Open House I’m preparing for 29 October. I’d love you to join us for this 90-minute conversation. RSVP
+                        - link "https://lnkd.in/eSaXc2SK" [ref=e922]:
+                          - /url: https://lnkd.in/eSaXc2SK
+                        - text: Come and meet
+                        - link "Michelle Scheibner" [ref=e923]:
+                          - /url: /in/michellescheibner/
+                        - link "Graeme Cowan" [ref=e924]:
+                          - /url: /in/graemecowan1/
+                        - link "Emma Lagerlow" [ref=e925]:
+                          - /url: /in/emma-lagerlow-4a2849/
+                        - link "Sophie Bretag" [ref=e926]:
+                          - /url: /in/sophiebretag/
+                        - link "Andrew Sloan" [ref=e927]:
+                          - /url: /in/andrewwilliamsloan/
+                        - link "Paul Watkins" [ref=e928]:
+                          - /url: /in/paul-watkins-92125499/
+                        - link "Jennifer Mulveny" [ref=e929]:
+                          - /url: /in/jennifer-mulveny-06313086/
+                        - link "Tee-Jay 💎 Ramnarain-Little" [ref=e930]:
+                          - /url: /in/teejayramnarainlittle/
+                        - link "Laurice Temple" [ref=e931]:
+                          - /url: /in/lauricetemple/
+                        - text: and many more Kx
+                  - generic [ref=e932]:
+                    - generic [ref=e933]: 24 reactions
+                    - generic [ref=e934]: • 17 comments
+                - separator [ref=e935]
+                - generic [ref=e938]:
+                  - text: Not eligible to boost.
+                  - strong [ref=e941]:
+                    - link "Learn more" [ref=e942] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/help/lms/answer/a452425
+          - generic "LinkedIn Footer Content" [ref=e943]:
+            - generic [ref=e944]:
+              - list [ref=e945]:
+                - listitem [ref=e946]:
+                  - link "About" [ref=e947] [cursor=pointer]:
+                    - /url: https://about.linkedin.com/
+                - listitem [ref=e949]:
+                  - link "Accessibility" [ref=e950] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/accessibility
+                - listitem [ref=e952]:
+                  - link "Help Center" [ref=e953] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/help/linkedin?trk=footer_d_flagship3_company_admin
+                - listitem [ref=e955]:
+                  - button "Privacy & Terms" [ref=e957] [cursor=pointer]
+                - listitem [ref=e962]:
+                  - link "Ad Choices" [ref=e963] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/help/linkedin/answer/62931
+                - listitem [ref=e965]:
+                  - link "Advertising" [ref=e966] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/ad/start?trk=n_nav_ads_rr
+                - listitem [ref=e968]:
+                  - button "Business Services" [ref=e970] [cursor=pointer]
+                - listitem [ref=e975]:
+                  - button "Get the LinkedIn app" [ref=e978] [cursor=pointer]
+                - listitem [ref=e979]:
+                  - button "More options" [ref=e980] [cursor=pointer]: More
+              - generic [ref=e981]:
+                - img "LinkedIn" [ref=e982]
+                - text: LinkedIn Corporation © 2026
+    - generic:
+      - generic:
+        - complementary:
+          - generic [ref=e985]:
+            - generic [ref=e986]:
+              - generic [ref=e988] [cursor=pointer]:
+                - img "Kelly Irving" [ref=e990]
+                - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=e991]:
+                  - generic [ref=e992]:
+                    - generic [aria-hidden] [ref=e993]: Messaging
+                    - generic [ref=e994]: You are on the messaging overlay. Press enter to open the list of conversations.
+              - generic [ref=e995]:
+                - button [ref=e997] [cursor=pointer]:
+                  - img "Open messenger dropdown menu" [ref=e998]
+                - button "Compose message" [ref=e1001] [cursor=pointer]
+                - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=e1005] [cursor=pointer]
+            - generic [ref=e1009]:
+              - heading "Page inboxes" [level=3] [ref=e1011]
+              - generic [ref=e1012] [cursor=pointer]:
+                - generic [ref=e1013]: Click to see affiliated inboxes
+                - button "Page inboxes" [ref=e1014]
+          - dialog "Messaging" [ref=e1017]:
+            - generic [ref=e1018]:
+              - generic [ref=e1019] [cursor=pointer]:
+                - generic [ref=e1021]:
+                  - img "Nicholas Cass" [ref=e1025]
+                  - heading "Nicholas Cass" [level=2] [ref=e1027]
+                - button "Close your conversation with Kelly Irving and Nicholas Cass" [ref=e1029]
+              - generic [ref=e1034]:
+                - link [ref=e1037] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/services/page/2815a632a8877ab403
+                  - strong [ref=e1038]: View my services
+                - list [ref=e1041]:
+                  - listitem
+                  - generic [ref=e1042]:
+                    - generic [ref=e1043]: Message received via Premium Open Profile
+                    - button "Learn more" [ref=e1049] [cursor=pointer]
+                  - listitem [ref=e1052]:
+                    - time [ref=e1053]: Today
+                    - generic [ref=e1054]: Nicholas Cass sent the following messages at 11:25 AM
+                    - generic [ref=e1055]:
+                      - link "View Nicholas’ profile Nicholas Cass" [ref=e1056] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/ACoAACsPm74BJWI2oW8VTwcbX35Jxx-ugMf22Bs
+                        - generic [ref=e1057]: View Nicholas’ profile
+                        - img "Nicholas Cass" [ref=e1058]
+                      - generic [ref=e1059]:
+                        - generic [ref=e1060]:
+                          - link "Nicholas Cass" [ref=e1061] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/in/ACoAACsPm74BJWI2oW8VTwcbX35Jxx-ugMf22Bs
+                          - img "LinkedIn Premium" [ref=e1063]
+                        - time [ref=e1066]: • 11:25 AM
+                      - generic [ref=e1067]:
+                        - heading "Potential Collaboration" [level=3] [ref=e1068]
+                        - paragraph [ref=e1071]:
+                          - text: Hello Kelly, I think there might be ways we can collaborate.Would love to talk some more!Nick
+                          - link "Authorsunite.com" [ref=e1072] [cursor=pointer]:
+                            - /url: https://Authorsunite.com
+                  - listitem [ref=e1073]
+                  - listitem [ref=e1074]:
+                    - generic [ref=e1075]:
+                      - button "Scroll quick replies left" [disabled] [ref=e1076]
+                      - list [ref=e1077]:
+                        - listitem [ref=e1078]:
+                          - button "Reply to conversation with “Yes, interested...”" [ref=e1079] [cursor=pointer]:
+                            - separator [ref=e1082]
+                            - generic [aria-hidden] [ref=e1084]: Yes, interested...
+                        - listitem [ref=e1085]:
+                          - button "Reply to conversation with “No thanks...”" [ref=e1086] [cursor=pointer]:
+                            - separator [ref=e1089]
+                            - generic [aria-hidden] [ref=e1091]: No thanks...
+                      - button "Scroll quick replies right" [ref=e1092] [cursor=pointer]
+                  - listitem
+                - generic [ref=e1096]:
+                  - generic [ref=e1097]:
+                    - generic [ref=e1099]:
+                      - textbox "Write a message…" [ref=e1100]:
+                        - paragraph [ref=e1101]
+                      - text: Write a message…
+                    - button "Maximize compose field" [ref=e1103] [cursor=pointer]
+                  - generic [ref=e1107]:
+                    - generic [ref=e1108]:
+                      - button "Attach an image to your conversation with Nicholas Cass" [ref=e1110] [cursor=pointer]
+                      - button "Attach a file to your conversation with Nicholas Cass" [ref=e1115] [cursor=pointer]
+                      - button "Open GIF Keyboard" [ref=e1120] [cursor=pointer]
+                      - button "Open Emoji Keyboard" [ref=e1126] [cursor=pointer]
+                    - generic [ref=e1128]:
+                      - generic [ref=e1129]: Press Enter to Send
+                      - button "Open send options" [ref=e1133] [cursor=pointer]
+          - dialog "Messaging" [ref=e1137]:
+            - generic [ref=e1138]:
+              - generic [ref=e1139] [cursor=pointer]:
+                - generic [ref=e1141]:
+                  - img "Phoebe Slape" [ref=e1144]
+                  - heading "Phoebe Slape" [level=2] [ref=e1146]
+                - button "Close your conversation with Kelly Irving and Phoebe Slape" [ref=e1148]
+              - generic [ref=e1153]:
+                - list [ref=e1158]:
+                  - listitem
+                  - listitem [ref=e1159]:
+                    - time [ref=e1160]: Today
+                    - generic [ref=e1161]: Kelly Irving sent the following message at 9:31 AM
+                    - generic [ref=e1162]:
+                      - link "View Kelly’s profile Kelly Irving" [ref=e1163] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                        - generic [ref=e1164]: View Kelly’s profile
+                        - img "Kelly Irving" [ref=e1165]
+                      - generic [ref=e1166]:
+                        - generic [ref=e1167]:
+                          - link "Kelly Irving" [ref=e1168] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/in/ACoAAAOJVesBSLOKKM60jSZvuPJoVovDCqVigkA
+                          - img "LinkedIn Premium" [ref=e1170]
+                        - time [ref=e1173]: • 9:31 AM
+                      - generic [ref=e1175]:
+                        - paragraph [ref=e1177]: Hey Phoebe I see you followed the Expert Author Community page. Let's connect. Kx
+                        - generic "Sent at 10/2/2026, 9:31 AM" [ref=e1178]
+                  - listitem [ref=e1181]:
+                    - generic [ref=e1182]: Phoebe Slape sent the following messages at 11:39 AM
+                    - generic [ref=e1183]:
+                      - link "View Phoebe’s profile Phoebe Slape" [ref=e1184] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/ACoAAB0abjABvZNokZNmba6_DDPOMYq5yLf_7l0
+                        - generic [ref=e1185]: View Phoebe’s profile
+                        - img "Phoebe Slape" [ref=e1186]
+                      - generic [ref=e1187]:
+                        - generic [ref=e1188]:
+                          - link "Phoebe Slape" [ref=e1189] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/in/ACoAAB0abjABvZNokZNmba6_DDPOMYq5yLf_7l0
+                          - img "LinkedIn Verified" [ref=e1191]
+                        - time [ref=e1193]: • 11:39 AM
+                      - paragraph [ref=e1197]: Thanks Kelly
+                  - listitem [ref=e1198]
+                  - listitem [ref=e1199]:
+                    - generic [ref=e1200]:
+                      - button "Scroll quick replies left" [disabled] [ref=e1201]
+                      - list [ref=e1202]:
+                        - listitem [ref=e1203]:
+                          - button "Reply to conversation with “You're welcome”" [ref=e1204] [cursor=pointer]:
+                            - generic [aria-hidden]: You're welcome
+                        - listitem [ref=e1206]:
+                          - button "Reply to conversation with “It's my pleasure”" [ref=e1207] [cursor=pointer]:
+                            - generic [aria-hidden]: It's my pleasure
+                        - listitem [ref=e1209]:
+                          - button "Reply to conversation with “👍”" [ref=e1210] [cursor=pointer]:
+                            - generic [aria-hidden]: 👍
+                      - button "Scroll quick replies right" [ref=e1212] [cursor=pointer]
+                  - listitem
+                - generic [ref=e1216]:
+                  - generic [ref=e1217]:
+                    - generic [ref=e1219]:
+                      - textbox "Write a message…" [ref=e1220]:
+                        - paragraph [ref=e1221]
+                      - text: Write a message…
+                    - button "Maximize compose field" [ref=e1223] [cursor=pointer]
+                  - generic [ref=e1227]:
+                    - generic [ref=e1228]:
+                      - button "Attach an image to your conversation with Phoebe Slape" [ref=e1230] [cursor=pointer]
+                      - button "Attach a file to your conversation with Phoebe Slape" [ref=e1235] [cursor=pointer]
+                      - button "Open GIF Keyboard" [ref=e1240] [cursor=pointer]
+                      - button "Open Emoji Keyboard" [ref=e1246] [cursor=pointer]
+                    - generic [ref=e1248]:
+                      - generic [ref=e1249]: Press Enter to Send
+                      - button "Open send options" [ref=e1253] [cursor=pointer]
+        - complementary "AI-powered assistant to get help with your career, jobs etc"
+  - region [ref=e1257]

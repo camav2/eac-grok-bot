@@ -1,0 +1,107 @@
+- generic [active] [ref=f12e1]:
+  - generic:
+    - region "Toast message":
+      - heading "0 notifications total" [level=2] [ref=f12e3]
+      - alert
+  - region [ref=f12e13]
+  - generic [ref=f12e14]:
+    - generic [ref=f12e21]:
+      - complementary [ref=f12e22]:
+        - region "Organizational page admin navigation section" [ref=f12e24]:
+          - generic [ref=f12e25]:
+            - button [ref=f12e26]
+            - generic [ref=f12e29]: Premium
+          - generic [ref=f12e31]:
+            - img "Expert Author Community logo" [ref=f12e32]
+            - heading [level=1] [ref=f12e33]:
+              - text: Expert Author Community
+              - link "Verifications" [ref=f12e37] [cursor=pointer]:
+                - /url: /company/89798536/admin/settings/verification-control/
+            - link "3,409 followers" [ref=f12e40] [cursor=pointer]:
+              - /url: /company/89798536/admin/analytics/followers/
+            - generic [ref=f12e41]:
+              - link "Create" [ref=f12e42] [cursor=pointer]
+              - link "View as member" [ref=f12e46] [cursor=pointer]
+          - navigation [ref=f12e50]:
+            - list [ref=f12e51]:
+              - listitem [ref=f12e52]:
+                - link "Dashboard" [ref=f12e53] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/dashboard
+              - listitem [ref=f12e58]:
+                - link "Page posts" [ref=f12e59] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/page-posts/published
+              - listitem [ref=f12e64]:
+                - link "Analytics" [ref=f12e65] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/analytics/updates
+              - listitem [ref=f12e70]:
+                - link "Feed" [ref=f12e71] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/feed/following
+              - listitem [ref=f12e76]:
+                - link "Activity" [ref=f12e77] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/notifications/all
+              - listitem [ref=f12e82]:
+                - link "Inbox" [ref=f12e83] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/inbox?pageMailboxUrn=urn%3Ali%3Afsd_pageMailbox%3A16608703
+              - listitem [ref=f12e88]:
+                - link "Edit Page" [ref=f12e89] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/edit
+            - list [ref=f12e94]:
+              - listitem [ref=f12e95]:
+                - link "Products" [ref=f12e96] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/products
+              - listitem [ref=f12e101]:
+                - link "Jobs" [ref=f12e102] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/posted-jobs/open
+              - listitem [ref=f12e107]:
+                - link "Events" [ref=f12e108] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/notifications/mentions/?viewEvents=true
+            - list [ref=f12e113]:
+              - listitem [ref=f12e114]:
+                - link "Premium features" [ref=f12e115] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/premium/my-premium/?companyUrn=urn%3Ali%3Afsd_company%3A89798536
+              - listitem [ref=f12e123]:
+                - link "Advertise" [ref=f12e124] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/ad-beta/accounts
+              - listitem [ref=f12e132]:
+                - link "Invite to follow" [ref=f12e133] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/notifications/mentions/?invite=true
+              - listitem [ref=f12e138]:
+                - link "Settings" [ref=f12e139] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/settings
+      - generic [ref=f12e145]:
+        - main [ref=f12e146]:
+          - generic [ref=f12e147]:
+            - generic [ref=f12e150]:
+              - heading "Activity" [level=2] [ref=f12e151]
+              - paragraph [ref=f12e152]: Keep track of the activity around your page
+            - list [ref=f12e153]:
+              - listitem [ref=f12e154]:
+                - link "All" [ref=f12e155] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/notifications/all
+              - listitem [ref=f12e160]:
+                - link "Comments" [ref=f12e161] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/notifications/comments
+              - listitem [ref=f12e166]:
+                - link "Mentions" [ref=f12e167] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/notifications/mentions
+              - listitem [ref=f12e172]:
+                - link "Reactions" [ref=f12e173] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/89798536/admin/notifications/reactions
+              - listitem [ref=f12e178]:
+                - button "More" [ref=f12e180] [cursor=pointer]
+        - complementary "Admin notifications aside section" [ref=f12e199]:
+          - generic [ref=f12e200]:
+            - generic [ref=f12e201]:
+              - heading "Post highlights" [level=2] [ref=f12e202]
+              - button "Post highlights information" [ref=f12e204] [cursor=pointer]
+            - heading "In the last 30 days" [level=2] [ref=f12e207]
+            - alert [ref=f12e209]: Loading
+          - generic "LinkedIn Footer Content" [ref=f12e222]:
+            - generic [ref=f12e223]:
+              - list
+              - generic [ref=f12e224]:
+                - img "LinkedIn" [ref=f12e225]
+                - text: LinkedIn Corporation © 2026
+    - generic:
+      - generic:
+        - complementary "AI-powered assistant to get help with your career, jobs etc"
